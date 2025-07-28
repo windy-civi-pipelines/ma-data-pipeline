@@ -1,0 +1,145 @@
+{
+  "legislative_session": "194th",
+  "identifier": "H698",
+  "title": "An Act to promote high-quality early literacy instruction and improve student outcomes",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "summary",
+      "abstract": "By Representatives Sena of Acton and Cataldo of Concord, a petition (accompanied by bill, House, No. 698) of Danillo A. Sena, Simon Cataldo and Patrick Joseph Kearney relative to early literacy instruction and student outcomes.  Education."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Referred to the committee on Education",
+      "date": "2025-02-27",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "committee on Education",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ]
+    },
+    {
+      "description": "Senate concurred",
+      "date": "2025-02-27",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": []
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Danillo A. Sena",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Danillo A. Sena\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Simon Cataldo",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Simon Cataldo\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Patrick Joseph Kearney",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Patrick Joseph Kearney\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Mary S. Keefe",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Mary S. Keefe\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Bud L. Williams",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Bud L. Williams\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Patricia A. Duffy",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Patricia A. Duffy\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Margaret R. Scarsdale",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Margaret R. Scarsdale\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Andres X. Vargas",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Andres X. Vargas\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [
+    {
+      "identifier": "HD 2329",
+      "legislative_session": "194th",
+      "relation_type": "replaces"
+    }
+  ],
+  "versions": [
+    {
+      "note": "Bill Text",
+      "links": [
+        {
+          "url": "https://malegislature.gov/Bills/194/H698.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://malegislature.gov/Bills/194/H698",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ma/government",
+    "name": "Massachusetts",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ma"
+  },
+  "scraped_at": "2025-07-28T19:15:13+00:00",
+  "_id": "2fc5d70c-6be7-11f0-b36c-5a60dba6569e"
+}

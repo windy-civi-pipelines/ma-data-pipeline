@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Amendment #7 (Durant) rejected  -see   Roll Call #11 (Yeas 8 to Nays 30)",
+    "date": "2025-02-12",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "amendment-failure"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "S16"
+}

@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Amendment 404 rejected -\r\n21 YEAS to 136 NAYS (See YEA and NAY No. 45 )",
+    "date": "2025-04-30",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "amendment-failure"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "H4000"
+}

@@ -1,0 +1,112 @@
+{
+  "legislative_session": "194th",
+  "identifier": "S811",
+  "title": "An Act to improve outcomes for those with limb loss and limb difference",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "summary",
+      "abstract": "By Mr. Oliveira, a petition (accompanied by bill, Senate, No. 811) of Jacob R. Oliveira for legislation to provide coverage for prosthetic and orthotic devices including the repair or replacement of prosthetic or orthotic devices to eligible MassHealth members.  Financial Services."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Referred to the committee on Financial Services",
+      "date": "2025-02-27",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "committee on Financial Services",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ]
+    },
+    {
+      "description": "House concurred",
+      "date": "2025-02-27",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": []
+    },
+    {
+      "description": "Hearing scheduled for 06/24/2025 from 10:30 AM-02:00 PM in Gardner Auditorium",
+      "date": "2025-06-16",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": []
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Jacob R. Oliveira",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Jacob R. Oliveira\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Jason M. Lewis",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Jason M. Lewis\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Michelle L. Badger",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Michelle L. Badger\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [
+    {
+      "identifier": "SD 1134",
+      "legislative_session": "194th",
+      "relation_type": "replaces"
+    }
+  ],
+  "versions": [
+    {
+      "note": "Bill Text",
+      "links": [
+        {
+          "url": "https://malegislature.gov/Bills/194/S811.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://malegislature.gov/Bills/194/S811",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ma/government",
+    "name": "Massachusetts",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ma"
+  },
+  "scraped_at": "2025-07-28T20:20:38+00:00",
+  "_id": "534cc3a8-6bf0-11f0-b36c-5a60dba6569e"
+}

@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Amendment #3 (Rodrigues) adopted",
+    "date": "2025-07-24",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "amendment-passage"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "S2558"
+}

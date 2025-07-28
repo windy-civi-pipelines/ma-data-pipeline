@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Senate Rule 20 and Joint Rule 12 suspended",
+    "date": "2025-06-18",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "SD2982"
+}

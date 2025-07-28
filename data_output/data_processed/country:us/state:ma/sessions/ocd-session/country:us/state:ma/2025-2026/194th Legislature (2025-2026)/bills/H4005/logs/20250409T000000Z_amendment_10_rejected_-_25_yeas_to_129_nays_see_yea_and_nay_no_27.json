@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Amendment 10 rejected -\r\n25 YEAS to 129 NAYS (See YEA and NAY No. 27 )",
+    "date": "2025-04-09",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "amendment-failure"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "H4005"
+}

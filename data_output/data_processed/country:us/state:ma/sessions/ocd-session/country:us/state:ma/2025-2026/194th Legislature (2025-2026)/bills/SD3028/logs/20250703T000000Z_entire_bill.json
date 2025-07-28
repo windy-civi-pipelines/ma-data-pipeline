@@ -1,0 +1,84 @@
+{
+  "legislative_session": "194th",
+  "identifier": "SD3028",
+  "title": "An Act directing the department of state police to waive the maximum age requirement for Jonathan Lewis",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "proposed bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "summary",
+      "abstract": "By Mr. Collins and Mr. Holmes of Boston, a joint petition (accompanied by bill) (subject to Joint Rule 12) of Nick Collins and Russell E. Holmes for legislation to direct the department of state police to waive the maximum age requirement for Jonathan Lewis.  Public Service."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Referred to the committee on Rules of the two branches, acting concurrently",
+      "date": "2025-07-03",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "committee on Rules of the two branches, acting concurrently",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ]
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Nick Collins",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Nick Collins\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Russell E. Holmes",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Russell E. Holmes\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Bill Text",
+      "links": [
+        {
+          "url": "https://malegislature.gov/Bills/194/SD3028.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://malegislature.gov/Bills/194/SD3028",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ma/government",
+    "name": "Massachusetts",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ma"
+  },
+  "scraped_at": "2025-07-28T21:27:27+00:00",
+  "_id": "a8d4e3ce-6bf9-11f0-b36c-5a60dba6569e"
+}

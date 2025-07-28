@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Discharged to the committee on State Administration and Regulatory Oversight",
+    "date": "2025-07-07",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "referral-committee"
+    ],
+    "related_entities": [
+      {
+        "name": "State Administration and Regulatory Oversight",
+        "entity_type": "organization",
+        "organization_id": null
+      }
+    ]
+  },
+  "bill_id": "H2238"
+}

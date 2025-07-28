@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "New draft (Tarr) substituted, see S2566",
+    "date": "2025-07-28",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "S2507"
+}

@@ -1,0 +1,68 @@
+{
+  "legislative_session": "194th",
+  "identifier": "SD2729",
+  "title": "FY2025 Workforce Competitiveness Trust Fund Transfer Schedule",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "proposed bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "summary",
+      "abstract": "Report of the Office of the Comptroller (pursuant to Section 2E of Chapter 140 of the Acts of 2024) submitting its 2025 Workforce Competitiveness Trust Fund Transfer Schedule"
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Placed on file",
+      "date": "2025-03-06",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": []
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Office of the Comptroller",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"Office of the Comptroller\"}"
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Bill Text",
+      "links": [
+        {
+          "url": "https://malegislature.gov/Bills/194/SD2729.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://malegislature.gov/Bills/194/SD2729",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ma/government",
+    "name": "Massachusetts",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ma"
+  },
+  "scraped_at": "2025-07-28T21:21:00+00:00",
+  "_id": "c22456d0-6bf8-11f0-b36c-5a60dba6569e"
+}

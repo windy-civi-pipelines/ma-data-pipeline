@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Amendment #17 (Rausch) adopted",
+    "date": "2025-02-13",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "amendment-passage"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "S15"
+}

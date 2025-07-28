@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Reported by S2545",
+    "date": "2025-06-26",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "S18"
+}

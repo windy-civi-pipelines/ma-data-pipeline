@@ -1,0 +1,63 @@
+{
+  "legislative_session": "194th",
+  "identifier": "HD4263",
+  "title": "A communication from the Executive Office of Housing and Livable Communities (see Section 12 of Chapter 40R of the General Laws) submitting an update on the Chapter 40R Smart Growth Program for fiscal year 2024",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "proposed bill"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Placed on file",
+      "date": "2025-01-21",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": []
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Executive Office of Housing and Livable Communities",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"Executive Office of Housing and Livable Communities\"}"
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Bill Text",
+      "links": [
+        {
+          "url": "https://malegislature.gov/Bills/194/HD4263.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://malegislature.gov/Bills/194/HD4263",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ma/government",
+    "name": "Massachusetts",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ma"
+  },
+  "scraped_at": "2025-07-28T19:47:33+00:00",
+  "_id": "b44a6502-6beb-11f0-b36c-5a60dba6569e"
+}

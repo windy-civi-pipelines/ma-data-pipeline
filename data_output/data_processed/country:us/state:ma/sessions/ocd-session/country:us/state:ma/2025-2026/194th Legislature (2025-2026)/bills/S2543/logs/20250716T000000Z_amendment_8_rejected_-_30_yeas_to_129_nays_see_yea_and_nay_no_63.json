@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Amendment 8 rejected - 30 YEAS to 129 NAYS (See YEA and NAY No. 63 )",
+    "date": "2025-07-16",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "amendment-failure"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "S2543"
+}

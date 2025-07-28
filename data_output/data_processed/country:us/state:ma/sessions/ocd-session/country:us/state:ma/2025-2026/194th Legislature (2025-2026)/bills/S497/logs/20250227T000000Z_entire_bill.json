@@ -1,0 +1,144 @@
+{
+  "legislative_session": "194th",
+  "identifier": "S497",
+  "title": "An Act clarifying the role of governor\u2019s councillor on the ballot",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "summary",
+      "abstract": "By Mr. Barrett, a petition (accompanied by bill, Senate, No. 497) of Michael J. Barrett, Michael D. Brady, Paul W. Mark, James B. Eldridge and other members of the Senate for legislation to clarify the role of governor\u2019s councillor on the ballot.  Election Laws."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Referred to the committee on Election Laws",
+      "date": "2025-02-27",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "committee on Election Laws",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ]
+    },
+    {
+      "description": "House concurred",
+      "date": "2025-02-27",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": []
+    },
+    {
+      "description": "Hearing scheduled for 06/17/2025 from 01:00 PM-05:00 PM in B-1",
+      "date": "2025-06-10",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": []
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Michael J. Barrett",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Michael J. Barrett\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Michael D. Brady",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Michael D. Brady\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Paul W. Mark",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Paul W. Mark\"}",
+      "organization_id": null
+    },
+    {
+      "name": "James B. Eldridge",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"James B. Eldridge\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Joanne M. Comerford",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Joanne M. Comerford\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Patricia D. Jehlen",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Patricia D. Jehlen\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Rebecca L. Rausch",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Rebecca L. Rausch\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [
+    {
+      "identifier": "SD 1537",
+      "legislative_session": "194th",
+      "relation_type": "replaces"
+    }
+  ],
+  "versions": [
+    {
+      "note": "Bill Text",
+      "links": [
+        {
+          "url": "https://malegislature.gov/Bills/194/S497.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://malegislature.gov/Bills/194/S497",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ma/government",
+    "name": "Massachusetts",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ma"
+  },
+  "scraped_at": "2025-07-28T20:26:15+00:00",
+  "_id": "1c5c84a4-6bf1-11f0-b36c-5a60dba6569e"
+}

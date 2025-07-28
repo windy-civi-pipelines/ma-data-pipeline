@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "New draft of S323, S333, S335, S381, S424, S461 and S463",
+    "date": "2025-07-10",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "S2549"
+}

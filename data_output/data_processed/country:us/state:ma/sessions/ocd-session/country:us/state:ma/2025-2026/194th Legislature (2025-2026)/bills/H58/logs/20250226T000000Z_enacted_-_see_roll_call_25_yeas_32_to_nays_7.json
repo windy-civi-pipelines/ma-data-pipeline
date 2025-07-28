@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Enacted - see   Roll Call #25 (Yeas 32 to Nays 7)",
+    "date": "2025-02-26",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "passage"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "H58"
+}

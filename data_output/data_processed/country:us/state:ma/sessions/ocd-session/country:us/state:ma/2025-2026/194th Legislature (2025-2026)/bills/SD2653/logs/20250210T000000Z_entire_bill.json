@@ -1,0 +1,68 @@
+{
+  "legislative_session": "194th",
+  "identifier": "SD2653",
+  "title": "Order relative to procedures to be followed when considering the House Bill making appropriations for fiscal year 2025 to provide for supplementing certain existing appropriations and for certain other activities and projects",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "proposed bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "summary",
+      "abstract": "Senate, February 10, 2025 -- Order (Senator Rodrigues) relative to procedures to be followed when considering the House Bill making appropriations for fiscal year 2025 to provide for supplementing certain existing appropriations and for certain other activities and projects (House, No. 58)"
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Rules suspended and adopted",
+      "date": "2025-02-10",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": []
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Michael J. Rodrigues",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Michael J. Rodrigues\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Bill Text",
+      "links": [
+        {
+          "url": "https://malegislature.gov/Bills/194/SD2653.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://malegislature.gov/Bills/194/SD2653",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ma/government",
+    "name": "Massachusetts",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ma"
+  },
+  "scraped_at": "2025-07-28T21:19:01+00:00",
+  "_id": "7b30f9ae-6bf8-11f0-b36c-5a60dba6569e"
+}

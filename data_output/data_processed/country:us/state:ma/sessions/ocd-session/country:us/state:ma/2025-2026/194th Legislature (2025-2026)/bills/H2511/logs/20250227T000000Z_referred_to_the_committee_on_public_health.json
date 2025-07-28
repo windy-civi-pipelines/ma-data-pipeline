@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Referred to the committee on Public Health",
+    "date": "2025-02-27",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "referral-committee"
+    ],
+    "related_entities": [
+      {
+        "name": "committee on Public Health",
+        "entity_type": "organization",
+        "organization_id": null
+      }
+    ]
+  },
+  "bill_id": "H2511"
+}

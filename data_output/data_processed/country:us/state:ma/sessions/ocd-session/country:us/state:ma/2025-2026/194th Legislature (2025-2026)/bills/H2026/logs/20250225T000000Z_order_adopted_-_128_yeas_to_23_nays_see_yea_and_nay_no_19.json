@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Order adopted - 128 YEAS to 23 NAYS (See YEA and NAY No. 19 )",
+    "date": "2025-02-25",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "H2026"
+}

@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Amendment 1 rejected",
+    "date": "2025-02-06",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "amendment-failure"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "H57"
+}

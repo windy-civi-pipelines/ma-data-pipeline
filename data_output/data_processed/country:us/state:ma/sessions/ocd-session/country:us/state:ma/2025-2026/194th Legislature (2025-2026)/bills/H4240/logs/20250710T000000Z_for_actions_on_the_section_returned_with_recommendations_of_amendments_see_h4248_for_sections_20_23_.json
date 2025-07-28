@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "For actions on the section returned with recommendations of amendments, see H4248 for sections 20, 23 and 110",
+    "date": "2025-07-10",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "H4240"
+}

@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Amendment #24 (Dooner) rejected -see   Roll Call #51 (Yeas 6 to Nays 33)",
+    "date": "2025-06-18",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "amendment-failure"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "S2529"
+}

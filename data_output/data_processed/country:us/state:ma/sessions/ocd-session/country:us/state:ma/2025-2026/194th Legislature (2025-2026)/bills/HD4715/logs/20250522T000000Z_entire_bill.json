@@ -1,0 +1,96 @@
+{
+  "legislative_session": "194th",
+  "identifier": "HD4715",
+  "title": "An Act designating the Weider Park tennis courts as the Kim O'Connell tennis courts",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "proposed bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "summary",
+      "abstract": "By Representative Consalvo of Boston, a petition (subject to Joint Rule 12) of Rob Consalvo that the Department of Conservation and Recreation be authorized to designate the tennis courts located in Weider Park in the Roslindale section of the city of Boston as the Kim O\u2019Connell tennis courts.  Environment and Natural Resources."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Referred to the committee on House Rules",
+      "date": "2025-05-22",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "committee on House Rules",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ]
+    },
+    {
+      "description": "Reported, referred to the committee on Joint Rules, reported, rules suspended and referred to the committee on Environment and Natural Resources",
+      "date": "2025-07-17",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "committee on Joint Rules, reported, rules suspended and referred to the committee on Environment and Natural Resources",
+          "entity_type": "organization",
+          "organization_id": null
+        },
+        {
+          "name": "the committee on Joint Rules, reported, rules suspended and referred to the committee on Environment and Natural Resources",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ]
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Rob Consalvo",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Rob Consalvo\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Bill Text",
+      "links": [
+        {
+          "url": "https://malegislature.gov/Bills/194/HD4715.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://malegislature.gov/Bills/194/HD4715",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ma/government",
+    "name": "Massachusetts",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ma"
+  },
+  "scraped_at": "2025-07-28T19:58:34+00:00",
+  "_id": "3e14c5ce-6bed-11f0-b36c-5a60dba6569e"
+}

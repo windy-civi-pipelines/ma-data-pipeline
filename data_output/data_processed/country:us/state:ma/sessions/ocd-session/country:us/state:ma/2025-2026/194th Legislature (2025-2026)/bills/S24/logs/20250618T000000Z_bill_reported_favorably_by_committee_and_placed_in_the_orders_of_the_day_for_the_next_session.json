@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Bill reported favorably by committee and placed in the Orders of the Day for the next session",
+    "date": "2025-06-18",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "committee-passage-favorable"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "S24"
+}

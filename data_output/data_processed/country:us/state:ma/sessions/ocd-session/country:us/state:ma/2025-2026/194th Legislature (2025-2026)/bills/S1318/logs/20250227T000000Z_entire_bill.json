@@ -1,0 +1,217 @@
+{
+  "legislative_session": "194th",
+  "identifier": "S1318",
+  "title": "An Act relative to compliance with the prevailing wage laws of the Commonwealth",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "summary",
+      "abstract": "By Mr. Feeney, a petition (accompanied by bill, Senate, No. 1318) of Paul R. Feeney, Jason M. Lewis, Sal N. DiDomenico, Michael O. Moore and other members of the Senate for legislation relative to compliance with the prevailing wage laws of the Commonwealth.  Labor and Workforce Development."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Referred to the committee on Labor and Workforce Development",
+      "date": "2025-02-27",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "committee on Labor and Workforce Development",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ]
+    },
+    {
+      "description": "House concurred",
+      "date": "2025-02-27",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": []
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Paul R. Feeney",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Paul R. Feeney\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Jason M. Lewis",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Jason M. Lewis\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Sal N. DiDomenico",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Sal N. DiDomenico\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Michael O. Moore",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Michael O. Moore\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Patrick M. O'Connor",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Patrick M. O'Connor\"}",
+      "organization_id": null
+    },
+    {
+      "name": "John F. Keenan",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"John F. Keenan\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Paul W. Mark",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Paul W. Mark\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Michael D. Brady",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Michael D. Brady\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Vanna Howard",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Vanna Howard\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Manny Cruz",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Manny Cruz\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Liz Miranda",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Liz Miranda\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Mike Connolly",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Mike Connolly\"}",
+      "organization_id": null
+    },
+    {
+      "name": "William J. Driscoll, Jr.",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"William J. Driscoll, Jr.\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Patricia D. Jehlen",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Patricia D. Jehlen\"}",
+      "organization_id": null
+    },
+    {
+      "name": "James B. Eldridge",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"James B. Eldridge\"}",
+      "organization_id": null
+    },
+    {
+      "name": "James K. Hawkins",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"James K. Hawkins\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Pavel M. Payano",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Pavel M. Payano\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [
+    {
+      "identifier": "SD 2038",
+      "legislative_session": "194th",
+      "relation_type": "replaces"
+    }
+  ],
+  "versions": [
+    {
+      "note": "Bill Text",
+      "links": [
+        {
+          "url": "https://malegislature.gov/Bills/194/S1318.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://malegislature.gov/Bills/194/S1318",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ma/government",
+    "name": "Massachusetts",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ma"
+  },
+  "scraped_at": "2025-07-28T20:30:29+00:00",
+  "_id": "b39b1808-6bf1-11f0-b36c-5a60dba6569e"
+}

@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Discharged to the committee on Senate Rules",
+    "date": "2025-07-14",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "referral-committee"
+    ],
+    "related_entities": [
+      {
+        "name": "Senate Rules",
+        "entity_type": "organization",
+        "organization_id": null
+      }
+    ]
+  },
+  "bill_id": "S134"
+}

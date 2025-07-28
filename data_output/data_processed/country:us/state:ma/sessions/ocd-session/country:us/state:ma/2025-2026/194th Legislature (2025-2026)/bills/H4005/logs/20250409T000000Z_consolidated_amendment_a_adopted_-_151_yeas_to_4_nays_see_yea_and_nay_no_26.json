@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Consolidated amendment A adopted -\r\n151 YEAS to 4 NAYS (See YEA and NAY No. 26 )",
+    "date": "2025-04-09",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "amendment-passage"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "H4005"
+}

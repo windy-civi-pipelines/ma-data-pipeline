@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Amendment 311 rejected -\r\n30 YEAS to 126 NAYS (See YEA and NAY No. 39 )",
+    "date": "2025-04-29",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "amendment-failure"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "H4000"
+}

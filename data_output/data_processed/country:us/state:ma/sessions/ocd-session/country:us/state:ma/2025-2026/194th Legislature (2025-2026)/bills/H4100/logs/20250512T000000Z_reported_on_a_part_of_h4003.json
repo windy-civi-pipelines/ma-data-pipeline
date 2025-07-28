@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Reported on a part of H4003",
+    "date": "2025-05-12",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "H4100"
+}

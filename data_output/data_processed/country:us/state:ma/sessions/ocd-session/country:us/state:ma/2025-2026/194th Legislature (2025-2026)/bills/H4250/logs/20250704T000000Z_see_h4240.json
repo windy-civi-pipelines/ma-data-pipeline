@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "See H4240",
+    "date": "2025-07-04",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "H4250"
+}

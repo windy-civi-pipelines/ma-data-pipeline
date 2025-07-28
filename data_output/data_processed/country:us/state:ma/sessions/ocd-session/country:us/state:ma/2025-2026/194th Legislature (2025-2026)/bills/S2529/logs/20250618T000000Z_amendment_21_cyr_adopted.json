@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Amendment #21 (Cyr) adopted",
+    "date": "2025-06-18",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "amendment-passage"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "S2529"
+}

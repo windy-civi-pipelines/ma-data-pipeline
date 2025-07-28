@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Amendment #924 (Montigny) rejected -see   Roll Call #42 (Yeas 12 to Nays 28)",
+    "date": "2025-05-22",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "amendment-failure"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "S3"
+}

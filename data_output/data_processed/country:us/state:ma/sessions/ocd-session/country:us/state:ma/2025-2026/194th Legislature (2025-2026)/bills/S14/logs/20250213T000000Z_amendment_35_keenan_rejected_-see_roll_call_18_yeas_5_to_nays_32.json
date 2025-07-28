@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Amendment #35 (Keenan) rejected -see   Roll Call #18 (Yeas 5 to Nays 32)",
+    "date": "2025-02-13",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "amendment-failure"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "S14"
+}

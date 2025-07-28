@@ -1,0 +1,23 @@
+{
+  "action": {
+    "description": "Read; and referred to the House committee on Steering, Policy and Scheduling",
+    "date": "2025-06-05",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "referral-committee"
+    ],
+    "related_entities": [
+      {
+        "name": "the House committee on Steering, Policy and Scheduling",
+        "entity_type": "organization",
+        "organization_id": null
+      },
+      {
+        "name": "committee on Steering, Policy and Scheduling",
+        "entity_type": "organization",
+        "organization_id": null
+      }
+    ]
+  },
+  "bill_id": "S2152"
+}

@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Reported, in part, by H4000",
+    "date": "2025-04-17",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "H1"
+}

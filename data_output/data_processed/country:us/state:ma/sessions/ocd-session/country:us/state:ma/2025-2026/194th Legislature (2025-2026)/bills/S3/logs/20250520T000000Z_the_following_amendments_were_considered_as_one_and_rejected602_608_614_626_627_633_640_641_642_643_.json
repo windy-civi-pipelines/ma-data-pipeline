@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "The following amendments were considered as one and rejected:602, 608, 614, 626, 627, 633, 640, 641, 642, 643, 644, 652, 653, 654, 655, 657, 659, 661, 663, 667, 668, 669, 672, 676, 679, 680, 683, 688, 694, 697, 698, 700, 701, 705, 707, 708, 709, 710, 712, 714, 719, 732, 736, 740, 741, 742, 744, 746, 747, 771, 773, 778, 801, 802, 805, 807, 808, 815",
+    "date": "2025-05-20",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "amendment-failure"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "S3"
+}

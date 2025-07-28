@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Amendment #25 (Tarr) rejected -see   Roll Call #50 (Yeas 5 to Nays 34)",
+    "date": "2025-06-18",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "amendment-failure"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "S2529"
+}

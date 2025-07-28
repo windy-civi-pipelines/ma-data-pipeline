@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Hearing scheduled for 07/15/2025 from 10:00 AM-01:00 PM in A-1",
+    "date": "2025-07-01",
+    "organization_id": "~{\"classification\": \"legislature\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "H3047"
+}

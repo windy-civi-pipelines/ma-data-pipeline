@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Passed to be engrossed -see   Roll Call #26 (Yeas 40 to Nays 0)",
+    "date": "2025-05-08",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "passage"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "H4010"
+}

@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "New draft of S543, S554, S589, S590, S609, S629, S630, S643 and S654",
+    "date": "2025-06-23",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "S2541"
+}

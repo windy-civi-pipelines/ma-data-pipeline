@@ -101,6 +101,7 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2025-10-26T04:18:37Z"
+    "logs_latest_update": "2025-10-26T04:18:37Z",
+    "text_extraction_latest_update": "2025-10-26T07:51:07.253909Z"
   }
 }

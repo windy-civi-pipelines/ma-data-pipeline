@@ -1,0 +1,401 @@
+Title: To the Honorable Senate and House of Representatives of the Commonwealth of Massachusetts in General
+Official Title: To the Honorable Senate and House of Representatives of the Commonwealth of Massachusetts in General
+Number of Sections: 1
+Source: versions - Bill Text
+Media Type: application/pdf
+Strikethrough Detection: 9 sections found
+
+================================================================================
+
+Section 1:
+HOUSE DOCKET, NO. 3977 FILED ON: 1/17/2025
+HOUSE . . . . . . . . . . . . . . . No. 1404
+The Commonwealth of Massachusetts
+_________________
+PRESENTED BY:
+Daniel J. Ryan
+_________________
+Court assembled:
+The undersigned legislators and/or citizens respectfully petition for the adoption of the accompanying bill:
+An Act to improve patient care through integrated electronic health records.
+_______________
+PETITION OF:
+NAME: DISTRICT/ADDRESS: DATE ADDED:
+Daniel J. Ryan 2nd Suffolk 1/17/2025
+1 of 1
+HOUSE DOCKET, NO. 3977 FILED ON: 1/17/2025
+HOUSE . . . . . . . . . . . . . . . No. 1404
+By Representative Ryan of Boston, a petition (accompanied by bill, House, No. 1404) of Daniel
+J. Ryan for legislation to establish integrated electronic health records. Health Care Financing.
+The Commonwealth of Massachusetts
+_______________
+In the One Hundred and Ninety-Fourth General Court
+(2025-2026)
+_______________
+An Act to improve patient care through integrated electronic health records.
+Be it enacted by the Senate and House of Representatives in General Court assembled, and by the authority
+of the same, as follows:
+1 Section 118I of the General Laws is hereby amended by striking out the chapter and
+2 inserting in place thereof the following chapter:
+3 Chapter 118I
+4 HEALTH INFORMATION EXCHANGE
+5 Section 1. As used in this chapter, the following words shall, unless the context clearly
+6 requires otherwise, have the following meanings:
+7 “Council”, the health information technology council established under section 2.
+8 “Electronic health record”, an electronic record of patient health information generated
+9 by 1 or more encounters in any care delivery setting.
+10 “Executive office”, the executive office of health and human services.
+11 “Health care entity”, a payer, health care provider or provider organization.
+1 of 8
+12 “Health care provider”, a provider of medical or health services or any other person or
+13 organization that furnishes, bills or is paid for health care service delivery in the normal course
+14 of business.
+15 “Health information exchange”, transmission of health care-related data among health
+16 care entities of personal health records aligning with national standards; the reliable and secure
+17 transfer of data among diverse systems and access to and retrieval of data.
+18 “Office of the National Coordinator” or “ONC”, the Office of the National Coordinator
+19 for Health Information Technology within the United States Department of Health and Human
+20 Services.
+21 “Payer”, any entity, other than an individual, that pays providers for the provision of
+22 health care services; provided, that “payer” shall include both governmental and private entities;
+23 provided further, that “payer” shall not include ERISA plans.
+24 “Provider organization”, any corporation, partnership, business trust, association or
+25 organized group of persons, which is in the business of health care delivery or management,
+26 whether incorporated or not that represents 1 or more health care providers in contracting with
+27 carriers for the payments of health care services; provided, that “provider organization” shall
+28 include, but not be limited to, physician organizations, physician-hospital organizations,
+29 independent practice associations, provider networks, accountable care organizations and any
+30 other organization that contracts with carriers for payment for health care services. “Statewide
+31 health information exchange”, health information exchange established, operated, facilitated or
+32 funded by a governmental entity or entities in the commonwealth.
+2 of 8
+33 Section 2. (a) There shall be a health information technology council within the executive
+34 office of health and human services. The council shall advise the executive office on design,
+35 implementation, operation and use of statewide health information exchange.
+36 (b) The council shall consist of the following 21 members: the secretary of health and
+37 human services or a designee, who shall serve as the chair; the secretary of administration and
+38 finance or designee; the executive director of the health policy commission or a designee; the
+39 executive director of the center for health information analysis or a designee; the director of the
+40 Massachusetts eHealth Institute or a designee; the director of the office of Medicaid or a
+41 designee; and 14 members who shall be appointed by the governor, of whom at least 1 shall be
+42 an expert in health information technology; 1 shall be an expert in law and health policy; 1 shall
+43 be an expert in health information privacy and security; 1 shall be from an academic medical
+44 center; 1 shall be from a community hospital; 1 shall be from a community health center; 1 shall
+45 be from a long term care facility; 1 shall be a from large physician group practice; 1 shall be
+46 from a small physician group practice; 1 shall be a registered nurse; 1 shall be from a behavioral
+47 health, substance abuse disorder or mental health services organization; 1 shall be from the
+48 Massachusetts Association of Health Plans or a designee, 1 shall be from Blue Cross Blue Shield
+49 of Massachusetts, 1 shall be from a business group; and 2 additional members shall have
+50 experience or expertise in health information technology. The council may consult with all
+51 relevant parties, public or private, in exercising its duties under this section, including persons
+52 with expertise and experience in the development and dissemination of electronic health records
+53 systems, and the implementation of electronic health record systems by small physician groups
+54 or ambulatory care providers, as well as persons representing organizations within the
+55 commonwealth interested in and affected by the development of networks and electronic health
+3 of 8
+56 records systems, including, but not limited to, persons representing local public health agencies,
+57 licensed hospitals and other licensed facilities and providers, private purchasers, the medical and
+58 nursing professions, physicians and health insurers, the state quality improvement organization,
+59 academic and research institutions, consumer advisory organizations with expertise in health
+60 information technology and other stakeholders as identified by the secretary of health and human
+61 services. Appointed members of the council shall serve for terms of 2 years or until a successor
+62 is appointed. Members shall be eligible to be reappointed and shall serve without compensation.
+63 (c) Chapter 268A shall apply to all council members, except that the council may
+64 purchase from, sell to, borrow from, contract with or otherwise deal with any organization in
+65 which any council member is in anyway interested or involved; provided, however, that such
+66 interest or involvement shall be disclosed in advance to the council and recorded in the minutes
+67 of the proceedings of the council; and provided, further, that no member shall be considered to
+68 have violated section 4 of said chapter 268A because of the member’s receipt of usual and
+69 regular compensation from such member’s employer during the time in which the member
+70 participates in the activities of the council.
+71 Section 3. (a) The executive office shall establish, operate, facilitate, or fund statewide
+72 health information exchange among health care entities, including, but not limited to, improving
+73 interoperability among health care entities and requiring the exchange of minimum standardized
+74 health data requirements.
+75 (b) The executive office may:
+4 of 8
+76 (i) conduct procurements and enter into contracts for the purchase, dissemination,
+77 development of hardware and software, in connection with the implementation of statewide
+78 health information exchange; and
+79 (ii) in consultation with the council, oversee the development, dissemination,
+80 implementation and operation of statewide health information exchange including any modules,
+81 applications, interfaces or other technology infrastructure for statewide health information
+82 exchange.
+83 (c) In carrying out this chapter, the executive office may undertake any activities
+84 necessary to implement the powers and duties under this chapter, which may include issuing
+85 implementing regulations and the adoption of policies consistent with those adopted by the
+86 Office of the National Coordinator for Health Information Technology of the United States
+87 Department of Health and Human Services; provided, however, that nothing herein shall be
+88 construed to limit the executive office’s ability to advance interoperability and other health
+89 information technology beyond such federal standards, including without limitation any
+90 applicable meaningful use standards.
+91 Section 4. Every patient shall have electronic access to such patient’s health records. The
+92 executive office shall ensure that each patient will have secure electronic access to such patient’s
+93 electronic health records with each of such patient’s health care providers.
+94 Section 5. All health care entities in the commonwealth shall participate in statewide
+95 health information exchange; provided that all health care providers shall implement fully
+96 interoperable electronic records systems necessary to participate in statewide health information
+97 exchange activities, as defined by the executive office, which shall include electronic
+5 of 8
+98 transmission of complete patient health records between health care entities. The executive office
+99 shall issue regulations requiring that statewide health information exchange, the associated
+100 electronic records systems, comply with all state and federal privacy requirements, including
+101 those imposed by the Health Insurance Portability and Accountability Act of 1996, P.L. 104–
+102 191, the American Recovery and Reinvestment Act of 2009, P.L. 111–5, 42 C.F.R. §§ 2.11 et
+103 seq. and 45 C.F.R. §§ 160, 162 and 164.
+104 Section 6. The executive office shall prescribe by regulation penalties for non-compliance
+105 by health care entities with the requirements of this chapter provided, however, that the executive
+106 office may waive penalties for good cause. Penalties collected under this section shall be
+107 deposited into the Health Information Technology Trust Fund, established in section 10 of
+108 chapter 35RR.
+109 Section 7. In the event of an unauthorized access to or disclosure of individually
+110 identifiable patient health information by or through a health care entity or a vendor contracted
+111 through services of a health care entity as participants of statewide health information exchange,
+112 the health care entity or vendor shall comply with the requirements of chapter 93H and in any
+113 event shall: (i) report the conditions of such unauthorized access or disclosure as required by the
+114 executive office; and (ii) provide notice, as defined in section 1 of chapter 93H, as soon as
+115 practicable, but not later than 10 business days after such unauthorized access or disclosure, to
+116 any person whose patient health information may have been compromised as a result of such
+117 unauthorized access or disclosure, and shall report the conditions of such unauthorized access or
+118 disclosure, and further shall concurrently provide a copy of such report to the executive office.
+119 Any unauthorized access or disclosures shall be punishable by the civil penalties under section
+120 10.
+6 of 8
+121 Section 8. Patients shall have the choice to opt-out of having their health data disclosed
+122 for electronic health information exchange activities that are owned and operated or contracted
+123 by the Commonwealth.
+124 Section 9. The executive office shall pursue and maximize all opportunities to qualify for
+125 federal financial participation.
+126 Section 10. The executive office may require participant fees from health care entities
+127 that use health information exchange services. Participant fees collected under this section shall
+128 be deposited into the Health Information Technology Trust Fund, as established by section 35RR
+129 of chapter 10, or its successor trust fund. Nonpayment or late payment of fees may subject health
+130 care entities to fines or penalties as determined by the executive office. The executive office shall
+131 promulgate regulations to assess fair and reasonable fines or penalties.
+132 Section 11. The council shall file an annual report, not later than April 1, with the joint
+133 committee on health care financing, the joint committee on economic development and emerging
+134 technologies, the house and senate committees on ways and means and the clerks of the house
+135 and senate concerning the activities of the council in general and, in particular, describing the
+136 progress to date in developing statewide health information exchange and recommending such
+137 further legislative action as it deems appropriate.
+138 Section 12. Unauthorized access to or disclosure of individually identifiable patient
+139 health information shall be subject to fines or penalties as determined by the executive office.
+140 The executive office shall
+141 promulgate regulations to assess fair and reasonable fines or penalties.
+7 of 8
+142 Section 13. Cybersecurity-based documentation, including but not limited to security
+143 audit reports, provided to the executive office shall be exempt from disclosure under clause
+144 Twenty-sixth of section 7 of chapter 4 and chapter 66.
+8 of 8
+[DELETED: :D/A:DAEITDSA Dn2k1]
+[DELETED: SiCHSr““b0“1“]
+[DELETED: 2“3o4o5“6c7t8“9f0S1“2h3p4“5o6w7c8i9i0o1h2f]
+[DELETED: 3S4o5i6(7h8f9e0M1d2a3b4c5b6f7h8M9o0e1r2w3s4o5c]
+[DELETED: 6r7l8n9a0i1s2i3(4p5w6i7o8h9r0p1S2h3i4h5(]
+[DELETED: 6(7d8h9(0i1a2e3(4n5i6O7D8c9i0a1S2e3e4S5h6i7e]
+[DELETED: 8t9s0e1t213s4S5b6o7d8c9S0i1t2t3e4e5p6a7u8d9A01]
+[DELETED: 1S2f3b4S5f6S7t8b9o0c1p2S3c4t5a6p7f8S9h0T1p]
+[DELETED: 2S3a4T]
+
+
+================================================================================
+
+Raw Text:
+HOUSE DOCKET, NO. 3977 FILED ON: 1/17/2025
+HOUSE . . . . . . . . . . . . . . . No. 1404
+The Commonwealth of Massachusetts
+_________________
+PRESENTED BY:
+Daniel J. Ryan
+_________________
+To the Honorable Senate and House of Representatives of the Commonwealth of Massachusetts in General
+Court assembled:
+The undersigned legislators and/or citizens respectfully petition for the adoption of the accompanying bill:
+An Act to improve patient care through integrated electronic health records.
+_______________
+PETITION OF:
+NAME: DISTRICT/ADDRESS: DATE ADDED:
+Daniel J. Ryan 2nd Suffolk 1/17/2025
+1 of 1
+
+HOUSE DOCKET, NO. 3977 FILED ON: 1/17/2025
+HOUSE . . . . . . . . . . . . . . . No. 1404
+By Representative Ryan of Boston, a petition (accompanied by bill, House, No. 1404) of Daniel
+J. Ryan for legislation to establish integrated electronic health records. Health Care Financing.
+The Commonwealth of Massachusetts
+_______________
+In the One Hundred and Ninety-Fourth General Court
+(2025-2026)
+_______________
+An Act to improve patient care through integrated electronic health records.
+Be it enacted by the Senate and House of Representatives in General Court assembled, and by the authority
+of the same, as follows:
+1 Section 118I of the General Laws is hereby amended by striking out the chapter and
+2 inserting in place thereof the following chapter:
+3 Chapter 118I
+4 HEALTH INFORMATION EXCHANGE
+5 Section 1. As used in this chapter, the following words shall, unless the context clearly
+6 requires otherwise, have the following meanings:
+7 “Council”, the health information technology council established under section 2.
+8 “Electronic health record”, an electronic record of patient health information generated
+9 by 1 or more encounters in any care delivery setting.
+10 “Executive office”, the executive office of health and human services.
+11 “Health care entity”, a payer, health care provider or provider organization.
+1 of 8
+
+12 “Health care provider”, a provider of medical or health services or any other person or
+13 organization that furnishes, bills or is paid for health care service delivery in the normal course
+14 of business.
+15 “Health information exchange”, transmission of health care-related data among health
+16 care entities of personal health records aligning with national standards; the reliable and secure
+17 transfer of data among diverse systems and access to and retrieval of data.
+18 “Office of the National Coordinator” or “ONC”, the Office of the National Coordinator
+19 for Health Information Technology within the United States Department of Health and Human
+20 Services.
+21 “Payer”, any entity, other than an individual, that pays providers for the provision of
+22 health care services; provided, that “payer” shall include both governmental and private entities;
+23 provided further, that “payer” shall not include ERISA plans.
+24 “Provider organization”, any corporation, partnership, business trust, association or
+25 organized group of persons, which is in the business of health care delivery or management,
+26 whether incorporated or not that represents 1 or more health care providers in contracting with
+27 carriers for the payments of health care services; provided, that “provider organization” shall
+28 include, but not be limited to, physician organizations, physician-hospital organizations,
+29 independent practice associations, provider networks, accountable care organizations and any
+30 other organization that contracts with carriers for payment for health care services. “Statewide
+31 health information exchange”, health information exchange established, operated, facilitated or
+32 funded by a governmental entity or entities in the commonwealth.
+2 of 8
+
+33 Section 2. (a) There shall be a health information technology council within the executive
+34 office of health and human services. The council shall advise the executive office on design,
+35 implementation, operation and use of statewide health information exchange.
+36 (b) The council shall consist of the following 21 members: the secretary of health and
+37 human services or a designee, who shall serve as the chair; the secretary of administration and
+38 finance or designee; the executive director of the health policy commission or a designee; the
+39 executive director of the center for health information analysis or a designee; the director of the
+40 Massachusetts eHealth Institute or a designee; the director of the office of Medicaid or a
+41 designee; and 14 members who shall be appointed by the governor, of whom at least 1 shall be
+42 an expert in health information technology; 1 shall be an expert in law and health policy; 1 shall
+43 be an expert in health information privacy and security; 1 shall be from an academic medical
+44 center; 1 shall be from a community hospital; 1 shall be from a community health center; 1 shall
+45 be from a long term care facility; 1 shall be a from large physician group practice; 1 shall be
+46 from a small physician group practice; 1 shall be a registered nurse; 1 shall be from a behavioral
+47 health, substance abuse disorder or mental health services organization; 1 shall be from the
+48 Massachusetts Association of Health Plans or a designee, 1 shall be from Blue Cross Blue Shield
+49 of Massachusetts, 1 shall be from a business group; and 2 additional members shall have
+50 experience or expertise in health information technology. The council may consult with all
+51 relevant parties, public or private, in exercising its duties under this section, including persons
+52 with expertise and experience in the development and dissemination of electronic health records
+53 systems, and the implementation of electronic health record systems by small physician groups
+54 or ambulatory care providers, as well as persons representing organizations within the
+55 commonwealth interested in and affected by the development of networks and electronic health
+3 of 8
+
+56 records systems, including, but not limited to, persons representing local public health agencies,
+57 licensed hospitals and other licensed facilities and providers, private purchasers, the medical and
+58 nursing professions, physicians and health insurers, the state quality improvement organization,
+59 academic and research institutions, consumer advisory organizations with expertise in health
+60 information technology and other stakeholders as identified by the secretary of health and human
+61 services. Appointed members of the council shall serve for terms of 2 years or until a successor
+62 is appointed. Members shall be eligible to be reappointed and shall serve without compensation.
+63 (c) Chapter 268A shall apply to all council members, except that the council may
+64 purchase from, sell to, borrow from, contract with or otherwise deal with any organization in
+65 which any council member is in anyway interested or involved; provided, however, that such
+66 interest or involvement shall be disclosed in advance to the council and recorded in the minutes
+67 of the proceedings of the council; and provided, further, that no member shall be considered to
+68 have violated section 4 of said chapter 268A because of the member’s receipt of usual and
+69 regular compensation from such member’s employer during the time in which the member
+70 participates in the activities of the council.
+71 Section 3. (a) The executive office shall establish, operate, facilitate, or fund statewide
+72 health information exchange among health care entities, including, but not limited to, improving
+73 interoperability among health care entities and requiring the exchange of minimum standardized
+74 health data requirements.
+75 (b) The executive office may:
+4 of 8
+
+76 (i) conduct procurements and enter into contracts for the purchase, dissemination,
+77 development of hardware and software, in connection with the implementation of statewide
+78 health information exchange; and
+79 (ii) in consultation with the council, oversee the development, dissemination,
+80 implementation and operation of statewide health information exchange including any modules,
+81 applications, interfaces or other technology infrastructure for statewide health information
+82 exchange.
+83 (c) In carrying out this chapter, the executive office may undertake any activities
+84 necessary to implement the powers and duties under this chapter, which may include issuing
+85 implementing regulations and the adoption of policies consistent with those adopted by the
+86 Office of the National Coordinator for Health Information Technology of the United States
+87 Department of Health and Human Services; provided, however, that nothing herein shall be
+88 construed to limit the executive office’s ability to advance interoperability and other health
+89 information technology beyond such federal standards, including without limitation any
+90 applicable meaningful use standards.
+91 Section 4. Every patient shall have electronic access to such patient’s health records. The
+92 executive office shall ensure that each patient will have secure electronic access to such patient’s
+93 electronic health records with each of such patient’s health care providers.
+94 Section 5. All health care entities in the commonwealth shall participate in statewide
+95 health information exchange; provided that all health care providers shall implement fully
+96 interoperable electronic records systems necessary to participate in statewide health information
+97 exchange activities, as defined by the executive office, which shall include electronic
+5 of 8
+
+98 transmission of complete patient health records between health care entities. The executive office
+99 shall issue regulations requiring that statewide health information exchange, the associated
+100 electronic records systems, comply with all state and federal privacy requirements, including
+101 those imposed by the Health Insurance Portability and Accountability Act of 1996, P.L. 104–
+102 191, the American Recovery and Reinvestment Act of 2009, P.L. 111–5, 42 C.F.R. §§ 2.11 et
+103 seq. and 45 C.F.R. §§ 160, 162 and 164.
+104 Section 6. The executive office shall prescribe by regulation penalties for non-compliance
+105 by health care entities with the requirements of this chapter provided, however, that the executive
+106 office may waive penalties for good cause. Penalties collected under this section shall be
+107 deposited into the Health Information Technology Trust Fund, established in section 10 of
+108 chapter 35RR.
+109 Section 7. In the event of an unauthorized access to or disclosure of individually
+110 identifiable patient health information by or through a health care entity or a vendor contracted
+111 through services of a health care entity as participants of statewide health information exchange,
+112 the health care entity or vendor shall comply with the requirements of chapter 93H and in any
+113 event shall: (i) report the conditions of such unauthorized access or disclosure as required by the
+114 executive office; and (ii) provide notice, as defined in section 1 of chapter 93H, as soon as
+115 practicable, but not later than 10 business days after such unauthorized access or disclosure, to
+116 any person whose patient health information may have been compromised as a result of such
+117 unauthorized access or disclosure, and shall report the conditions of such unauthorized access or
+118 disclosure, and further shall concurrently provide a copy of such report to the executive office.
+119 Any unauthorized access or disclosures shall be punishable by the civil penalties under section
+120 10.
+6 of 8
+
+121 Section 8. Patients shall have the choice to opt-out of having their health data disclosed
+122 for electronic health information exchange activities that are owned and operated or contracted
+123 by the Commonwealth.
+124 Section 9. The executive office shall pursue and maximize all opportunities to qualify for
+125 federal financial participation.
+126 Section 10. The executive office may require participant fees from health care entities
+127 that use health information exchange services. Participant fees collected under this section shall
+128 be deposited into the Health Information Technology Trust Fund, as established by section 35RR
+129 of chapter 10, or its successor trust fund. Nonpayment or late payment of fees may subject health
+130 care entities to fines or penalties as determined by the executive office. The executive office shall
+131 promulgate regulations to assess fair and reasonable fines or penalties.
+132 Section 11. The council shall file an annual report, not later than April 1, with the joint
+133 committee on health care financing, the joint committee on economic development and emerging
+134 technologies, the house and senate committees on ways and means and the clerks of the house
+135 and senate concerning the activities of the council in general and, in particular, describing the
+136 progress to date in developing statewide health information exchange and recommending such
+137 further legislative action as it deems appropriate.
+138 Section 12. Unauthorized access to or disclosure of individually identifiable patient
+139 health information shall be subject to fines or penalties as determined by the executive office.
+140 The executive office shall
+141 promulgate regulations to assess fair and reasonable fines or penalties.
+7 of 8
+
+142 Section 13. Cybersecurity-based documentation, including but not limited to security
+143 audit reports, provided to the executive office shall be exempt from disclosure under clause
+144 Twenty-sixth of section 7 of chapter 4 and chapter 66.
+8 of 8
+
+[DELETED: :D/A:DAEITDSA Dn2k1]
+[DELETED: SiCHSr““b0“1“]
+[DELETED: 2“3o4o5“6c7t8“9f0S1“2h3p4“5o6w7c8i9i0o1h2f]
+[DELETED: 3S4o5i6(7h8f9e0M1d2a3b4c5b6f7h8M9o0e1r2w3s4o5c]
+[DELETED: 6r7l8n9a0i1s2i3(4p5w6i7o8h9r0p1S2h3i4h5(]
+[DELETED: 6(7d8h9(0i1a2e3(4n5i6O7D8c9i0a1S2e3e4S5h6i7e]
+[DELETED: 8t9s0e1t213s4S5b6o7d8c9S0i1t2t3e4e5p6a7u8d9A01]
+[DELETED: 1S2f3b4S5f6S7t8b9o0c1p2S3c4t5a6p7f8S9h0T1p]
+[DELETED: 2S3a4T]

@@ -1,0 +1,1560 @@
+Deliverable #1: Defining Primary
+Care Services, Codes, and Providers
+Introduction
+High-quality primary care encompasses an array of vital services that can meaningfully shape patient
+outcomes and can lower overall health care expenditures while improving population health. The core
+functions that characterize effective, person-centered primary care are first-contact care, continuity of care,
+comprehensive care, and coordination of care.1 These four pillars of primary care represent the foundation of
+a high-functioning health care system, yet primary care remains both overburdened and undervalued in
+Massachusetts and throughout the United States.
+Data-driven policy changes, investments, and market reforms are needed to address these significant
+challenges and improve the Commonwealth’s primary care system. Recent research by the Massachusetts
+Health Policy Commission (HPC) found that primary care spending in Massachusetts grew half as fast as
+spending on all other medical services from 2017-2022, 11.8 percent compared to 24.7 percent.2
+Transparent, comprehensive expenditure data on primary care services in Massachusetts are essential to
+inform these reforms, and are also critical for setting and tracking investment improvement targets.
+Understanding the importance of measuring primary care for evidence-based reforms, nearly 20 states have
+developed methods for measuring primary care spending. While there is no national consensus for measuring
+primary care spending and variation exists in data specifications across states (e.g. California, Connecticut,
+and Rhode Island), total primary care expenditures are generally measured by collecting data on primary care
+services delivered by primary care providers.3 In Massachusetts, the Center for Health Information and
+Analysis (CHIA) measures primary care spending using a similar means.
+CHIA’s methodology for measuring primary care expenditures was developed in 2019 by leveraging standard
+billing codes, aligning with other states’ approaches, and a public listening session with stakeholders.4 Since
+2020, CHIA has collected summary-level data from health insurers to measure overall spending on primary
+care and behavioral health services covered by insurance. The recent Massachusetts Primary Care Dashboard
+published by CHIA in collaboration with the Massachusetts Health Quality Partners found that, in 2023, the
+share of primary care spending declined across payer types, with the exception of MassHealth, which had the
+highest percentage of spending on primary care (7.5 percent).5
+Once a method for measurement is established, many states have pursued investment targets for primary
+care system improvement. This is a topic of active consideration by the Massachusetts Primary Care Access,
+1 Starfield B, Shi L, Macinko J. Contribution of primary care to health systems and health. Milbank Quarterly. October 3, 2005; 83(3):
+457-502. doi:10.1111/j.1468-0009.2005.00409.x
+2 Massachusetts Health Policy Commission. A Dire Diagnosis: The Declining Health of Primary Care in Massachusetts and the Urgent
+Need for Action. January 2025. https://masshpc.gov/publications/ policyresearch-brief/dire-diagnosis-declining-health-primary-care-
+massachusetts-and
+3 Foubister V. Five States Leading Efforts to Increase Primary Care Spending. The Milbank Memorial Fund. March 12, 2025.
+4 Massachusetts Center for Health Information and Analysis. Payer Data Reporting: Primary and Behavioral Health Care Expenditures.
+https://www.chiamass.gov/payer-data-reporting-primary-and-behavioral-health-care-expenditures
+5 Massachusetts Center for Health Information and Analysis. Primary Care in Massachusetts. June 2025.
+https://www.chiamass.gov/assets/docs/r/pubs/2025/MA-PC-Dashboard-2025.pdf. Note that MassHealth financing differs
+substantially from Medicare and commercial payers.
+- 1 -
+
+Delivery, and Payment Task Force (PCTF) and recommendations for a primary care spending target will be
+forthcoming, pursuant to Chapter 343 of the Acts of 2024. The PCTF is charged with developing a series of
+recommendations to stabilize and strengthen the primary care system across Massachusetts, including the
+first statutory deliverable to define primary care services, codes, and providers in Massachusetts outlined
+below.
+Primary Care Task Force Recommendation: Statutory Deliverable #1
+CHIA has already developed and implemented a highly credible and robust process for defining and
+measuring primary care spending in Massachusetts. The PCTF recommends that Massachusetts rely on
+CHIA’s technical expertise and experience to continue this foundational measurement work, critical for
+informing policies to increase investment in primary care and other strategies to strengthen primary care
+access, delivery, and financial stability. To effectuate this goal, the PCTF further recommends the following:
+• Designated Agency: The Legislature should codify CHIA as the agency responsible for defining,
+measuring, and reporting on primary care spending in Massachusetts and authorize CHIA to require
+such reporting from payers and providers as is necessary for these purposes.
+• Transparent Methodology: The Legislature should require that CHIA develop and publicly post its
+detailed methodology and data specifications for defining and measuring primary care spending
+based on summary level reporting from commercial and public payers. The methodology should
+incorporate a designated list of primary care services by codes, a list of provider types, and non-claims
+payments to support primary care. In developing the methodology, CHIA should be informed by
+methodologies used in other states, and to the extent appropriate, should align its methodology with
+those used in other states, particularly those used in neighboring states, to allow for cross-state
+comparisons. CHIA should include a comparison of its methodology to alternative approaches. CHIA
+should finalize data specifications and require data collection within six months of the legislation’s
+effective date.
+• Annual Review Process: The Legislature should require that CHIA establish an annual process for
+reviewing and revising as necessary its methodology for measuring primary care spending. The
+process should include consultation with a Primary Care Advisory Body, other states, and experts.
+• New Primary Care Technical Advisory Body. The Legislature should establish an ongoing primary care
+technical advisory body to advise and provide technical input on CHIA’s data specifications,
+methodology, measurement, and reporting. The Legislature should consider including the following
+members to the advisory body: primary care providers, behavioral health providers, health systems,
+community health centers, health plans, and government agency representatives, including HPC,
+MassHealth, the Department of Public Health, the Division of Insurance, and technical experts in
+health care spending measurement.
+• Annual Reporting: The Legislature should require CHIA to report annually on spending on primary care
+in Massachusetts, including as a share of total statewide health care expenditures, by member, by
+insurance type, by a range of age groups, by payer, and managing clinician group6. HPC should include
+primary care spending trends in its annual cost trends report, including complementary analyses
+based on data from the All-Payer Claims Database (APCD), and make corresponding policy
+recommendations.7
+6 “Managing clinician group” has historically been referred to as “managing physician group” in CHIA and HPC reports.
+7 If, in any year, CHIA makes substantial changes to their methodology for defining and measuring primary care, CHIA
+should note caveats and implications for longitudinal analysis public report notes.
+- 2 -
+
+• Spending Target Measurement: CHIA’s annual reporting should be used for the purposes of setting a
+primary care spending target (to be further defined by the PCTF in deliverable #3). CHIA should
+consider the inclusion of pharmaceutical spending data as appropriate in the calculation in order to
+ensure clear incentives and accountability for the state, market actors, and the public to be able to
+track meaningful progress on spending targets (as recommended by the PCTF).
+Summary of Current CHIA Methodology and Annual Update Process
+• Modular Methodology: CHIA calculates spending on primary care by first classifying if the service is
+(1) a specified service type (based on CPT/HPCPCS code) and (2) delivered by a primary care provider
+type (based on taxonomy code). Service types and provider categories (physician, other professional,
+facility) are modular and can be included or excluded in the total primary care measurement based on
+purpose.
+• Service Classification: The service types include problem-focused office visits, preventive office visits,
+chronic care management, immunizations/injections, home/nursing facility visits, screenings and
+assessments, and integrated behavioral health care. (Link to full list service codes available here
+(pages 46-48). Also attached as appendix A.
+• Provider Types: The designated provider types include a range of provider specialties including family
+medicine, internal medicine, general practice, pediatrics, OB/GYN, adolescent, and geriatric medicine.
+Professionals include physicians, registered nurses, nurse practitioners, and physician assistants.
+(Link to full list provider types available here (pages 48-50). Also attached as appendix A.
+• Insurance Type Covered: CHIA’s primary care analysis includes ~80% of Massachusetts residents
+with primary medical coverage through private commercial insurance (including self- and fully insured,
+and Connector plans), MassHealth, Medicare Advantage, and Senior Care Options (SCO), One Care,
+Programs for All-Inclusive Care for the Elderly (PACE)
+• CHIA’s current annual calendar for collecting and reporting on is detailed below:
+Timeline Activity
+Summer CHIA releases updated draft data specifications for comment period
+Fall Payers report data to CHIA
+CHIA performs QA and releases results to payers and providers
+Spring Report released
+Additional Policy Considerations
+In developing this recommendation, the PCTF discussed a number of known limitations with the current
+methodology as well as further considerations which CHIA should explore and seek to address in the future, to
+the extent feasible, including:
+• Inclusion of Original Medicare Data: While Medicare Advantage members as well as dually eligible
+members are included in CHIA’s primary care spend methodology, primary care services covered by
+original Medicare is excluded due to data availability. CHIA can explore Centers of Medicare and
+Medicaid Services (CMS) data sources.
+• Identification, measurement, and inclusion of services for patients that are delivered by primary
+care providers but are not billed through insurance codes: Primary care providers often provide
+- 3 -
+
+services for which they are unable to bill through insurance, such as answering messages submitted
+by patients through electronic patient portals after hours, providing behavioral supports or treatment
+plan consultation with schools or other care team members, or assisting with social and behavioral
+resource navigation. CHIA should explore ways to measure this unbilled primary care work.
+• Consider inclusion of other professionals that provide services in a primary care setting: Non-
+physician professionals, such as social workers, care coordinators, clinical pharmacists or patient
+navigators may be members of care teams who provide services that enhance patient-centered
+primary care delivery. CHIA should explore capturing delivery of these services as part of primary care
+spending.
+• Inclusion of spending on behavioral health integration and associated time spent on care delivery:
+In addition to including behavioral health screenings and services, such as medication management,
+CHIA should consider behavioral health services delivered through an integrated behavioral health
+model in primary care spending.
+• Measuring spending for primary care providers engaged in direct contracts with employers or who
+offer services that are not reimbursed through the health insurance plans (e.g. direct primary care,
+concierge): The market for concierge medicine and direct primary care has been increasing.8 As more
+clinician and consumers opt for these models, CHIA may explore methods for measuring this
+spending.
+• Inclusion of OB/GYN provider spending only for primary care services (e.g. wellness visits but not
+childbirth): Because most maternity care payments use global codes, CHIA’s current methodology
+includes both pre-natal visits and labor and delivery services in primary care spending. CHIA should
+consider refining the methodology to exclude childbirth.
+8 Song, Z., & Zhu, J.M. Primary Care — From Common Good to Free-Market Commodity. The New England Journal of Medicine. 392(20):
+1977-1979. May 24,2025. https://www.nejm.org/doi/full/10.1056/NEJMp2501717
+- 4 -
+
+APPENDIX A
+
+Data Specification Manual
+957 CMR 2.00:
+Payer Reporting of Primary Care and Behavioral Health Expenses
+July 29th, 2025
+1
+
+Table of Contents
+1. Summary of Changes
+2. Introduction
+3. File Submission Instructions and Schedule
+4. Data Submission Guidelines
+a. Overview
+b. Capturing Behavioral Health Spending in Primary Care
+c. Capturing Primary Care Facility Claims
+d. Capturing Primary Care Minor Procedures Spending and Member Months
+e. Capturing Primary Care Lab Test Spending and Member Months
+f. Capturing Telehealth Spending
+5. Data Dictionary
+a. Field Definitions
+Appendix A: Physician Group OrgID List
+Appendix B: Service Categorization Code Lists
+Appendix C: Payment Allocation Methodology
+Appendix D: Summary of Code Lists and Coding Logic
+2
+
+1. Summary of Changes
+• Updates to the code list for capturing primary care, mental health, and substance use disorder spending has been made to this data
+specification manual in order to comply with Chapter 177 of the Acts of 2022: An Act Addressing Barriers to Care for Mental Health,
+which requires CHIA to publish information that separately measures mental health and substance use disorders across specific
+settings and populations.
+• New tables added to the front page of payer submission templates. CHIA aims to capture spending and member months
+associated with primary care minor procedures. The list of CPT codes for Primary Care Minor Procedures can be found in the data
+dictionary below and in the Primary Care and Behavioral Health Supplemental Data Code List and Crosswalk excel workbook on
+Tab 10. CHIA also aims to capture spending and member months associated with primary care lab tests. The list of CPT codes for
+Primary Care Lab Tests can be found in the data dictionary below and in the Primary Care and Behavioral Health Supplemental
+Data Code List and Crosswalk excel workbook on Tab 11.
+• Updated Non-Claims categories: Performance Payments, Capitation and Full Risk Payments, Shared Savings Payments and
+Recoupments, Population Health and Practice Infrastructure Payments, and Other Payments. For additional information and
+examples, see page 28 of this manual.
+• CHIA is newly including facility claims associated with free-standing or provider-based federally qualified health centers (FQHCs)
+and outpatient hospital primary care delivery. Please see the Facility Claims Guidelines in section 4 of this data specification manual
+for more information on identifying primary care facility claims.
+2. Introduction
+There is emerging interest in the Commonwealth to better measure expenditures on primary care and behavioral health services, as
+reflected in recently enacted legislation, recommendations from state agencies, as well as support from patient advocates. These service
+categories comprise an array of vital services that can meaningfully shape patient outcomes and are often associated with lower costs
+and higher quality.
+In 2025, Massachusetts enacted Chapter 343: An Act Enhancing the Market Review Process, which in addition to other market oversight
+expansions, created a task force to study primary care access, delivery, and payment in the Commonwealth. Chapter 343 also charged
+CHIA with collecting “data or information necessary for the Task Force to fulfill its duties…” and making this information publicly
+available.1
+1 Chapter 343 of the Acts of 2024 “An Act Enhancing the Market Review Process.” Available at https://malegislature.gov/Laws/SessionLaws/Acts/2024/Chapter343.
+3
+
+Additionally, in 2022, Massachusetts enacted Chapter 177: An Act Addressing Barriers to Care for Mental Health, expanding access to
+behavioral health services, supporting the behavioral health workforce, and, among other initiatives, charging CHIA with monitoring
+“costs, cost trends, price, quality, utilization, and patient outcomes related to behavioral health service subcategories.”2 Behavioral health
+service subcategories include, but are not limited to: mental health, substance use disorder, outpatient, inpatient, services for children,
+services for adults, and provider types as defined in M.G.L. c. 12C, § 10 Section 21A.
+Consistent with CHIA’s mission to create and curate data assets that support evidence-based policy making and program oversight, the
+agency is collecting more detailed information about primary care and behavioral health spending in the Commonwealth. The data
+specifications outlined below supports these directives from the legislature, as well as and other future initiatives and policies related to
+primary care and behavioral health.
+Regulation 957 CMR 2.00 governs the methodology and filing requirements for health care payers to calculate and report this data to
+CHIA. This Data Specification Manual provides additional technical details to assist payers in reporting and filing this data.
+Payers are required to submit one Primary Care & Behavioral Health Expenditures (PCBH) file to CHIA annually: the file must include
+final data for the prior calendar year. In the 2025 collection year, CHIA is requesting payers to submit final data for dates of service
+in CY2024, with the option to submit CY2023 and CY2022 to correct any previous data submission errors. Files will contain
+different tabs, including:
+• Front page, including data confirmation, payer comments, and supplemental data collection
+• Supplemental telehealth collection by service type
+• Primary Care & Behavioral Health expenses by managing physician group
+• Member months by managing physician group
+• Summary tab, which automatically calculates totals with inputted data from the data entry tab
+3. File Submission Instructions and Schedule
+Payers will submit data using the Excel template provided using CHIA’s online submission platform at
+https://chiasubmissions.chia.state.ma.us. Data submitters with an existing username and password will login to the submission platform
+2 Chapter 177 of the Acts of 2022 “An Act Addressing Barriers to Care for Mental Health.” Available at https://malegislature.gov/Laws/SessionLaws/Acts/2022/Chapter177.
+4
+
+and upload the completed Excel file. The file name will be automatically generated by the “Save and Submit” button on the Front Page
+tab. If this format is not used, the file will not be accepted for submission.
+If data submitters require a new username and password, please complete a User Agreement for Insurance Carriers and email the
+completed form to DL-Data-Submitter-HelpDesk@chiamass.gov. For technical issues, please email DL-Data-Submitter-
+HelpDesk@chiamass.gov. For additional questions about timelines or data submission requirements, please reach out to Erin Bonney at
+Erin.Bonney@chiamass.gov.
+Payers will submit PCBH information in accordance with regulation 957 CMR 2.00 on the following schedule:
+Date Files Due
+October 15, 2025 Required
+• CY 2024 Final PCBH
+Data Validation and Verification
+Within the template, Tab E automatically calculates totals with data entered in Tabs C and D. It is the responsibility of the data
+submitter to review this summarized information for accuracy before submitting the data to CHIA. In addition, the total expenditures
+for a given physician group should equal the total expenditures for that same physician group as reported in the Total Medical
+Expenses/Alternative Payment Methods (TME-APM) submission. CHIA will compare the totals reported in the PCBH data file and
+the TME-APM data file to confirm consistency.
+4. Data Submission Guidelines
+4a. Overview
+In accordance with 957 CMR 2.00, payers must report expenditures, including claims and non-claims-based payments, made to
+providers for their member populations. These expenditures will be reported by mutually exclusive mental health (MH), substance use
+disorders (SUD), primary care, or other service categories using the detailed code sets provided by CHIA. Expenditures will be
+attributed to the members managing physician group, as applicable, regardless of whether that physician group delivered the services.
+5
+
+Expenses in the PCBH data submission should separately include incurred amount and member cost-sharing. For claims-based
+spending, the sum of the total payer liability and member cost share columns should equal allowed claims. Payers should include only
+information pertaining to Massachusetts residents, members for which they are the primary payer, and exclude any paid claims for
+which it was the secondary or tertiary payer. Allowed claims should not be capped or truncated and should represent claims prior to the
+impact of any reinsurance.
+When reporting non-claims payments by the mental health, substance use disorders, primary care, or all other services categories, payers
+should make determinations based on their contracts to report non-claims payments into the appropriate service area and non-claims
+specific category. For payments that are unable to be separated out into mental health, substance use disorders, or primary care, the “all
+other services” category should be used. For payments that may combine or be related to the provision of both primary care and mental
+health and substance use disorders, payers should apportion or allocate payments into the primary care, mental health, and substance use
+disorders service types; these payments should not be double counted. For all other non-claims payments that do not fall into one of the
+aforementioned categories, the “all other services” category may be used.
+When reporting capitation arrangements, payers should use fee-for-service (FFS) equivalents rather than reporting the arrangements
+within the Non-Claims categories. Any balance can be included in the Non-Claims field.
+Physician Group Guidelines
+• Payers shall report Primary Care & Behavioral Health expenditures by Physician Group according to the following categorization of
+Massachusetts resident members as of December 31st of the reporting year. Member months and spending for members who were
+attributed to more than one physician group in a calendar year should be allocated based on the number of months associated with
+each physician group:
+1. Massachusetts members required to select a primary care provider (PCP) by plan design (as reported in all previous TME
+filings)
+2. Members not included in (1) who were attributed during the reporting year to a PCP, pursuant to a risk contract between
+the payer and provider.
+6
+
+3. Members not included in (1) or (2), attributed to a PCP by the payer’s own attribution methodology3
+4. Members not attributable to a PCP (aggregate line)
+• Payers must calculate and report Primary Care & Behavioral Health expenses by Physician Group for any Physician Group for which
+the payer has 36,000 Massachusetts resident member months or more for the specified reporting period. The number of member
+months is determined by summing the total member months for a given product type and insurance category for the Physician
+Group. Payers must report the CHIA numeric identifier, the “OrgID,” for all Physician Groups. Refer to Appendix A, Physician
+Group OrgID List, for this identifier.
+• Data must be reported in aggregate for all practices in which the Physician Group’s member months are below 36,000. This group is
+to be identified as “Groups below minimum threshold” with an OrgID of 999996.
+• Payers must report all incurred and member cost-sharing amounts for members regardless of whether services are provided by
+providers located in Massachusetts.
+Mutually Exclusive Guidelines
+As outlined on pages 43 to 44 of the data specification manual, there is an established hierarchical structure for the allocation of
+spending through the mental health, SUD, primary care, and all other service categories. Allocation of spending should be distinct
+and mutually exclusive. For example, claims marked as MH ED/Observation should not appear in the MH Outpatient category.
+Facility Claims Guidelines
+For claims categorized to the MH/SUD Inpatient, MH/SUD Emergency Department/Observation, and MH/SUD outpatient facility
+categories, the logic requires that the entire claim, including all claim lines, be attributed to the same service category. In the example
+provided below (sourced from CHIA’s E-APCD data warehouse), although claim line 4 was the only claim line related with Emergency
+Department/Observation facility, spending for the entire claim should be reported in the Emergency Department/Observation service
+category.
+3 Chapter 224 of the Acts of 2012 amended chapters 175 and 176 of the Massachusetts General Laws (M.G.L.) to stipulate that “to the maximum extent possible
+[carriers] shall attribute every member to a primary care provider.” Please see M.G.L. C. 175 §108L, C. 176A §36, C. 176B §23, C. 176G §31 , and C. 176J §16.
+7
+
+4b. Capturing Behavioral Health Spending in Primary Care
+Payers shall report payments identified in the following three categories to capture behavioral health services delivered in primary care
+settings
+• MH Outpatient: Primary Care Provider
+• SUD Outpatient: Primary Care Provider
+• Primary Care Behavioral Health Screening
+Payments reported in each of these categories should be distinct from each other and not overlap. Payments should only include
+professional claims. Payments reported in each of these categories will be summed to calculate Behavioral Health Spending in Primary
+Care.
+Payments reported in these categories also should be distinct from and not overlap other MH, SUD, or Primary Care categories. Payments
+reported as MH Primary Care will be summed with other MH payments to calculate total spending on Mental Health services. Payments
+reported as SUD Primary Care will be summed with other SUD payments to calculate total spending on Substance Use Disorder services.
+4c. Capturing Primary Care Facility Claims
+CHIA is including facility claims associated with free-standing or provider-based federally qualified health centers (FQHCs) and
+outpatient hospital primary care delivery.
+1. Outpatient Hospital Primary Care Delivery: To identify split claims billing for primary care practices owned by a hospital, please
+complete the following steps:
+8
+
+a. Identify professional claims using the CHIA methodology that include place of service codes 19 (Off campus outpatient
+hospital) and 22 (on campus outpatient hospital). Note: These place of service codes are already included in CHIA’s primary
+care place of service code set.
+b. For these professional claims where an office or wellness visit is coded with place of service 19 or 22 include facility claims that
+meet the following criteria to identify primary care facility spend:
+i. Claim is for the same member, payer, and date of service.
+ii. The type of bill is Outpatient Hospital (13) A hospital outpatient clinic visit for assessment and management of a
+patient (G0463) is identified. Note: This office type visit is included in CHIA’s primary care services code set.
+iii. A hospital outpatient clinic visit for assessment and management of a patient (G0463) is identified. Note: This office
+type visit is included in CHIA’s primary care services code set.
+c. Include the spending associated with the service line for G0463.
+2. Federally Qualified Health Center Primary Care Delivery: To identify facility claims where primary care has been provided by free-
+standing or provider-based FQHCs, please complete the following steps:
+a. Limit claims to those with a type of bill code that starts with 77.
+b. Include only claims with HCPCS codes listed in CHIA’s primary care services (CPT PC) code set.
+c. Include claims where the attending provider is listed in CHIA’s primary care provider types code set.
+4d. Capturing Primary Care Minor Procedures Spending and Member Months
+The codes listed below are intended to be used as guides and may not be exhaustive of all codes related to Primary Care Minor
+Procedures. Please use the codes below to fill out Table A.3 Primary Care Minor Procedures on the front page of CHIA’s payer
+submission template for commercial – full claims, commercial – partial claims, Medicaid MCO/ACO-A, Medicare Advantage, SCO,
+OneCare, and PACE business where applicable.
+Examples of the codes below for Primary Care Minor Procedures include lesion removal, drainage of cyst, wound repair, application of
+splints strapping, minor acne surgery, and other minor dermatological procedures often performed in the primary care context.
+The following Primary Care Minor Procedure CPT codes are also listed on Tab 10 of the Primary Care and Behavioral Health
+Supplemental Data Code List and Crosswalk:
+• 10040, 10060, 10061, 10080, 10081, 10120, 10121, 10140, 10160, 10180, 11000, 11055, 11056, 11102, 11103, 11104, 11105,
+11106, 11107, 11200, 11201, 11300, 11301, 11302, 11303, 11305, 11306, 11307, 11308, 11310, 11311, 11312, 11313, 11400,
+11401, 11402, 11403, 11404, 11406, 11420, 11421, 11422, 11423, 11424, 11426, 11440, 11441, 11442, 11443, 11444, 11446,
+9
+
+11719, 11720, 11721, 11730, 11732, 11740, 11750, 11765, 11900, 11901, 11976, 11981, 11982, 11983, 12002, 12004, 12005,
+12006, 12007, 12011, 12013, 12014, 12015, 12016, 12017, 12018, 12020, 12021, 12031, 12032, 12034, 12035, 12036, 12037,
+12041, 12044, 12045, 12046, 12047, 12051, 12052, 12053, 12054, 12055, 12056, 12057, 13160, 16020, 17106, 17107, 17108,
+19000, 20520, 20550, 20551, 20552, 20553, 20600, 20604, 20605, 20606, 20610, 20611, 20612, 24640, 27096, 29105, 29125,
+29126, 29130, 29131, 29200, 29240, 29260, 29280, 29505, 29515, 29520, 29530, 29540, 29550, 29581, 29584, 30300, 30901,
+30903, 30905, 30906, 36410, 36415, 36416, 40804, 40805, 46600, 51702, 51798, 57170, 58300, 58301, 69200, 69209, 69210,
+86580, 87205, 92551, 92552, 92558, 92567, 92587, 92588, 93000, 93005, 93010, 93015, 93040, 93268, 93784, 94010, 94014,
+94015, 94016, 94060, 94070, 94375, 94640, 94664, 94760, 94761, 95004, 95017, 95018, 95024, 95027, 95028, 95044, 95056,
+95060, 95065, 95070, 95115, 95117, 97597, 97602, 97802, 98970, 98971, 98972, 99188, 99459, S0622, S4981
+4e. Capturing Primary Care Lab Test Spending and Member Months
+The codes listed below are intended to be used as guides and may not be exhaustive of all codes related to Primary Care Lab Tests. Please
+utilize the code list below to fill out Table A.4 Primary Care Labs on the front page of CHIA’s payer submission template for commercial
+– full claims, commercial – partial claims, Medicaid MCO/ACO-A, Medicare Advantage, SCO, OneCare, and PACE business where
+applicable.
+Examples of the codes below for Primary Care Labs include HbA1c testing, lipid panel blood tests, assay of lead, and other lab tests
+often performed in the primary care context.
+The following Primary Care Lab Test CPT codes are also listed on Tab 11 of the Primary Care and Behavioral Health Supplemental Data
+Code List and Crosswalk:
+• 80061, 80053, 83036, 81000, 81001, 81025, 82044, 82270, 82272, 82465, 82947, 82948, 82950, 82962, 83655, 83718, 85013,
+85014, 85018, 87880
+4f. Capturing Telehealth Spending
+The codes listed below are intended to be used as guides and may not be exhaustive of all codes related to telehealth. If additional codes
+are used by a payer to capture telehealth spending, these codes should be included in calculations for telehealth related spending in
+PCBH submissions. To ensure all spending related to telehealth is captured, please refer to your organization’s internal methodology. •
+Place of Service (POS) code 02, 10
+10
+
+• Modifiers: 93, 95, GT, GQ, G0, FQ, FR
+• CPT codes: 98966-98968, 98970-98972, 99091, 99201-99205, 99211-99215, 99421-99423, 99441-99443, 99453, 99454, 99457,
+99458, 99473, 99474
+• HCPCS codes: G0071, G0406, G0407, G0408, G0425, G0426, G0427, G0459, G0508, G0509, G2010, G2012, G2025, G2061,
+G2062, G2063, Q3014, T1014
+11
+
+5. Data Dictionary
+Data Element
+Tab Col Type Format Element Submission Guideline
+Name
+Front Page Payer Name Text Text Name of the Payer.
+Front Page Payer OrgID Integer ######## This is the Payer’s OrgID. This must match the Submitter’s OrgID.
+Front Page Submission Year Date YYYY Year in which the file is being submitted.
+Date YYYY
+Front Page Reporting Years Year for which Behavioral Health and Primary Care data is being reported.
+Period
+Claims Paid Date MMDDYYYY
+Front Page Date of claims data runout. At least 90 days of claims runout is required.
+Through Date Period
+Confirm that the reported members are limited only to Massachusetts residents.
+Front Page MA residents only? Text Text
+Response must be ‘yes’ or ‘no’.
+12
+
+Data Element
+Tab Col Type Format Element Submission Guideline
+Name
+Confirm that the reported members are limited only to members for whom the payer is
+the primary payer.
+Front Page Primary Payer only? Text Text
+Response must be ‘yes’ or ‘no’.
+Free Text
+Front Page Comments Text Additional file comments.
+Comments
+For commercial – full claims, commercial – partial claims, Medicaid MCO/ACO-A,
+Medicare Advantage, SCO, OneCare, and PACE business only, complete the table
+with member months and spending where applicable.
+Examples of the codes below for Primary Care Minor Procedures include lesion
+removal, drainage of cyst, wound repair, application of splints strapping, minor acne
+surgery, and other minor dermatological procedures often performed in the primary
+care context.
+CPT’s for Primary Care Procedures are included below and listed on Tab 10 of the
+Primary Care and Behavioral Health Supplemental Data Code List and Crosswalk:
+10040, 10060, 10061, 10080, 10081, 10120, 10121, 10140, 10160, 10180, 11000, 11055,
+11056, 11102, 11103, 11104, 11105, 11106, 11107, 11200, 11201, 11300, 11301, 11302,
+11303, 11305, 11306, 11307, 11308, 11310, 11311, 11312, 11313, 11400, 11401, 11402,
+Primary Care Minor
+Front Page Integer # 11403, 11404, 11406, 11420, 11421, 11422, 11423, 11424, 11426, 11440, 11441, 11442,
+Procedures
+11443, 11444, 11446, 11719, 11720, 11721, 11730, 11732, 11740, 11750, 11765, 11900,
+11901, 11976, 11981, 11982, 11983, 12002, 12004, 12005, 12006, 12007, 12011, 12013,
+12014, 12015, 12016, 12017, 12018, 12020, 12021, 12031, 12032, 12034, 12035, 12036,
+12037, 12041, 12044, 12045, 12046, 12047, 12051, 12052, 12053, 12054, 12055, 12056,
+12057, 13160, 16020, 17106, 17107, 17108, 19000, 20520, 20550, 20551, 20552, 20553,
+20600, 20604, 20605, 20606, 20610, 20611, 20612, 24640, 27096, 29105, 29125, 29126,
+29130, 29131, 29200, 29240, 29260, 29280, 29505, 29515, 29520, 29530, 29540, 29550,
+29581, 29584, 30300, 30901, 30903, 30905, 30906, 36410, 36415, 36416, 40804, 40805,
+46600, 51702, 51798, 57170, 58300, 58301, 69200, 69209, 69210, 86580, 87205, 92551,
+92552, 92558, 92567, 92587, 92588, 93000, 93005, 93010, 93015, 93040, 93268, 93784,
+94010, 94014, 94015, 94016, 94060, 94070, 94375, 94640, 94664, 94760, 94761, 95004,
+95017, 95018, 95024, 95027, 95028, 95044, 95056, 95060, 95065, 95070, 95115, 95117,
+97597, 97602, 97802, 98970, 98971, 98972, 99188, 99459, S0622, S4981
+13
+
+For commercial – full claims, commercial – partial claims, Medicaid MCO/ACO-A,
+Medicare Advantage, SCO, OneCare, and PACE business only, complete the
+table with member months and spending where applicable.
+Examples of the codes below for Primary Care Lab Tests include HbA1c
+testing, lipid panel blood tests, assay of lead, and other lab tests often
+Primary Care Lab
+Front Page Integer # performed in the primary care context.
+Tests
+CPT’s for Primary Care Lab Tests are included below and listed on Tab 11 of the
+Primary Care and Behavioral Health Supplemental Data Code List and Crosswalk:
+80061, 80053, 83036, 81000, 81001, 81025, 82044, 82270, 82272, 82465,
+82947, 82948, 82950, 82962, 83655, 83718, 85013, 85014, 85018, 87880
+Supp
+Telehealth A Reporting Year Integer #### Year for which data is being reported.
+Data
+Indicates the insurance category that is being reported:
+1 = Medicare & Medicare Advantage
+2 = Medicaid (e.g., MCO, ACO-A)
+3 = Commercial: Full-Claim
+4 = Commercial: Partial-Claim
+5 = SCO
+Supp
+6 = OneCare
+Telehealth B Insurance Category Integer #
+7 = PACE
+Data
+8 = Other
+Value must be an integer between ‘1’ and ‘8’.
+For payers reporting in the “Other” category, payers should report in the comments
+field on the front tab what is included in the “Other” category.
+14
+
+Data Element
+Tab Col Type Format Element Submission Guideline
+Name
+Type of Service
+1 = Mental Health
+Supp 2 = Substance Use Disorders
+Telehealth C Service Type Integer # 3 = Primary Care
+Data 4 = All Other Services
+No negative values.
+Supp
+Telehealth
+Telehealth D Integer # Telehealth expenditures as defined in section 4c.
+Expenditures
+Data
+Expenditures
+A Submission Type Text Flag F = Final
+Data
+Expenditures
+B Reporting Year Integer #### Year for which data is being reported.
+Data
+Physician Group OrgID.
+Expenditures Physician Group Must be a CHIA-issued OrgID.
+C Integer ######
+Data OrgID
+For aggregation of sites that fall below the threshold, use OrgID 999996.
+15
+
+Data Element
+Tab Col Type Format Element Submission Guideline
+Name
+Indicates the insurance category that is being reported:
+1 = Medicare & Medicare Advantage
+2 = Medicaid (e.g., MCO, ACO-A)
+3 = Commercial: Full-Claim
+4 = Commercial: Partial-Claim
+5 = SCO
+Expenditures
+D Insurance Category Integer # 6 = OneCare
+Data
+7 = PACE
+8 = Other
+Value must be an integer between ‘1’ and ‘8’.
+For payers reporting in the “Other” category, payers should report in the comments
+field on the front tab what is included in the “Other” category.
+Indicates the product type that is being reported:
+1 = HMO
+2 = PPO
+Expenditures
+E Product Type Integer # 3 = Indemnity
+Data
+4 = Other (e.g. EPO)
+5 = POS
+Value must be an integer between ‘1’ and ‘5’.
+16
+
+Data Element
+Tab Col Type Format Element Submission Guideline
+Name
+Indicates Primary Care Physician attribution:
+1 = Members required to select a PCP by plan design
+2 = Members attributed to a PCP during reporting period pursuant to payer – provider
+Expenditures
+F PCP Type Indicator Integer # risk contract
+Data
+3 = Members attributed to PCP by payer’s own attribution methodology
+4 = Members not attributed to a PCP
+Value must be an integer between ‘1’ and ‘4’.
+Indicates the age group of the population.
+1 = 0 – 17
+Expenditures 2 = 18 – 64
+Data
+G Age Group Integer #
+3 = 65+
+Value must be an integer between ‘1’ and ‘3’.
+Indicates provider is a MassHealth Accountable Care Organization (ACO).
+MassHealth
+Expenditures
+H
+Accountable Care
+Integer # 0 = not an ACO or no Medicaid business, 1= ACO
+Data Organization
+(ACO) Indicator
+Value must be either a ‘0’ or ‘1’.
+Indicates population in following columns reflects Group Insurance Commission (GIC)
+contract members.
+Group Insurance
+Expenditures
+I Commission (GIC) Integer #
+Data 0 = no GIC contract, 1= GIC contract
+Indicator
+Value must be either a ‘0’ or ‘1’.
+17
+
+Data Element
+Tab Col Type Format Element Submission Guideline
+Name
+Type of Service
+1 = Mental Health
+2 = Substance Use Disorders
+Expenditures
+J Service Type Integer # 3 = Primary Care
+Data
+4 = All Other Services
+No negative values.
+Specific category of spending. See category descriptions for additional detail and
+Appendix B for applicable code lists
+11 = MH Inpatient
+12 = MH ED/Observation
+13 = MH Outpatient: PC Provider
+14 = MH Outpatient: Non-PC Provider
+15 = MH Prescription Drugs
+21 = SUD Inpatient
+22 = SUD ED/Observation
+23 = SUD Outpatient: PC Provider
+Expenditures Spending Service
+K Integer ## 24 = SUD Outpatient: Non-PC Provider
+Data Category
+25 = SUD Prescription Drugs
+31 = PC Office Visit
+32 = PC Home/Nursing Facility Visit
+33 = PC Behavioral Health Screening
+34 = PC Preventive Visit
+35 = PC Other Primary Care Visit
+36 = PC Immunization and Injection
+37 = PC Obstetric Visit
+41 = Other Medical
+42 = Other Prescription Drugs
+51 = Non-Claims: Population Health and Practice Infrastructure Payments
+18
+
+52 = Non-Claims: Performance Payments
+53 = Non-Claims: Shared Savings Payments and Recoupments
+54 = Non-Claims: Capitation and Full Risk Payments
+55 = = Non-Claims: Other Payments
+No negative values. For payers reporting in the “Other Medical” or “Non-Claims:
+Other Payments” categories, payers should report in the comments field on the front
+tab what is included in these categories.
+Type of Provider rendering services reflected in columns K and L. See provider
+descriptions for additional detail, and Appendix B for specific code sets
+1 = Facility
+Expenditures
+L Provider Type Integer # 2 = Professional: Physician
+Data
+3 = Professional: Other
+4 = No Provider
+No negative values.
+Total incurred expenses/ payer paid amounts for service category spending by a
+particular type of provider by service type as designated in columns L-N, for all
+Expenditures:
+allowed claims and non-claims. This should include (be gross of) CSR subsidies for
+Expenditures ConnectorCare members.
+M Incurred Expenses Number #######
+Data
+(Payer Liability)
+No negative values for claims-based expenses. Negative values allowed for non-claims
+spending service categories only.
+Total member cost share/member paid amounts for service category spending by a
+Expenditures Expenditures: particular type of provider by service type as designated in columns L-N
+N Number #######
+Data Member Cost Share
+No negative values.
+Member
+A Submission Type Text Flag F = Final
+Months Data
+Member
+B Reporting Year Integer #### Year for which data is being reported.
+Months Data
+19
+
+Data Element
+Tab Col Type Format Element Submission Guideline
+Name
+Physician Group OrgID.
+Member Physician Group Must be a CHIA-issued OrgID.
+C Integer ######
+Months Data OrgID
+For aggregation of sites that fall below the threshold, use OrgID 999996.
+Indicates the insurance category that is being reported:
+1 = Medicare & Medicare Advantage
+2 = Medicaid (e.g., MCO, ACO-A)
+3 = Commercial: Full-Claim
+4 = Commercial: Partial-Claim
+5 = SCO
+Member
+D Insurance Category Integer # 6 = OneCare
+Months Data
+7 = PACE
+8 = Other
+Value must be an integer between ‘1’ and ‘8’.
+For payers reporting in the “Other” category, payers should report in the comments
+field on the front tab what is included in the “Other” category.
+Indicates the product type that is being reported:
+1= HMO
+2 = PPO
+Member
+E Product Type Integer # 3 = Indemnity
+Months Data
+4 = Other (e.g. EPO)
+5 = POS
+Value must be an integer between ‘1’ and ‘5’.
+20
+
+Data Element
+Tab Col Type Format Element Submission Guideline
+Name
+Indicates Primary Care Physician attribution:
+1 = Members required to select a PCP by plan design
+Member
+2 = Members attributed to a PCP during reporting period pursuant to payer – provider
+F PCP Type Indicator Integer # risk contract
+Months Data
+3 = Members attributed to PCP by payer’s own attribution methodology
+4 = Members not attributed to a PCP
+Value must be an integer between ‘1’ and ‘4’.
+Indicates the age group of the population.
+1 = 0-17
+Member
+G Age Group Integer # 2 = 18-64
+Months Data
+3 = 65+
+Value must be an integer between ‘1’ and ‘3’.
+MassHealth Indicates provider is a MassHealth Accountable Care Organization (ACO).
+Member Accountable Care 0 = not an ACO or no Medicaid business, 1= ACO
+H Integer #
+Months Data Organization
+(ACO) Indicator Value must be either a ‘0’ or ‘1’.
+Indicates population in following columns reflects Group Insurance Commission
+(GIC) contract members.
+Group Insurance
+Member
+I Commission (GIC) Integer #
+Months Data 0 = no GIC contract, 1= GIC contract
+Indicator
+Value must be either a ‘0’ or ‘1’.
+The number of members participating in a plan over a specified period of time
+Member expressed in months of membership.
+J Member Months Integer #########
+Months Data
+No negative values.
+21
+
+Data Element
+Tab Col Type Format Element Submission Guideline
+Name
+The number of members participating in a plan over a specified period of time
+expressed in months of membership, that had a Mental Health principal diagnosis at any
+Member MH Member
+K Integer ######### point during the reporting year.
+Months Data Months
+No negative values.
+The number of members participating in a plan over a specified period of time
+expressed in months of membership, that had a Substance Use Disorder principal
+Member SUD Member
+L Integer ######### diagnosis at any point during the reporting year.
+Months Data Months
+No negative values.
+The summary tab will automatically populate with data from data entry for
+No payer data entry Expenditures Data and Member Months Data. Please review this tab prior to
+Summary -
+needed
+- -
+submitting data to CHIA to confirm that totals and trends are correct.
+5a. Field Definitions
+Tab A: Front Page
+Table A.1: File Overview
+• Payer Name: The name of the reporting payer
+• Payer OrgID: The CHIA-assigned organization ID for the payer or carrier submitting the file.
+• Submission Year: Year in which the data is submitted (e.g., 2025)
+• Reporting Year: Year for which Primary Care & Behavioral Health data is being reported (e.g., 2024)
+• Claims Paid Through Date: Date for which Primary Care & Behavioral Health claims data is paid through.
+22
+
+Table A.2: Additional Data Confirmation
+• Massachusetts residents only? Confirm that the reported data include Massachusetts residents only.
+• Primary payer only? Confirm that the reported data include only claims data for which the payer was the primary payer, exclude
+any paid claims for which they were the secondary or tertiary payer.
+• Comments: Payers may use this field to provide any additional information or describe any data caveats for the PCBH file.
+Table A.3: Primary Care Minor Procedures
+• The primary care minor procedures table below should be completed by payers with commercial – full claim, commercial – partial
+claim, Medicaid MCO/ACO-A, Medicare Advantage, SCO, OneCare, and PACE business only. Examples of the codes listed on
+page 13 of the data dictionary above for Primary Care Minor Procedures include lesion removal, drainage of cyst, wound repair,
+application of splints strapping, minor acne surgery, and other minor dermatological procedures often performed in the primary
+care context. Please report total spending and member months by year and insurance category, as applicable, for
+Primary Care Minor Procedures in the submission template.
+Table A.3 Primary Care Minor Procedures
+Insurance Category CY 2022 Spending CY 2022 MMs CY 2023 Spending CY 2023 MMs CY 2024 Spending CY 2024 MMs
+Commercial - Full Claims
+Commercial - Partial Claims
+Medicaid MCO/ACO-A
+Medicare Advantage
+SCO
+OneCare
+PACE
+Other
+Table A.4: Primary Care Lab Tests
+• The primary care lab tests table below should be completed by payers with commercial – full claim, commercial – partial claim,
+Medicaid MCO/ACO-A, Medicare Advantage, SCO, OneCare, and PACE business only. Examples of the codes listed on page
+14 of the data dictionary above for Primary Care Lab Tests include HbA1c testing, lipid panel blood tests, assay of lead, and other lab
+23
+
+tests often performed in the primary care context. Please report total spending and member months by year and insurance category,
+as applicable, for Primary Care Lab Tests in the submission template.
+Table A.4 Primary Care Lab Tests
+Insurance Category CY 2022 Spending CY 2022 MMs CY 2023 Spending CY 2023 MMs CY 2024 Spending CY 2024 MMs
+Commercial - Full Claims
+Commercial - Partial Claims
+Medicaid MCO/ACO-A
+Medicare Advantage
+SCO
+OneCare
+PACE
+Other
+Tab B: Supplemental Telehealth Data
+• Reporting Year: Indicates the year for which the data is being reported.
+• Insurance Category: A number that indicates the insurance category being reported.
+Insurance
+Definition
+Category Code
+1 Medicare & Medicare Advantage
+2 Medicaid (e.g., MCO, ACO-A)
+3 Commercial – Full Claims
+4 Commercial – Partial Claims
+5 SCO
+6 OneCare
+7 PACE
+8 Other
+24
+
+• Service Type: A number that reflects the category of services being reported
+Service Type Definition
+1 Mental Health
+2 Substance Use Disorders
+3 Primary Care
+4 All Other Services
+• Telehealth Expenditures: Telehealth expenditures as defined in section 4c.
+Tab C: Expenditures Data Tab
+• Submission Type: Indicates that the file contains final PCBH reporting period.
+• Reporting Year: Indicates the year for which the data is being reported.
+• Physician Group OrgID: The CHIA-assigned OrgID of the Physician Group. This may be the parent organization of one or more
+Local Practice Groups. For “Groups below minimum threshold”, data should be reported using aggregate OrgID 999996.
+• Insurance Category: A number that indicates the insurance category that is being reported. Commercial claims should be separated
+into two categories, as shown below. Commercial self-insured or fully insured data for physicians’ groups for which the payer is
+able to collect information on all direct medical claims and subcarrier claims should be reported in the “Full Claims” category.
+Commercial data that does not include all medical and subcarrier claims should be reported in the “Partial Claims” category. Payers
+shall report for all insurance categories for which they have business, even if those categories do not meet the member month
+threshold. Stand-alone Medicare Part D Prescription Drug Plan members and payments should not be reported in the data. For payers reporting in
+the “Other” category, payers should report in the comments field on the Front Tab what is included in the “Other” category.
+Insurance
+Definition
+Category Code
+1 Medicare & Medicare Advantage
+2 Medicaid (e.g., MCO, ACO)
+25
+
+Insurance
+Definition
+Category Code
+3 Commercial – Full Claims
+4 Commercial – Partial Claims
+5 SCO
+6 OneCare
+7 PACE
+8 Other
+• Product Type: The product type under the insurance category reported.
+Product Type
+Definition
+Code
+1 HMO
+2 PPO
+3 Indemnity
+4 Other
+5 POS
+• PCP Type Indicator: The method used to attribute members to a specific physician group.
+PCP Indicator Definition
+1 Data for members who select a PCP as part of plan design
+Data for members who are attributed to a PCP during reporting period pursuant to
+2
+payer-provider risk contract
+Data for members who are attributed to a PCP by payer’s own attribution
+3
+methodology
+26
+
+PCP Indicator Definition
+4 Data for members who are not attributed to a PCP
+• Age Group: Indicates the age of the population reported.
+Age Group Definition
+1 0-17
+2 18-64
+3 65+
+• MassHealth ACO Indicator: Indicates if the Local Practice Group is part of the MassHealth Accountable Care Organization
+(ACO) program. The ACO indicator should be used to report these groups. Payers with no Medicaid business should report a “0”
+for all providers.
+ACO Indicator Definition
+0 Not an ACO or no Medicaid business
+1 ACO
+• Group Insurance Commission (GIC) Indicator: Indicates the member population covered under a contract with the Group
+Insurance Commission. Payers with no GIC membership should report a “0” for all providers.
+GIC Indicator Definition
+0 Non-GIC population
+1 GIC population
+27
+
+Service Categories
+General definitions of each service category are described below; however, payers should classify claims-based expenditures based on the
+standard code sets provided by CHIA; coding logic and summaries of these sets are included in Appendix D. A reference table of all codes
+is included in Appendix B. Expenditures shall be categorized into mutually-exclusive, hierarchal categories that distinguish: (1) Mental
+Health Services, (2) Substance Use Disorder Services, (3) Primary Care Services and (4) All Other Services. Note that not all categories will
+be applicable to each reported Physician Group; data submitters should only report lines for service categories that had expenditures.
+Service categories for non-claims payments are included in each service type. If non-claims based payments cannot be attributed to mental
+health, substance use disorders, or primary care service categories, all non-claims payments should be reported in the appropriate All
+Other Services non-claims categories.
+Mental Health (MH): Mental health services are classified based on ICD-10-CM Principal Diagnosis Code and combinations of Current
+Procedure Terminology (CPT) Codes, Revenue Codes and Place of Service (POS) Codes. The logic for classifying MH services delivered
+in a Primary Care (PC) setting also includes restriction by Provider Type. Data submitters will report expenses within the following
+mutually exclusive spending service categories, based on logic outlined in Appendix D.
+• MH Inpatient: All payments made for claims associated with services provided at an acute or non-acute inpatient facility with a
+mental health principal diagnosis.
+• MH Emergency Department and Observation: All payments made for emergency or observation services in an acute or
+nonacute facility for claims with a mental health principal diagnosis.
+• MH Outpatient: Primary Care Provider: Payments for outpatient MH face-to-face and telehealth services, including evaluation
+and management and integrated mental health primary care services, with a mental health diagnosis and delivered by a primary
+care provider included in Appendix D. Ancillary services should be excluded.
+• MH Outpatient: Non-Primary Care Provider: Payments for outpatient MH specific services, including evaluation and
+management, intensive outpatient services, and other diversionary care and residential treatment with a mental health principal
+diagnosis, not included in MH Emergency Department and Observation and delivered by any provider type except primary care.
+This category excludes care classified as MH Emergency Department and Observation and MH Primary Care. Ancillary services
+should be excluded.
+28
+
+• MH Prescription Drugs: All payments made for prescription drugs prescribed to address mental health needs, based on the
+specified set of National Drug Codes (NDC) listed in Appendix B.
+• Non-Claims Population Health and Practice Infrastructure Payments: All prospective, non-claims payments paid to
+healthcare providers or organizations to support specific care delivery goals; not tied to performance metrics. Does not include
+costs associated with payer personnel, payer information technology systems or other internal payer expenses. Examples include
+but are not limited to payments for care management, care coordination, population health, medication reconciliation, primary care
+and behavioral health integration, social care integration, practice transformation, or EHR/HIT infrastructure and other data
+analytics payments.
+• Non-Claims Performance Payments: All bonus payments paid to healthcare providers or organizations for reporting data or
+achieving specific goals for quality, cost reduction, equity, or another performance achievement domain. Examples include but are
+not limited to retrospective and/or prospective incentive payments for pay-for reporting or pay-for performance.
+• Non-Claims Shared Savings Payments and Recoupments: All payments to healthcare providers or organizations (or recouped
+from healthcare providers or organizations) based on performance relative to a defined spending target. Shared savings payments
+and recoupments can be associated with different types of budgets, including but not limited to episode of care and total cost of
+care. Dollars reported in this category should reflect only the non-claims shared savings payment or recoupment, not the fee-for-
+service component. Recouped dollars should be reported as a negative value. Examples include but are not limited to procedure-
+related, episode-based payments with shared savings or risk of recoupments, condition-related, episode-based payments with
+shared savings or risk of recoupments, or risk for total cost of care with shared savings or risk of recoupments.
+• Non-Claims Capitation and Full Risk Payments: All per capita, non-claims payments paid to healthcare providers or
+organizations to provide a defined set of services to a designated population of patients over a defined period of time. Examples
+include but are not limited to payments for primary care capitation, professional capitation, facility capitation, behavioral health
+capitation, global capitation, or payments to integrated, comprehensive payment and delivery systems.
+• Non-Claims Other Payments: Any other payments to a healthcare provider or organization not made on the basis of a claim for
+health care benefits and/or services that cannot be properly classified elsewhere. This may include retroactive denials,
+overpayments, and payments made as the result of an audit.
+29
+
+Service Service Category Definition
+Category
+Code
+11 MH Inpatient
+12 MH Emergency Department-Observation
+13 MH Outpatient: PC Provider
+14 MH Outpatient: Non-PC Provider
+15 MH Prescription Drugs
+51 Non-Claims: Population Health and Practice
+Infrastructure Payments
+52 Non-Claims: Performance Payments
+53 Non-Claims: Shared Savings Payments and Recoupments
+54 Non-Claims: Capitation and Full Risk Payments
+55 Non-Claims: Other Payments
+Substance Use Disorders (SUD): SUD services are classified based on ICD-10-CM Principal Diagnosis Code and combinations of Current
+Procedure Terminology (CPT) Codes, Revenue Codes, Place of Service (POS) Codes, and Provider Types. Data submitters will report
+expenses within the following mutually-exclusive spending service categories, based on logic outlined in Appendix D.
+• SUD Inpatient: All payments made for claims associated with services provided at an acute or non-acute inpatient facility with a
+SUD principal diagnosis.
+• SUD Emergency Department and Observation: All payments made for emergency or observation services in an acute or
+nonacute facility for claims with a SUD principal diagnosis.
+30
+
+• SUD Outpatient: Primary Care Provider: Payments for certain outpatient face-to-face and telehealth services, including
+evaluation and management and integrated SUD primary care services, with a SUD diagnosis and delivered by a primary care
+provider included in Appendix D. Ancillary services should not be included.
+• SUD Outpatient: Non-Primary Care Provider: Payments for SUD specific services, including evaluation and management,
+intensive outpatient services, medication assisted treatment, and other diversionary care and residential treatment with a SUD
+principal diagnosis, not included in SUD Emergency Department and Observation and delivered by any provider type except
+primary care. This category excludes care classified as SUD Emergency Department and Observation and SUD Primary Care.
+Ancillary services should not be included.
+• SUD Prescription Drugs: All payments made for prescription drugs prescribed to address SUD needs, based on the specified set
+of National Drug Codes (NDC) listed in Appendix B.
+• Non-Claims Population Health and Practice Infrastructure Payments: All prospective, non-claims payments paid to
+healthcare providers or organizations to support specific care delivery goals; not tied to performance metrics. Does not include
+costs associated with payer personnel, payer information technology systems or other internal payer expenses. Examples include
+but are not limited to payments for care management, care coordination, population health, medication reconciliation, primary care
+and behavioral health integration, social care integration, practice transformation, or EHR/HIT infrastructure and other data
+analytics payments.
+• Non-Claims Performance Payments: All bonus payments paid to healthcare providers or organizations for reporting data or
+achieving specific goals for quality, cost reduction, equity, or another performance achievement domain. Examples include but are
+not limited to retrospective and/or prospective incentive payments for pay-for reporting or pay-for performance.
+• Non-Claims Shared Savings Payments and Recoupments: All payments to healthcare providers or organizations (or recouped
+from healthcare providers or organizations) based on performance relative to a defined spending target. Shared savings payments
+and recoupments can be associated with different types of budgets, including but not limited to episode of care and total cost of
+care. Dollars reported in this category should reflect only the non-claims shared savings payment or recoupment, not the fee-for-
+service component. Recouped dollars should be reported as a negative value. Examples include but are not limited to procedure-
+31
+
+related, episode-based payments with shared savings or risk of recoupments, condition-related, episode-based payments with
+shared savings or risk of recoupments, or risk for total cost of care with shared savings or risk of recoupments.
+• Non-Claims Capitation and Full Risk Payments: All per capita, non-claims payments paid to healthcare providers or
+organizations to provide a defined set of services to a designated population of patients over a defined period of time. Examples
+include but are not limited to payments for primary care capitation, professional capitation, facility capitation, behavioral health
+capitation, global capitation, or payments to integrated, comprehensive payment and delivery systems.
+• Non-Claims Other Payments: Any other payments to a healthcare provider or organization not made on the basis of a claim for
+health care benefits and/or services that cannot be properly classified elsewhere. This may include retroactive denials,
+overpayments, and payments made as the result of an audit.
+Service Service Category Definition
+Category
+Code
+21 SUD Inpatient
+22 SUD Emergency Department-Observation
+23 SUD Outpatient: PC Provider
+24 SUD Outpatient: Non-PC Provider
+25 SUD Prescription Drugs
+51 Non-Claims: Population Health and Practice
+Infrastructure Payments
+52 Non-Claims: Performance Payments
+53 Non-Claims: Shared Savings Payments and Recoupments
+54 Non-Claims: Capitation and Full Risk Payments
+55 Non-Claims: Other Payments
+32
+
+Primary Care: Primary care will be identified based on CPT codes and Provider Types. Data submitters will report expenses not included
+in the above behavioral health service categories within the following mutually exclusive subcategories, based on logic outlined in
+Appendix D. All primary care spending categories should include professional claims payments and facility claims payments that meet
+inclusion criteria :
+• Office Type Visits3: All payments made for evaluation and management services, delivered in an office or other outpatient
+setting, including telehealth delivered by a primary care provider type included in Appendix D.
+• Home/Nursing Facility Visits: All payments made for evaluation and management services, delivered in the home, rest home,
+or nursing facility delivered by a primary care provider type included in Appendix D.
+• Behavioral Health Screening: All payments made for behavioral health screenings delivered by a primary care provider type
+included in Appendix D.
+• Preventive Visits4: All payments made for preventive medicine services, including exams, screenings, and counseling delivered by
+a primary care provider type included in Appendix D. Excludes payments already allocated to Behavioral Health Screening.
+• Other Primary Care Visits: All payments made for services, including initial Medicare enrollment visits, annual wellness visits,
+and chronic disease care delivered by a primary care provider type included in Appendix D.
+• Immunizations and Injections: All payments made for the administration of injections, infusions, and vaccines by a primary
+care provider type included in Appendix D.
+• Obstetric Visits3: All payments made for the components of routine obstetric care, as well as OB/GYN evaluation and
+management services.
+4 Services delivered by OB/GYN practitioners may be reported in this category only for procedure codes listed in the code set.
+33
+
+• Non-Claims Population Health and Practice Infrastructure Payments: All prospective, non-claims payments paid to
+healthcare providers or organizations to support specific care delivery goals; not tied to performance metrics. Does not include
+costs associated with payer personnel, payer information technology systems or other internal payer expenses. Examples include
+but are not limited to payments for care management, care coordination, population health, medication reconciliation, primary care
+and behavioral health integration, social care integration, practice transformation, or EHR/HIT infrastructure and other data
+analytics payments.
+• Non-Claims Performance Payments: All bonus payments paid to healthcare providers or organizations for reporting data or
+achieving specific goals for quality, cost reduction, equity, or another performance achievement domain. Examples include but are
+not limited to retrospective and/or prospective incentive payments for pay-for reporting or pay-for performance.
+• Non-Claims Shared Savings Payments and Recoupments: All payments to healthcare providers or organizations (or recouped
+from healthcare providers or organizations) based on performance relative to a defined spending target. Shared savings payments
+and recoupments can be associated with different types of budgets, including but not limited to episode of care and total cost of
+care. Dollars reported in this category should reflect only the non-claims shared savings payment or recoupment, not the fee-for-
+service component. Recouped dollars should be reported as a negative value. Examples include but are not limited to procedure-
+related, episode-based payments with shared savings or risk of recoupments, condition-related, episode-based payments with
+shared savings or risk of recoupments, or risk for total cost of care with shared savings or risk of recoupments.
+• Non-Claims Capitation and Full Risk Payments: All per capita, non-claims payments paid to healthcare providers or
+organizations to provide a defined set of services to a designated population of patients over a defined period of time. Examples
+include but are not limited to payments for primary care capitation, professional capitation, facility capitation, behavioral health
+capitation, global capitation, or payments to integrated, comprehensive payment and delivery systems.
+• Non-Claims Other Payments: Any other payments to a healthcare provider or organization not made on the basis of a claim for
+health care benefits and/or services that cannot be properly classified elsewhere. This may include retroactive denials,
+overpayments, and payments made as the result of an audit.
+34
+
+Service Service Category Definition
+Category
+Code
+31 PC Office Type Visits
+32 PC Home-Nursing Facility Visits
+33 PC Behavioral Health Screening
+34 PC Preventive Visit
+35 PC Other Primary Care Visits
+36 PC Immunizations and Injections
+37 PC Obstetric Visits
+51 Non-Claims: Population Health and Practice
+Infrastructure Payments
+52 Non-Claims: Performance Payments
+53 Non-Claims: Shared Savings Payments and
+Recoupments
+54 Non-Claims: Capitation and Full Risk Payments
+55 Non-Claims: Other Payments
+All Other Services: All other services paid for that are not classified as Behavioral Health or Primary Care. Data submitters will report
+expenses not included in the above behavioral health or primary care service categories within the following mutually-exclusive
+subcategories:
+Other Medical: All payments for claims based medical services, including facility and professional components not previously
+categorized as behavioral health or primary care.
+35
+
+• Other Prescription Drugs: All other payments made for prescription drugs not previously categorized as mental health or
+substance use disorders.
+• Non-Claims Population Health and Practice Infrastructure Payments: All prospective, non-claims payments paid to
+healthcare providers or organizations to support specific care delivery goals; not tied to performance metrics. Does not include
+costs associated with payer personnel, payer information technology systems or other internal payer expenses. Examples include
+but are not limited to payments for care management, care coordination, population health, medication reconciliation, primary care
+and behavioral health integration, social care integration, practice transformation, or EHR/HIT infrastructure and other data
+analytics payments.
+• Non-Claims Performance Payments: All bonus payments paid to healthcare providers or organizations for reporting data or
+achieving specific goals for quality, cost reduction, equity, or another performance achievement domain. Examples include but are
+not limited to retrospective and/or prospective incentive payments for pay-for reporting or pay-for performance.
+• Non-Claims Shared Savings Payments and Recoupments: All payments to healthcare providers or organizations (or recouped
+from healthcare providers or organizations) based on performance relative to a defined spending target. Shared savings payments
+and recoupments can be associated with different types of budgets, including but not limited to episode of care and total cost of
+care. Dollars reported in this category should reflect only the non-claims shared savings payment or recoupment, not the fee-for-
+service component. Recouped dollars should be reported as a negative value. Examples include but are not limited to procedure-
+related, episode-based payments with shared savings or risk of recoupments, condition-related, episode-based payments with
+shared savings or risk of recoupments, or risk for total cost of care with shared savings or risk of recoupments.
+• Non-Claims Capitation and Full Risk Payments: All per capita, non-claims payments paid to healthcare providers or
+organizations to provide a defined set of services to a designated population of patients over a defined period of time. Examples
+include but are not limited to payments for primary care capitation, professional capitation, facility capitation, behavioral health
+capitation, global capitation, or payments to integrated, comprehensive payment and delivery systems.
+36
+
+• Non-Claims Other Payments: Any other payments to a healthcare provider or organization not made on the basis of a claim for
+health care benefits and/or services that cannot be properly classified elsewhere. This may include retroactive denials,
+overpayments, and payments made as the result of an audit.
+Service Service Category Definition
+Category
+Code
+41 Other Medical
+42 Other Prescription Drugs
+51 Non-Claims: Population Health and Practice
+Infrastructure Payments
+52 Non-Claims: Performance Payments
+53 Non-Claims: Shared Savings Payments and
+Recoupments
+54 Non-Claims: Capitation and Full Risk Payments
+55 Non-Claims: Other Payments
+37
+
+Provider Type: The type of provider rendering the services:
+• Facility: The facility or non-professional component
+• Professional: All professional services combined, including licensed physicians and other professional staff
+• Professional Physician: Services are provided by a doctor of medicine or osteopathy
+• Professional Other: Services are provided by a licensed practitioner other than a physician. This includes, but is not limited to,
+community health center services, freestanding ambulatory surgical center services, licensed podiatrists, nurse practitioners,
+physician assistants, physical therapists, occupational therapists, speech therapists, psychologists, licensed clinical social workers,
+counselors, dieticians, dentists, and chiropractors
+• No Provider: No applicable facility or licensed practitioner
+Provider Type Code Provider Type Definition
+1 Facility
+2 Professional Physician
+3 Professional Other
+4 No Provider
+Expenditures- Incurred Expenses (Payer Liability): The total incurred expenses/payer paid amounts for claims-based services and
+non-claims payments to providers. Incurred Claims should reflect only those amounts that are the liability of the payer, including (gross of)
+payments from the federal or state governments (CSR Amounts) and excluding payments from the member (Cost-Sharing).
+Expenditures- Member Cost Share: The sum of all member cost share/member paid amounts for claims-based services, including
+copays, coinsurance and deductible costs.
+Tab D: Member Months Data Tab
+• Submission Type: Indicates that the file contains final PCBH reporting period.
+• Reporting Year: Indicates the year for which the data is being reported.
+38
+
+• Physician Group OrgID: The CHIA-assigned OrgID of the Physician Group. This may be the parent organization of one or more
+Local Practice Groups. For “Groups below minimum threshold”, data should be reported using aggregate OrgID 999996
+• Insurance Category: A number that indicates the insurance category that is being reported. Commercial claims should be separated
+into two categories, as shown below. Commercial self-insured or fully insured data for physicians’ groups for which the payer is
+able to collect information on all direct medical claims and subcarrier claims should be reported in the “Full Claims” category.
+Commercial data that does not include all medical and subcarrier claims should be reported in the “Partial Claims” category. Payers
+shall report for all insurance categories for which they have business, even if those categories do not meet the member month
+threshold. Stand-alone Medicare Part D Prescription Drug Plan members and payments should not be reported in the data. For payers reporting in
+the “Other” category, payers should report in the comments field on the Front Tab what is included in the “Other” category.
+Insurance
+Definition
+Category Code
+1 Medicare & Medicare Advantage
+2 Medicaid (e.g., MCO, ACO-A)
+3 Commercial – Full Claims
+4 Commercial – Partial Claims
+5 SCO
+6 OneCare
+7 PACE
+8 Other
+• Product Type: The product type under the insurance category reported.
+Product Type
+Definition
+Code
+1 HMO
+2 PPO
+3 Indemnity
+39
+
+Product Type
+Definition
+Code
+4 Other
+5 POS
+• PCP Type Indicator: The method used to attribute members to a specific physician group.
+PCP Indicator Definition
+1 Data for members who select a PCP as part of plan design
+Data for members who are attributed to a PCP during reporting period pursuant to
+2
+payer-provider risk contract
+Data for members who are attributed to a PCP by payer’s own attribution
+3
+methodology
+4 Data for members who are not attributed to a PCP
+• Age Group: Indicates the age of the population reported.
+Age Group Definition
+1 0-17
+2 18-64
+3 65+
+• MassHealth ACO Indicator: Indicates if the Local Practice Group is part of the MassHealth Accountable Care Organization
+(ACO) program. The ACO indicator should be used to report these groups. Medicaid payers should identify ACOs for the entirety
+40
+
+of 2018, do not split data before and after the start of the program on 3/1/2018. Payers with no Medicaid business should report a
+“0” for all providers.
+ACO Indicator Definition
+0 Not an ACO or no Medicaid business
+1 ACO
+• Group Insurance Commission (GIC) Indicator: Indicates the member population covered under a contract with the Group
+Insurance Commission. Payers with no GIC membership should report a “0” for all providers.
+GIC Indicator Definition
+0 Non-GIC population
+1 GIC population
+• Member Months (annual): The number of members participating in a plan over the specified period of time expressed in months
+of membership.
+• MH Member Months (annual): The number of members participating in a plan over the specified period of time expressed in
+member months, who have a Mental Health principal diagnosis at any point during the reporting year.
+• SUD Member Months (annual): The number of members participating in a plan over the specified period of time expressed in
+member months, who have a Substance Use Disorder principal diagnosis at any point during the reporting year.
+41
+
+Appendix A: Physician Group OrgIDs
+Please visit: https://www.chiamass.gov/payer-data-reporting-primary-and-behavioral-health-care-
+expenditures.
+Payers should report physician group data based on their individual contracting structures with
+providers.
+Appendix B: Service Categorization Code Lists
+Please visit: https://www.chiamass.gov/payer-data-reporting-primary-and-behavioral-health-care-
+expenditures.
+Payers should use these lists as reference tables in conjunction with the methodology and
+coding logic outlined in Appendices C and D. Note, these reference tables separately identify
+service codes and provider types to facilitate data compilation; however, for categorization of
+claims, payers should follow the methodology outlined in Appendix D, in which claims are
+categorized by combinations of service codes and provider types.
+
+Appendix C: Payment Allocation Methodology
+C.1: Medical Claims Allocation
+Allocate spending sequentially through the specific service categories based on the code sets available in Appendices B&D
+43
+
+C.2: Pharmacy Claims Allocation
+Allocate pharmacy claims spending based on the NDC codes provided in Appendix B.
+C.3: Non-Claims Allocation
+Allocate non-claims payments into the below categories by service type. If non-claims cannot be separated into Behavioral Health or Primary
+Care, the “All Other” service type should be used in combination with the spending categories below. For payments that may combine or be
+related to the provision of both primary care and behavioral health services, payers may apportion or allocate payments into the primary care
+and behavioral health service types; these payments should not be double counted. Alternately, the “all other services” categories may be
+used.
+44
+
+Appendix D: Summary of Code Lists and Coding Logic
+The tables below summarize the code lists found in Appendix B, and include the combinations of code type required for spending service categories
+within each Service Type. For “professional” measure categories below, it should be noted that physician and other professional types are reported
+separately using the provider type field outlined in the Data Dictionary.
+Mental Health Diagnosis Codes
+ICD-10 Code Description Notes and Exclusions
+F0150 - F09 Mental Disorders Due to Known Physiological Only include codes listed in the ICD-10 DX Codes
+Conditions tab in the excel reference file.
+F200 - F29 Schizophrenia, Schizotypal, Delusional and Other Only include codes listed in the ICD-10 DX Codes
+Non-Mood Psychotic Disorder tab in the excel reference file.
+F3010 – F39 Mood [Affective] Disorders Only include codes listed in the ICD-10 DX Codes
+tab in the excel reference file.
+Excluding F38 Other mood [affective] disorders
+F4000 - F489 Anxiety, Dissociative, Stress-Related, Somatoform and Only include codes listed in the ICD-10 DX Codes
+Other Nonpsychotic Mental Disorders tab in the excel reference file.
+F5000 - F59 Behavioral Syndromes Associated with Only include codes listed in the ICD-10 DX Codes
+Physiological Disturbances and Physical Factors tab in the excel reference file.
+Excluding F54 (Psychological and behavioral factors
+associated with disorders or diseases classified
+elsewhere), F55 (Abuse of non dependence-
+producing substances)
+F600 -F69 Disorders of Adult Personality and Behavior Only include codes listed in the ICD-10 DX Codes
+tab in the excel reference file.
+45
+
+Excluding F61 (Mixed and other personality
+disorders) and F62 (Enduring personality changes,
+not attributable to brain damage and disease).
+ICD-10 Code Description Notes and Exclusions
+F800 - F89 Pervasive and Specific Developmental Disorders Only include codes listed in the ICD-10 DX Codes
+tab in the excel reference file.
+Excluding F83 (Mixed specific developmental
+disorders)
+F90 - F989 Behavioral and Emotional Disorders with Onset Only include codes listed in the ICD-10 DX Codes
+Usually Occurring in Childhood and Adolescence tab in the excel reference file.
+Excluding F92 (Mixed disorders of conduct and
+emotions)
+F99 Unspecified Mental Disorder Only include codes listed in the ICD-10 DX Codes
+tab in the excel reference file.
+R410 – R4689 Symptoms and Signs Involving Cognition, Only include codes listed in the ICD-10 DX Codes
+Perception, Emotional State and Behavior tab in the excel reference file.
+T149 Injury of Unspecified Body Region Only include codes listed in the ICD-10 DX Codes
+tab in the excel reference file.
+T400X1S – Injury, Poisoning and Certain Other Consequences of Only include codes listed in the ICD-10 DX Codes
+T887XXS External Causes tab in the excel reference file.
+Z00-Z99 Factors influencing health status and contact with Only include codes listed in the ICD-10 DX Codes
+health services. tab in the excel reference file.
+46
+
+Substance Use Diagnosis Codes
+ICD-10 Code Description Notes and Exclusions
+F1010 – F1999 Mental and Behavioral Disorders due to Only include codes listed in the ICD-10 DX Codes
+Psychoactive Substance Abuse tab in the excel reference file.
+Z00-Z99 Factors influencing health status and contact with Only include codes listed in the ICD-10 DX Codes
+health services tab in the excel reference file.
+Mental Health & SUD Service Codes
+Note: A principal diagnosis of MH or SUD from ICD-10 codes above is required for claims to be allocated through the categories below. The service measure category, whether
+MH or SUD, is defined by the ICD-10 principal diagnosis category.
+Measure Category Specifications
+Inpatient; Facility Report payer paid and member cost-share for all claim lines across an entire claim when a Facility
+claim has one or more of the following Revenue codes: (0022, 0024, 0100, 0101, 0110-0119, 0120-
+0129, 0130-139, 0140-0149, 0150-0159, 0160-0161, 0164, 0167, 0169-0174, 0179-0183, 0185,
+0189-0194, 0199-0204, 0206-0214, 0219, 1000-1006)
+Inpatient; Professional Report payer paid and member cost-share amounts across all medical claim lines for Professional
+claims with the following Place of Service codes (02, 21, 25, 31, 32, 34, 51, 54, 55, 56, 61) and CPT
+codes in (99221-99223, 99231-99236, 99238, 99239, 99252-99255 99418, 99468, 99469, 99471,
+99472, 99475-99480, 993X0, G0316, G0425- G0427, G0459)
+47
+
+Emergency Department/Observation; Report payer paid and member cost-share amounts for all claim lines across an entire claim when a
+Facility (no inpatient admission) Facility claim has one or more of the following Revenue codes: (0450-0452, 0456, 0459, 0760-
+0762, 0769, 0981)
+Emergency Department/Observation; Report payer paid and member cost-share amounts for only those claim lines on which a
+Professional (no inpatient admission) Professional claim has the following POS codes (23, 41, 42) and CPT codes in (99234-99236,
+99281-99285, 99288, 99291, 99292, G0378-G0384, G0425-G0427, G2213).
+Outpatient Professional PC Report payer paid and member cost-share amounts for only those claim lines on which a
+Professional claim has: POS codes in (02-20, 22, 24-27, 33, 49, 50, 52, 53, 57, 58, 60, 62, 65, 66,
+71, 72, 81, 99) and, CPT/HCPCS codes (90785, 90791, 90792, 90832-90834, 90836-90840,
+90845-90847, 90849, 90853, 90863, 90865, 90867-90870, 90875, 90876, 90880, 90882, 90885,
+90887, 90899, 90901, 90912, 90913, 96105, 96116, 96121, 96125, 96127, 96130-96133, 96136-
+96139, 96146, 96156, 96158-96161, 96164, 96165, 96167, 96168, 96170, 96171, 96202, 96203,
+96372-96376, 96379, 97110, 97112, 97129, 97130, 97151-97158, 97530, 97535, 97537, 97802-
+97804, 97810, 97811, 97813, 97814, 98960-98962, 98966-98972, 99050, 99051, 99053, 99056,
+99058, 99060, 99078, 99199, 99202-99205, 99211-99215, 99242-99245, 99304-99310, 99315,
+99316, 99341, 99342, 99344, 99345, 99347, 99348-99350, 99358, 99359, 99366-99368,99374,
+99375, 99377-99387, 99391-99397, 99401-99409, 99411, 99412, 99415-99417, 99421-99423,
+99439, 99441-99443, 99446, 99447-99449, 99451-99484, 99487, 99489-99496, 99510, 99605-
+99607, 0188T, 0189T, 0362T, 0373T, G0017, G0018, G0032, G0033, G0071, G0076-G0087,
+G0155, G0156, G0162, G0176, G0177, G0270, G0271, G0299, G0300, G0323, G0396, G0397,
+G0406-G0411, G0442-G0445, G0451, G0463, G0468-G0470, G0473, G0480-G0483, G0490,
+G0506, G0508, G0509, G0511-G0514, G0544, G0546-G0551, G0560, G2001-G2015, G2021,
+G2025, G2061-G2063, G2067-G2080, G2082, G2083, G2086-G2088, G2211, G2212, G2214,
+G2250-G2252, G8427, G9001-G9012, G9016, G9475, G9477, G9478, G9685, G9903, G9978-
+G9986, H0001-H0040, H0046-H0050, H1000-H1005, H2000, H2001, H2010-H2036, J0570-
+J0575, J0592, J1230, J2315, J3490, Q3014, S0109, S0201, S5145, S9110, S9117, S9475, S9480,
+S9482, S9484, S9485, T1000-T1007, T1012-T1021, T1023-T1028, T1040, T1041, T1502, T1503,
+T2021, T2024, T2048) with a primary care provider
+48
+
+Measure Category Specifications
+Outpatient Professional Non-PC Report payer paid and member cost-share amounts for only those claim lines on
+which a Professional claim has: POS codes in (02-20, 22, 24-27, 33, 49, 50, 52, 53,
+57, 58, 60, 62, 65, 66, 71, 72, 81, 99) and, CPT/HCPCS codes (90785, 90791,
+90792, 90832-90834, 90836-90840, 90845-90847, 90849, 90853, 90863, 90865,
+90867-90870, 90875, 90876, 90880, 90882, 90885, 90887, 90899, 90901, 90912,
+90913, 96105, 96116, 96121, 96125, 96127, 96130-96133, 96136-96139, 96146,
+96156, 96158-96161, 96164, 96165, 96167, 96168, 96170, 96171, 96202, 96203,
+96372-96376, 96379, 97110, 97112, 97129, 97130, 97151-97158, 97530, 97535,
+97537, 97802-97804, 97810, 97811, 97813, 97814, 98960-98962, 98966-98972,
+99050, 99051, 99053, 99056, 99058, 99060, 99078, 99199, 99202-99205, 99211-
+99215, 99242-99245, 99304-99310, 99315, 99316, 99341, 99342, 99344, 99345,
+99347, 99348-99350, 99358, 99359, 99366-99368,99374, 99375, 99377-99387,
+99391-99397, 99401-99409, 99411, 99412, 99415-99417, 99421-99423, 99439,
+99441-99443, 99446, 99447-99449, 99451-99484, 99487, 99489-99496, 99510,
+99605-99607, 0188T, 0189T, 0362T, 0373T, G0017, G0018, G0032, G0033,
+G0071, G0076-G0087, G0155, G0156, G0162, G0176, G0177, G0270, G0271,
+G0299, G0300, G0323, G0396, G0397, G0406-G0411, G0442-G0445, G0451,
+G0463, G0468-G0470, G0473, G0480-G0483, G0490, G0506, G0508, G0509,
+G0511-G0514, G0544, G0546-G0551, G0560, G2001-G2015, G2021, G2025,
+G2061-G2063, G2067-G2080, G2082, G2083, G2086-G2088, G2211, G2212,
+G2214, G2250-G2252, G8427, G9001-G9012, G9016, G9475, G9477, G9478,
+G9685, G9903, G9978-G9986, H0001-H0040, H0046-H0050, H1000-H1005,
+H2000, H2001, H2010-H2036, J0570-J0575, J0592, J1230, J2315, J3490, Q3014,
+S0109, S0201, S5145, S9110, S9117, S9475, S9480, S9482, S9484, S9485, T1000-
+T1007, T1012-T1021, T1023-T1028, T1040, T1041, T1502, T1503, T2021,
+T2024, T2048)
+49
+
+Measure Category Specifications
+Outpatient Facility Non-PC Report payer paid and member cost-share amounts for all claim lines across an
+entire claim when a Facility claim has:
+Revenue codes in (0500, 0509-0529, 0780, 0790, 0900-0907, 0911-0919, 0940-0949,
+0951-0953, 0960-0964, 0969, 0982-0989, 2100-2106, 2109, 3101-3106)
+50
+
+Primary Care Service Codes
+For claims not identified as Behavioral Health (MH or SUD) above
+Measure Category Specifications
+Office Type Visits Report payer paid and member cost-share amounts only for claim lines
+for facility and professional claims with CPT codes in (90887, 90889,
+96110, 96160, 96161, 96372-96374, 98960-98962, 98966-98969, 98980,
+98981, 99000, 99050, 99051, 99056, 99058, 99078, 99173, 99201-
+99205, 99211-99215, 99241-99245, 99354, 99355, 99358-99360,
+99366-99368, 99374, 99375, 99377-99380, 99421-99427, 99437, 99439,
+99441-99444, 99446-99449, 99451- 99454, 99457, 99458, 99473,
+99474, 99483, 99484, 99487, 99489, 99490, 99491-99499, G0019,
+G0022, G0108, G0109, G0396, G0397, G0463, G0505, G0506,
+G0543, G0546-G0551, G0556-G0558, G2010, G2064, G2065,
+G2211, G2214, G2250-G2252, H2010-H2020, H2027, S9083, S9117,
+S9445, S9446, S9449, S9451, S9452, S9454) with a primary care
+provider
+Home/Nursing Facility Visits Report payer paid and member cost-share amounts only for claim lines
+for facility and professional claims with CPT codes in (99304-99310,
+99315, 99316, 99341, 99342, 99344, 99345, 99347-99350, 99357,
+99502, 99506, G0179-G0182) with a primary care provider
+Behavioral Health Screening Report payer paid and member cost-share amounts only for claim lines
+for facility and professional claims with CPT codes in (90791, 90792,
+90865, 96111-96113, 96127, 96130-96133, 96136-96139, 96146, 96150,
+96151, 96156, 96158, 96159, 96164, 96165, 96167, 96168, 96170,
+96171, 97151, 97152, 99408, 99409, 1000F, 1031F-1036F, 1220F,
+3016F, 3085F, 3351F-3355F, 4000F, 4001F, 4004F, 4290F, 4293F,
+G0436, G0437, G0442, G0444, G0445, G0480-G0483, G8431,
+G8510, G9903, G9919, G9920, H0001, H0002, H0031, H0049,
+H1011) with a primary care provider
+51
+
+Measure Category Specifications
+Preventive Visits Report payer paid and member cost-share amounts only for claim
+lines for facility and professional claims with CPT codes in (95249-
+95251, 96015, 96105, 99024, 99071, 99174, 99177, 99356, 99381-
+99387, 99391-99397, 99401-99407, 99411, 99412, 99420, 99429,
+99456, G0023, G0024, G0028-G0030, G0140, G0146, G0202, G0473,
+G0537-G0542, G3002, G3003, G9964, G9966, H1000, H2000,
+Q0091, S0610-S0613) with a primary care provider
+Immunizations and Injections Report payer paid and member cost-share amounts only for claim
+lines for facility and professional claims with CPT codes in (90281,
+90283, 90284, 90287, 90288, 90291, 90296, 90371, 90375-90378,
+90384-90386, 90389, 90393, 90396, 90399, 90460, 90461, 90471-
+90474, 90476, 90477, 90581, 90585-90587, 90589, 90619-90621,
+90623, 90625-90627, 90630, 90632-90634, 90636, 90644, 90647-
+90651, 90653-90658, 90660-90662, 90664, 90666-90668, 90670-90678,
+90680-90683, 90685-90691, 90694, 90696-90698, 90700, 90702,
+90707, 90710, 90713-90717, 90723, 90732-90734, 90736, 90738-
+90740, 90743, 90744, 90746-90750, 90756, 90758, 90759, 91300,
+91301, 91303-91309, 91311-91317, 0001A-0004A, 0011A-0013A,
+0031A, 0034A, 0041A, 0042A, 0044A, 0051A-0054A, 0064A, 0071A-
+0074A, 0081A-0083A, 0091A-0094A, 0111A-0113A, 0124A, 0134A,
+0144A, 0154A, 0164A, 0173A, G0008-G0010, G8482, G9989-G9991,
+Q2034-Q2039) with a primary care provider
+52
+
+Measure Category Specifications
+Obstetric Visits Report payer paid and member cost-share amounts only for claim
+lines for facility and professional claims with CPT codes in (59400,
+59410, 59425, 59426, 59430, 59510, 59515, 59610, 59614, 59618,
+59622, 99459-99465) with a primary care provider
+Other Primary Care Visits Report payer paid and member cost-share amounts only for claim
+lines for facility and professional claims with HCPCS codes in (98980,
+98981, G0101-G0106, G0117, G0118, G0120-G0124, G0141, G0143-
+G0145, G0147, G0148, G0327, G0328, G0402-G0405, G0433,
+G0435, G0438, G0439, G0443, G0447, G0466-G0468, G0472,
+G0475, G0476, G0499, G0511, G0513, G0514, G9998, G9999,
+T1015, T2024) with a primary care provider
+Primary Care Provider Types
+Taxonomy Practitioner Type Provider Type
+207QA0000X Adolescent Medicine (Family Medicine) Physician Professional: Physician
+207RA0000X Adolescent Medicine (Internal Medicine) Physician Professional: Physician
+364SA2200X Adult Health Clinical Nurse Specialist Professional: Other
+363LA2200X Adult Health Nurse Practitioner Professional: Other
+207QA0505X Adult Medicine Physician Professional: Physician
+367A00000X Advanced Practice Midwife[1] Professional: Other
+261QB0400X Birthing Clinic/Center[1] Professional: Other
+364S00000X Clinical Nurse Specialist Professional: Other
+261QC1500X Community Health Clinic/Center Professional: Other
+363LC1500X Community Health Nurse Practitioner Professional: Other
+163WC1500X Community Health Registered Nurse Professional: Other
+364SC1501X Community Health/Public Health Clinical Nurse Specialist Professional: Other
+53
+
+Taxonomy Practitioner Type Provider Type
+282NC0060X Critical Access Hospital Professional: Other
+261QC0050X Critical Access Hospital Clinic/Center Professional: Other
+207Q00000X Family Medicine Physician Professional: Physician
+363LF0000X Family Nurse Practitioner Professional: Other
+261QP0904X Federal Public Health Clinic/Center Professional: Other
+261QF0400X Federally Qualified Health Center (FQHC) Professional: Other
+208D00000X General Practice Physician Professional: Physician
+163WG0000X General Practice Registered Nurse Professional: Other
+207QG0300X Geriatric Medicine (Family Medicine) Physician Professional: Physician
+207RG0300X Geriatric Medicine (Internal Medicine) Physician Professional: Physician
+363LG0600X Gerontology Nurse Practitioner Professional: Other
+207VG0400X Gynecology Physician[1] Professional: Physician
+207R00000X Internal Medicine Physician Professional: Physician
+363AM0700X Medical Physician Assistant Professional: Other
+176B00000X Midwife[1] Professional: Other
+363L00000X Nurse Practitioner Professional: Other
+363LX0001X Obstetrics & Gynecology Nurse Practitioner[1] Professional: Other
+207V00000X Obstetrics & Gynecology Physician[1] Professional: Physician
+207VX0000X Obstetrics Physician[1] Professional: Physician
+2080A0000X Pediatric Adolescent Medicine Physician Professional: Physician
+364SP0200X Pediatric Clinical Nurse Specialist Professional: Other
+363LP0200X Pediatric Nurse Practitioner Professional: Other
+208000000X Pediatrics Physician Professional: Physician
+261QP2300X Primary Care Clinic/Center Professional: Other
+363LP2300X Primary Care Nurse Practitioner Professional: Other
+54
+
+Taxonomy Practitioner Type Provider Type
+163W00000X Registered Nurse Professional: Other
+282NR1301X Rural Acute Care Hospital Professional: Other
+261QR1300X Rural Health Clinic/Center Professional: Other
+261QP0905X State or Local Public Health Clinic/Center Professional: Other
+364SW0102X Women's Health Clinical Nurse Specialist Professional: Other
+363LW0102X Women's Health Nurse Practitioner Professional: Other
+55
+
+[DELETED: . . .]
+[DELETED: p.]
+[DELETED: rT: A C P R]
+[DELETED: . ]
+[DELETED: 9,]
+[DELETED:          .S.I.F.D.O.C.C.C.C.C.D.F]
+[DELETED: . ]
+[DELETED:          ” ]
+[DELETED:  F R]
+[DELETED:          1 .M.M]
+[DELETED: .My .M]
+[DELETED:          .O]
+[DELETED: .I.F.C.T.A.I.F.L.I.I]
+[DELETED:          ]
+[DELETED:           C T F E    P T T N    P I # T    S D Y Y    R Y  D D P M T T  ]
+[DELETED:  C T F E    P T T   C T A    I #]
+[DELETED:            I #         A R I # Y     B I I #   ========]
+[DELETED:  C T F E    C S I #   ==== D I # T            S T F F    R I # Y    P O I # ]
+[DELETED:           C T F E    I I #  ======= P I # 3=   ====]
+[DELETED:  C T F E    P I # r    === A I # A O I # C I #]
+[DELETED:           C T F E    S I #==== S C I # 1=2=3=4=5=1=2=3=4=5=1=2=3=4=5=6=7=1=2=1=]
+[DELETED: 2=3=4=5= P I #  ==== I N #   E M N #  S T F F    R I # Y   ]
+[DELETED:           C T F E    P O I #  I I #  ======== P I # 3=   ===]
+[DELETED:  C T F E    P I #   A I # 2=   == A O I #  C I #   M I #  ]
+[DELETED:           C T F E    M M I #  S M I #          - - -  ]
+[DELETED:  C C C C C C                                                                        ]
+[DELETED:           C C C C C C                                                                                         M M C C S O P O]
+[DELETED:  D M S P A M M]
+[DELETED:           C C S O P O H P I O P D D]
+[DELETED:  D D  D 0 1 6 D N A D N G]
+[DELETED:          .]
+[DELETED:             M M M M M N N N N N]
+[DELETED:             S S S S S N N N N N]
+[DELETED: s: .s:s:]
+[DELETED:          ]
+[DELETED:  S P P P P P P P N N N N N]
+[DELETED:          ]
+[DELETED:  S O O N N N N N]
+[DELETED:  P F P P N]
+[DELETED:  M M C C S O P O H P I]
+[DELETED:  O P D D D  D 0 1 6]
+[DELETED:  D N A D N Gsasa]
+[DELETED: .]
+[DELETED:  D N M O t S O t M O A O t B O D O]
+[DELETED:  D N  P O B O U O9S Ort I O I O E t 9F O t]
+[DELETED:  D N  M a B D d t O t F O t S R R]
+[DELETED:  R R P R]
+[DELETED:  S R]
+[DELETED:  S R]
+[DELETED:  S R R R]
+[DELETED:  S R R]
+[DELETED:  S R R P P  A P  A P  A P  A P  A P  A P  B P  C P  C P  C P  C P  C P ]
+[DELETED:  P P C P  C P  F P  F P  F P  F P  G P  G P  G P  G P  G P  G P  I P  M P  M P  N P  O P  O P  O P  P P  P P  P P  P P  P P  P P ]
+[DELETED:  P P R P R P R P S P W P W P]

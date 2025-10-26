@@ -1,0 +1,1262 @@
+Title: Attached please find the final report of the Special Legislative Commission on Emerging
+Official Title: Attached please find the final report of the Special Legislative Commission on Emerging
+Number of Sections: 29
+Source: versions - Bill Text
+Media Type: application/pdf
+Strikethrough Detection: 14 sections found
+
+================================================================================
+
+Section 1:
+The Commonwealth of Massachusetts
+General Court
+August 8, 2025
+The Honorable Michael D. Hurley
+Clerk of the Senate
+24 Beacon St - Room 335
+State House
+Boston, MA 02133
+The Honorable Timothy Carroll
+Clerk of the House of Representatives
+24 Beacon St - Room 145
+State House
+Boston, MA 02133
+Dear Clerk Hurley and Clerk Carroll:
+Firearm Technology established pursuant to Section 148 of Chapter 135 of the Acts of 2024.
+Sincerely,
+Senator Michael O. Moore Representative Kate Lipper-Garabedian
+Senate Chair House Chair
+Enclosure
+Special Legislative
+Commission on Emerging
+Firearm Technology
+Final Report
+July 29th, 2025
+TABLE OF CONTENTS
+I. Purpose and Context......................................................................................................................3
+II. Statutory Charge............................................................................................................................4
+III. Work of the Commission...............................................................................................................5
+IV. Microstamping................................................................................................................................7
+V. Personalized Firearms....................................................................................................................9
+VI. Legislation in Other Jurisdictions...............................................................................................10
+VII. Recommendations and Findings of the Commission.................................................................12
+Appendices
+Appendix A: Commissioner Votes Record on Final Report.......................................................................13
+Appendix B: February 10th Commission Meeting Materials.....................................................................16
+
+Section 2:
+1. Testimony of Todd Lizotte...................................................................................17
+
+Section 3:
+2. Testimony of Joshua Horwitz...............................................................................29
+
+Section 4:
+3. Testimony of Monte Frank...................................................................................35
+
+Section 5:
+4. American Bar Association Microstamping Report..............................................39
+
+Section 6:
+5. New Jersey 2023-0822 Microstamping Standards and Testing...........................47
+
+Section 7:
+6. New Jersey 2024 Microstamping Viability Report..............................................50
+
+Section 8:
+7. New Jersey Microstamping Viability Certification..............................................88
+Appendix C: March 4th Commission Meeting Materials...........................................................................89
+
+Section 9:
+1. Testimony of the Office of New York State Senator Brad Hoylman-Sigal.....................90
+Appendix D: April 10th Commission Meeting Materials...........................................................................92
+
+Section 10:
+1. Testimony of Kai Kloepfer...............................................................................................93
+Appendix E: New Jersey Personalized Firearm Statute (2002)................................................................100
+Appendix F: New Jersey Personalized Firearm Statute (2019)................................................................109
+Appendix G: New Jersey Microstamping Statute.....................................................................................121
+Appendix H: California Microstamping Statute.......................................................................................126
+Appendix I: California Microstamping Viability Report..........................................................................133
+Appendix J: New York Microstamping Statute........................................................................................153
+Appendix K: New York Microstamping Viability RFI............................................................................157
+Appendix L: Massachusetts Chiefs of Police Association Letter.............................................................164
+Appendix M: Everytown for Gun Safety Letter.......................................................................................168
+Appendix N: Hopkins Bloomberg Public Health Magazine Article.........................................................174
+Appendix O: Lizotte Unintentional Firearm Microstamps Memo............................................................182
+Appendix P: Berthiaume and Durant Dissenting Brief.............................................................................186
+2
+I. Purpose and Context
+This report is filed pursuant to Section 148 of Chapter 135 of the Acts of 2024, An Act modernizing
+firearm laws (“2024 Gun Safety Law”). This legislation established the Special Legislative Commission
+on Emerging Firearm Technology (“the Commission”) to investigate and make recommendations to the
+General Court regarding at least two advances in the field of firearms technology - Intentional Firearm
+Microstamping (IFM, “microstamping”) and personalized firearm technology (or “smart guns”). To meet
+its charge, the Commission met seven times between January and July 2025, including a public hearing
+during which the Commission gathered testimony from interested parties and a final meeting during
+which votes were taken on the content of this report. The Commission was charged with issuing a report
+of its findings and recommendations to the Clerks of the Senate and House of Representatives.
+The enabling legislation established compositional requirements for the Commission to ensure
+representation from all parties that could be interested in legislation regarding emerging firearms
+technology. Consistent with this requirement, the Commission was comprised of the following 13
+members:
+Legislative Appointees
+• Representative Kate Lipper-Garabedian, Co-Chair, Designee of the House Chair of the Joint
+Committee on the Judiciary
+• Senator Michael O. Moore, Co-Chair, Designee of the Senate Chair of the Joint Committee on
+the Judiciary
+• Professor Nicholas Ashford, Massachusetts Institute of Technology Professor of Technology &
+Policy Director, Technology & Law Program, Appointed by the Speaker of the House of
+Representatives
+• Todd Lizotte, CEO of BOLD Laser Automation, Appointed by the Speaker of the House of
+Representatives
+• Senator John F. Keenan, Appointed by the Senate President
+• Senator Lydia Edwards, Appointed by the Senate President
+• Representative Donald R. Berthiaume, Jr., Appointed by the House Minority Leader
+• Senator Peter J. Durant; Appointed by the Senate Minority Leader
+Executive Members and Appointees
+• Jeff Farnsworth, Senior Policy Advisor, Executive Office of Public Safety and Security,
+Designee of the Secretary of Public Safety and Security
+• Colonel Geoffrey Noble, Colonel of the Massachusetts State Police
+• Christopher D. Call, Massachusetts State Trooper, Appointed by the Governor
+• Christina Ronan, Chief of the Attorney General Office’s Enterprise and Major Crimes Division,
+Designee of the Attorney General
+Other Members
+• Jake McGuigan, Appointed by the National Shooting Sports Foundation, Inc.
+The individuals listed above possess substantial professional expertise in the fields of legislation, and
+policy and/or firearms, and offered a variety of perspectives on emerging firearms technology and
+firearms regulation.
+3
+II. Statutory Charge
+
+Section 11:
+Section 148 of Chapter 135 of the Acts of 2024:
+(a) As used in this section, the following words shall, unless the context clearly requires otherwise, have
+the following meanings:
+“Microstamp”, a microscopic array of characters identifying the make, model, or serial number of a
+firearm, etched or otherwise imprinted in 2 or more places on the interior surface or the internal working
+parts of the firearm, that are transferred by imprinting on each cartridge case when the firearm is fired.
+“Personalized firearm”, a firearm manufactured with incorporated design technology or converted with
+such technology so that it: (i) allows the firearm to be fired only by an authorized user; or (ii) prevents
+any of the safety characteristics of the firearm from being readily deactivated.
+(b) There is hereby established, pursuant to section 2A of chapter 4 of the General Laws, a special
+legislative commission to study and investigate emerging firearm technology.
+(c) The special legislative commission shall consist of 13 members: the chairs of the joint committee on
+the judiciary or their designees, who shall serve as co-chairs; the secretary of public safety and security or
+a designee; the colonel of the state police or a designee; 2 members appointed by the speaker of the house
+of representatives; 2 members appointed by the president of the senate; 1 member appointed by the
+minority leader of the house of representatives; 1 member appointed by the minority leader of the senate;
+1 member appointed by the governor, who shall be an expert in emerging firearm technologies; the
+attorney general or a designee and 1 member appointed by the National Shooting Sports Foundation, Inc.
+(d) The special legislative commission shall investigate and study the status, feasibility, and utility of
+emerging firearm technologies, including, but not limited to, personalized firearm technology and
+microstamp technology. The study shall include: (i) a review of existing and developing personalized
+firearm and microstamp technologies and any legal or constitutional issues relating to such technologies;
+(ii) an investigation of the accuracy, effectiveness and utility of personalized firearm and microstamp
+technologies; (iii) an evaluation of the commercial availability of personalized firearm and microstamp
+technologies, both in the production of new firearms and modification of existing firearms; (iv) an
+evaluation of the feasibility and utility of a personalized firearm technology tax incentive program; (v) an
+evaluation of the risks associated with the use of a digital firearm manufacturing code for machine
+learning and artificial intelligence; and (vi) an investigation of the cost and impacts associated with
+requiring the use of personalized firearm or microstamp technologies in the commonwealth.
+(e) The special legislative commission shall submit a report of its study and recommendations, together
+with any legislative recommendations, to the clerks of the house of representatives and the senate no later
+than March 1, 2025.
+4
+III. Work of the Commission
+The following table summarizes the work of the Commission throughout its seven hearings. Appendices
+to this report provide testimonies offered at each Commission meeting and hearing:
+Appendix
+Hearing Purpose Agenda
+Materials1
+January 28 To orient the Call to Order
+members to their Reading of the Special Commission’s
+legislative charge Charge
+and provide Chair introduction
+background Member introductions
+information. Discussion of Special Commission’s Work
+Confirm Commission’s Second Meeting to
+focus on Microstamping
+Member Opportunity for Comment
+Meeting is adjourned
+February 10 To explore the Call to Order Appendix B
+topic of Reading of the Special Commission’s • Written testimony
+microstamping. Charge • Presentations
+New Commissioner Introductions • American Bar
+Overview of Meeting Topic: Association
+Microstamping Microstamping Report
+Guest Testimony • New Jersey 2023-0822
+• Todd Lizotte, President and CEO of Microstamping
+BOLD Laser Automation Standards and Testing
+• Josh Horwitz, Co-Director of the Johns • New Jersey 2024
+Hopkins Center for Gun Violence Microstamping Viability
+Solutions Report
+• Monte Frank, Chair of the American • New Jersey
+Bar Association’s Standing Committee Microstamping Viability
+on Gun Violence Certification
+• Lyndsay Ruotolo, New Jersey First
+Assistant Attorney General, and Ravi
+Ramanathan, Director of New Jersey’s
+Statewide Affirmative Firearms
+Enforcement Office
+Discussion
+Confirm Commission’s Third Meeting
+Meeting is adjourned
+March 4 To continue the Call to Order Appendix C
+exploration of Reading of the Special Commission’s • Written testimony
+microstamping. Charge
+Overview of the Last Meeting on
+Microstamping
+Guest Testimony
+• Evan Lieberman, Assistant Legislative
+Director to New York State Senator
+Brad Hoylman-Sigal
+• Senator Catherine Blakespear,
+California State Senator
+1 All Commission documents may be found on the General Court’s website at
+https://malegislature.gov/Commissions/Detail/656/Documents
+5
+• Jim Wallace, Executive Director of the
+Gun Owners’ Action League
+Discussion
+Discuss Commission’s Fourth Meeting
+Meeting is adjourned
+April 10 To explore the Call to Order Appendix D
+topic of Reading of the Special Commission’s • Written testimony
+personalized Charge
+firearms. Overview of the Last Meeting on
+Microstamping
+Guest Testimony
+• Kai Kloepfer, Founder and CEO of
+Biofire Smart Guns
+• Michaela Dunne, Chair of Governor
+Healey’s Firearm Control Advisory
+Board
+• Kade Crockford, Director of the
+Technology for Liberty Program at the
+ACLU of Massachusetts
+Discussion
+Discuss Commission’s Public Hearing
+Meeting is adjourned
+April 17 To gather oral Call to Order N/A
+testimony from Reading of the Special Commission’s
+members of the Charge
+public on the Overview of the Prior Meetings on
+work of the Personalized Firearms and Microstamping
+Commission. Public Testimony
+Discussion
+Meeting is adjourned
+June 12 To discuss the Call to Order N/A
+two technologies Introductions
+and review Microstamping: Review of
+presentations. presentations/comments
+Discussion
+Personalized Firearms: Review of
+presentations/comments
+Discussion
+Meeting is adjourned
+July 29 To take votes on Call to Order N/A
+recommendations Reading of the Special Commission’s
+to the General Charge
+Court. Draft Final Report
+• Review
+• Recommendations
+• Votes
+Meeting is adjourned
+6
+IV. Microstamping
+Gun violence is a public health crisis in the United States,2 with almost 47,000 Americans dying each
+year from gun-related injuries.3 Meanwhile, half of gun crimes go unsolved in the United States, with that
+rate continuing to increase over the last forty years.4 Pursuant to the 2024 Gun Safety Law, the
+Commonwealth of Massachusetts requires all firearms possessed, manufactured, or assembled in the state
+to be registered.5 Guns rarely are left at the scene of a crime, making their registration insufficient for
+solving crimes, whereas cartridge casings often remain. As such, this Commission explored
+microstamping in the hopes that it may prove helpful in solving gun crimes and preventing gun deaths.
+The 2024 Gun Safety Law, in its charge to this Commission, defines microstamping as follows: “a
+microscopic array of characters identifying the make, model, or serial number of a firearm, etched or
+otherwise imprinted in 2 or more places on the interior surface or the internal working parts of the
+firearm, that are transferred by imprinting on each cartridge case when the firearm is fired.”6 In other
+words, intentional firearm microstamping (“IFM” or “microstamping”) involves the creation of an
+indentation mechanism on a firearm’s firing pin, which in turn creates indentations on each fired bullet
+casing with a code linked to that firearm. Law enforcement then can use microstamped bullet casings
+recovered at crime scenes to identify the firearm from which they were discharged. This allows for a
+process for tracing firearms used in gun crimes in Massachusetts.
+Intentional firearm microstamping may offer a more precise way to identify firearms used in gun crimes
+than law enforcement’s current methods. Traditional ballistics investigation relies on detecting random
+imperfections found on bullet casings (unintentional firearm microstamping) and analyzing them (firearm
+and toolmark examinations and analysis) by the National Integrated Ballistic Information Network
+(“NIBEN”), a program of the federal Bureau of Alcohol, Tobacco, Firearms and Explosives. Further, to
+properly identify the firearm used in a crime, said firearm must be recovered at the scene and compared to
+the bullet casings found. Conversely, with microstamping, only bullet casings with their IFM code
+detectable need to be recovered from a crime scene to determine the firearm used. Todd Lizotte, one of
+the Commission’s members, is a co-creator of microstamping.7
+This identification method may serve as another tool and opportunity for law enforcement to investigate,
+solve, and prosecute gun crimes. With a positive identification of an IFM code, investigations may lead
+directly to the firearm involved in a crime and further empower law enforcement to link separate crimes.
+2 Office of the Surgeon General (OSG). Firearm Violence: A Public Health Crisis in America: The U.S. Surgeon
+General’s Advisory [Internet]. Washington (DC): US Department of Health and Human Services (US); 2024.
+Available from: https://www.ncbi.nlm.nih.gov/books/NBK605169/.
+3 Gramlich, John. “What the Data Says about Gun Deaths in the U.S.” Pew Research Center, March 5, 2025.
+https://www.pewresearch.org/short-reads/2025/03/05/what-the-data-says-about-gun-deaths-in-the-us/.
+4 Li, Weihua, and Jamiles Lartey. “As Murders Spiked, Police Solved About Half in 2020.” The Marshall Project,
+January 12, 2022. https://www.themarshallproject.org/2022/01/12/as-murders-spiked-police-solved-about-half-in-
+
+Section 12:
+2020.
+5 G.L. c. 140, § 121B(a)(1).
+6 G.L c. 148. § 135(a).
+7 See Appendix B. Mr. Lizotte disclosed his explicit financial interest in the adoption of microstamping in multiple
+Commission meetings and has made the patent for microstamping open source.
+7
+As such, law enforcement may be able to connect individuals involved with other criminals and crimes,
+such as irresponsible or illegal gun dealers, human traffickers, and drug smuggling operations. While the
+technology does not remove all human bias, the purposeful characters of a firearm’s IFM code create a
+more direct link that is less open to interpretation (and therefore less error) than unintentional firearm
+microstamping. The technology is also commercially available, with no patent restrictions on its adoption
+and use by third parties. Further, intentional firearm microstamping uses laser printing technology that is
+already in wide use. These factors contribute to a promising outlook for the use of intentional firearm
+microstamping in solving gun-related crimes.
+While unintentional firearm microstamping has been the standard to identify firearms used in gun crimes,
+there is debate in the scientific and legal communities about the reliability of toolmark examinations and
+their admissibility in court. In 2009, a National Research Council report determined that conclusive
+identifications of firearms using firearm and toolmark analysis were without a strong scientific or
+statistical foundation.8 Similarly, a 2016 report by the U.S. President’s Council of Advisors on Science
+and Technology offered skepticism regarding the reliability of firearm and toolmark examinations.9
+Furthermore, several court rulings over the last two decades have limited firearm and toolmark analysis as
+admissible evidence and testimony due to doubts raised surrounding their scientific rigor.10 These reports
+and rulings pose issues for law enforcement and prosecutors, casting a shadow over their work to make
+communities safer. Intentional firearm microstamping could offer more definitive conclusions if
+implemented on a large scale.
+Intentional firearm microstamping, like unintentional firearm microstamping, has limitations. Primarily,
+the wearing down of the microstamped firing pin in a firearm over time may prove an impediment to
+properly identifying the code and, therefore, the firearm. There is also the potential for unauthorized
+replacement or tampering with a firearm’s firing pin. Nonetheless, in such circumstances, it may be
+possible for unintentional firearm microstamping to be used to identify the firearm used in a crime. It is
+also important to note that no other state has fully implemented state laws regarding intentional firearm
+microstamping, though several states that have passed microstamp statutes were studied by the
+Commission.11
+Along with the intentional firearm microstamping that the Commission explored, there is another form of
+microstamping commonly known as the “Miami Barrel.” The Miami-Dade Police Department worked in
+conjunction with firearm manufacturer Glock GmbH to create this microstamping mechanism on the
+Glock pistols the Department uses. Miami Barrels create indentations on a fired bullet as it passes through
+the barrel, instead of the mechanism being the firing pin. Unlike the traditional intentional firearm
+microstamping, the Miami Barrel was created to identify bullets fired by a police officer in officer-
+8 Committee on Identifying the Needs of the Forensic Sciences Community, and National Research Council.
+“Strengthening Forensic Science in the United States: A Path Forward.” National Academies Press, August 2009.
+https://nap.nationalacademies.org/read/12589/chapter/1.
+9 President’s Council of Advisors on Science and Technology, Forensic Science in Criminal Courts: Ensuring
+Scientific Validity of Feature-Comparison Methods § (2016). chrome-
+extension://efaidnbmnnnibpcajpcglclefindmkaj/https://obamawhitehouse.archives.gov/sites/default/files/microsites/o
+stp/PCAST/pcast_forensic_science_report_final.pdf.
+10 See, e.g., United States v. Monteiro, 407 F. Supp. 2d 351 (D. Mass. 2006); United States v. Green, 405 F. Supp.
+2d 104 (D. Mass. 2005); United States v. Glynn, 578 F. Supp. 2d 567 (S.D.N.Y. 2008); United States v. Williams,
+506 F.3d 151 (2d Cir. 2007); United States v. Tibbs, No. 2016 CF1 19431 (D.C. Super. Ct. 2019).
+11 See infra VI: Legislation in Other Jurisdictions.
+8
+involved shootings. The intent there was to create more accountability for police officers who discharge
+their weapons while on duty. The technology has considerably less implementation and testing than
+traditional intentional firearm microstamping.12
+V. Personalized Firearms
+In 2023, 463 people died and over 27,000 people were injured in the United States due to accidental
+firearm discharges. Separately, over half of the aforementioned 47,000 Americans killed by firearms
+annually were Americans who committed suicide. Firearm discharges by those with mental health issues
+were a significant concern of the Commission. Unauthorized use of a firearm is a common characteristic
+of school shootings, with three-quarters of school shooting perpetrators taking the firearm that belonged
+to a family member. For most of the century so far, gun deaths have been the leading cause of death for
+children under the age of 18.13 As such, this Commission explored personalized firearms in the hopes that
+the technology may prove helpful in preventing gun injuries and deaths.
+The Commission’s authorizing statute defines personalized firearms as follows: “a firearm manufactured
+with incorporated design technology or converted with such technology so that it: (i) allows the firearm to
+be fired only by an authorized user; or (ii) prevents any of the safety characteristics of the firearm from
+being readily deactivated.” Personalized firearms use biometric data to limit the use of a firearm to its
+owner and any trusted users that the owner designates. This feature prevents discharge by unauthorized
+users, whether accidental or intentional.
+At present, only two American firms are confirmed to manufacture personalized firearms, Biofire and
+Lodestar Technology. Lodestar has announced a 9mm handgun design, but its firearm has yet to reach the
+market, and the firm did not respond to inquiries from the Commission. Kai Kloepfer, founder and CEO
+of Biofire, informed the Commission that his company is currently the only American manufacturer of
+personalized firearms. Biofire, a venture-backed startup based in Colorado, unveiled its first personalized
+firearm in April 2023: a 9mm semiautomatic handgun. A single charge of this firearm’s battery can last
+up to a month, and several alerts will notify the firearm owner before the battery fully depletes.14 In
+February 2025, the Massachusetts Firearm Control Advisory Board voted to place Biofire’s personalized
+firearm on the State’s Approved Firearms Roster.15
+Biofire does not have access to biometric data present in its firearms, and that data are wiped when
+ownership of a personalized firearm is transferred. If the owner of a Biofire personalized firearm passes
+away unexpectedly and has not designated any other trusted users, the firearm can no longer be used.
+While Biofire may not retain biometric data for its product, data retention remains a significant concern
+should other manufacturers enter the personalized firearm market. Biofire is currently the only American
+company offering personalized firearms, with only one model currently available, resulting in limited
+12 Fadul, Jr., Thomas G., Gabriel A. Hernandez, Erin Wilson, Stephanie Stoiloff, and Sneh Gulati. “An Empirical
+Study To Improve The Scientific Foundation Of Forensic Firearm And Tool Mark Identification Utilizing
+Consecutively Manufactured Glock EBIS Barrels With The Same EBIS Pattern.” Office of Justice Programs,
+December 2013. https://www.ojp.gov/pdffiles1/nij/grants/244232.pdf.
+13 See e.g., Rabin, Roni Caryn. “Gun Deaths of Children Rose in States That Loosened Gun Laws, Study Finds.”
+The New York Times, June 9, 2025. https://www.nytimes.com/2025/06/09/health/gun-deaths-
+children.html?unlocked_article_code=1.N08.Ja5w.Pe_vB064PmN2&smid=nytcore-ios-
+share&referringSource=articleShare.
+14 See Appendix D for Written Testimony and Presentation by Kai Kloepfer, CEO of Biofire.
+15 See https://www.mass.gov/doc/approved-firearms-roster-22025/download.
+9
+adoption at present. Mr. Kloepfer stated to the Commission that manufacturing a personalized firearm is
+four times the cost of a traditional firearm, discouraging other manufacturers from entering the market.
+There was some discussion about a personalized firearm mandate; however, Mr. Kloepfer pointed out that
+both Biofire’s philosophical objections and the nascence of the industry would make such a mandate
+difficult to enforce.
+The Commission acknowledged the degree to which personalized firearms may address gun deaths and
+injuries. Personalized firearms offer the potential for safe legal gun ownership without the risk of
+unauthorized discharge by children, people who want use the firearm for illicit purposes, and individuals
+experiencing mental-health crises.
+VI. Legislation in Other Jurisdictions
+The Commission explored the laws of three states that have, as of the completion of this report, passed
+legislation regarding microstamping. New Jersey, California, and New York have yet to fully implement
+their microstamping requirements, but processes for doing so in all three are underway. The Commission
+also reviewed New Jersey’s state law regarding personalized firearms.
+New Jersey
+New Jersey enacted microstamping legislation in 2022, directing the State Attorney General’s Office to
+investigate the viability of microstamping technology and to designate a microstamping examiner to
+create and oversee a statewide microstamp roster.16 Following enactment of the law, the Attorney General
+designated the Statewide Affirmative Firearms Enforcement Office (SAFEO) to conduct the viability
+investigation and further designated the Senior Investigator of SAFEO to serve as the microstamping
+examiner. In 2024, the New Jersey Attorney General’s Office determined that microstamping is viable,
+prompting the regulation promulgation process to begin.17 New Jersey’s statutory scheme encourages gun
+manufacturers to join the state microstamping roster. In 2023, the Attorney General issued Performance
+Standards and Qualifying Criteria for the microstamping examiner to use with applicant-proposed
+firearms. Once the microstamping examiner approves a microstamp-enabled firearm for inclusion on the
+state roster, gun retailers statewide will be required to stock at least one gun from that roster. Any person
+who purchases a microstamp-enabled firearm from a licensed retail dealer shall be eligible for a rebate of
+10 percent of the purchase price up to a maximum of $30. The state also established a Microstamp Fund
+for law enforcement agencies to purchase microstamp-enabled firearms.
+New Jersey adopted personalized firearm legislation in 2002, the Childproof Handgun Law, which
+dictates that all handguns sold in the state must be personalized firearms.18 This law was revised in 2019
+to require the state to develop an approved roster of personalized firearms. Following the implementation
+of this roster, firearms manufacturers within the state are required to keep at least one personalized
+firearm in stock.19
+California
+16 N.J. P.L. 2022, c. 57; see also Appendix G.
+17 See Appendix B for New Jersey 2024 Microstamping Viability Report and New Jersey Microstamping Viability
+Certification.
+18 N.J. P.L. 2002, c. 130; see Appendix E.
+19 N.J. P.L. 2019, c. 164; see Appendix F.
+10
+California first passed microstamping legislation in 2007, requiring all new handgun models
+manufactured or sold in California to be equipped with microstamping technology. Legal challenges
+brought by firearm manufacturers and gun rights groups, including the National Foundation for Sports
+Shooting (represented on this Commission), have delayed implementation of the 2007 law.20
+In 2023, California enacted a new microstamping law. Beginning January 1, 2028, licensed firearm
+dealers will be prohibited from selling, offering for sale, exchanging, giving, transferring, or delivering a
+semiautomatic pistol, unless the firearm has been certified as a microstamping-enabled pistol by the
+pistol’s manufacturer, a licensed firearms dealer, or a gunsmith that services the pistol to install a
+qualifying microstamping component – if the state’s Department of Justice (CDOJ) has determined (1)
+that microstamping is technologically viable and (2) that microstamping components or microstamping-
+enabled semi-automatic firearms are available.21 In July 2025, the California Attorney General’s Office
+announced that the CDOJ determined that microstamping is technologically viable, satisfying the first of
+the two determinations necessary for the law’s 2028 mandate to take effect.22 California’s microstamping
+law further directs the CDOJ to provide written guidance by September 1, 2025, concerning qualifying
+criteria and performance standards for microstamping components; to accept applications for licensure of
+entities to produce the microstamping component by January 1, 2026; and to provide grants or enter into
+contracts for developing and manufacturing microstamping components that meet its performance
+standards and make the components available for sale or other distribution by July 1, 2026. California’s
+microstamping law additionally directs the CDOJ to determine by July 1, 2027, whether microstamping
+components are available at commercially reasonable prices from licensees producing microstamping
+components and/or whether microstamping-enabled firearms are available for purchase in California. The
+legislature empowered the CDOJ to adopt rules and regulations to carry out the law. The law further
+prohibits a person from modifying a microstamping-enabled pistol or microstamping component with the
+intent to prevent the production of a microstamp.
+New York
+New York passed a microstamping law in 2022 to require that all new semi-automatic handguns sold,
+exchanged, transferred, or delivered in the state have microstamping technology in compliance with state
+standards established by the Commissioner of the Division of Criminal Justice Services (DCJS).23 The
+law established a statutory timeline for DCJS to investigate and certify the technological viability of
+microstamped-enabled pistols, with such certification leading to a subsequent statutory timeline for DCJS
+to establish performance standards, verification processes, and training and licensure for the servicing of
+firearms and their components. The legislature further empowered DCJS to issue regulations to carry out
+20 The 2007 law has been challenged three times since 2007, most recently in 2023. A state court ultimately
+dismissed the NSFD’s 2018 challenge. A 2023 case is ongoing. See, e.g., Pena v. Lindley, No. 15-15449; Boland v.
+Bonta, 8:22-cv-01421, https://michellawyers.com/boland-v-bonta/.
+21 2023 Cal Stats. ch.253. See also Appendix H.
+22 Determination Regarding the Technological Viability of Microstamping Components, Pursuant to Penal Code
+
+Section 13:
+section 27532, https://oag.ca.gov/system/files/attachments/press-
+docs/Microstamping%20Technological%20Viability%20Report%202025.pdf
+23 New York Chapter 205 of the Laws of 2022. See also Appendix J. This legislation was part of a larger gun safety
+legislation prompted in part by the 2022 racist mass shooting at a Tops grocery store in Buffalo, New York.
+11
+the provisions of the law. DCJS currently is exploring the feasibility and viability of the technology.24
+The anticipated annual cost to oversee the microstamping requirements is estimated to be roughly
+$500,000. The law further prohibits a person from modifying a microstamping-enabled pistol or
+microstamping component with the intent to prevent the production of a microstamp.
+VII. Recommendations and Findings of the Commission
+Microstamping
+The Commission finds that microstamping technology offers a compelling possibility of contributing to
+more solved firearm crimes and, as such, providing law enforcement with an additional tool for the
+investigation and prosecution of firearm crimes. As such, the Commission recommends that the
+Massachusetts General Court pursue microstamping legislation, modeled on the laws of California and
+New York, that accomplishes the following:
+
+Section 14:
+1. Directs the Executive Office of Public Safety and Security (EOPSS) to determine the feasibility
+and viability of microstamping technology, including a review of the recommended forensic
+process to recover microstamp data from crime scene evidence and analyses of the recovery
+process, required or recommended laboratory equipment needed to regenerate and/or recover
+data, specialized training for forensic practitioners, and a review of the time necessary to
+complete data recovery;
+
+Section 15:
+2. Directs EOPSS to establish standards and criteria for testing microstamp-enabled firearms;
+
+Section 16:
+3. Requires that all semi-automatic handguns newly registered in the Commonwealth be equipped
+with microstamping technology upon a finding by EOPSS that microstamping technology meets
+feasibility and viability criteria, pursuant to regulations promulgated by EOPSS;
+
+Section 17:
+4. Establishes penalties for handgun manufacturers, distributors, and merchants that are non-
+compliant with the law;
+
+Section 18:
+5. Establishes penalties for individuals who tamper with microstamping technology within a
+microstamp-enabled firearm;
+
+Section 19:
+6. Directs EOPSS to establish training and licensure for individuals and entities to service
+microstamp-enabled firearms; and
+
+Section 20:
+7. Appropriates the funding necessary to support this work, including with for the feasibility and
+viability analyses and any necessary upgrades to State data systems and lab efforts.
+Personalized Firearms
+The Commission finds that personalized firearms offer a significant possibility of reducing firearm
+accidents and deaths. Given the higher price of these firearms, the Commissione recommends that the
+Massachusetts General Court pursue sales tax exemptions to encourage their purchase. Separate
+majorities of the Commission members supported creating either (1) a sales tax exemption, which sunsets
+after five years, for the purchase of a personalized firearm or (2) a sales tax exemption, which sunsets
+after five years, for the purchase of a personalized firearm with the trade-in of a non-personalized firearm.
+In both cases, the Commission recommends the Commonwealth study the rate of personalized firearm
+purchases during the sales tax exemption period.
+24 Request for Information (RFI) DCJS-25-01 New York State Division of Criminal Justice Services Microstamping
+Viability, https://www.criminaljustice.ny.gov/pio/vendor/NYS%20DCJS%20Microstamping%20RFI.pdf
+12
+Appendix A
+Commissioner Vote Record on Final Report
+13
+The Chairs separated the special commission’s recommendation into three distinct recommendations and
+members voted YEA or NAY on each. The specific recommendations and member votes are as follows:
+Microstamping
+The Commission finds that microstamping technology offers a compelling possibility of contributing to
+more solved firearm crimes and, as such, providing law enforcement with an additional tool for the
+investigation and prosecution of firearm crimes. As such, the Commission recommends that the
+Massachusetts General Court pursue microstamping legislation, modeled on the laws of California and
+New York, that accomplishes the following:
+
+Section 21:
+1. Directs the Executive Office of Public Safety and Security (EOPSS) to determine the feasibility
+and viability of microstamping technology, including a review of the recommended forensic
+process to recover microstamp data from crime scene evidence and analyses of the recovery
+process, required or recommended laboratory equipment needed to regenerate and/or recover
+data, specialized training for forensic practitioners, and a review of the time necessary to
+complete data recovery;
+
+Section 22:
+2. Directs EOPSS to establish standards and criteria for testing microstamp-enabled firearms;
+
+Section 23:
+3. Requires that all semi-automatic handguns newly registered in the Commonwealth be equipped
+with microstamping technology upon a finding by EOPSS that microstamping technology meets
+feasibility and viability criteria, pursuant to regulations promulgated by EOPSS;
+
+Section 24:
+4. Establishes penalties for handgun manufacturers, distributors, and merchants that are non-
+compliant with the law;
+
+Section 25:
+5. Establishes penalties for individuals who tamper with microstamping technology within a
+microstamp-enabled firearm;
+
+Section 26:
+6. Directs EOPSS to establish training and licensure for individuals and entities to service
+microstamp-enabled firearms; and
+
+Section 27:
+7. Appropriates the funding necessary to support this work, including for the feasibility and viability
+analyses and any necessary upgrades to State data systems and lab efforts.
+YEA NAY
+Chair Lipper-Garabedian Commissioner Berthiaume
+Chair Moore Commissioner Durant
+Commissioner Ashford Commissioner McGuigan
+Commissioner Call
+Commissioner Edwards ASBTAIN
+Commissioner Farnsworth Commissioner Ronan
+Commissioner Keenan
+Commissioner Lizotte
+Commissioner Noble
+Personalized Firearms
+The Commission finds that personalized firearms offer a significant possibility of reducing firearm
+accidents and deaths. Given the higher price of these firearms, the Commissioner recommends that the
+Massachusetts General Court pursue sales tax exemptions to encourage their purchase. In both cases, the
+Commission recommends the Commonwealth study the rate of personalized firearm purchases during the
+sales tax exemption period.
+
+Section 28:
+8. Option One: Creating a sales tax exemption, which sunsets after five years, for the purchase of a
+personalized firearm
+14
+YEA NAY
+Chair Lipper-Garabedian Commissioner Edwards
+Chair Moore Commissioner Keenan
+Commissioner Ashford
+Commissioner Berthiaume ASBTAIN
+Commissioner Call Commissioner Ronan
+Commissioner Durant
+Commissioner Farnsworth
+Commissioner McGuigan
+Commissioner Lizotte
+Commissioner Noble
+
+Section 29:
+9. Option 2: Creating a sales tax exemption, which sunsets after five years, for the purchase of a
+personalized firearm with the trade-in of a non-personalized firearm
+YEA NAY
+Chair Lipper-Garabedian Commissioner Berthiaume
+Chair Moore Commissioner Durant
+Commissioner Ashford Commissioner Edwards
+Commissioner Call Commissioner Keenan
+Commissioner Farnsworth Commissioner McGuigan
+Commissioner Lizotte
+Commissioner Noble ASBTAIN
+Commissioner Ronan
+Conclusion of Work
+The Commissioners of the Special Commission Emerging Firearm Technology voted to submit the report
+to the General Court and to conclude the Commission’s work, having fulfilled its statutory charge.
+YEA NAY
+Chair Lipper-Garabedian Commissioner Berthiaume
+Chair Moore Commissioner Durant
+Commissioner Ashford Commissioner McGuigan
+Commissioner Call
+Commissioner Farnsworth ASBTAIN
+Commissioner Keenan Commissioner Edwards
+Commissioner Lizotte Commissioner Ronan
+Commissioner Noble
+15
+[DELETED:        R      H]
+[DELETED:  P S W M P L RA.tB.T .T .T .A .N .N .N .C.T .D...E.F.G.H.I.tJ.K.L.M.N.O.oP.f]
+[DELETED: .P]
+[DELETED: .S]
+[DELETED: .W P As C  R C C M D A C R • C • • A M • A C R • C]
+[DELETED:  A C R • C O C N R C O P P C N I M p C N R C D]
+[DELETED: .M. . ”  .]
+[DELETED: . s]
+[DELETED: .P  ]
+[DELETED: .L .   . F]
+[DELETED:  . T]
+[DELETED: . R.D.D.R.E.E.D.A]
+[DELETED:     AN.D.D.R.E.E.D.AAN          C      C     C        C.O]
+[DELETED: AN          C      C         C.OAN          C      C     C     C    C           CAN          C      C     C         C     C]
+
+
+================================================================================
+
+Raw Text:
+The Commonwealth of Massachusetts
+General Court
+August 8, 2025
+The Honorable Michael D. Hurley
+Clerk of the Senate
+24 Beacon St - Room 335
+State House
+Boston, MA 02133
+The Honorable Timothy Carroll
+Clerk of the House of Representatives
+24 Beacon St - Room 145
+State House
+Boston, MA 02133
+Dear Clerk Hurley and Clerk Carroll:
+Attached please find the final report of the Special Legislative Commission on Emerging
+Firearm Technology established pursuant to Section 148 of Chapter 135 of the Acts of 2024.
+Sincerely,
+Senator Michael O. Moore Representative Kate Lipper-Garabedian
+Senate Chair House Chair
+Enclosure
+
+Special Legislative
+Commission on Emerging
+Firearm Technology
+Final Report
+July 29th, 2025
+
+TABLE OF CONTENTS
+I. Purpose and Context......................................................................................................................3
+II. Statutory Charge............................................................................................................................4
+III. Work of the Commission...............................................................................................................5
+IV. Microstamping................................................................................................................................7
+V. Personalized Firearms....................................................................................................................9
+VI. Legislation in Other Jurisdictions...............................................................................................10
+VII. Recommendations and Findings of the Commission.................................................................12
+Appendices
+Appendix A: Commissioner Votes Record on Final Report.......................................................................13
+Appendix B: February 10th Commission Meeting Materials.....................................................................16
+1. Testimony of Todd Lizotte...................................................................................17
+2. Testimony of Joshua Horwitz...............................................................................29
+3. Testimony of Monte Frank...................................................................................35
+4. American Bar Association Microstamping Report..............................................39
+5. New Jersey 2023-0822 Microstamping Standards and Testing...........................47
+6. New Jersey 2024 Microstamping Viability Report..............................................50
+7. New Jersey Microstamping Viability Certification..............................................88
+Appendix C: March 4th Commission Meeting Materials...........................................................................89
+1. Testimony of the Office of New York State Senator Brad Hoylman-Sigal.....................90
+Appendix D: April 10th Commission Meeting Materials...........................................................................92
+1. Testimony of Kai Kloepfer...............................................................................................93
+Appendix E: New Jersey Personalized Firearm Statute (2002)................................................................100
+Appendix F: New Jersey Personalized Firearm Statute (2019)................................................................109
+Appendix G: New Jersey Microstamping Statute.....................................................................................121
+Appendix H: California Microstamping Statute.......................................................................................126
+Appendix I: California Microstamping Viability Report..........................................................................133
+Appendix J: New York Microstamping Statute........................................................................................153
+Appendix K: New York Microstamping Viability RFI............................................................................157
+Appendix L: Massachusetts Chiefs of Police Association Letter.............................................................164
+Appendix M: Everytown for Gun Safety Letter.......................................................................................168
+Appendix N: Hopkins Bloomberg Public Health Magazine Article.........................................................174
+Appendix O: Lizotte Unintentional Firearm Microstamps Memo............................................................182
+Appendix P: Berthiaume and Durant Dissenting Brief.............................................................................186
+2
+
+I. Purpose and Context
+This report is filed pursuant to Section 148 of Chapter 135 of the Acts of 2024, An Act modernizing
+firearm laws (“2024 Gun Safety Law”). This legislation established the Special Legislative Commission
+on Emerging Firearm Technology (“the Commission”) to investigate and make recommendations to the
+General Court regarding at least two advances in the field of firearms technology - Intentional Firearm
+Microstamping (IFM, “microstamping”) and personalized firearm technology (or “smart guns”). To meet
+its charge, the Commission met seven times between January and July 2025, including a public hearing
+during which the Commission gathered testimony from interested parties and a final meeting during
+which votes were taken on the content of this report. The Commission was charged with issuing a report
+of its findings and recommendations to the Clerks of the Senate and House of Representatives.
+The enabling legislation established compositional requirements for the Commission to ensure
+representation from all parties that could be interested in legislation regarding emerging firearms
+technology. Consistent with this requirement, the Commission was comprised of the following 13
+members:
+Legislative Appointees
+• Representative Kate Lipper-Garabedian, Co-Chair, Designee of the House Chair of the Joint
+Committee on the Judiciary
+• Senator Michael O. Moore, Co-Chair, Designee of the Senate Chair of the Joint Committee on
+the Judiciary
+• Professor Nicholas Ashford, Massachusetts Institute of Technology Professor of Technology &
+Policy Director, Technology & Law Program, Appointed by the Speaker of the House of
+Representatives
+• Todd Lizotte, CEO of BOLD Laser Automation, Appointed by the Speaker of the House of
+Representatives
+• Senator John F. Keenan, Appointed by the Senate President
+• Senator Lydia Edwards, Appointed by the Senate President
+• Representative Donald R. Berthiaume, Jr., Appointed by the House Minority Leader
+• Senator Peter J. Durant; Appointed by the Senate Minority Leader
+Executive Members and Appointees
+• Jeff Farnsworth, Senior Policy Advisor, Executive Office of Public Safety and Security,
+Designee of the Secretary of Public Safety and Security
+• Colonel Geoffrey Noble, Colonel of the Massachusetts State Police
+• Christopher D. Call, Massachusetts State Trooper, Appointed by the Governor
+• Christina Ronan, Chief of the Attorney General Office’s Enterprise and Major Crimes Division,
+Designee of the Attorney General
+Other Members
+• Jake McGuigan, Appointed by the National Shooting Sports Foundation, Inc.
+The individuals listed above possess substantial professional expertise in the fields of legislation, and
+policy and/or firearms, and offered a variety of perspectives on emerging firearms technology and
+firearms regulation.
+3
+
+II. Statutory Charge
+Section 148 of Chapter 135 of the Acts of 2024:
+(a) As used in this section, the following words shall, unless the context clearly requires otherwise, have
+the following meanings:
+“Microstamp”, a microscopic array of characters identifying the make, model, or serial number of a
+firearm, etched or otherwise imprinted in 2 or more places on the interior surface or the internal working
+parts of the firearm, that are transferred by imprinting on each cartridge case when the firearm is fired.
+“Personalized firearm”, a firearm manufactured with incorporated design technology or converted with
+such technology so that it: (i) allows the firearm to be fired only by an authorized user; or (ii) prevents
+any of the safety characteristics of the firearm from being readily deactivated.
+(b) There is hereby established, pursuant to section 2A of chapter 4 of the General Laws, a special
+legislative commission to study and investigate emerging firearm technology.
+(c) The special legislative commission shall consist of 13 members: the chairs of the joint committee on
+the judiciary or their designees, who shall serve as co-chairs; the secretary of public safety and security or
+a designee; the colonel of the state police or a designee; 2 members appointed by the speaker of the house
+of representatives; 2 members appointed by the president of the senate; 1 member appointed by the
+minority leader of the house of representatives; 1 member appointed by the minority leader of the senate;
+1 member appointed by the governor, who shall be an expert in emerging firearm technologies; the
+attorney general or a designee and 1 member appointed by the National Shooting Sports Foundation, Inc.
+(d) The special legislative commission shall investigate and study the status, feasibility, and utility of
+emerging firearm technologies, including, but not limited to, personalized firearm technology and
+microstamp technology. The study shall include: (i) a review of existing and developing personalized
+firearm and microstamp technologies and any legal or constitutional issues relating to such technologies;
+(ii) an investigation of the accuracy, effectiveness and utility of personalized firearm and microstamp
+technologies; (iii) an evaluation of the commercial availability of personalized firearm and microstamp
+technologies, both in the production of new firearms and modification of existing firearms; (iv) an
+evaluation of the feasibility and utility of a personalized firearm technology tax incentive program; (v) an
+evaluation of the risks associated with the use of a digital firearm manufacturing code for machine
+learning and artificial intelligence; and (vi) an investigation of the cost and impacts associated with
+requiring the use of personalized firearm or microstamp technologies in the commonwealth.
+(e) The special legislative commission shall submit a report of its study and recommendations, together
+with any legislative recommendations, to the clerks of the house of representatives and the senate no later
+than March 1, 2025.
+4
+
+III. Work of the Commission
+The following table summarizes the work of the Commission throughout its seven hearings. Appendices
+to this report provide testimonies offered at each Commission meeting and hearing:
+Appendix
+Hearing Purpose Agenda
+Materials1
+January 28 To orient the Call to Order
+members to their Reading of the Special Commission’s
+legislative charge Charge
+and provide Chair introduction
+background Member introductions
+information. Discussion of Special Commission’s Work
+Confirm Commission’s Second Meeting to
+focus on Microstamping
+Member Opportunity for Comment
+Meeting is adjourned
+February 10 To explore the Call to Order Appendix B
+topic of Reading of the Special Commission’s • Written testimony
+microstamping. Charge • Presentations
+New Commissioner Introductions • American Bar
+Overview of Meeting Topic: Association
+Microstamping Microstamping Report
+Guest Testimony • New Jersey 2023-0822
+• Todd Lizotte, President and CEO of Microstamping
+BOLD Laser Automation Standards and Testing
+• Josh Horwitz, Co-Director of the Johns • New Jersey 2024
+Hopkins Center for Gun Violence Microstamping Viability
+Solutions Report
+• Monte Frank, Chair of the American • New Jersey
+Bar Association’s Standing Committee Microstamping Viability
+on Gun Violence Certification
+• Lyndsay Ruotolo, New Jersey First
+Assistant Attorney General, and Ravi
+Ramanathan, Director of New Jersey’s
+Statewide Affirmative Firearms
+Enforcement Office
+Discussion
+Confirm Commission’s Third Meeting
+Meeting is adjourned
+March 4 To continue the Call to Order Appendix C
+exploration of Reading of the Special Commission’s • Written testimony
+microstamping. Charge
+Overview of the Last Meeting on
+Microstamping
+Guest Testimony
+• Evan Lieberman, Assistant Legislative
+Director to New York State Senator
+Brad Hoylman-Sigal
+• Senator Catherine Blakespear,
+California State Senator
+1 All Commission documents may be found on the General Court’s website at
+https://malegislature.gov/Commissions/Detail/656/Documents
+5
+
+• Jim Wallace, Executive Director of the
+Gun Owners’ Action League
+Discussion
+Discuss Commission’s Fourth Meeting
+Meeting is adjourned
+April 10 To explore the Call to Order Appendix D
+topic of Reading of the Special Commission’s • Written testimony
+personalized Charge
+firearms. Overview of the Last Meeting on
+Microstamping
+Guest Testimony
+• Kai Kloepfer, Founder and CEO of
+Biofire Smart Guns
+• Michaela Dunne, Chair of Governor
+Healey’s Firearm Control Advisory
+Board
+• Kade Crockford, Director of the
+Technology for Liberty Program at the
+ACLU of Massachusetts
+Discussion
+Discuss Commission’s Public Hearing
+Meeting is adjourned
+April 17 To gather oral Call to Order N/A
+testimony from Reading of the Special Commission’s
+members of the Charge
+public on the Overview of the Prior Meetings on
+work of the Personalized Firearms and Microstamping
+Commission. Public Testimony
+Discussion
+Meeting is adjourned
+June 12 To discuss the Call to Order N/A
+two technologies Introductions
+and review Microstamping: Review of
+presentations. presentations/comments
+Discussion
+Personalized Firearms: Review of
+presentations/comments
+Discussion
+Meeting is adjourned
+July 29 To take votes on Call to Order N/A
+recommendations Reading of the Special Commission’s
+to the General Charge
+Court. Draft Final Report
+• Review
+• Recommendations
+• Votes
+Meeting is adjourned
+6
+
+IV. Microstamping
+Gun violence is a public health crisis in the United States,2 with almost 47,000 Americans dying each
+year from gun-related injuries.3 Meanwhile, half of gun crimes go unsolved in the United States, with that
+rate continuing to increase over the last forty years.4 Pursuant to the 2024 Gun Safety Law, the
+Commonwealth of Massachusetts requires all firearms possessed, manufactured, or assembled in the state
+to be registered.5 Guns rarely are left at the scene of a crime, making their registration insufficient for
+solving crimes, whereas cartridge casings often remain. As such, this Commission explored
+microstamping in the hopes that it may prove helpful in solving gun crimes and preventing gun deaths.
+The 2024 Gun Safety Law, in its charge to this Commission, defines microstamping as follows: “a
+microscopic array of characters identifying the make, model, or serial number of a firearm, etched or
+otherwise imprinted in 2 or more places on the interior surface or the internal working parts of the
+firearm, that are transferred by imprinting on each cartridge case when the firearm is fired.”6 In other
+words, intentional firearm microstamping (“IFM” or “microstamping”) involves the creation of an
+indentation mechanism on a firearm’s firing pin, which in turn creates indentations on each fired bullet
+casing with a code linked to that firearm. Law enforcement then can use microstamped bullet casings
+recovered at crime scenes to identify the firearm from which they were discharged. This allows for a
+process for tracing firearms used in gun crimes in Massachusetts.
+Intentional firearm microstamping may offer a more precise way to identify firearms used in gun crimes
+than law enforcement’s current methods. Traditional ballistics investigation relies on detecting random
+imperfections found on bullet casings (unintentional firearm microstamping) and analyzing them (firearm
+and toolmark examinations and analysis) by the National Integrated Ballistic Information Network
+(“NIBEN”), a program of the federal Bureau of Alcohol, Tobacco, Firearms and Explosives. Further, to
+properly identify the firearm used in a crime, said firearm must be recovered at the scene and compared to
+the bullet casings found. Conversely, with microstamping, only bullet casings with their IFM code
+detectable need to be recovered from a crime scene to determine the firearm used. Todd Lizotte, one of
+the Commission’s members, is a co-creator of microstamping.7
+This identification method may serve as another tool and opportunity for law enforcement to investigate,
+solve, and prosecute gun crimes. With a positive identification of an IFM code, investigations may lead
+directly to the firearm involved in a crime and further empower law enforcement to link separate crimes.
+2 Office of the Surgeon General (OSG). Firearm Violence: A Public Health Crisis in America: The U.S. Surgeon
+General’s Advisory [Internet]. Washington (DC): US Department of Health and Human Services (US); 2024.
+Available from: https://www.ncbi.nlm.nih.gov/books/NBK605169/.
+3 Gramlich, John. “What the Data Says about Gun Deaths in the U.S.” Pew Research Center, March 5, 2025.
+https://www.pewresearch.org/short-reads/2025/03/05/what-the-data-says-about-gun-deaths-in-the-us/.
+4 Li, Weihua, and Jamiles Lartey. “As Murders Spiked, Police Solved About Half in 2020.” The Marshall Project,
+January 12, 2022. https://www.themarshallproject.org/2022/01/12/as-murders-spiked-police-solved-about-half-in-
+2020.
+5 G.L. c. 140, § 121B(a)(1).
+6 G.L c. 148. § 135(a).
+7 See Appendix B. Mr. Lizotte disclosed his explicit financial interest in the adoption of microstamping in multiple
+Commission meetings and has made the patent for microstamping open source.
+7
+
+As such, law enforcement may be able to connect individuals involved with other criminals and crimes,
+such as irresponsible or illegal gun dealers, human traffickers, and drug smuggling operations. While the
+technology does not remove all human bias, the purposeful characters of a firearm’s IFM code create a
+more direct link that is less open to interpretation (and therefore less error) than unintentional firearm
+microstamping. The technology is also commercially available, with no patent restrictions on its adoption
+and use by third parties. Further, intentional firearm microstamping uses laser printing technology that is
+already in wide use. These factors contribute to a promising outlook for the use of intentional firearm
+microstamping in solving gun-related crimes.
+While unintentional firearm microstamping has been the standard to identify firearms used in gun crimes,
+there is debate in the scientific and legal communities about the reliability of toolmark examinations and
+their admissibility in court. In 2009, a National Research Council report determined that conclusive
+identifications of firearms using firearm and toolmark analysis were without a strong scientific or
+statistical foundation.8 Similarly, a 2016 report by the U.S. President’s Council of Advisors on Science
+and Technology offered skepticism regarding the reliability of firearm and toolmark examinations.9
+Furthermore, several court rulings over the last two decades have limited firearm and toolmark analysis as
+admissible evidence and testimony due to doubts raised surrounding their scientific rigor.10 These reports
+and rulings pose issues for law enforcement and prosecutors, casting a shadow over their work to make
+communities safer. Intentional firearm microstamping could offer more definitive conclusions if
+implemented on a large scale.
+Intentional firearm microstamping, like unintentional firearm microstamping, has limitations. Primarily,
+the wearing down of the microstamped firing pin in a firearm over time may prove an impediment to
+properly identifying the code and, therefore, the firearm. There is also the potential for unauthorized
+replacement or tampering with a firearm’s firing pin. Nonetheless, in such circumstances, it may be
+possible for unintentional firearm microstamping to be used to identify the firearm used in a crime. It is
+also important to note that no other state has fully implemented state laws regarding intentional firearm
+microstamping, though several states that have passed microstamp statutes were studied by the
+Commission.11
+Along with the intentional firearm microstamping that the Commission explored, there is another form of
+microstamping commonly known as the “Miami Barrel.” The Miami-Dade Police Department worked in
+conjunction with firearm manufacturer Glock GmbH to create this microstamping mechanism on the
+Glock pistols the Department uses. Miami Barrels create indentations on a fired bullet as it passes through
+the barrel, instead of the mechanism being the firing pin. Unlike the traditional intentional firearm
+microstamping, the Miami Barrel was created to identify bullets fired by a police officer in officer-
+8 Committee on Identifying the Needs of the Forensic Sciences Community, and National Research Council.
+“Strengthening Forensic Science in the United States: A Path Forward.” National Academies Press, August 2009.
+https://nap.nationalacademies.org/read/12589/chapter/1.
+9 President’s Council of Advisors on Science and Technology, Forensic Science in Criminal Courts: Ensuring
+Scientific Validity of Feature-Comparison Methods § (2016). chrome-
+extension://efaidnbmnnnibpcajpcglclefindmkaj/https://obamawhitehouse.archives.gov/sites/default/files/microsites/o
+stp/PCAST/pcast_forensic_science_report_final.pdf.
+10 See, e.g., United States v. Monteiro, 407 F. Supp. 2d 351 (D. Mass. 2006); United States v. Green, 405 F. Supp.
+2d 104 (D. Mass. 2005); United States v. Glynn, 578 F. Supp. 2d 567 (S.D.N.Y. 2008); United States v. Williams,
+506 F.3d 151 (2d Cir. 2007); United States v. Tibbs, No. 2016 CF1 19431 (D.C. Super. Ct. 2019).
+11 See infra VI: Legislation in Other Jurisdictions.
+8
+
+involved shootings. The intent there was to create more accountability for police officers who discharge
+their weapons while on duty. The technology has considerably less implementation and testing than
+traditional intentional firearm microstamping.12
+V. Personalized Firearms
+In 2023, 463 people died and over 27,000 people were injured in the United States due to accidental
+firearm discharges. Separately, over half of the aforementioned 47,000 Americans killed by firearms
+annually were Americans who committed suicide. Firearm discharges by those with mental health issues
+were a significant concern of the Commission. Unauthorized use of a firearm is a common characteristic
+of school shootings, with three-quarters of school shooting perpetrators taking the firearm that belonged
+to a family member. For most of the century so far, gun deaths have been the leading cause of death for
+children under the age of 18.13 As such, this Commission explored personalized firearms in the hopes that
+the technology may prove helpful in preventing gun injuries and deaths.
+The Commission’s authorizing statute defines personalized firearms as follows: “a firearm manufactured
+with incorporated design technology or converted with such technology so that it: (i) allows the firearm to
+be fired only by an authorized user; or (ii) prevents any of the safety characteristics of the firearm from
+being readily deactivated.” Personalized firearms use biometric data to limit the use of a firearm to its
+owner and any trusted users that the owner designates. This feature prevents discharge by unauthorized
+users, whether accidental or intentional.
+At present, only two American firms are confirmed to manufacture personalized firearms, Biofire and
+Lodestar Technology. Lodestar has announced a 9mm handgun design, but its firearm has yet to reach the
+market, and the firm did not respond to inquiries from the Commission. Kai Kloepfer, founder and CEO
+of Biofire, informed the Commission that his company is currently the only American manufacturer of
+personalized firearms. Biofire, a venture-backed startup based in Colorado, unveiled its first personalized
+firearm in April 2023: a 9mm semiautomatic handgun. A single charge of this firearm’s battery can last
+up to a month, and several alerts will notify the firearm owner before the battery fully depletes.14 In
+February 2025, the Massachusetts Firearm Control Advisory Board voted to place Biofire’s personalized
+firearm on the State’s Approved Firearms Roster.15
+Biofire does not have access to biometric data present in its firearms, and that data are wiped when
+ownership of a personalized firearm is transferred. If the owner of a Biofire personalized firearm passes
+away unexpectedly and has not designated any other trusted users, the firearm can no longer be used.
+While Biofire may not retain biometric data for its product, data retention remains a significant concern
+should other manufacturers enter the personalized firearm market. Biofire is currently the only American
+company offering personalized firearms, with only one model currently available, resulting in limited
+12 Fadul, Jr., Thomas G., Gabriel A. Hernandez, Erin Wilson, Stephanie Stoiloff, and Sneh Gulati. “An Empirical
+Study To Improve The Scientific Foundation Of Forensic Firearm And Tool Mark Identification Utilizing
+Consecutively Manufactured Glock EBIS Barrels With The Same EBIS Pattern.” Office of Justice Programs,
+December 2013. https://www.ojp.gov/pdffiles1/nij/grants/244232.pdf.
+13 See e.g., Rabin, Roni Caryn. “Gun Deaths of Children Rose in States That Loosened Gun Laws, Study Finds.”
+The New York Times, June 9, 2025. https://www.nytimes.com/2025/06/09/health/gun-deaths-
+children.html?unlocked_article_code=1.N08.Ja5w.Pe_vB064PmN2&smid=nytcore-ios-
+share&referringSource=articleShare.
+14 See Appendix D for Written Testimony and Presentation by Kai Kloepfer, CEO of Biofire.
+15 See https://www.mass.gov/doc/approved-firearms-roster-22025/download.
+9
+
+adoption at present. Mr. Kloepfer stated to the Commission that manufacturing a personalized firearm is
+four times the cost of a traditional firearm, discouraging other manufacturers from entering the market.
+There was some discussion about a personalized firearm mandate; however, Mr. Kloepfer pointed out that
+both Biofire’s philosophical objections and the nascence of the industry would make such a mandate
+difficult to enforce.
+The Commission acknowledged the degree to which personalized firearms may address gun deaths and
+injuries. Personalized firearms offer the potential for safe legal gun ownership without the risk of
+unauthorized discharge by children, people who want use the firearm for illicit purposes, and individuals
+experiencing mental-health crises.
+VI. Legislation in Other Jurisdictions
+The Commission explored the laws of three states that have, as of the completion of this report, passed
+legislation regarding microstamping. New Jersey, California, and New York have yet to fully implement
+their microstamping requirements, but processes for doing so in all three are underway. The Commission
+also reviewed New Jersey’s state law regarding personalized firearms.
+New Jersey
+New Jersey enacted microstamping legislation in 2022, directing the State Attorney General’s Office to
+investigate the viability of microstamping technology and to designate a microstamping examiner to
+create and oversee a statewide microstamp roster.16 Following enactment of the law, the Attorney General
+designated the Statewide Affirmative Firearms Enforcement Office (SAFEO) to conduct the viability
+investigation and further designated the Senior Investigator of SAFEO to serve as the microstamping
+examiner. In 2024, the New Jersey Attorney General’s Office determined that microstamping is viable,
+prompting the regulation promulgation process to begin.17 New Jersey’s statutory scheme encourages gun
+manufacturers to join the state microstamping roster. In 2023, the Attorney General issued Performance
+Standards and Qualifying Criteria for the microstamping examiner to use with applicant-proposed
+firearms. Once the microstamping examiner approves a microstamp-enabled firearm for inclusion on the
+state roster, gun retailers statewide will be required to stock at least one gun from that roster. Any person
+who purchases a microstamp-enabled firearm from a licensed retail dealer shall be eligible for a rebate of
+10 percent of the purchase price up to a maximum of $30. The state also established a Microstamp Fund
+for law enforcement agencies to purchase microstamp-enabled firearms.
+New Jersey adopted personalized firearm legislation in 2002, the Childproof Handgun Law, which
+dictates that all handguns sold in the state must be personalized firearms.18 This law was revised in 2019
+to require the state to develop an approved roster of personalized firearms. Following the implementation
+of this roster, firearms manufacturers within the state are required to keep at least one personalized
+firearm in stock.19
+California
+16 N.J. P.L. 2022, c. 57; see also Appendix G.
+17 See Appendix B for New Jersey 2024 Microstamping Viability Report and New Jersey Microstamping Viability
+Certification.
+18 N.J. P.L. 2002, c. 130; see Appendix E.
+19 N.J. P.L. 2019, c. 164; see Appendix F.
+10
+
+California first passed microstamping legislation in 2007, requiring all new handgun models
+manufactured or sold in California to be equipped with microstamping technology. Legal challenges
+brought by firearm manufacturers and gun rights groups, including the National Foundation for Sports
+Shooting (represented on this Commission), have delayed implementation of the 2007 law.20
+In 2023, California enacted a new microstamping law. Beginning January 1, 2028, licensed firearm
+dealers will be prohibited from selling, offering for sale, exchanging, giving, transferring, or delivering a
+semiautomatic pistol, unless the firearm has been certified as a microstamping-enabled pistol by the
+pistol’s manufacturer, a licensed firearms dealer, or a gunsmith that services the pistol to install a
+qualifying microstamping component – if the state’s Department of Justice (CDOJ) has determined (1)
+that microstamping is technologically viable and (2) that microstamping components or microstamping-
+enabled semi-automatic firearms are available.21 In July 2025, the California Attorney General’s Office
+announced that the CDOJ determined that microstamping is technologically viable, satisfying the first of
+the two determinations necessary for the law’s 2028 mandate to take effect.22 California’s microstamping
+law further directs the CDOJ to provide written guidance by September 1, 2025, concerning qualifying
+criteria and performance standards for microstamping components; to accept applications for licensure of
+entities to produce the microstamping component by January 1, 2026; and to provide grants or enter into
+contracts for developing and manufacturing microstamping components that meet its performance
+standards and make the components available for sale or other distribution by July 1, 2026. California’s
+microstamping law additionally directs the CDOJ to determine by July 1, 2027, whether microstamping
+components are available at commercially reasonable prices from licensees producing microstamping
+components and/or whether microstamping-enabled firearms are available for purchase in California. The
+legislature empowered the CDOJ to adopt rules and regulations to carry out the law. The law further
+prohibits a person from modifying a microstamping-enabled pistol or microstamping component with the
+intent to prevent the production of a microstamp.
+New York
+New York passed a microstamping law in 2022 to require that all new semi-automatic handguns sold,
+exchanged, transferred, or delivered in the state have microstamping technology in compliance with state
+standards established by the Commissioner of the Division of Criminal Justice Services (DCJS).23 The
+law established a statutory timeline for DCJS to investigate and certify the technological viability of
+microstamped-enabled pistols, with such certification leading to a subsequent statutory timeline for DCJS
+to establish performance standards, verification processes, and training and licensure for the servicing of
+firearms and their components. The legislature further empowered DCJS to issue regulations to carry out
+20 The 2007 law has been challenged three times since 2007, most recently in 2023. A state court ultimately
+dismissed the NSFD’s 2018 challenge. A 2023 case is ongoing. See, e.g., Pena v. Lindley, No. 15-15449; Boland v.
+Bonta, 8:22-cv-01421, https://michellawyers.com/boland-v-bonta/.
+21 2023 Cal Stats. ch.253. See also Appendix H.
+22 Determination Regarding the Technological Viability of Microstamping Components, Pursuant to Penal Code
+section 27532, https://oag.ca.gov/system/files/attachments/press-
+docs/Microstamping%20Technological%20Viability%20Report%202025.pdf
+23 New York Chapter 205 of the Laws of 2022. See also Appendix J. This legislation was part of a larger gun safety
+legislation prompted in part by the 2022 racist mass shooting at a Tops grocery store in Buffalo, New York.
+11
+
+the provisions of the law. DCJS currently is exploring the feasibility and viability of the technology.24
+The anticipated annual cost to oversee the microstamping requirements is estimated to be roughly
+$500,000. The law further prohibits a person from modifying a microstamping-enabled pistol or
+microstamping component with the intent to prevent the production of a microstamp.
+VII. Recommendations and Findings of the Commission
+Microstamping
+The Commission finds that microstamping technology offers a compelling possibility of contributing to
+more solved firearm crimes and, as such, providing law enforcement with an additional tool for the
+investigation and prosecution of firearm crimes. As such, the Commission recommends that the
+Massachusetts General Court pursue microstamping legislation, modeled on the laws of California and
+New York, that accomplishes the following:
+1. Directs the Executive Office of Public Safety and Security (EOPSS) to determine the feasibility
+and viability of microstamping technology, including a review of the recommended forensic
+process to recover microstamp data from crime scene evidence and analyses of the recovery
+process, required or recommended laboratory equipment needed to regenerate and/or recover
+data, specialized training for forensic practitioners, and a review of the time necessary to
+complete data recovery;
+2. Directs EOPSS to establish standards and criteria for testing microstamp-enabled firearms;
+3. Requires that all semi-automatic handguns newly registered in the Commonwealth be equipped
+with microstamping technology upon a finding by EOPSS that microstamping technology meets
+feasibility and viability criteria, pursuant to regulations promulgated by EOPSS;
+4. Establishes penalties for handgun manufacturers, distributors, and merchants that are non-
+compliant with the law;
+5. Establishes penalties for individuals who tamper with microstamping technology within a
+microstamp-enabled firearm;
+6. Directs EOPSS to establish training and licensure for individuals and entities to service
+microstamp-enabled firearms; and
+7. Appropriates the funding necessary to support this work, including with for the feasibility and
+viability analyses and any necessary upgrades to State data systems and lab efforts.
+Personalized Firearms
+The Commission finds that personalized firearms offer a significant possibility of reducing firearm
+accidents and deaths. Given the higher price of these firearms, the Commissione recommends that the
+Massachusetts General Court pursue sales tax exemptions to encourage their purchase. Separate
+majorities of the Commission members supported creating either (1) a sales tax exemption, which sunsets
+after five years, for the purchase of a personalized firearm or (2) a sales tax exemption, which sunsets
+after five years, for the purchase of a personalized firearm with the trade-in of a non-personalized firearm.
+In both cases, the Commission recommends the Commonwealth study the rate of personalized firearm
+purchases during the sales tax exemption period.
+24 Request for Information (RFI) DCJS-25-01 New York State Division of Criminal Justice Services Microstamping
+Viability, https://www.criminaljustice.ny.gov/pio/vendor/NYS%20DCJS%20Microstamping%20RFI.pdf
+12
+
+Appendix A
+Commissioner Vote Record on Final Report
+13
+
+The Chairs separated the special commission’s recommendation into three distinct recommendations and
+members voted YEA or NAY on each. The specific recommendations and member votes are as follows:
+Microstamping
+The Commission finds that microstamping technology offers a compelling possibility of contributing to
+more solved firearm crimes and, as such, providing law enforcement with an additional tool for the
+investigation and prosecution of firearm crimes. As such, the Commission recommends that the
+Massachusetts General Court pursue microstamping legislation, modeled on the laws of California and
+New York, that accomplishes the following:
+1. Directs the Executive Office of Public Safety and Security (EOPSS) to determine the feasibility
+and viability of microstamping technology, including a review of the recommended forensic
+process to recover microstamp data from crime scene evidence and analyses of the recovery
+process, required or recommended laboratory equipment needed to regenerate and/or recover
+data, specialized training for forensic practitioners, and a review of the time necessary to
+complete data recovery;
+2. Directs EOPSS to establish standards and criteria for testing microstamp-enabled firearms;
+3. Requires that all semi-automatic handguns newly registered in the Commonwealth be equipped
+with microstamping technology upon a finding by EOPSS that microstamping technology meets
+feasibility and viability criteria, pursuant to regulations promulgated by EOPSS;
+4. Establishes penalties for handgun manufacturers, distributors, and merchants that are non-
+compliant with the law;
+5. Establishes penalties for individuals who tamper with microstamping technology within a
+microstamp-enabled firearm;
+6. Directs EOPSS to establish training and licensure for individuals and entities to service
+microstamp-enabled firearms; and
+7. Appropriates the funding necessary to support this work, including for the feasibility and viability
+analyses and any necessary upgrades to State data systems and lab efforts.
+YEA NAY
+Chair Lipper-Garabedian Commissioner Berthiaume
+Chair Moore Commissioner Durant
+Commissioner Ashford Commissioner McGuigan
+Commissioner Call
+Commissioner Edwards ASBTAIN
+Commissioner Farnsworth Commissioner Ronan
+Commissioner Keenan
+Commissioner Lizotte
+Commissioner Noble
+Personalized Firearms
+The Commission finds that personalized firearms offer a significant possibility of reducing firearm
+accidents and deaths. Given the higher price of these firearms, the Commissioner recommends that the
+Massachusetts General Court pursue sales tax exemptions to encourage their purchase. In both cases, the
+Commission recommends the Commonwealth study the rate of personalized firearm purchases during the
+sales tax exemption period.
+8. Option One: Creating a sales tax exemption, which sunsets after five years, for the purchase of a
+personalized firearm
+14
+
+YEA NAY
+Chair Lipper-Garabedian Commissioner Edwards
+Chair Moore Commissioner Keenan
+Commissioner Ashford
+Commissioner Berthiaume ASBTAIN
+Commissioner Call Commissioner Ronan
+Commissioner Durant
+Commissioner Farnsworth
+Commissioner McGuigan
+Commissioner Lizotte
+Commissioner Noble
+9. Option 2: Creating a sales tax exemption, which sunsets after five years, for the purchase of a
+personalized firearm with the trade-in of a non-personalized firearm
+YEA NAY
+Chair Lipper-Garabedian Commissioner Berthiaume
+Chair Moore Commissioner Durant
+Commissioner Ashford Commissioner Edwards
+Commissioner Call Commissioner Keenan
+Commissioner Farnsworth Commissioner McGuigan
+Commissioner Lizotte
+Commissioner Noble ASBTAIN
+Commissioner Ronan
+Conclusion of Work
+The Commissioners of the Special Commission Emerging Firearm Technology voted to submit the report
+to the General Court and to conclude the Commission’s work, having fulfilled its statutory charge.
+YEA NAY
+Chair Lipper-Garabedian Commissioner Berthiaume
+Chair Moore Commissioner Durant
+Commissioner Ashford Commissioner McGuigan
+Commissioner Call
+Commissioner Farnsworth ASBTAIN
+Commissioner Keenan Commissioner Edwards
+Commissioner Lizotte Commissioner Ronan
+Commissioner Noble
+15
+
+[DELETED:        R      H]
+[DELETED:  P S W M P L RA.tB.T .T .T .A .N .N .N .C.T .D...E.F.G.H.I.tJ.K.L.M.N.O.oP.f]
+[DELETED: .P]
+[DELETED: .S]
+[DELETED: .W P As C  R C C M D A C R • C • • A M • A C R • C]
+[DELETED:  A C R • C O C N R C O P P C N I M p C N R C D]
+[DELETED: .M. . ”  .]
+[DELETED: . s]
+[DELETED: .P  ]
+[DELETED: .L .   . F]
+[DELETED:  . T]
+[DELETED: . R.D.D.R.E.E.D.A]
+[DELETED:     AN.D.D.R.E.E.D.AAN          C      C     C        C.O]
+[DELETED: AN          C      C         C.OAN          C      C     C     C    C           CAN          C      C     C         C     C]

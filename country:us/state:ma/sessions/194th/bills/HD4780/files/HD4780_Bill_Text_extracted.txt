@@ -1,0 +1,1471 @@
+Title: Overview of Quarterly Population Report for the Individual Massachusetts Sheriffs' Offices
+Official Title: Overview of Quarterly Population Report for the Individual Massachusetts Sheriffs' Offices
+Number of Sections: 2
+Source: versions - Bill Text
+Media Type: application/pdf
+Strikethrough Detection: 9 sections found
+
+================================================================================
+
+Section 1:
+Massachusetts Sheriffs’ Association
+Chapter 126, Section 40
+Quarterly Population Report
+Q4 2024
+Hampshire County
+Sheriff's Office
+Page 1 of 11
+In compliance with the Massachusetts General Laws, Part I, Title XVIII, Chapter 126, Section 40: Recording
+and reporting of data on population of jails and houses of correction
+
+Section 2:
+Section 40. The sheriff shall record, without limitation, the following data for each person committed to a jail
+or house of correction: (i) probation central file number; (ii) fingerprint-based state identification number, if
+available; (iii) race and ethnicity; (iv) offense-based tracking number; (v) type of release; (vi) type of
+admission; (vii) length of sentence; (viii) jail credit from pretrial incarceration; (ix) earned time; (x) program
+participation and outcome during incarceration; (xi) case disposition; and (xii) bail amount or reason if no bail
+set.
+Aggregate data on the population of each jail and house of correction shall be assembled into a quarterly
+report with the reported data covering the entire quarterly period. The reports prepared by the sheriff shall
+contain no identifying information relating to an individual inmate or detainee.
+Each quarter the sheriff shall deliver the report from each jail and house of correction to the secretary of
+public safety and security, the house and senate chairs of the joint committee on the judiciary, the house and
+senate chairs of the joint committee on public safety and homeland security and the clerks of the house of
+representatives and the senate.
+This report was produced in partnership with the Executive Office of Public Safety & Security by utilizing
+data from the Commonwealth of Massachusetts Criminal Justice Cross-Tracking System.
+Data Definitions & Disclaimer:
+Probation Central File (PCF) Number: A number assigned for identification purposes to an individual by the Massachusetts
+Probation Service. The PCF is not supported by fingerprint-based identification.
+State Identification Number (SID): A unique ten-character alphanumerical identifier supported by fingerprint identification
+assigned to an individual by the Department of State Police through the Automated Fingerprint Identification System (AFIS).
+The SID is created upon the fingerprinting of a person by a Criminal Justice Agency.
+Offense-Based Tracking Number (OBTN): A unique identifier for a specific fingerprint/arrest/custody event that links the
+individual to fingerprints taken. An individual may have multiple OBTNs on file when they have multiple events.
+Disclaimer: The SID, PCF, and OBTN are generated during an individual’s first interaction with the criminal justice system.
+There is often a lag time before the FBI can produce these numbers and they are not immediately available during intake.
+Officers manually add this information once it is received, but some SIDs, PCFs, and OBTNs may not be included in this
+report due to when the data was extracted.
+Important Data Note:
+The statute requires three specific data points that are not owned by the Sheriffs' Offices. These three include: case
+disposition, bail amount, and reason if no bail set, which originate with the Trial Court. As such, the Sheriffs are unable to
+populate these fields. The MSA, in consultation with the Trial Court and EOPSS, are working to refine these metrics so that
+they can be retrieved from the Cross-Tracking System and reported on electronically.
+Page 2 of 11
+ADMISSIONS AND RELEASES
+LENGTH OF JAIL
+SHERIFF'S BOOKING RELEASE EARNED TIME
+PCF SID OBTN RACE ETHNICITY SENTENCE CREDIT
+OFFICE DATE DATE IN DAYS
+IN DAYS IN DAYS
+Hampshire 2639080 MA10001324 HHPS1H2417528 White Hispanic/Latino 10/1/24 10 5
+Hampshire 5657940 MA21288702 White Not Hispanic/Latino 10/1/24 30 270 50
+Hampshire 3104875 MA10403874 JHPS1J2417535 Black/African American Not Hispanic/Latino 10/3/24
+Hampshire 2445736 MA10076619 White Not Hispanic/Latino 10/3/24 30
+Hampshire 3096944 MA10430800 JHPS1J2417534 White Hispanic/Latino 10/3/24
+Hampshire 3192350 MA10596965 JHPS1J2417550 Black/African American Not Hispanic/Latino 10/7/24
+Hampshire 1970263 MA09301514 JHPS2J2417551 White Not Hispanic/Latino 10/7/24
+Hampshire 928649 MA09016953 JHPS1J2417560 White Hispanic/Latino 10/8/24
+Hampshire 3192350 MA10596965 Black/African American Not Hispanic/Latino 10/8/24 60 3
+Hampshire 5120646 S26930400 White Not Hispanic/Latino 10/9/24
+Hampshire 2541817 MA10517935 White Not Hispanic/Latino 10/9/24 45 35
+Hampshire 5605496 MA21246220 JHPS1J2417565 Black/African American Not Hispanic/Latino 10/9/24
+Hampshire 5666980 MA21295500 JHPS1J2417573 White Not Hispanic/Latino 10/10/24
+Hampshire 3175732 MA10556637 JHPS1J2417575 White Hispanic/Latino 10/10/24
+Hampshire 2905559 MA10180854 JHPS1J2417572 Black/African American Not Hispanic/Latino 10/10/24
+Hampshire 2484730 MA09831353 JHPS1J2417586 Black/African American Not Hispanic/Latino 10/15/24
+Hampshire 2800854 MA10190835 White Not Hispanic/Latino 10/16/24 12.5 272 67
+Hampshire 5,622,419 MA21295929 JHPS1J2417593 Black/African American Not Hispanic/Latino 10/17/24
+Hampshire 2258371 MA09750108 JHPS1J2417592 White Not Hispanic/Latino 10/17/24
+Hampshire 5585437 MA21262793 JHPS1J2417612 White Not Hispanic/Latino 10/21/24
+Hampshire 2917687 MA10392228 HHPS1H2417613 Black/African American Not Hispanic/Latino 10/21/24 2.5 256 65
+Hampshire 5425596 MA21110681 JHPS1J2417614 Black/African American Not Hispanic/Latino 10/21/24
+Hampshire 5243608 MA21006864 JHPS1J2417625 White Not Hispanic/Latino 10/24/24
+Hampshire 2855145 MA10154259 White Hispanic/Latino 10/25/24
+Hampshire 1774009 MA09740209 JHPS1J2417643 White Not Hispanic/Latino 10/28/24
+Hampshire 5570508 MA21236357 JHPS2J2417644 Black/African American Hispanic/Latino 10/28/24
+Hampshire 1076798 MA09816224 HHPS2H2417649 White Not Hispanic/Latino 10/29/24 10 365 20
+Hampshire 5568765 MA21185171 JHPS1J2417652 White Hispanic/Latino 10/30/24
+Hampshire 2477582 MA09905949 JHPS2J2417653 White Hispanic/Latino 10/30/24
+Hampshire 2894574 MA10256469 JHPS1J2417656 White Not Hispanic/Latino 10/31/24
+Hampshire 5585437 MA21262793 White Not Hispanic/Latino 10/31/24 2.5 260 10
+Hampshire 2884153 MA10415793 JHPS2J2417662 White Not Hispanic/Latino 11/1/24
+Hampshire White Not Hispanic/Latino 11/1/24
+Hampshire 2445736 MA10076619 White Not Hispanic/Latino 11/1/24
+Hampshire 2746959 MA10093762 JHPS1J2517672 White Hispanic/Latino 11/4/24
+Hampshire 888185 MA09002049 JHPS1J2417674 White Not Hispanic/Latino 11/5/24
+Hampshire 5669695 MA21297487 JHPS1J2417681 White Not Hispanic/Latino 11/7/24
+Hampshire 2516372 MA21201911 White Not Hispanic/Latino 11/8/24 17.5 270 175
+Hampshire 2365934 MA10049707 JHPS1J2417686 White Not Hispanic/Latino 11/8/24
+Hampshire 5670065 MA21297768 JHPS1J2417705 White Not Hispanic/Latino 11/12/24
+Hampshire 5670015 MA21297909 JHPS1J2417706 White Not Hispanic/Latino 11/12/24
+Hampshire 5163496 MA10651259 JHPS1J2417715 White Hispanic/Latino 11/14/24
+Hampshire 5072519 MA10445164 JHPS1J2417717 White Not Hispanic/Latino 11/15/24
+Hampshire 5600598 MA21260386 JHPS1J2417729 American Indian/Alaska Native Hispanic/Latino 11/18/24
+Hampshire 5444103 MA21127356 Black/African American Not Hispanic/Latino 11/18/24 365 205
+Hampshire 5014612 MA10442379 JHPS1J2417733 Black/African American Not Hispanic/Latino 11/19/24
+Hampshire 5596760 MA21247673 JHPS1J2417740 White Not Hispanic/Latino 11/20/24
+Hampshire 3166669 MA21124778 JHPS1J2417739 White Not Hispanic/Latino 11/20/24
+Hampshire 2092416 MA09831515 White Not Hispanic/Latino 11/21/24 10 365 116
+Hampshire 2909106 MA10584017 JHPS1J2417758 White Not Hispanic/Latino 11/25/24
+Hampshire 5294906 MA21236636 JHPS1J2417757 White Not Hispanic/Latino 11/25/24
+Hampshire 5636969 MA21270850 JHPS1J2417765 Black/African American Not Hispanic/Latino 11/26/24
+Hampshire 764524 MA09455241 HHPS1H2417775 White Not Hispanic/Latino 11/27/24 10 60
+Hampshire 3194930 MA21109036 JHPS1J2417782 White Not Hispanic/Latino 11/29/24
+Hampshire 2330734 MA10036894 JHPS1J2417795 White Hispanic/Latino 12/2/24
+Hampshire 5532828 MA21195986 JHPS1J2417801 White Not Hispanic/Latino 12/3/24
+Hampshire 2177909 MA09217576 HHPS2H2417802 White Hispanic/Latino 12/4/24 36 270 128
+Hampshire 2703260 MA10091813 JHPS1J2417805 White Not Hispanic/Latino 12/5/24
+Hampshire 2546920 MA10114970 JHPS1J2417806 White Not Hispanic/Latino 12/5/24
+Hampshire 832236 MA00971969 JHPS1J2417813 White Not Hispanic/Latino 12/6/24
+Hampshire 5360771 MA21065864 JHPS1J2417826 Asian/Pacific Islander Hispanic/Latino 12/9/24
+Hampshire 5669272 White Not Hispanic/Latino 12/9/24
+Hampshire 2925746 MA10517637 JHPS1J2417825 White Not Hispanic/Latino 12/9/24
+Hampshire 2089540 MA09771482 HHPS1H2417830 White Hispanic/Latino 12/10/24 365
+Hampshire 888185 MA09002049 HHPS1H2417837 White Not Hispanic/Latino 12/11/24 1229
+Hampshire 5623113 MA21299988 JHPS1J2417836 White Not Hispanic/Latino 12/11/24
+Page 3 of 11
+ADMISSIONS AND RELEASES
+LENGTH OF JAIL
+SHERIFF'S BOOKING RELEASE EARNED TIME
+PCF SID OBTN RACE ETHNICITY SENTENCE CREDIT
+OFFICE DATE DATE IN DAYS
+IN DAYS IN DAYS
+Hampshire 5659071 MA21286598 JHPS1J2417839 White Hispanic/Latino 12/11/24
+Hampshire 5307733 MA21025159 JHPS1J2417841 White Not Hispanic/Latino 12/12/24
+Hampshire 2682622 MA09906296 JHPS1J2417856 White Hispanic/Latino 12/16/24
+Hampshire 1026006 MA09005322 JHPS2J2417854 White Not Hispanic/Latino 12/16/24
+Hampshire 5298115 MA21000114 JHPS1J2417855 White Hispanic/Latino 12/16/24
+Hampshire 3086001 MA10592162 JHPS1J2417867 White Not Hispanic/Latino 12/18/24
+Hampshire 2410315 MA09748148 JHPS1J2417866 White Hispanic/Latino 12/18/24
+Hampshire 5573624 MA21222480 Black/African American Not Hispanic/Latino 12/19/24
+Hampshire 5673676 MA21300478 JHPS1J2417873 White Not Hispanic/Latino 12/19/24
+Hampshire MA21300859 JHPS2J2417893 Black/African American Not Hispanic/Latino 12/24/24
+Hampshire 5665574 MA21294517 Black/African American Not Hispanic/Latino 12/26/24 180 90
+Hampshire 5255089 MA10640311 JHPS1J2417899 White Hispanic/Latino 12/27/24
+Hampshire 3027149 MA21027411 JHPS1J2417913 White Not Hispanic/Latino 12/30/24
+Hampshire 5585724 MA21271265 HHPS1H2417914 Asian/Pacific Islander Not Hispanic/Latino 12/30/24 1820 86
+Hampshire 2855848 MA10163127 JHPS1J2417489 Other/Unknown Hispanic/Latino 10/1/24
+Hampshire 5132117 MA10516717 JHPS1J2416686 White Not Hispanic/Latino 10/1/24
+Hampshire 5657940 MA21288702 JHPS1J2417178 White Not Hispanic/Latino 10/1/24
+Hampshire 2240446 MA10306634 JHPS1J2314921 White Not Hispanic/Latino 10/1/24
+Hampshire 5663248 MA21292606 JHPS1J2417411 Black/African American Not Hispanic/Latino 10/2/24
+Hampshire 2445736 MA10076619 JHPS1J2417522 White Not Hispanic/Latino 10/3/24
+Hampshire 2903506 MA10195439 HHPS1H2417494 White Hispanic/Latino 10/3/24 10
+Hampshire 2438044 MA10543226 HHPS1H2315800 White Not Hispanic/Latino 10/3/24 676 98
+Hampshire 5600598 MA21260386 JHPS2J2417140 American Indian/Alaska Native Hispanic/Latino 10/4/24
+Hampshire 5526210 MA21191196 JHPS1J2416430 White Hispanic/Latino 10/4/24
+Hampshire 2639080 MA10001324 HHPS1H2417528 White Hispanic/Latino 10/4/24 10 5
+Hampshire 5246507 MA21026099 JHPS1J2417165 White Not Hispanic/Latino 10/4/24
+Hampshire 841874 MA21263696 White Not Hispanic/Latino 10/7/24 2.5 240 73
+Hampshire 5345835 MA21087443 White Not Hispanic/Latino 10/7/24 2.5 180 45
+Hampshire 3192350 MA10596965 JHPS1J2417550 Black/African American Not Hispanic/Latino 10/8/24
+Hampshire 2732618 MA10061544 JHPS2J2417206 Black/African American Not Hispanic/Latino 10/8/24
+Hampshire 962155 MA10616944 JHPS1J2417288 White Not Hispanic/Latino 10/9/24
+Hampshire 5120646 MA10639434 HHPS1H2417428 White Not Hispanic/Latino 10/9/24 7.5 60
+Hampshire 2541817 MA10517935 JHPS1J2417439 White Not Hispanic/Latino 10/9/24
+Hampshire 2410315 MA09748148 JHPS1J2417311 White Hispanic/Latino 10/9/24
+Hampshire 5643911 MA21284525 JHPS1J2417201 Black/African American Not Hispanic/Latino 10/10/24
+Hampshire 3151881 MA10497851 JHPS1J2417452 White Hispanic/Latino 10/11/24
+Hampshire 5120646 S26930400 White Not Hispanic/Latino 10/11/24
+Hampshire 5666980 MA21295500 JHPS1J2417573 White Not Hispanic/Latino 10/11/24
+Hampshire 3112649 MA10586151 HHPS1H2417524 White Not Hispanic/Latino 10/11/24 12
+Hampshire 5637777 MA21289664 JHPS1J2417236 American Indian/Alaska Native Hispanic/Latino 10/15/24
+Hampshire 2800854 MA10190835 JHPS1J2417319 White Not Hispanic/Latino 10/16/24
+Hampshire 5500883 MA21166520 JHPS1J2416768 Black/African American Not Hispanic/Latino 10/16/24
+Hampshire 5566840 MA21217571 JHPS1J2417464 White Not Hispanic/Latino 10/16/24
+Hampshire 1761199 MA09313418 Black/African American Not Hispanic/Latino 10/17/24 20 450 64
+Hampshire 2541817 MA10517935 White Not Hispanic/Latino 10/18/24 45 35
+Hampshire 832236 MA00971969 JHPS1J2417257 White Not Hispanic/Latino 10/22/24
+Hampshire 5376272 MA21075187 JHPS1J2417323 Black/African American Not Hispanic/Latino 10/22/24
+Hampshire 2532128 MA09926468 HHPS1H2417498 White Not Hispanic/Latino 10/24/24 30
+Hampshire 840850 MA00954484 JHPS1J2417357 White Not Hispanic/Latino 10/24/24
+Hampshire 2054118 MA09733744 JHPS1J2417243 White Not Hispanic/Latino 10/24/24
+Hampshire 5244923 MA10631172 JHPS1J2310329 White Not Hispanic/Latino 10/24/24
+Hampshire 2855145 MA10154259 White Hispanic/Latino 10/25/24
+Hampshire 2406428 MA10070189 HHPS1H2416954 White Hispanic/Latino 10/28/24 10 364 170
+Hampshire 709212 MA00684753 JHPS1J2316057 White Not Hispanic/Latino 10/29/24
+Hampshire 2156688 MA09838396 JHPS1J2415844 Black/African American Not Hispanic/Latino 10/29/24
+Hampshire 5585437 MA21262793 JHPS1J2417612 White Not Hispanic/Latino 10/31/24
+Hampshire 2445736 MA10076619 White Not Hispanic/Latino 11/1/24 30
+Hampshire 2894574 MA10256469 JHPS1J2417656 White Not Hispanic/Latino 11/1/24
+Hampshire 2445736 MA10076619 White Not Hispanic/Latino 11/1/24
+Hampshire 2484730 MA09831353 JHPS1J2417586 Black/African American Not Hispanic/Latino 11/1/24
+Hampshire 5570508 MA21236357 JHPS2J2417644 Black/African American Hispanic/Latino 11/1/24
+Hampshire White Not Hispanic/Latino 11/2/24
+Hampshire 1477403 MA09755287 JHPS1J2312386 Black/African American Not Hispanic/Latino 11/6/24
+Hampshire 3109872 MA10377547 JHPS1J2417318 Black/African American Not Hispanic/Latino 11/8/24
+Hampshire 5430628 MA21115424 JHPS1J2416278 White Hispanic/Latino 11/8/24
+Hampshire 5264592 MA10629803 White Not Hispanic/Latino 11/8/24 10 144 11
+Page 4 of 11
+ADMISSIONS AND RELEASES
+LENGTH OF JAIL
+SHERIFF'S BOOKING RELEASE EARNED TIME
+PCF SID OBTN RACE ETHNICITY SENTENCE CREDIT
+OFFICE DATE DATE IN DAYS
+IN DAYS IN DAYS
+Hampshire 5381895 MA21079313 White Not Hispanic/Latino 11/8/24 10 540 109
+Hampshire 2122733 MA10229980 HHPS2H2416912 White Not Hispanic/Latino 11/8/24 10 233 38
+Hampshire 5425596 MA21110681 JHPS1J2417614 Black/African American Not Hispanic/Latino 11/8/24
+Hampshire 2516372 MA21201911 JHPS1J2417344 White Not Hispanic/Latino 11/8/24
+Hampshire 2634683 MA10051430 JHPS1J2416467 White Not Hispanic/Latino 11/8/24
+Hampshire 2258371 MA09750108 JHPS1J2417592 White Not Hispanic/Latino 11/13/24
+Hampshire 5669695 MA21297487 JHPS1J2417681 White Not Hispanic/Latino 11/13/24
+Hampshire 5579347 MA21268838 JHPS1J2316035 White Not Hispanic/Latino 11/15/24
+Hampshire 5444103 MA21127356 JHPS1J2416820 Black/African American Not Hispanic/Latino 11/18/24
+Hampshire 3025559 MA10452640 JHPS1J2417413 White Not Hispanic/Latino 11/18/24
+Hampshire 3144041 MA10476546 JHPS1J2316169 Asian/Pacific Islander Not Hispanic/Latino 11/19/24
+Hampshire 5622419 MA21295929 JHPS1J2417593 Black/African American Not Hispanic/Latino 11/19/24
+Hampshire 2423537 MA09755331 JHPS1J2417465 White Not Hispanic/Latino 11/19/24
+Hampshire 2092416 MA09831515 JHPS1J2417417 White Not Hispanic/Latino 11/21/24
+Hampshire 5047048 MA10217009 White Not Hispanic/Latino 11/22/24 365 191
+Hampshire 3188017 MA21185928 White Hispanic/Latino 11/22/24 466 172
+Hampshire 5072519 MA10445164 JHPS1J2417717 White Not Hispanic/Latino 11/24/24
+Hampshire 3104779 MA10413174 White Not Hispanic/Latino 11/26/24 17.5 587 190
+Hampshire 5284831 MA21004834 JHPS1J2417423 White Hispanic/Latino 11/26/24 2.5 86
+Hampshire 5543043 MA21256890 HHPS1H2416657 White Hispanic/Latino 11/29/24 541 286
+Hampshire 3087712 MA10548438 HHPS2H2416615 White Hispanic/Latino 12/3/24 20 2550 1231
+Hampshire 3192350 MA10596965 Black/African American Not Hispanic/Latino 12/3/24 60 3
+Hampshire 888185 MA09002049 JHPS1J2417674 White Not Hispanic/Latino 12/3/24
+Hampshire 5573938 MA21282933 HHPS1H2416816 White Not Hispanic/Latino 12/6/24 365
+Hampshire 5595723 MA21240876 Black/African American Not Hispanic/Latino 12/6/24 12.5 320 50
+Hampshire 1076798 MA09816224 HHPS2H2417649 White Not Hispanic/Latino 12/6/24 10 365 20
+Hampshire 2948822 MA10595340 White Not Hispanic/Latino 12/9/24 22.5 272 51
+Hampshire 5669272 White Not Hispanic/Latino 12/9/24
+Hampshire 2880663 MA10339551 JHPS1J2417218 Other/Unknown Hispanic/Latino 12/10/24
+Hampshire 2703260 MA10091813 JHPS1J2417805 White Not Hispanic/Latino 12/10/24
+Hampshire 3175732 MA10556637 JHPS1J2417575 White Hispanic/Latino 12/11/24
+Hampshire 5659071 MA21286598 JHPS1J2417839 White Hispanic/Latino 12/12/24
+Hampshire 5243608 MA21006864 JHPS1J2417625 White Not Hispanic/Latino 12/12/24
+Hampshire 5409766 MA21098406 Black/African American Not Hispanic/Latino 12/13/24 32.5 540 158
+Hampshire 2234472 MA09837851 HHPS1H2416305 Black/African American Not Hispanic/Latino 12/13/24 32.5 910 308
+Hampshire 5307733 MA21025159 JHPS1J2417841 White Not Hispanic/Latino 12/14/24
+Hampshire 5636969 MA21270850 JHPS1J2417765 Black/African American Not Hispanic/Latino 12/16/24
+Hampshire 5532828 MA21195986 JHPS1J2417801 White Not Hispanic/Latino 12/16/24
+Hampshire 5605496 MA21246220 JHPS1J2417565 Black/African American Not Hispanic/Latino 12/18/24
+Hampshire 5573624 MA21222480 JHPS1J2417355 Black/African American Not Hispanic/Latino 12/19/24 27.5 540
+Hampshire 5670015 MA21297909 JHPS1J2417706 White Not Hispanic/Latino 12/19/24
+Hampshire 2925746 MA10517637 JHPS1J2417825 White Not Hispanic/Latino 12/19/24
+Hampshire 3042285 MA10360248 JHPS1J2312824 Black/African American Not Hispanic/Latino 12/19/24
+Hampshire 5573624 MA21222480 Black/African American Not Hispanic/Latino 12/20/24
+Hampshire 3086001 MA10592162 JHPS1J2417867 White Not Hispanic/Latino 12/20/24
+Hampshire 5014612 MA10442379 JHPS1J2417733 Black/African American Not Hispanic/Latino 12/20/24
+Hampshire 5673676 MA21300478 JHPS1J2417873 White Not Hispanic/Latino 12/23/24
+Hampshire 5665574 MA21294517 JHPS1J2417507 Black/African American Not Hispanic/Latino 12/26/24
+Hampshire 3171186 MA10547197 White Not Hispanic/Latino 12/30/24 30 730 46
+Hampshire 2330734 MA10036894 JHPS1J2417795 White Hispanic/Latino 12/30/24
+Page 5 of 11
+PROGRAMMING
+SHERIFF'S PROGRAM
+PCF SID OBTN RACE ETHNICITY ADMIT TYPE PROGRAM NAME PARTICIPANT STATUS
+OFFICE REGISTERED DATE
+Hampshire 3175228 MA10556666 JHPS1J2315351 White Hispanic/Latino Pre-Trial 10/1/24 Thinking For A Change 16-24 Completed
+Hampshire 3175228 MA10556666 JHPS1J2315351 White Hispanic/Latino Pre-Trial 10/1/24 Thinking For A Change 16-24 Completed
+Hampshire 5250893 MA10635916 White Hispanic/Latino Sentenced 10/1/24 Thinking For A Change 16-24 Completed
+Hampshire 5250893 MA10635916 White Hispanic/Latino Sentenced 10/1/24 Thinking For A Change 16-24 Completed
+Hampshire 2367228 MA09733005 JHPS2J2416807 White Hispanic/Latino Pre-Trial 10/1/24 Thinking For A Change 16-24 Completed
+Hampshire 2367228 MA09733005 JHPS2J2416807 White Hispanic/Latino Pre-Trial 10/1/24 Thinking For A Change 16-24 Completed
+Hampshire 5120646 MA10639434 HHPS1H2417428 White Not Hispanic/Latino Sentenced 10/1/24 Wise Mind Released
+Hampshire 5305708 MA21023228 HHPS1H2416473 Black/African American Not Hispanic/Latino Sentenced 10/1/24 Thinking For A Change 16-24 Completed
+Hampshire 5305708 MA21023228 HHPS1H2416473 Black/African American Not Hispanic/Latino Sentenced 10/1/24 Thinking For A Change 16-24 Completed
+Hampshire 3215540 MA21020627 White Hispanic/Latino Pre-Trial 10/1/24 Thinking For A Change 16-24 Completed
+Hampshire 3215540 MA21020627 White Hispanic/Latino Pre-Trial 10/1/24 Thinking For A Change 16-24 Completed
+Hampshire 894599 MA00993567 HHPS1H2416429 White Hispanic/Latino Sentenced 10/1/24 Thinking For A Change 16-24 Completed
+Hampshire 894599 MA00993567 HHPS1H2416429 White Hispanic/Latino Sentenced 10/1/24 Thinking For A Change 16-24 Completed
+Hampshire 5260275 MA10644583 HHPS1H2316006 Black/African American Not Hispanic/Latino Sentenced 10/1/24 Thinking For A Change 16-24 Disciplinary
+Hampshire 5260275 MA10644583 HHPS1H2316006 Black/African American Not Hispanic/Latino Sentenced 10/1/24 Thinking For A Change 16-24 Disciplinary
+Hampshire 3185937 MA10314743 HHPS3H2416835 White Not Hispanic/Latino Sentenced 10/1/24 ELA Other
+Hampshire 3185937 MA10314743 HHPS3H2416835 White Not Hispanic/Latino Sentenced 10/1/24 Thinking For A Change 16-24 Disciplinary
+Hampshire 3185937 MA10314743 HHPS3H2416835 White Not Hispanic/Latino Sentenced 10/1/24 Thinking For A Change 16-24 Disciplinary
+Hampshire 5244923 MA10631172 JHPS1J2310329 White Not Hispanic/Latino Pre-Trial 10/1/24 Thinking For A Change 16-24 Released
+Hampshire 5244923 MA10631172 JHPS1J2310329 White Not Hispanic/Latino Pre-Trial 10/1/24 Thinking For A Change 16-24 Released
+Hampshire 962155 MA10616944 JHPS1J2417288 White Not Hispanic/Latino Pre-Trial 10/2/24 DBT Released
+Hampshire 2224544 MA10229375 White Hispanic/Latino Sentenced 10/2/24 DBT Completed
+Hampshire 5338349 MA21245620 HHPS1H2516938 White Hispanic/Latino Sentenced 10/2/24 Justice Other
+Hampshire 1477403 MA09755287 JHPS1J2312386 Black/African American Not Hispanic/Latino Pre-Trial 10/2/24 DBT Released
+Hampshire 5264592 MA10629803 White Not Hispanic/Latino Sentenced 10/2/24 DBT Released
+Hampshire 5652164 MA21284262 JHPS1J2416905 White Hispanic/Latino Pre-Trial 10/2/24 DBT Completed
+Hampshire 3197132 MA21013994 JHPS1J2416397 Black/African American Not Hispanic/Latino Pre-Trial 10/2/24 DBT Disciplinary
+Hampshire 2635443 MA10009678 HHPS2H2516984 White Not Hispanic/Latino Sentenced 10/2/24 Mindful Eating Disciplinary
+Hampshire 2635443 MA10009678 HHPS2H2516984 White Not Hispanic/Latino Sentenced 10/2/24 Mindfulness Education Disciplinary
+Hampshire 2635443 MA10009678 HHPS2H2516984 White Not Hispanic/Latino Sentenced 10/2/24 Mindfulness Education Disciplinary
+Hampshire 2635443 MA10009678 HHPS2H2516984 White Not Hispanic/Latino Sentenced 10/2/24 labyrinth Disciplinary
+Hampshire 5250893 MA10635916 White Hispanic/Latino Sentenced 10/4/24 Decisional Training Completed
+Hampshire 5260275 MA10644583 HHPS1H2316006 Black/African American Not Hispanic/Latino Sentenced 10/4/24 ELA Other
+Hampshire 3151881 MA10497851 JHPS1J2417452 White Hispanic/Latino Pre-Trial 10/8/24 ELA Released
+Hampshire 3151881 MA10497851 JHPS1J2417452 White Hispanic/Latino Pre-Trial 10/8/24 ELA Released
+Hampshire 5293104 MA21013093 HHPS1H2417063 Black/African American Not Hispanic/Latino Sentenced 10/8/24 ELA Completed
+Hampshire 5293104 MA21013093 HHPS1H2417063 Black/African American Not Hispanic/Latino Sentenced 10/8/24 ELA Completed
+Hampshire 2769887 MA10136781 JHPS1J2315263 White Hispanic/Latino Pre-Trial 10/11/24 ELA Completed
+Hampshire 5579347 MA21268838 JHPS1J2316035 White Not Hispanic/Latino Pre-Trial 10/11/24 Stages of Change Other
+Hampshire 5619702 MA21267427 JHPS1J2315959 White Not Hispanic/Latino Pre-Trial 10/11/24 Yoga Completed
+Hampshire 5619702 MA21267427 JHPS1J2315959 White Not Hispanic/Latino Pre-Trial 10/11/24 Yoga Completed
+Hampshire 2823718 MA10215131 JHPS1J2416910 White Hispanic/Latino Pre-Trial 10/11/24 Financial Literacy Completed
+Hampshire 2823718 MA10215131 JHPS1J2416910 White Hispanic/Latino Pre-Trial 10/11/24 Financial Literacy Completed
+Hampshire 2561616 MA10093464 White Hispanic/Latino Sentenced 10/11/24 Yoga Completed
+Hampshire 2561616 MA10093464 White Hispanic/Latino Sentenced 10/11/24 Yoga Completed
+Hampshire 5657940 MA21288702 White Not Hispanic/Latino Sentenced 10/11/24 Helping Men Recover Completed
+Hampshire 5657940 MA21288702 White Not Hispanic/Latino Sentenced 10/11/24 Helping Men Recover Completed
+Hampshire 5657940 MA21288702 White Not Hispanic/Latino Sentenced 10/11/24 UMASS Completed
+Hampshire 5537832 MA21202737 HHPS1H2315940 White Not Hispanic/Latino Sentenced 10/11/24 Yoga Completed
+Hampshire 5537832 MA21202737 HHPS1H2315940 White Not Hispanic/Latino Sentenced 10/11/24 Yoga Completed
+Hampshire 3171186 MA10547197 White Not Hispanic/Latino Sentenced 10/11/24 Yoga Other
+Hampshire 3171186 MA10547197 White Not Hispanic/Latino Sentenced 10/11/24 Yoga Completed
+Hampshire 3189031 MA10558890 JHPS1J2313827 White Hispanic/Latino Pre-Trial 10/11/24 Yoga Completed
+Hampshire 3189031 MA10558890 JHPS1J2313827 White Hispanic/Latino Pre-Trial 10/11/24 Yoga Completed
+Hampshire 5573624 MA21222480 JHPS1J2417355 Black/African American Not Hispanic/Latino Sentenced 10/11/24 Stages of Change Completed
+Hampshire 5573624 MA21222480 JHPS1J2417355 Black/African American Not Hispanic/Latino Sentenced 10/11/24 Stages of Change Completed
+Hampshire 894599 MA00993567 HHPS1H2416429 White Hispanic/Latino Sentenced 10/11/24 Stages of Change Completed
+Hampshire 894599 MA00993567 HHPS1H2416429 White Hispanic/Latino Sentenced 10/11/24 Stages of Change Completed
+Hampshire 2635443 MA10009678 HHPS2H2516984 White Not Hispanic/Latino Sentenced 10/11/24 Yoga Disciplinary
+Hampshire 2635443 MA10009678 HHPS2H2516984 White Not Hispanic/Latino Sentenced 10/11/24 Yoga Disciplinary
+Hampshire 5343621 MA21053773 JHPS1J2416290 White Hispanic/Latino Pre-Trial 10/11/24 Yoga Completed
+Hampshire 5343621 MA21053773 JHPS1J2416290 White Hispanic/Latino Pre-Trial 10/11/24 Yoga Completed
+Hampshire 832236 MA00971969 JHPS1J2417257 White Not Hispanic/Latino Pre-Trial 10/11/24 Financial Literacy Released
+Hampshire 832236 MA00971969 JHPS1J2417257 White Not Hispanic/Latino Pre-Trial 10/11/24 Financial Literacy Released
+Hampshire 832236 MA00971969 JHPS1J2417257 White Not Hispanic/Latino Pre-Trial 10/11/24 Stages of Change Released
+Hampshire 832236 MA00971969 JHPS1J2417257 White Not Hispanic/Latino Pre-Trial 10/11/24 Stages of Change Released
+Hampshire 3155767 MA10576885 JHPS1J2417450 White Hispanic/Latino Pre-Trial 10/15/24 Math Completed
+Hampshire 3155767 MA10576885 JHPS1J2417450 White Hispanic/Latino Pre-Trial 10/15/24 Math Completed
+Hampshire 3155767 MA10576885 JHPS1J2417450 White Hispanic/Latino Pre-Trial 10/15/24 Math Completed
+Hampshire 3155767 MA10576885 JHPS1J2417450 White Hispanic/Latino Pre-Trial 10/15/24 Math Completed
+Hampshire 2224544 MA10229375 White Hispanic/Latino Sentenced 10/15/24 Stages of Change Completed
+Hampshire 2224544 MA10229375 White Hispanic/Latino Sentenced 10/15/24 Stages of Change Completed
+Hampshire 2445736 MA10076619 White Not Hispanic/Latino Sentenced 10/15/24 Creative Writing Released
+Hampshire 3085207 MA10350066 White Hispanic/Latino Sentenced 10/15/24 ELA Other
+Hampshire 5343621 MA21053773 JHPS1J2416290 White Hispanic/Latino Pre-Trial 10/15/24 ELA Other
+Hampshire 3104875 MA10403874 JHPS1J2417535 Black/African American Not Hispanic/Latino Pre-Trial 10/16/24 Criminal Thinking Other
+Hampshire 3104875 MA10403874 JHPS1J2417535 Black/African American Not Hispanic/Latino Pre-Trial 10/16/24 Criminal Thinking Currently Enrolled
+Hampshire 3104875 MA10403874 JHPS1J2417535 Black/African American Not Hispanic/Latino Pre-Trial 10/16/24 Phase 1 Group Completed
+Hampshire 3104875 MA10403874 JHPS1J2417535 Black/African American Not Hispanic/Latino Pre-Trial 10/16/24 Stages of Change Completed
+Page 6 of 11
+PROGRAMMING
+SHERIFF'S PROGRAM
+PCF SID OBTN RACE ETHNICITY ADMIT TYPE PROGRAM NAME PARTICIPANT STATUS
+OFFICE REGISTERED DATE
+Hampshire 3104875 MA10403874 JHPS1J2417535 Black/African American Not Hispanic/Latino Pre-Trial 10/16/24 Stages of Change Completed
+Hampshire 3104875 MA10403874 JHPS1J2417535 Black/African American Not Hispanic/Latino Pre-Trial 10/16/24 Tobacco Awareness Group Completed
+Hampshire 3104875 MA10403874 JHPS1J2417535 Black/African American Not Hispanic/Latino Pre-Trial 10/16/24 Wise Mind Completed
+Hampshire 2948822 MA10595340 White Not Hispanic/Latino Sentenced 10/16/24 Tobacco Awareness Group Completed
+Hampshire 2367228 MA09733005 JHPS2J2416807 White Hispanic/Latino Pre-Trial 10/16/24 Helping Men Recover Completed
+Hampshire 2367228 MA09733005 JHPS2J2416807 White Hispanic/Latino Pre-Trial 10/16/24 Helping Men Recover Completed
+Hampshire 701025 MA00926367 HHPS1H2517134 White Not Hispanic/Latino Sentenced 10/16/24 Criminal Thinking Disciplinary
+Hampshire 701025 MA00926367 HHPS1H2517134 White Not Hispanic/Latino Sentenced 10/16/24 Criminal Thinking Disciplinary
+Hampshire 701025 MA00926367 HHPS1H2517134 White Not Hispanic/Latino Sentenced 10/16/24 Stages of Change Completed
+Hampshire 701025 MA00926367 HHPS1H2517134 White Not Hispanic/Latino Sentenced 10/16/24 Stages of Change Completed
+Hampshire 701025 MA00926367 HHPS1H2517134 White Not Hispanic/Latino Sentenced 10/16/24 Tobacco Awareness Group Completed
+Hampshire 5293104 MA21013093 HHPS1H2417063 Black/African American Not Hispanic/Latino Sentenced 10/16/24 Helping Men Recover Completed
+Hampshire 5293104 MA21013093 HHPS1H2417063 Black/African American Not Hispanic/Latino Sentenced 10/16/24 Helping Men Recover Completed
+Hampshire 5293104 MA21013093 HHPS1H2417063 Black/African American Not Hispanic/Latino Sentenced 10/16/24 Phase 1 Group Completed
+Hampshire 3171186 MA10547197 White Not Hispanic/Latino Sentenced 10/16/24 ELA Completed
+Hampshire 2234472 MA09837851 HHPS1H2416305 Black/African American Not Hispanic/Latino Sentenced 10/16/24 Criminal Thinking Released
+Hampshire 5652164 MA21284262 JHPS1J2416905 White Hispanic/Latino Pre-Trial 10/16/24 ELA Completed
+Hampshire 5652164 MA21284262 JHPS1J2416905 White Hispanic/Latino Pre-Trial 10/16/24 ELA Other
+Hampshire 3022576 MA21040040 White Not Hispanic/Latino Sentenced 10/16/24 Phase 1 Group Completed
+Hampshire 3022576 MA21040040 White Not Hispanic/Latino Sentenced 10/16/24 Stages of Change Completed
+Hampshire 3022576 MA21040040 White Not Hispanic/Latino Sentenced 10/16/24 Stages of Change Completed
+Hampshire 3022576 MA21040040 White Not Hispanic/Latino Sentenced 10/16/24 Tobacco Awareness Group Completed
+Hampshire 2092416 MA09831515 JHPS1J2417417 White Not Hispanic/Latino Pre-Trial 10/16/24 Wise Mind Released
+Hampshire 3197132 MA21013994 JHPS1J2416397 Black/African American Not Hispanic/Latino Pre-Trial 10/16/24 Tobacco Awareness Group Completed
+Hampshire 5573624 MA21222480 JHPS1J2417355 Black/African American Not Hispanic/Latino Sentenced 10/16/24 Criminal Thinking Released
+Hampshire 2635443 MA10009678 HHPS2H2516984 White Not Hispanic/Latino Sentenced 10/16/24 Tobacco Awareness Group Completed
+Hampshire 2277515 MA09904144 HHPS1H2416637 White Hispanic/Latino Sentenced 10/16/24 Helping Men Recover Completed
+Hampshire 2277515 MA09904144 HHPS1H2416637 White Hispanic/Latino Sentenced 10/16/24 Helping Men Recover Completed
+Hampshire 2769887 MA10136781 JHPS1J2315263 White Hispanic/Latino Pre-Trial 10/21/24 ELA Completed
+Hampshire 3104875 MA10403874 JHPS1J2417535 Black/African American Not Hispanic/Latino Pre-Trial 10/21/24 Digital Literacy Completed
+Hampshire 3104875 MA10403874 JHPS1J2417535 Black/African American Not Hispanic/Latino Pre-Trial 10/21/24 Digital Literacy Completed
+Hampshire 2561616 MA10093464 White Hispanic/Latino Sentenced 10/21/24 Tobacco Awareness Group Completed
+Hampshire 5657940 MA21288702 White Not Hispanic/Latino Sentenced 10/21/24 SMART recovery Released
+Hampshire 5425366 MA21262219 HHPS5H2314750 White Hispanic/Latino Sentenced 10/21/24 ELA Other
+Hampshire 5264592 MA10629803 White Not Hispanic/Latino Sentenced 10/21/24 Helping Men Recover Other
+Hampshire 5264592 MA10629803 White Not Hispanic/Latino Sentenced 10/21/24 Helping Men Recover Other
+Hampshire 3192350 MA10596965 Black/African American Not Hispanic/Latino Sentenced 10/23/24 Men's Health Disciplinary
+Hampshire 3192350 MA10596965 Black/African American Not Hispanic/Latino Sentenced 10/23/24 Men's Resource Group Disciplinary
+Hampshire 3192350 MA10596965 Black/African American Not Hispanic/Latino Sentenced 10/23/24 Phase 1 Group Completed
+Hampshire 3192350 MA10596965 Black/African American Not Hispanic/Latino Sentenced 10/23/24 thinking for a change Disciplinary
+Hampshire 3192350 MA10596965 Black/African American Not Hispanic/Latino Sentenced 10/23/24 thinking for a change Disciplinary
+Hampshire 5436349 MA21120714 JHPS1J2314580 White Hispanic/Latino Pre-Trial 10/23/24 thinking for a change Completed
+Hampshire 5436349 MA21120714 JHPS1J2314580 White Hispanic/Latino Pre-Trial 10/23/24 thinking for a change Completed
+Hampshire 3016511 MA10289258 JHPS1J2416975 White Hispanic/Latino Sentenced 10/23/24 Men's Health Disciplinary
+Hampshire 3016511 MA10289258 JHPS1J2416975 White Hispanic/Latino Sentenced 10/23/24 thinking for a change Disciplinary
+Hampshire 3016511 MA10289258 JHPS1J2416975 White Hispanic/Latino Sentenced 10/23/24 thinking for a change Disciplinary
+Hampshire 2224544 MA10229375 White Hispanic/Latino Sentenced 10/23/24 SMART recovery Completed
+Hampshire 3092334 MA10378293 HHPS1H2415942 White Hispanic/Latino Sentenced 10/23/24 Helping Men Recover Completed
+Hampshire 3092334 MA10378293 HHPS1H2415942 White Hispanic/Latino Sentenced 10/23/24 Helping Men Recover Completed
+Hampshire 2234472 MA09837851 HHPS1H2416305 Black/African American Not Hispanic/Latino Sentenced 10/23/24 thinking for a change Released
+Hampshire 2234472 MA09837851 HHPS1H2416305 Black/African American Not Hispanic/Latino Sentenced 10/23/24 thinking for a change Released
+Hampshire 3022576 MA21040040 White Not Hispanic/Latino Sentenced 10/23/24 thinking for a change Completed
+Hampshire 3022576 MA21040040 White Not Hispanic/Latino Sentenced 10/23/24 thinking for a change Completed
+Hampshire 3098138 MA21250374 White Hispanic/Latino Sentenced 10/23/24 thinking for a change Completed
+Hampshire 3098138 MA21250374 White Hispanic/Latino Sentenced 10/23/24 thinking for a change Completed
+Hampshire 3068711 MA10624328 White Hispanic/Latino Sentenced 10/23/24 thinking for a change Disciplinary
+Hampshire 3068711 MA10624328 White Hispanic/Latino Sentenced 10/23/24 thinking for a change Disciplinary
+Hampshire 5398102 MA21103287 Black/African American Not Hispanic/Latino Sentenced 10/23/24 thinking for a change Disciplinary
+Hampshire 5398102 MA21103287 Black/African American Not Hispanic/Latino Sentenced 10/23/24 thinking for a change Disciplinary
+Hampshire 3192350 MA10596965 Black/African American Not Hispanic/Latino Sentenced 10/24/24 SMART recovery Disciplinary
+Hampshire 3104875 MA10403874 JHPS1J2417535 Black/African American Not Hispanic/Latino Pre-Trial 10/24/24 Financial Literacy Completed
+Hampshire 3104875 MA10403874 JHPS1J2417535 Black/African American Not Hispanic/Latino Pre-Trial 10/24/24 Financial Literacy Completed
+Hampshire 5293104 MA21013093 HHPS1H2417063 Black/African American Not Hispanic/Latino Sentenced 10/24/24 SMART recovery Housing / Classification change
+Hampshire 5264592 MA10629803 White Not Hispanic/Latino Sentenced 10/24/24 SMART recovery Released
+Hampshire 5398102 MA21103287 Black/African American Not Hispanic/Latino Sentenced 10/24/24 SMART recovery Released
+Hampshire 5595723 MA21240876 Black/African American Not Hispanic/Latino Sentenced 10/24/24 SMART recovery Released
+Hampshire 3175228 MA10556666 JHPS1J2315351 White Hispanic/Latino Pre-Trial 10/25/24 Advanced Skills Practice Completed
+Hampshire 5436349 MA21120714 JHPS1J2314580 White Hispanic/Latino Pre-Trial 10/25/24 Advanced Skills Practice Completed
+Hampshire 709212 MA00684753 JHPS1J2316057 White Not Hispanic/Latino Pre-Trial 10/25/24 Advanced Skills Practice Released
+Hampshire 2367228 MA09733005 JHPS2J2416807 White Hispanic/Latino Pre-Trial 10/25/24 Advanced Skills Practice Completed
+Hampshire 5305708 MA21023228 HHPS1H2416473 Black/African American Not Hispanic/Latino Sentenced 10/25/24 Advanced Skills Practice Completed
+Hampshire 3215540 MA21020627 White Hispanic/Latino Pre-Trial 10/25/24 Advanced Skills Practice Completed
+Hampshire 3104875 MA10403874 JHPS1J2417535 Black/African American Not Hispanic/Latino Pre-Trial 10/28/24 Acceptance Commitment Therapy Completed
+Hampshire 2948822 MA10595340 White Not Hispanic/Latino Sentenced 10/28/24 Acceptance Commitment Therapy Released
+Hampshire 5619702 MA21267427 JHPS1J2315959 White Not Hispanic/Latino Pre-Trial 10/28/24 Acceptance Commitment Therapy Completed
+Hampshire 3092334 MA10378293 HHPS1H2415942 White Hispanic/Latino Sentenced 10/28/24 Seeking Safety Completed
+Hampshire 709212 MA00684753 JHPS1J2316057 White Not Hispanic/Latino Pre-Trial 10/28/24 Seeking Safety Released
+Hampshire 2367228 MA09733005 JHPS2J2416807 White Hispanic/Latino Pre-Trial 10/28/24 Acceptance Commitment Therapy Completed
+Hampshire 701025 MA00926367 HHPS1H2517134 White Not Hispanic/Latino Sentenced 10/28/24 Acceptance Commitment Therapy Disciplinary
+Page 7 of 11
+PROGRAMMING
+SHERIFF'S PROGRAM
+PCF SID OBTN RACE ETHNICITY ADMIT TYPE PROGRAM NAME PARTICIPANT STATUS
+OFFICE REGISTERED DATE
+Hampshire 5657940 MA21288702 White Not Hispanic/Latino Sentenced 10/28/24 Seeking Safety Completed
+Hampshire 2634683 MA10051430 JHPS1J2416467 White Not Hispanic/Latino Pre-Trial 10/28/24 Seeking Safety Released
+Hampshire 3189031 MA10558890 JHPS1J2313827 White Hispanic/Latino Pre-Trial 10/28/24 Acceptance Commitment Therapy Disciplinary
+Hampshire 2092416 MA09831515 JHPS1J2417417 White Not Hispanic/Latino Pre-Trial 10/28/24 Acceptance Commitment Therapy Released
+Hampshire 5595723 MA21240876 Black/African American Not Hispanic/Latino Sentenced 10/28/24 Acceptance Commitment Therapy Released
+Hampshire 2277515 MA09904144 HHPS1H2416637 White Hispanic/Latino Sentenced 10/28/24 Seeking Safety Housing / Classification change
+Hampshire 2800854 MA10190835 White Not Hispanic/Latino Sentenced 11/1/24 Anger Management Completed
+Hampshire 2800854 MA10190835 White Not Hispanic/Latino Sentenced 11/1/24 Anger Management Completed
+Hampshire 2800854 MA10190835 White Not Hispanic/Latino Sentenced 11/1/24 Criminal Thinking Released
+Hampshire 2800854 MA10190835 White Not Hispanic/Latino Sentenced 11/1/24 Criminal Thinking Released
+Hampshire 2800854 MA10190835 White Not Hispanic/Latino Sentenced 11/1/24 Phase 1 Group Completed
+Hampshire 3092334 MA10378293 HHPS1H2415942 White Hispanic/Latino Sentenced 11/1/24 Men's Health Completed
+Hampshire 5588190 MA21232816 HHPS2H2417172 American Indian/Alaska Native Hispanic/Latino Sentenced 11/1/24 Anger Management Completed
+Hampshire 5588190 MA21232816 HHPS2H2417172 American Indian/Alaska Native Hispanic/Latino Sentenced 11/1/24 Anger Management Completed
+Hampshire 5657940 MA21288702 White Not Hispanic/Latino Sentenced 11/1/24 Anger Management Completed
+Hampshire 5657940 MA21288702 White Not Hispanic/Latino Sentenced 11/1/24 Anger Management Completed
+Hampshire 3197132 MA21013994 JHPS1J2416397 Black/African American Not Hispanic/Latino Pre-Trial 11/1/24 Anger Management Completed
+Hampshire 3197132 MA21013994 JHPS1J2416397 Black/African American Not Hispanic/Latino Pre-Trial 11/1/24 Anger Management Completed
+Hampshire 5573624 MA21222480 JHPS1J2417355 Black/African American Not Hispanic/Latino Sentenced 11/1/24 Anger Management Completed
+Hampshire 5573624 MA21222480 JHPS1J2417355 Black/African American Not Hispanic/Latino Sentenced 11/1/24 Anger Management Completed
+Hampshire 2865330 MA10417357 JHPS1J2516365 White Not Hispanic/Latino Pre-Trial 11/1/24 Anger Management Completed
+Hampshire 2865330 MA10417357 JHPS1J2516365 White Not Hispanic/Latino Pre-Trial 11/1/24 Anger Management Completed
+Hampshire 2865330 MA10417357 JHPS1J2516365 White Not Hispanic/Latino Pre-Trial 11/1/24 Wise Mind Completed
+Hampshire 5398102 MA21103287 Black/African American Not Hispanic/Latino Sentenced 11/1/24 Men's Health Disciplinary
+Hampshire 5665574 MA21294517 JHPS1J2417507 Black/African American Not Hispanic/Latino Pre-Trial 11/4/24 ELA Completed
+Hampshire 5665574 MA21294517 JHPS1J2417507 Black/African American Not Hispanic/Latino Pre-Trial 11/4/24 Math Completed
+Hampshire 5665574 MA21294517 JHPS1J2417507 Black/African American Not Hispanic/Latino Pre-Trial 11/4/24 Math Completed
+Hampshire 5665574 MA21294517 JHPS1J2417507 Black/African American Not Hispanic/Latino Pre-Trial 11/4/24 Math Completed
+Hampshire 5665574 MA21294517 JHPS1J2417507 Black/African American Not Hispanic/Latino Pre-Trial 11/4/24 Math Completed
+Hampshire 5665574 MA21294517 JHPS1J2417507 Black/African American Not Hispanic/Latino Pre-Trial 11/4/24 Science Completed
+Hampshire 5305708 MA21023228 HHPS1H2416473 Black/African American Not Hispanic/Latino Sentenced 11/4/24 Anger Management Completed
+Hampshire 5305708 MA21023228 HHPS1H2416473 Black/African American Not Hispanic/Latino Sentenced 11/4/24 Anger Management Completed
+Hampshire 5613087 MA21252102 JHPS1J2417416 Other/Unknown Not Hispanic/Latino Pre-Trial 11/4/24 Creative Writing Participated
+Hampshire 2800854 MA10190835 White Not Hispanic/Latino Sentenced 11/5/24 Digital Literacy Housing / Classification change
+Hampshire 2800854 MA10190835 White Not Hispanic/Latino Sentenced 11/5/24 Digital Literacy Housing / Classification change
+Hampshire 3189031 MA10558890 JHPS1J2313827 White Hispanic/Latino Pre-Trial 11/5/24 Greek Literature Disciplinary
+Hampshire 3189031 MA10558890 JHPS1J2313827 White Hispanic/Latino Pre-Trial 11/5/24 Greek Literature Disciplinary
+Hampshire 3098138 MA21250374 White Hispanic/Latino Sentenced 11/5/24 Criminal Thinking Other
+Hampshire 3098138 MA21250374 White Hispanic/Latino Sentenced 11/5/24 Criminal Thinking Other
+Hampshire 5243608 MA21006864 JHPS1J2417625 White Not Hispanic/Latino Pre-Trial 11/5/24 Men's Health Released
+Hampshire 5243608 MA21006864 JHPS1J2417625 White Not Hispanic/Latino Pre-Trial 11/5/24 Phase 1 Group Completed
+Hampshire 5421716 MA21188298 HHPS1H2315498 Black/African American Not Hispanic/Latino Sentenced 11/6/24 Math Completed
+Hampshire 5421716 MA21188298 HHPS1H2315498 Black/African American Not Hispanic/Latino Sentenced 11/6/24 Math Completed
+Hampshire 5421716 MA21188298 HHPS1H2315498 Black/African American Not Hispanic/Latino Sentenced 11/6/24 Math Completed
+Hampshire 5421716 MA21188298 HHPS1H2315498 Black/African American Not Hispanic/Latino Sentenced 11/6/24 Math Completed
+Hampshire 3215540 MA21020627 White Hispanic/Latino Pre-Trial 11/12/24 ELA Completed
+Hampshire 3215540 MA21020627 White Hispanic/Latino Pre-Trial 11/12/24 ELA Other
+Hampshire 5343621 MA21053773 JHPS1J2416290 White Hispanic/Latino Pre-Trial 11/12/24 ELA Completed
+Hampshire 5343621 MA21053773 JHPS1J2416290 White Hispanic/Latino Pre-Trial 11/12/24 ELA Completed
+Hampshire 5243608 MA21006864 JHPS1J2417625 White Not Hispanic/Latino Pre-Trial 11/12/24 Criminal Thinking Released
+Hampshire 5243608 MA21006864 JHPS1J2417625 White Not Hispanic/Latino Pre-Trial 11/12/24 Criminal Thinking Released
+Hampshire 3185937 MA10314743 HHPS3H2416835 White Not Hispanic/Latino Sentenced 11/12/24 ELA Other
+Hampshire 3185937 MA10314743 HHPS3H2416835 White Not Hispanic/Latino Sentenced 11/12/24 Math Administrative Removal
+Hampshire 3185937 MA10314743 HHPS3H2416835 White Not Hispanic/Latino Sentenced 11/12/24 Math Administrative Removal
+Hampshire 3185937 MA10314743 HHPS3H2416835 White Not Hispanic/Latino Sentenced 11/12/24 Math Other
+Hampshire 3185937 MA10314743 HHPS3H2416835 White Not Hispanic/Latino Sentenced 11/12/24 Math Administrative Removal
+Hampshire 5250893 MA10635916 White Hispanic/Latino Sentenced 11/13/24 Serv Safe Completed
+Hampshire 3104875 MA10403874 JHPS1J2417535 Black/African American Not Hispanic/Latino Pre-Trial 11/13/24 Serv Safe Completed
+Hampshire 5,537,832 MA21202737 HHPS1H2315940 White Not Hispanic/Latino Sentenced 11/13/24 Greek Literature Completed
+Hampshire 5537832 MA21202737 HHPS1H2315940 White Not Hispanic/Latino Sentenced 11/13/24 Greek Literature Completed
+Hampshire 5305708 MA21023228 HHPS1H2416473 Black/African American Not Hispanic/Latino Sentenced 11/13/24 Greek Literature Other
+Hampshire 5305708 MA21023228 HHPS1H2416473 Black/African American Not Hispanic/Latino Sentenced 11/13/24 Greek Literature Other
+Hampshire 3171186 MA10547197 White Not Hispanic/Latino Sentenced 11/13/24 Greek Literature Completed
+Hampshire 3171186 MA10547197 White Not Hispanic/Latino Sentenced 11/13/24 Greek Literature Completed
+Hampshire 3171186 MA10547197 White Not Hispanic/Latino Sentenced 11/13/24 culinary arts Housing / Classification change
+Hampshire 2635443 MA10009678 HHPS2H2516984 White Not Hispanic/Latino Sentenced 11/13/24 Serv Safe Disciplinary
+Hampshire 5243608 MA21006864 JHPS1J2417625 White Not Hispanic/Latino Pre-Trial 11/13/24 Greek Literature Released
+Hampshire 5243608 MA21006864 JHPS1J2417625 White Not Hispanic/Latino Pre-Trial 11/13/24 Greek Literature Released
+Hampshire 2516372 MA21201911 White Not Hispanic/Latino Sentenced 11/14/24 ELA Completed
+Hampshire 2516372 MA21201911 White Not Hispanic/Latino Sentenced 11/14/24 Math Completed
+Hampshire 2516372 MA21201911 White Not Hispanic/Latino Sentenced 11/14/24 Math Completed
+Hampshire 2516372 MA21201911 White Not Hispanic/Latino Sentenced 11/14/24 Math Completed
+Hampshire 2516372 MA21201911 White Not Hispanic/Latino Sentenced 11/14/24 Math Completed
+Hampshire 2516372 MA21201911 White Not Hispanic/Latino Sentenced 11/14/24 Science Completed
+Hampshire 928649 MA09016953 JHPS1J2417560 White Hispanic/Latino Pre-Trial 11/14/24 English Language Learner Other
+Hampshire 2746959 MA10093762 JHPS1J2517672 White Hispanic/Latino Pre-Trial 11/14/24 ELA Completed
+Hampshire 2746959 MA10093762 JHPS1J2517672 White Hispanic/Latino Pre-Trial 11/14/24 ELA Completed
+Hampshire 2746959 MA10093762 JHPS1J2517672 White Hispanic/Latino Pre-Trial 11/14/24 ELA Completed
+Hampshire 2746959 MA10093762 JHPS1J2517672 White Hispanic/Latino Pre-Trial 11/14/24 Math Released
+Page 8 of 11
+PROGRAMMING
+SHERIFF'S PROGRAM
+PCF SID OBTN RACE ETHNICITY ADMIT TYPE PROGRAM NAME PARTICIPANT STATUS
+OFFICE REGISTERED DATE
+Hampshire 2746959 MA10093762 JHPS1J2517672 White Hispanic/Latino Pre-Trial 11/14/24 Math Released
+Hampshire 2746959 MA10093762 JHPS1J2517672 White Hispanic/Latino Pre-Trial 11/14/24 Math Released
+Hampshire 2746959 MA10093762 JHPS1J2517672 White Hispanic/Latino Pre-Trial 11/14/24 Math Released
+Hampshire 2746959 MA10093762 JHPS1J2517672 White Hispanic/Latino Pre-Trial 11/14/24 Science Completed
+Hampshire 2865330 MA10417357 JHPS1J2516365 White Not Hispanic/Latino Pre-Trial 11/15/24 labyrinth Completed
+Hampshire 2800854 MA10190835 White Not Hispanic/Latino Sentenced 11/18/24 DBT Released
+Hampshire 2224544 MA10229375 White Hispanic/Latino Sentenced 11/18/24 Victim Impact Housing / Classification change
+Hampshire 2561616 MA10093464 White Hispanic/Latino Sentenced 11/18/24 Victim Impact Completed
+Hampshire 5537832 MA21202737 HHPS1H2315940 White Not Hispanic/Latino Sentenced 11/18/24 Serv Safe Completed
+Hampshire 5293104 MA21013093 HHPS1H2417063 Black/African American Not Hispanic/Latino Sentenced 11/18/24 DBT Completed
+Hampshire 5652164 MA21284262 JHPS1J2416905 White Hispanic/Latino Pre-Trial 11/18/24 Victim Impact Other
+Hampshire 2602654 MA10166916 HHPS1H2315289 White Not Hispanic/Latino Sentenced 11/18/24 Victim Impact Completed
+Hampshire 5595723 MA21240876 Black/African American Not Hispanic/Latino Sentenced 11/18/24 Victim Impact Released
+Hampshire 5243608 MA21006864 JHPS1J2417625 White Not Hispanic/Latino Pre-Trial 11/18/24 DBT Released
+Hampshire 2800854 MA10190835 White Not Hispanic/Latino Sentenced 11/19/24 Tobacco Awareness Group Disciplinary
+Hampshire 2884153 MA10415793 JHPS2J2417662 White Not Hispanic/Latino Pre-Trial 11/19/24 Digital Literacy Administrative Removal
+Hampshire 2884153 MA10415793 JHPS2J2417662 White Not Hispanic/Latino Pre-Trial 11/19/24 Digital Literacy Disciplinary
+Hampshire 2884153 MA10415793 JHPS2J2417662 White Not Hispanic/Latino Pre-Trial 11/19/24 Digital Literacy Disciplinary
+Hampshire 2884153 MA10415793 JHPS2J2417662 White Not Hispanic/Latino Pre-Trial 11/19/24 Greek Literature Disciplinary
+Hampshire 2884153 MA10415793 JHPS2J2417662 White Not Hispanic/Latino Pre-Trial 11/19/24 Greek Literature Disciplinary
+Hampshire 2884153 MA10415793 JHPS2J2417662 White Not Hispanic/Latino Pre-Trial 11/19/24 Men's Health Disciplinary
+Hampshire 2884153 MA10415793 JHPS2J2417662 White Not Hispanic/Latino Pre-Trial 11/19/24 Phase 1 Group Disciplinary
+Hampshire 2884153 MA10415793 JHPS2J2417662 White Not Hispanic/Latino Pre-Trial 11/19/24 Tobacco Awareness Group Disciplinary
+Hampshire 5588190 MA21232816 HHPS2H2417172 American Indian/Alaska Native Hispanic/Latino Sentenced 11/19/24 Seeking Safety Completed
+Hampshire 2746959 MA10093762 JHPS1J2517672 White Hispanic/Latino Pre-Trial 11/19/24 Criminal Thinking Other
+Hampshire 2746959 MA10093762 JHPS1J2517672 White Hispanic/Latino Pre-Trial 11/19/24 Criminal Thinking Other
+Hampshire 2746959 MA10093762 JHPS1J2517672 White Hispanic/Latino Pre-Trial 11/19/24 Phase 1 Group Completed
+Hampshire 3068711 MA10624328 White Hispanic/Latino Sentenced 11/19/24 Financial Literacy Completed
+Hampshire 3068711 MA10624328 White Hispanic/Latino Sentenced 11/19/24 Financial Literacy Completed
+Hampshire 701025 MA00926367 HHPS1H2517134 White Not Hispanic/Latino Sentenced 11/20/24 culinary arts Participated
+Hampshire 5250893 MA10635916 White Hispanic/Latino Sentenced 11/22/24 Pensamiento Adictivo y Criminal Other
+Hampshire 2224544 MA10229375 White Hispanic/Latino Sentenced 11/22/24 Pensamiento Adictivo y CriminaHlousing / Classification change
+Hampshire 5588190 MA21232816 HHPS2H2417172 American Indian/Alaska Native Hispanic/Latino Sentenced 11/22/24 NEADS Training Other
+Hampshire 5588190 MA21232816 HHPS2H2417172 American Indian/Alaska Native Hispanic/Latino Sentenced 11/22/24 Pensamiento Adictivo y Criminal Other
+Hampshire 5293104 MA21013093 HHPS1H2417063 Black/African American Not Hispanic/Latino Sentenced 11/22/24 NEADS Training Housing / Classification change
+Hampshire 2092416 MA09831515 White Not Hispanic/Latino Sentenced 11/22/24 Acceptance Commitment Therapy Disciplinary
+Hampshire 2092416 MA09831515 White Not Hispanic/Latino Sentenced 11/22/24 Digital Literacy Completed
+Hampshire 2092416 MA09831515 White Not Hispanic/Latino Sentenced 11/22/24 Digital Literacy Completed
+Hampshire 2092416 MA09831515 White Not Hispanic/Latino Sentenced 11/22/24 Financial Literacy Completed
+Hampshire 2092416 MA09831515 White Not Hispanic/Latino Sentenced 11/22/24 Financial Literacy Completed
+Hampshire 2092416 MA09831515 White Not Hispanic/Latino Sentenced 11/22/24 SMART recovery Completed
+Hampshire 2092416 MA09831515 White Not Hispanic/Latino Sentenced 11/22/24 Tobacco Awareness Group Completed
+Hampshire 2092416 MA09831515 White Not Hispanic/Latino Sentenced 11/22/24 Wise Mind Completed
+Hampshire 2234472 MA09837851 HHPS1H2416305 Black/African American Not Hispanic/Latino Sentenced 11/22/24 NEADS Training Released
+Hampshire 2746959 MA10093762 JHPS1J2517672 White Hispanic/Latino Pre-Trial 11/22/24 Tobacco Awareness Group Completed
+Hampshire 3197132 MA21013994 JHPS1J2416397 Black/African American Not Hispanic/Latino Pre-Trial 11/22/24 Men's Health Disciplinary
+Hampshire 5576780 MA21224900 HHPS1H2416607 White Not Hispanic/Latino Sentenced 11/22/24 NEADS Training Other
+Hampshire 2277515 MA09904144 HHPS1H2416637 White Hispanic/Latino Sentenced 11/22/24 ELA Other
+Hampshire 2277515 MA09904144 HHPS1H2416637 White Hispanic/Latino Sentenced 11/22/24 ELA Other
+Hampshire 5312977 MA21030006 JHPS1J2313649 White Not Hispanic/Latino Pre-Trial 11/25/24 Men's Health Completed
+Hampshire 3155767 MA10576885 JHPS1J2417450 White Hispanic/Latino Pre-Trial 11/25/24 ELA Other
+Hampshire 2516372 MA21201911 White Not Hispanic/Latino Sentenced 11/25/24 ELA Completed
+Hampshire 2516372 MA21201911 White Not Hispanic/Latino Sentenced 11/25/24 ELA Completed
+Hampshire 2516372 MA21201911 White Not Hispanic/Latino Sentenced 11/25/24 Men's Resource Group Released
+Hampshire 2516372 MA21201911 White Not Hispanic/Latino Sentenced 11/25/24 Phase 1 Group Released
+Hampshire 888185 MA09002049 JHPS1J2417674 White Not Hispanic/Latino Pre-Trial 11/25/24 Creative Writing Released
+Hampshire 5543043 MA21256890 HHPS1H2416657 White Hispanic/Latino Sentenced 11/26/24 ELA Other
+Hampshire 5250893 MA10635916 White Hispanic/Latino Sentenced 11/27/24 Stages of Change Completed
+Hampshire 2884153 MA10415793 JHPS2J2417662 White Not Hispanic/Latino Pre-Trial 11/27/24 Stages of Change Disciplinary
+Hampshire 2884153 MA10415793 JHPS2J2417662 White Not Hispanic/Latino Pre-Trial 11/27/24 Stages of Change Disciplinary
+Hampshire 2516372 MA21201911 White Not Hispanic/Latino Sentenced 11/27/24 Stages of Change Other
+Hampshire 2516372 MA21201911 White Not Hispanic/Latino Sentenced 11/27/24 Stages of Change Other
+Hampshire 5652164 MA21284262 JHPS1J2416905 White Hispanic/Latino Pre-Trial 11/27/24 Stages of Change Completed
+Hampshire 5652164 MA21284262 JHPS1J2416905 White Hispanic/Latino Pre-Trial 11/27/24 Stages of Change Completed
+Hampshire 2746959 MA10093762 JHPS1J2517672 White Hispanic/Latino Pre-Trial 11/27/24 Stages of Change Completed
+Hampshire 2746959 MA10093762 JHPS1J2517672 White Hispanic/Latino Pre-Trial 11/27/24 Stages of Change Completed
+Hampshire 3197132 MA21013994 JHPS1J2416397 Black/African American Not Hispanic/Latino Pre-Trial 11/27/24 Stages of Change Disciplinary
+Hampshire 3197132 MA21013994 JHPS1J2416397 Black/African American Not Hispanic/Latino Pre-Trial 11/27/24 Stages of Change Disciplinary
+Hampshire 3166669 MA21124778 JHPS1J2417739 White Not Hispanic/Latino Pre-Trial 12/2/24 Phase 1 Group Completed
+Hampshire 5596760 MA21247673 JHPS1J2417740 White Not Hispanic/Latino Pre-Trial 12/2/24 Phase 1 Group Disciplinary
+Hampshire 5600598 MA21260386 JHPS1J2417729 American Indian/Alaska Native Hispanic/Latino Pre-Trial 12/2/24 Phase 1 Group Released
+Hampshire 3166669 MA21124778 JHPS1J2417739 White Not Hispanic/Latino Pre-Trial 12/5/24 Financial Literacy Released
+Hampshire 3166669 MA21124778 JHPS1J2417739 White Not Hispanic/Latino Pre-Trial 12/5/24 Financial Literacy Released
+Hampshire 2516372 MA21201911 White Not Hispanic/Latino Sentenced 12/5/24 ELA Completed
+Hampshire 5596760 MA21247673 JHPS1J2417740 White Not Hispanic/Latino Pre-Trial 12/5/24 Financial Literacy Housing / Classification change
+Hampshire 5596760 MA21247673 JHPS1J2417740 White Not Hispanic/Latino Pre-Trial 12/5/24 Financial Literacy Housing / Classification change
+Hampshire 3166669 MA21124778 JHPS1J2417739 White Not Hispanic/Latino Pre-Trial 12/9/24 Criminal Thinking Released
+Hampshire 3166669 MA21124778 JHPS1J2417739 White Not Hispanic/Latino Pre-Trial 12/9/24 Criminal Thinking Released
+Hampshire 3166669 MA21124778 JHPS1J2417739 White Not Hispanic/Latino Pre-Trial 12/9/24 Men's Health Released
+Page 9 of 11
+PROGRAMMING
+SHERIFF'S PROGRAM
+PCF SID OBTN RACE ETHNICITY ADMIT TYPE PROGRAM NAME PARTICIPANT STATUS
+OFFICE REGISTERED DATE
+Hampshire 2769887 MA10136781 JHPS1J2315263 White Hispanic/Latino Pre-Trial 12/9/24 Wise Mind Completed
+Hampshire 5596760 MA21247673 JHPS1J2417740 White Not Hispanic/Latino Pre-Trial 12/9/24 Men's Health Disciplinary
+Hampshire 5600598 MA21260386 JHPS1J2417729 American Indian/Alaska Native Hispanic/Latino Pre-Trial 12/9/24 Criminal Thinking Released
+Hampshire 5600598 MA21260386 JHPS1J2417729 American Indian/Alaska Native Hispanic/Latino Pre-Trial 12/9/24 Criminal Thinking Released
+Hampshire 5600598 MA21260386 JHPS1J2417729 American Indian/Alaska Native Hispanic/Latino Pre-Trial 12/9/24 Victim Impact Released
+Hampshire 5600598 MA21260386 JHPS1J2417729 American Indian/Alaska Native Hispanic/Latino Pre-Trial 12/9/24 Wise Mind Released
+Hampshire 2234472 MA09837851 HHPS1H2416305 Black/African American Not Hispanic/Latino Sentenced 12/9/24 culinary arts Released
+Hampshire 5665574 MA21294517 JHPS1J2417507 Black/African American Not Hispanic/Latino Pre-Trial 12/10/24 ELA Completed
+Hampshire 2092416 MA09831515 White Not Hispanic/Latino Sentenced 12/11/24 Men's Resource Group Disciplinary
+Hampshire 3022576 MA21040040 White Not Hispanic/Latino Sentenced 12/11/24 Work - Woodshop Other
+Hampshire 3022576 MA21040040 White Not Hispanic/Latino Sentenced 12/11/24 Work - Woodshop Other
+Hampshire 3022576 MA21040040 White Not Hispanic/Latino Sentenced 12/11/24 Work - Woodshop Other
+Hampshire 3022576 MA21040040 White Not Hispanic/Latino Sentenced 12/11/24 Work - Woodshop Other
+Hampshire 3022576 MA21040040 White Not Hispanic/Latino Sentenced 12/11/24 Work - Woodshop Other
+Hampshire 2769887 MA10136781 JHPS1J2315263 White Hispanic/Latino Pre-Trial 12/12/24 thinking for a change Completed
+Hampshire 2769887 MA10136781 JHPS1J2315263 White Hispanic/Latino Pre-Trial 12/12/24 thinking for a change Completed
+Hampshire 2516372 MA21201911 White Not Hispanic/Latino Sentenced 12/12/24 thinking for a change Released
+Hampshire 2516372 MA21201911 White Not Hispanic/Latino Sentenced 12/12/24 thinking for a change Released
+Hampshire 5665574 MA21294517 JHPS1J2417507 Black/African American Not Hispanic/Latino Pre-Trial 12/12/24 ELA Released
+Hampshire 5596760 MA21247673 JHPS1J2417740 White Not Hispanic/Latino Pre-Trial 12/12/24 thinking for a change Disciplinary
+Hampshire 5596760 MA21247673 JHPS1J2417740 White Not Hispanic/Latino Pre-Trial 12/12/24 thinking for a change Disciplinary
+Hampshire 701025 MA00926367 HHPS1H2517134 White Not Hispanic/Latino Sentenced 12/12/24 thinking for a change Disciplinary
+Hampshire 701025 MA00926367 HHPS1H2517134 White Not Hispanic/Latino Sentenced 12/12/24 thinking for a change Disciplinary
+Hampshire 2092416 MA09831515 White Not Hispanic/Latino Sentenced 12/12/24 thinking for a change Disciplinary
+Hampshire 2092416 MA09831515 White Not Hispanic/Latino Sentenced 12/12/24 thinking for a change Disciplinary
+Hampshire 5343621 MA21053773 JHPS1J2416290 White Hispanic/Latino Pre-Trial 12/12/24 thinking for a change Completed
+Hampshire 5343621 MA21053773 JHPS1J2416290 White Hispanic/Latino Pre-Trial 12/12/24 thinking for a change Completed
+Hampshire 3175228 MA10556666 JHPS1J2315351 White Hispanic/Latino Pre-Trial 12/17/24 Criminal Thinking Currently Enrolled
+Hampshire 3175228 MA10556666 JHPS1J2315351 White Hispanic/Latino Pre-Trial 12/17/24 Criminal Thinking Currently Enrolled
+Hampshire 2800854 MA10190835 White Not Hispanic/Latino Sentenced 12/17/24 Digital Literacy Completed
+Hampshire 2800854 MA10190835 White Not Hispanic/Latino Sentenced 12/17/24 Digital Literacy Completed
+Hampshire 5312977 MA21030006 JHPS1J2313649 White Not Hispanic/Latino Pre-Trial 12/17/24 Advanced Skills Practice Completed
+Hampshire 3166669 MA21124778 JHPS1J2417739 White Not Hispanic/Latino Pre-Trial 12/17/24 DBT Released
+Hampshire 2769887 MA10136781 JHPS1J2315263 White Hispanic/Latino Pre-Trial 12/17/24 Advanced Skills Practice Completed
+Hampshire 5619702 MA21267427 JHPS1J2315959 White Not Hispanic/Latino Pre-Trial 12/17/24 Advanced Skills Practice Completed
+Hampshire 764524 MA09455241 HHPS1H2417775 White Not Hispanic/Latino Sentenced 12/17/24 DBT Released
+Hampshire 764524 MA09455241 HHPS1H2417775 White Not Hispanic/Latino Sentenced 12/17/24 Men's Health Released
+Hampshire 764524 MA09455241 HHPS1H2417775 White Not Hispanic/Latino Sentenced 12/17/24 Mindfulness Released
+Hampshire 764524 MA09455241 HHPS1H2417775 White Not Hispanic/Latino Sentenced 12/17/24 Phase 1 Group Released
+Hampshire 764524 MA09455241 HHPS1H2417775 White Not Hispanic/Latino Sentenced 12/17/24 SMART recovery Released
+Hampshire 2823718 MA10215131 JHPS1J2416910 White Hispanic/Latino Pre-Trial 12/17/24 Advanced Skills Practice Completed
+Hampshire 2823718 MA10215131 JHPS1J2416910 White Hispanic/Latino Pre-Trial 12/17/24 Men's Health Completed
+Hampshire 701025 MA00926367 HHPS1H2517134 White Not Hispanic/Latino Sentenced 12/17/24 DBT Disciplinary
+Hampshire 5600598 MA21260386 JHPS1J2417729 American Indian/Alaska Native Hispanic/Latino Pre-Trial 12/17/24 Mindfulness Released
+Hampshire 5657940 MA21288702 White Not Hispanic/Latino Sentenced 12/17/24 Advanced Skills Practice Completed
+Hampshire 5425366 MA21262219 HHPS5H2314750 White Hispanic/Latino Sentenced 12/17/24 Advanced Skills Practice Completed
+Hampshire 5425366 MA21262219 HHPS5H2314750 White Hispanic/Latino Sentenced 12/17/24 Mindfulness Completed
+Hampshire 5425366 MA21262219 HHPS5H2314750 White Hispanic/Latino Sentenced 12/17/24 Wise Mind Completed
+Hampshire 5537832 MA21202737 HHPS1H2315940 White Not Hispanic/Latino Sentenced 12/17/24 Victim Impact Other
+Hampshire 5305708 MA21023228 HHPS1H2416473 Black/African American Not Hispanic/Latino Sentenced 12/17/24 Wise Mind Other
+Hampshire 5293104 MA21013093 HHPS1H2417063 Black/African American Not Hispanic/Latino Sentenced 12/17/24 Advanced Skills Practice Housing / Classification change
+Hampshire 5293104 MA21013093 HHPS1H2417063 Black/African American Not Hispanic/Latino Sentenced 12/17/24 Mindfulness Housing / Classification change
+Hampshire 2092416 MA09831515 White Not Hispanic/Latino Sentenced 12/17/24 DBT Disciplinary
+Hampshire 2917687 MA10392228 HHPS1H2417613 Black/African American Not Hispanic/Latino Sentenced 12/17/24 DBT Completed
+Hampshire 2917687 MA10392228 HHPS1H2417613 Black/African American Not Hispanic/Latino Sentenced 12/17/24 Men's Health Completed
+Hampshire 2917687 MA10392228 HHPS1H2417613 Black/African American Not Hispanic/Latino Sentenced 12/17/24 Men's Resource Group Released
+Hampshire 2917687 MA10392228 HHPS1H2417613 Black/African American Not Hispanic/Latino Sentenced 12/17/24 Phase 1 Group Completed
+Hampshire 2917687 MA10392228 HHPS1H2417613 Black/African American Not Hispanic/Latino Sentenced 12/17/24 SMART recovery Completed
+Hampshire 5652164 MA21284262 JHPS1J2416905 White Hispanic/Latino Pre-Trial 12/17/24 Advanced Skills Practice Completed
+Hampshire 3098138 MA21250374 White Hispanic/Latino Sentenced 12/17/24 Mindfulness Completed
+Hampshire 2746959 MA10093762 JHPS1J2517672 White Hispanic/Latino Pre-Trial 12/17/24 Mindfulness Released
+Hampshire 2602654 MA10166916 HHPS1H2315289 White Not Hispanic/Latino Sentenced 12/17/24 Advanced Skills Practice Completed
+Hampshire 3215540 MA21020627 White Hispanic/Latino Pre-Trial 12/17/24 Criminal Thinking Disciplinary
+Hampshire 3215540 MA21020627 White Hispanic/Latino Pre-Trial 12/17/24 Criminal Thinking Disciplinary
+Hampshire 3215540 MA21020627 White Hispanic/Latino Pre-Trial 12/17/24 Wise Mind Disciplinary
+Hampshire 5576780 MA21224900 HHPS1H2416607 White Not Hispanic/Latino Sentenced 12/17/24 DBT Completed
+Hampshire 3068711 MA10624328 White Hispanic/Latino Sentenced 12/17/24 Phase 1 Group Disciplinary
+Hampshire 3068711 MA10624328 White Hispanic/Latino Sentenced 12/17/24 SMART recovery Disciplinary
+Hampshire 5343621 MA21053773 JHPS1J2416290 White Hispanic/Latino Pre-Trial 12/17/24 Acceptance Commitment Therapy Currently Enrolled
+Hampshire 5343621 MA21053773 JHPS1J2416290 White Hispanic/Latino Pre-Trial 12/17/24 DBT Completed
+Hampshire 5343621 MA21053773 JHPS1J2416290 White Hispanic/Latino Pre-Trial 12/17/24 Men's Health Completed
+Hampshire 2865330 MA10417357 JHPS1J2516365 White Not Hispanic/Latino Pre-Trial 12/17/24 Advanced Skills Practice Completed
+Hampshire 888185 MA09002049 HHPS1H2417837 White Not Hispanic/Latino Sentenced 12/17/24 Digital Literacy Completed
+Hampshire 888185 MA09002049 HHPS1H2417837 White Not Hispanic/Latino Sentenced 12/17/24 Digital Literacy Completed
+Hampshire 5250893 MA10635916 White Hispanic/Latino Sentenced 12/20/24 SMART recovery Completed
+Hampshire 701025 MA00926367 HHPS1H2517134 White Not Hispanic/Latino Sentenced 12/20/24 NEADS Training Disciplinary
+Hampshire 2917687 MA10392228 HHPS1H2417613 Black/African American Not Hispanic/Latino Sentenced 12/20/24 ELA Released
+Hampshire 2917687 MA10392228 HHPS1H2417613 Black/African American Not Hispanic/Latino Sentenced 12/20/24 ELA Released
+Hampshire 2917687 MA10392228 HHPS1H2417613 Black/African American Not Hispanic/Latino Sentenced 12/20/24 Math Released
+Page 10 of 11
+PROGRAMMING
+SHERIFF'S PROGRAM
+PCF SID OBTN RACE ETHNICITY ADMIT TYPE PROGRAM NAME PARTICIPANT STATUS
+OFFICE REGISTERED DATE
+Hampshire 2917687 MA10392228 HHPS1H2417613 Black/African American Not Hispanic/Latino Sentenced 12/20/24 Math Released
+Hampshire 2917687 MA10392228 HHPS1H2417613 Black/African American Not Hispanic/Latino Sentenced 12/20/24 Math Released
+Hampshire 2917687 MA10392228 HHPS1H2417613 Black/African American Not Hispanic/Latino Sentenced 12/20/24 Science Other
+Hampshire 5619702 MA21267427 JHPS1J2315959 White Not Hispanic/Latino Pre-Trial 12/23/24 Pre-Apprentice Certificate Training Other
+Hampshire 5619702 MA21267427 JHPS1J2315959 White Not Hispanic/Latino Pre-Trial 12/23/24 Pre-Apprentice Certificate Training Participated
+Hampshire 5619702 MA21267427 JHPS1J2315959 White Not Hispanic/Latino Pre-Trial 12/23/24 Pre-Apprentice Certificate Training Participated
+Hampshire 5619702 MA21267427 JHPS1J2315959 White Not Hispanic/Latino Pre-Trial 12/23/24 Pre-Apprentice Certificate Training Participated
+Hampshire 5619702 MA21267427 JHPS1J2315959 White Not Hispanic/Latino Pre-Trial 12/23/24 Pre-Apprentice Certificate Training Participated
+Hampshire 2367228 MA09733005 JHPS2J2416807 White Hispanic/Latino Pre-Trial 12/23/24 Pre-Apprentice Certificate Training Participated
+Hampshire 2367228 MA09733005 JHPS2J2416807 White Hispanic/Latino Pre-Trial 12/23/24 Pre-Apprentice Certificate Training Participated
+Hampshire 2367228 MA09733005 JHPS2J2416807 White Hispanic/Latino Pre-Trial 12/23/24 Pre-Apprentice Certificate Training Participated
+Hampshire 2367228 MA09733005 JHPS2J2416807 White Hispanic/Latino Pre-Trial 12/23/24 Pre-Apprentice Certificate Training Other
+Hampshire 2367228 MA09733005 JHPS2J2416807 White Hispanic/Latino Pre-Trial 12/23/24 Pre-Apprentice Certificate Training Participated
+Hampshire 5338349 MA21245620 HHPS1H2516938 White Hispanic/Latino Sentenced 12/23/24 Pre-Apprentice Certificate Training Other
+Hampshire 5338349 MA21245620 HHPS1H2516938 White Hispanic/Latino Sentenced 12/23/24 Pre-Apprentice Certificate Training Disciplinary
+Hampshire 5338349 MA21245620 HHPS1H2516938 White Hispanic/Latino Sentenced 12/23/24 Pre-Apprentice Certificate Training Disciplinary
+Hampshire 5338349 MA21245620 HHPS1H2516938 White Hispanic/Latino Sentenced 12/23/24 Pre-Apprentice Certificate Training Disciplinary
+Hampshire 5338349 MA21245620 HHPS1H2516938 White Hispanic/Latino Sentenced 12/23/24 Pre-Apprentice Certificate Training Disciplinary
+Hampshire 5305708 MA21023228 HHPS1H2416473 Black/African American Not Hispanic/Latino Sentenced 12/23/24 Pre-Apprentice Certificate Training Participated
+Hampshire 5305708 MA21023228 HHPS1H2416473 Black/African American Not Hispanic/Latino Sentenced 12/23/24 Pre-Apprentice Certificate Training Other
+Hampshire 5305708 MA21023228 HHPS1H2416473 Black/African American Not Hispanic/Latino Sentenced 12/23/24 Pre-Apprentice Certificate Training Participated
+Hampshire 3098138 MA21250374 White Hispanic/Latino Sentenced 12/23/24 Financial Literacy Completed
+Hampshire 3098138 MA21250374 White Hispanic/Latino Sentenced 12/23/24 Financial Literacy Completed
+Hampshire 3098138 MA21250374 White Hispanic/Latino Sentenced 12/23/24 Pre-Apprentice Certificate Training Participated
+Hampshire 3098138 MA21250374 White Hispanic/Latino Sentenced 12/23/24 Pre-Apprentice Certificate Training Other
+Hampshire 3098138 MA21250374 White Hispanic/Latino Sentenced 12/23/24 Pre-Apprentice Certificate Training Participated
+Hampshire 2909106 MA10584017 JHPS1J2417758 White Not Hispanic/Latino Pre-Trial 12/23/24 Pre-Apprentice Certificate Training Other
+Hampshire 2909106 MA10584017 JHPS1J2417758 White Not Hispanic/Latino Pre-Trial 12/23/24 Pre-Apprentice Certificate Training Released
+Hampshire 2909106 MA10584017 JHPS1J2417758 White Not Hispanic/Latino Pre-Trial 12/23/24 Pre-Apprentice Certificate Training Released
+Hampshire 2909106 MA10584017 JHPS1J2417758 White Not Hispanic/Latino Pre-Trial 12/23/24 Pre-Apprentice Certificate Training Released
+Hampshire 2909106 MA10584017 JHPS1J2417758 White Not Hispanic/Latino Pre-Trial 12/23/24 Pre-Apprentice Certificate Training Released
+Hampshire 5600598 MA21260386 JHPS1J2417729 American Indian/Alaska Native Hispanic/Latino Pre-Trial 12/24/24 Digital Literacy Released
+Hampshire 5600598 MA21260386 JHPS1J2417729 American Indian/Alaska Native Hispanic/Latino Pre-Trial 12/24/24 Digital Literacy Released
+Hampshire 2709589 MA10183063 JHPS1J2416535 Black/African American Not Hispanic/Latino Pre-Trial 12/24/24 ELA Completed
+Hampshire 2709589 MA10183063 JHPS1J2416535 Black/African American Not Hispanic/Latino Pre-Trial 12/24/24 ELA Completed
+Hampshire 2709589 MA10183063 JHPS1J2416535 Black/African American Not Hispanic/Latino Pre-Trial 12/24/24 ELA Other
+Hampshire 2709589 MA10183063 JHPS1J2416535 Black/African American Not Hispanic/Latino Pre-Trial 12/24/24 Math Participated
+Hampshire 2709589 MA10183063 JHPS1J2416535 Black/African American Not Hispanic/Latino Pre-Trial 12/24/24 Math Participated
+Hampshire 2709589 MA10183063 JHPS1J2416535 Black/African American Not Hispanic/Latino Pre-Trial 12/24/24 Math Participated
+Hampshire 2709589 MA10183063 JHPS1J2416535 Black/African American Not Hispanic/Latino Pre-Trial 12/24/24 Math Participated
+Hampshire 2709589 MA10183063 JHPS1J2416535 Black/African American Not Hispanic/Latino Pre-Trial 12/24/24 Math Other
+Hampshire 2709589 MA10183063 JHPS1J2416535 Black/African American Not Hispanic/Latino Pre-Trial 12/24/24 Science Other
+Page 11 of 11
+[DELETED:  B R EEDEDEIFSDONREEYS C JSIe20M4H8WeHo1410e50M2WeNo1430205e35M4J5BnNo1e26M9WeNo143e34M0J4WeHo1e30M5J0BnNo1e13M4J1WeNo1e99M3J0WeHo1e30M5BnNo1460e56S0WeNo1e27M5WeNo14453e56M0J5BnNo1e50M0J3WeNo1e32M7J5WeHo1e29M4J2BnNo1e20M3J6BnNo1e24M5WeNo1415226e59M9J3BnNo1e21M8J2WeNo1e57M3J2WeNo1e27M8H3BnNo1425266e56M1J4BnNo1e58M4J5WeNo1e25M9WeHo1e19M9J3WeNo1e58M7J4BnHo1e18M4H9WeNo1410352e55M1J2WeHo1e22M9J3WeHo1e24M9J6WeNo1e57M3WeNo1425201e23M3J2WeNo1eWeNo1e26M9WeNo1e29M2J2WeHo1e85M9J4WeNo1e55M7J1WeNo1e22M1WeNo1415201e24M7J6WeNo1e55M8J5WeNo1e55M9J6WeNo1e56M9J5WeHo1e59M4J7WeNo1e58M6J9AeHo1e53M6BnNo14352e52M9J3BnNo1e50M3J0WeNo1e39M8J9WeNo1e26M5WeNo1410351e26M7J8WeNo1e56M6J7WeNo1e59M0J5BnNo1e74M1H5WeNo14106e30M6J2WeNo1e24M4J5WeHo1e58M6J1WeNo1e29M6H2WeHo1436201e20M3J5WeNo1e20M0J6WeNo1e86M9J3WeNo1e51M4J6ArHo1e52WeNo1e26M7J5WeNo1e20M2H0WeHo143e85M9H7WeNo141e53M8J6WeNo1]
+[DELETED:  B R EEDEDEIFSDONREEYS C JSIe51M8J9WeHo1e53M9J1WeNo1e22M6J6WeHo1e16M2J4WeNo1e55M4J5WeHo1e31M2J7WeNo1e25M8J6WeHo1e54M0BnNo1e56M8J3WeNo1eM9J3BnNo1e54M7BnNo14109e59M1J9WeHo1e39M1J3WeNo1e54M5H4ArNo14108e28M7J9OnHo1e57M7J6WeNo1e50M2J8WeNo1e26M4J1WeNo1e58M6J1BnNo1e26M9J2WeNo1e26M9H4WeHo141e24M6H0WeNo14669e58M6J0AeHo1e50M6J0WeHo1e20M4H8WeHo1410e57M9J5WeNo1e84M6WeNo1425207e55M3WeNo1425104e30M5J0BnNo1e28M4J6BnNo1e95M4J8WeNo1e56M4H8WeNo14756e27M5J9WeNo1e25M8J1WeHo1e51M5J1BnNo1e31M1J2WeHo1e56S0WeNo1e50M0J3WeNo1e39M1H4WeNo141e57M4J6AeHo1e24M5J9WeNo1e53M0J8BnNo1e50M1J4WeNo1e19M8BnNo1420406e27M5WeNo14453e86M9J7WeNo1e52M7J3BnNo1e28M8H8WeNo143e80M4J7WeNo1e28M4J3WeNo1e53M2J9WeNo1e25M9WeHo1e28M9H4WeHo1410341e72M3J7WeNo1e28M6J4BnNo1e57M3J2WeNo1e26M9WeNo143e24M9J6WeNo1e26M9WeNo1e20M3J6BnNo1e58M7J4BnHo1eWeNo1e13M7J6BnNo1e32M7J8BnNo1e58M4J8WeHo1e52M3WeNo1410141]
+[DELETED:  B R EEDEDEIFSDONREEYS C JSIe55M3WeNo1410501e23M0H2WeNo1410233e56M1J4BnNo1e22M1J4WeNo1e23M0J7WeNo1e21M8J2WeNo1e55M7J1WeNo1e57M8J5WeNo1e53M6J0BnNo1e39M0J3WeNo1e31M6J9ArNo1e59M9J3BnNo1e27M1J5WeNo1e26M5J7WeNo1e58M9WeNo14351e37M8WeHo14461e59M4J7WeNo1e39M4WeNo1415571e51M4J3WeHo14258e53M0H7WeHo14512e32M8H5WeHo1420201e30M5BnNo1460e85M9J4WeNo1e58M3H6WeNo143e53M6BnNo1415305e18M4H9WeNo1410352e22M0WeNo1425225e52WeNo1e23M1J8OnHo1e20M3J5WeNo1e32M7J5WeHo1e51M8J9WeHo1e58M4J5WeNo1e56M6BnNo1435501e22M1H5BnNo1435903e53M9J1WeNo1e59M0J5BnNo1e58M6J1WeNo1e56M0J5BnNo1e54M0J5BnNo14255e55M9J6WeNo1e26M7J5WeNo1e35M8J4BnNo1e54M0BnNo1e31M2J7WeNo1e52M9J3BnNo1e56M8J3WeNo1e54M7J7BnNo1e36M7WeNo1430704e24M4J5WeHo1]
+[DELETED:  PERFSDONREEYAEPEPe38M6J1WeHoPl14T4Ce38M6J1WeHoPl14T4Ce53M6WeHoSd14T4Ce53M6WeHoSd14T4Ce28M5J7WeHoPl14T4Ce28M5J7WeHoPl14T4Ce56M4H8WeNoSd14WdRe58M8H3BnNoSd14T4Ce58M8H3BnNoSd14T4Ce30M7WeHoPl14T4Ce30M7WeHoPl14T4Ce89M7H9WeHoSd14T4Ce89M7H9WeHoSd14T4Ce55M3H6BnNoSd14T4De55M3H6BnNoSd14T4De37M3H5WeNoSd14EAOe37M3H5WeNoSd14T4De37M3H5WeNoSd14T4De53M2J9WeNoPl14T4Re53M2J9WeNoPl14T4Re95M4J8WeNoPl14DTRe24M5WeHoSd14DTCe59M0H8WeHoSd14JeOe13M7J6BnNoPl14DTRe52M3WeNoSd14DTRe54M2J5WeHoPl14DTCe32M4J7BnNoPl14DTDe23M8H4WeNoSd14MgDe23M8H4WeNoSd14MnDe23M8H4WeNoSd14MnDe23M8H4WeNoSd14lhDe53M6WeHoSd14DgCe55M3H6BnNoSd14EAOe31M1J2WeHoPl14EARe31M1J2WeHoPl14EARe54M3H3BnNoSd14EACe54M3H3BnNoSd14EACe27M1J3WeHoPl14EACe57M8J5WeNoPl14SeOe52M7J9WeNoPl14YaCe52M7J9WeNoPl14YaCe28M1J0WeHoPl14FyCe28M1J0WeHoPl14FyCe26M4WeHoSd14YaCe26M4WeHoSd14YaCe50M2WeNoSd14HrCe50M2WeNoSd14HrCe50M2WeNoSd14USCe52M7H0WeNoSd14YaCe52M7H0WeNoSd14YaCe36M7WeNoSd14YaOe36M7WeNoSd14YaCe31M0J7WeHoPl14YaCe31M0J7WeHoPl14YaCe54M0J5BnNoSd14SeCe54M0J5BnNoSd14SeCe89M7H9WeHoSd14SeCe89M7H9WeHoSd14SeCe23M8H4WeNoSd14YaDe23M8H4WeNoSd14YaDe51M3J0WeHoPl14YaCe51M3J0WeHoPl14YaCe86M9J7WeNoPl14FyRe86M9J7WeNoPl14FyRe86M9J7WeNoPl14SeRe86M9J7WeNoPl14SeRe37M5J0WeHoPl14MhCe37M5J0WeHoPl14MhCe37M5J0WeHoPl14MhCe37M5J0WeHoPl14MhCe24M5WeHoSd14SeCe24M5WeHoSd14SeCe26M9WeNoSd14CgRe37M6WeHoSd14EAOe51M3J0WeHoPl14EAOe35M4J5BnNoPl14CgOe35M4J5BnNoPl14CgCe35M4J5BnNoPl14PpCe35M4J5BnNoPl14SeC]
+[DELETED:  PERFSDONREEYAEPEPe35M4J5BnNoPl14SeCe35M4J5BnNoPl14TpCe35M4J5BnNoPl14WdCe22M0WeNoSd14TpCe28M5J7WeHoPl14HrCe28M5J7WeHoPl14HrCe75M7H4WeNoSd14CgDe75M7H4WeNoSd14CgDe75M7H4WeNoSd14SeCe75M7H4WeNoSd14SeCe75M7H4WeNoSd14TpCe54M3H3BnNoSd14HrCe54M3H3BnNoSd14HrCe54M3H3BnNoSd14PpCe36M7WeNoSd14EACe22M1H5BnNoSd14CgRe54M2J5WeHoPl14EACe54M2J5WeHoPl14EAOe36M0WeNoSd14PpCe36M0WeNoSd14SeCe36M0WeNoSd14SeCe36M0WeNoSd14TpCe26M5J7WeNoPl14WdRe32M4J7BnNoPl14TpCe54M0J5BnNoSd14CgRe23M8H4WeNoSd14TpCe25M4H7WeHoSd14HrCe25M4H7WeHoSd14HrCe27M1J3WeHoPl14EACe35M4J5BnNoPl14DyCe35M4J5BnNoPl14DyCe26M4WeHoSd14TpCe50M2WeNoSd14SyRe56M9H0WeHoSd14EAOe52M3WeNoSd14HrOe52M3WeNoSd14HrOe30M5BnNoSd14MhDe30M5BnNoSd14MpDe30M5BnNoSd14PpCe30M5BnNoSd14teDe30M5BnNoSd14teDe59M4J0WeHoPl14teCe59M4J0WeHoPl14teCe31M8J5WeHoSd14MhDe31M8J5WeHoSd14teDe31M8J5WeHoSd14teDe24M5WeHoSd14SyCe34M3H2WeHoSd14HrCe34M3H2WeHoSd14HrCe22M1H5BnNoSd14teRe22M1H5BnNoSd14teRe36M0WeNoSd14teCe36M0WeNoSd14teCe38M4WeHoSd14teCe38M4WeHoSd14teCe31M8WeHoSd14teDe31M8WeHoSd14teDe52M7BnNoSd14teDe52M7BnNoSd14teDe30M5BnNoSd14SyDe35M4J5BnNoPl14FyCe35M4J5BnNoPl14FyCe54M3H3BnNoSd14SyHe52M3WeNoSd14SyRe52M7BnNoSd14SyRe53M6BnNoSd14SyRe38M6J1WeHoPl14AeCe59M4J0WeHoPl14AeCe72M3J7WeNoPl14AeRe28M5J7WeHoPl14AeCe58M8H3BnNoSd14AeCe30M7WeHoPl14AeCe35M4J5BnNoPl14AyCe22M0WeNoSd14AyRe52M7J9WeNoPl14AyCe34M3H2WeHoSd14SyCe72M3J7WeNoPl14SyRe28M5J7WeHoPl14AyCe75M7H4WeNoSd14AyD]
+[DELETED:  PERFSDONREEYAEPEPe50M2WeNoSd14SyCe23M0J7WeNoPl14SyRe31M0J7WeHoPl14AyDe26M5J7WeNoPl14AyRe53M6BnNoSd14AyRe25M4H7WeHoSd14SyHe24M5WeNoSd14AtCe24M5WeNoSd14AtCe24M5WeNoSd14CgRe24M5WeNoSd14CgRe24M5WeNoSd14PpCe34M3H2WeHoSd14MhCe50M6H2AeHoSd14AtCe50M6H2AeHoSd14AtCe50M2WeNoSd14AtCe50M2WeNoSd14AtCe32M4J7BnNoPl14AtCe32M4J7BnNoPl14AtCe54M0J5BnNoSd14AtCe54M0J5BnNoSd14AtCe20M7J5WeNoPl14AtCe20M7J5WeNoPl14AtCe20M7J5WeNoPl14WdCe52M7BnNoSd14MhDe54M7J7BnNoPl14EACe54M7J7BnNoPl14MhCe54M7J7BnNoPl14MhCe54M7J7BnNoPl14MhCe54M7J7BnNoPl14MhCe54M7J7BnNoPl14SeCe58M8H3BnNoSd14AtCe58M8H3BnNoSd14AtCe57M2J6OnNoPl14CgPe24M5WeNoSd14DyHe24M5WeNoSd14DyHe31M0J7WeHoPl14GeDe31M0J7WeHoPl14GeDe38M4WeHoSd14CgOe38M4WeHoSd14CgOe58M4J5WeNoPl14MhRe58M4J5WeNoPl14PpCe56M8H8BnNoSd14MhCe56M8H8BnNoSd14MhCe56M8H8BnNoSd14MhCe56M8H8BnNoSd14MhCe30M7WeHoPl14EACe30M7WeHoPl14EAOe51M3J0WeHoPl14EACe51M3J0WeHoPl14EACe58M4J5WeNoPl14CgRe58M4J5WeNoPl14CgRe37M3H5WeNoSd14EAOe37M3H5WeNoSd14MhAe37M3H5WeNoSd14MhAe37M3H5WeNoSd14MhOe37M3H5WeNoSd14MhAe53M6WeHoSd14SeCe35M4J5BnNoPl14SeCe52M7H0WeNoSd14GeCe52M7H0WeNoSd14GeCe58M8H3BnNoSd14GeOe58M8H3BnNoSd14GeOe36M7WeNoSd14GeCe36M7WeNoSd14GeCe36M7WeNoSd14csHe23M8H4WeNoSd14SeDe58M4J5WeNoPl14GeRe58M4J5WeNoPl14GeRe22M1WeNoSd14EACe22M1WeNoSd14MhCe22M1WeNoSd14MhCe22M1WeNoSd14MhCe22M1WeNoSd14MhCe22M1WeNoSd14SeCe99M3J0WeHoPl14ErOe29M2J2WeHoPl14EACe29M2J2WeHoPl14EACe29M2J2WeHoPl14EACe29M2J2WeHoPl14MhR]
+[DELETED:  PERFSDONREEYAEPEPe29M2J2WeHoPl14MhRe29M2J2WeHoPl14MhRe29M2J2WeHoPl14MhRe29M2J2WeHoPl14SeCe20M7J5WeNoPl14lhCe24M5WeNoSd14DTRe24M5WeHoSd14VtHe26M4WeHoSd14VtCe52M7H0WeNoSd14SeCe54M3H3BnNoSd14DTCe54M2J5WeHoPl14VtOe24M6H9WeNoSd14VtCe53M6BnNoSd14VtRe58M4J5WeNoPl14DTRe24M5WeNoSd14TpDe23M3J2WeNoPl14DyAe23M3J2WeNoPl14DyDe23M3J2WeNoPl14DyDe23M3J2WeNoPl14GeDe23M3J2WeNoPl14GeDe23M3J2WeNoPl14MhDe23M3J2WeNoPl14PpDe23M3J2WeNoPl14TpDe50M6H2AeHoSd14SyCe29M2J2WeHoPl14CgOe29M2J2WeHoPl14CgOe29M2J2WeHoPl14PpCe31M8WeHoSd14FyCe31M8WeHoSd14FyCe75M7H4WeNoSd14csPe53M6WeHoSd14PlOe24M5WeHoSd14Ploe50M6H2AeHoSd14NgOe50M6H2AeHoSd14PlOe54M3H3BnNoSd14NgHe26M5WeNoSd14AyDe26M5WeNoSd14DyCe26M5WeNoSd14DyCe26M5WeNoSd14FyCe26M5WeNoSd14FyCe26M5WeNoSd14SyCe26M5WeNoSd14TpCe26M5WeNoSd14WdCe22M1H5BnNoSd14NgRe29M2J2WeHoPl14TpCe32M4J7BnNoPl14MhDe50M0H7WeNoSd14NgOe25M4H7WeHoSd14EAOe25M4H7WeHoSd14EAOe57M6J9WeNoPl14MhCe37M5J0WeHoPl14EAOe22M1WeNoSd14EACe22M1WeNoSd14EACe22M1WeNoSd14MpRe22M1WeNoSd14PpRe85M9J4WeNoPl14CgRe53M0H7WeHoSd14EAOe53M6WeHoSd14SeCe23M3J2WeNoPl14SeDe23M3J2WeNoPl14SeDe22M1WeNoSd14SeOe22M1WeNoSd14SeOe54M2J5WeHoPl14SeCe54M2J5WeHoPl14SeCe29M2J2WeHoPl14SeCe29M2J2WeHoPl14SeCe32M4J7BnNoPl14SeDe32M4J7BnNoPl14SeDe39M8J9WeNoPl14PpCe50M3J0WeNoPl14PpDe58M6J9AeHoPl14PpRe39M8J9WeNoPl14FyRe39M8J9WeNoPl14FyRe22M1WeNoSd14EACe50M3J0WeNoPl14FyHe50M3J0WeNoPl14FyHe39M8J9WeNoPl14CgRe39M8J9WeNoPl14CgRe39M8J9WeNoPl14MhR]
+[DELETED:  PERFSDONREEYAEPEPe27M1J3WeHoPl14WdCe50M3J0WeNoPl14MhDe58M6J9AeHoPl14CgRe58M6J9AeHoPl14CgRe58M6J9AeHoPl14VtRe58M6J9AeHoPl14WdRe22M1H5BnNoSd14csRe54M7J7BnNoPl14EACe26M5WeNoSd14MpDe36M0WeNoSd14WpOe36M0WeNoSd14WpOe36M0WeNoSd14WpOe36M0WeNoSd14WpOe36M0WeNoSd14WpOe27M1J3WeHoPl14teCe27M1J3WeHoPl14teCe22M1WeNoSd14teRe22M1WeNoSd14teRe54M7J7BnNoPl14EARe50M3J0WeNoPl14teDe50M3J0WeNoPl14teDe75M7H4WeNoSd14teDe75M7H4WeNoSd14teDe26M5WeNoSd14teDe26M5WeNoSd14teDe51M3J0WeHoPl14teCe51M3J0WeHoPl14teCe38M6J1WeHoPl14CgCe38M6J1WeHoPl14CgCe24M5WeNoSd14DyCe24M5WeNoSd14DyCe57M6J9WeNoPl14AeCe39M8J9WeNoPl14DTRe27M1J3WeHoPl14AeCe52M7J9WeNoPl14AeCe74M1H5WeNoSd14DTRe74M1H5WeNoSd14MhRe74M1H5WeNoSd14MsRe74M1H5WeNoSd14PpRe74M1H5WeNoSd14SyRe28M1J0WeHoPl14AeCe28M1J0WeHoPl14MhCe75M7H4WeNoSd14DTDe58M6J9AeHoPl14MsRe50M2WeNoSd14AeCe56M9H0WeHoSd14AeCe56M9H0WeHoSd14MsCe56M9H0WeHoSd14WdCe52M7H0WeNoSd14VtOe58M8H3BnNoSd14WdOe54M3H3BnNoSd14AeHe54M3H3BnNoSd14MsHe26M5WeNoSd14DTDe27M8H3BnNoSd14DTCe27M8H3BnNoSd14MhCe27M8H3BnNoSd14MpRe27M8H3BnNoSd14PpCe27M8H3BnNoSd14SyCe54M2J5WeHoPl14AeCe38M4WeHoSd14MsCe29M2J2WeHoPl14MsRe24M6H9WeNoSd14AeCe30M7WeHoPl14CgDe30M7WeHoPl14CgDe30M7WeHoPl14WdDe50M0H7WeNoSd14DTCe31M8WeHoSd14PpDe31M8WeHoSd14SyDe51M3J0WeHoPl14AyCe51M3J0WeHoPl14DTCe51M3J0WeHoPl14MhCe20M7J5WeNoPl14AeCe85M9H7WeNoSd14DyCe85M9H7WeNoSd14DyCe53M6WeHoSd14SyCe75M7H4WeNoSd14NgDe27M8H3BnNoSd14EARe27M8H3BnNoSd14EARe27M8H3BnNoSd14MhR]
+[DELETED:  PERFSDONREEYAEPEPe27M8H3BnNoSd14MhRe27M8H3BnNoSd14MhRe27M8H3BnNoSd14SeOe52M7J9WeNoPl14PgOe52M7J9WeNoPl14PgPe52M7J9WeNoPl14PgPe52M7J9WeNoPl14PgPe52M7J9WeNoPl14PgPe28M5J7WeHoPl14PgPe28M5J7WeHoPl14PgPe28M5J7WeHoPl14PgPe28M5J7WeHoPl14PgOe28M5J7WeHoPl14PgPe59M0H8WeHoSd14PgOe59M0H8WeHoSd14PgDe59M0H8WeHoSd14PgDe59M0H8WeHoSd14PgDe59M0H8WeHoSd14PgDe58M8H3BnNoSd14PgPe58M8H3BnNoSd14PgOe58M8H3BnNoSd14PgPe38M4WeHoSd14FyCe38M4WeHoSd14FyCe38M4WeHoSd14PgPe38M4WeHoSd14PgOe38M4WeHoSd14PgPe26M7J8WeNoPl14PgOe26M7J8WeNoPl14PgRe26M7J8WeNoPl14PgRe26M7J8WeNoPl14PgRe26M7J8WeNoPl14PgRe58M6J9AeHoPl14DyRe58M6J9AeHoPl14DyRe29M3J5BnNoPl14EACe29M3J5BnNoPl14EACe29M3J5BnNoPl14EAOe29M3J5BnNoPl14MhPe29M3J5BnNoPl14MhPe29M3J5BnNoPl14MhPe29M3J5BnNoPl14MhPe29M3J5BnNoPl14MhOe29M3J5BnNoPl14SeO]
+
+
+================================================================================
+
+Raw Text:
+Massachusetts Sheriffs’ Association
+Chapter 126, Section 40
+Quarterly Population Report
+Q4 2024
+Hampshire County
+Sheriff's Office
+Page 1 of 11
+
+Overview of Quarterly Population Report for the Individual Massachusetts Sheriffs' Offices
+In compliance with the Massachusetts General Laws, Part I, Title XVIII, Chapter 126, Section 40: Recording
+and reporting of data on population of jails and houses of correction
+Section 40. The sheriff shall record, without limitation, the following data for each person committed to a jail
+or house of correction: (i) probation central file number; (ii) fingerprint-based state identification number, if
+available; (iii) race and ethnicity; (iv) offense-based tracking number; (v) type of release; (vi) type of
+admission; (vii) length of sentence; (viii) jail credit from pretrial incarceration; (ix) earned time; (x) program
+participation and outcome during incarceration; (xi) case disposition; and (xii) bail amount or reason if no bail
+set.
+Aggregate data on the population of each jail and house of correction shall be assembled into a quarterly
+report with the reported data covering the entire quarterly period. The reports prepared by the sheriff shall
+contain no identifying information relating to an individual inmate or detainee.
+Each quarter the sheriff shall deliver the report from each jail and house of correction to the secretary of
+public safety and security, the house and senate chairs of the joint committee on the judiciary, the house and
+senate chairs of the joint committee on public safety and homeland security and the clerks of the house of
+representatives and the senate.
+This report was produced in partnership with the Executive Office of Public Safety & Security by utilizing
+data from the Commonwealth of Massachusetts Criminal Justice Cross-Tracking System.
+Data Definitions & Disclaimer:
+Probation Central File (PCF) Number: A number assigned for identification purposes to an individual by the Massachusetts
+Probation Service. The PCF is not supported by fingerprint-based identification.
+State Identification Number (SID): A unique ten-character alphanumerical identifier supported by fingerprint identification
+assigned to an individual by the Department of State Police through the Automated Fingerprint Identification System (AFIS).
+The SID is created upon the fingerprinting of a person by a Criminal Justice Agency.
+Offense-Based Tracking Number (OBTN): A unique identifier for a specific fingerprint/arrest/custody event that links the
+individual to fingerprints taken. An individual may have multiple OBTNs on file when they have multiple events.
+Disclaimer: The SID, PCF, and OBTN are generated during an individual’s first interaction with the criminal justice system.
+There is often a lag time before the FBI can produce these numbers and they are not immediately available during intake.
+Officers manually add this information once it is received, but some SIDs, PCFs, and OBTNs may not be included in this
+report due to when the data was extracted.
+Important Data Note:
+The statute requires three specific data points that are not owned by the Sheriffs' Offices. These three include: case
+disposition, bail amount, and reason if no bail set, which originate with the Trial Court. As such, the Sheriffs are unable to
+populate these fields. The MSA, in consultation with the Trial Court and EOPSS, are working to refine these metrics so that
+they can be retrieved from the Cross-Tracking System and reported on electronically.
+Page 2 of 11
+
+ADMISSIONS AND RELEASES
+LENGTH OF JAIL
+SHERIFF'S BOOKING RELEASE EARNED TIME
+PCF SID OBTN RACE ETHNICITY SENTENCE CREDIT
+OFFICE DATE DATE IN DAYS
+IN DAYS IN DAYS
+Hampshire 2639080 MA10001324 HHPS1H2417528 White Hispanic/Latino 10/1/24 10 5
+Hampshire 5657940 MA21288702 White Not Hispanic/Latino 10/1/24 30 270 50
+Hampshire 3104875 MA10403874 JHPS1J2417535 Black/African American Not Hispanic/Latino 10/3/24
+Hampshire 2445736 MA10076619 White Not Hispanic/Latino 10/3/24 30
+Hampshire 3096944 MA10430800 JHPS1J2417534 White Hispanic/Latino 10/3/24
+Hampshire 3192350 MA10596965 JHPS1J2417550 Black/African American Not Hispanic/Latino 10/7/24
+Hampshire 1970263 MA09301514 JHPS2J2417551 White Not Hispanic/Latino 10/7/24
+Hampshire 928649 MA09016953 JHPS1J2417560 White Hispanic/Latino 10/8/24
+Hampshire 3192350 MA10596965 Black/African American Not Hispanic/Latino 10/8/24 60 3
+Hampshire 5120646 S26930400 White Not Hispanic/Latino 10/9/24
+Hampshire 2541817 MA10517935 White Not Hispanic/Latino 10/9/24 45 35
+Hampshire 5605496 MA21246220 JHPS1J2417565 Black/African American Not Hispanic/Latino 10/9/24
+Hampshire 5666980 MA21295500 JHPS1J2417573 White Not Hispanic/Latino 10/10/24
+Hampshire 3175732 MA10556637 JHPS1J2417575 White Hispanic/Latino 10/10/24
+Hampshire 2905559 MA10180854 JHPS1J2417572 Black/African American Not Hispanic/Latino 10/10/24
+Hampshire 2484730 MA09831353 JHPS1J2417586 Black/African American Not Hispanic/Latino 10/15/24
+Hampshire 2800854 MA10190835 White Not Hispanic/Latino 10/16/24 12.5 272 67
+Hampshire 5,622,419 MA21295929 JHPS1J2417593 Black/African American Not Hispanic/Latino 10/17/24
+Hampshire 2258371 MA09750108 JHPS1J2417592 White Not Hispanic/Latino 10/17/24
+Hampshire 5585437 MA21262793 JHPS1J2417612 White Not Hispanic/Latino 10/21/24
+Hampshire 2917687 MA10392228 HHPS1H2417613 Black/African American Not Hispanic/Latino 10/21/24 2.5 256 65
+Hampshire 5425596 MA21110681 JHPS1J2417614 Black/African American Not Hispanic/Latino 10/21/24
+Hampshire 5243608 MA21006864 JHPS1J2417625 White Not Hispanic/Latino 10/24/24
+Hampshire 2855145 MA10154259 White Hispanic/Latino 10/25/24
+Hampshire 1774009 MA09740209 JHPS1J2417643 White Not Hispanic/Latino 10/28/24
+Hampshire 5570508 MA21236357 JHPS2J2417644 Black/African American Hispanic/Latino 10/28/24
+Hampshire 1076798 MA09816224 HHPS2H2417649 White Not Hispanic/Latino 10/29/24 10 365 20
+Hampshire 5568765 MA21185171 JHPS1J2417652 White Hispanic/Latino 10/30/24
+Hampshire 2477582 MA09905949 JHPS2J2417653 White Hispanic/Latino 10/30/24
+Hampshire 2894574 MA10256469 JHPS1J2417656 White Not Hispanic/Latino 10/31/24
+Hampshire 5585437 MA21262793 White Not Hispanic/Latino 10/31/24 2.5 260 10
+Hampshire 2884153 MA10415793 JHPS2J2417662 White Not Hispanic/Latino 11/1/24
+Hampshire White Not Hispanic/Latino 11/1/24
+Hampshire 2445736 MA10076619 White Not Hispanic/Latino 11/1/24
+Hampshire 2746959 MA10093762 JHPS1J2517672 White Hispanic/Latino 11/4/24
+Hampshire 888185 MA09002049 JHPS1J2417674 White Not Hispanic/Latino 11/5/24
+Hampshire 5669695 MA21297487 JHPS1J2417681 White Not Hispanic/Latino 11/7/24
+Hampshire 2516372 MA21201911 White Not Hispanic/Latino 11/8/24 17.5 270 175
+Hampshire 2365934 MA10049707 JHPS1J2417686 White Not Hispanic/Latino 11/8/24
+Hampshire 5670065 MA21297768 JHPS1J2417705 White Not Hispanic/Latino 11/12/24
+Hampshire 5670015 MA21297909 JHPS1J2417706 White Not Hispanic/Latino 11/12/24
+Hampshire 5163496 MA10651259 JHPS1J2417715 White Hispanic/Latino 11/14/24
+Hampshire 5072519 MA10445164 JHPS1J2417717 White Not Hispanic/Latino 11/15/24
+Hampshire 5600598 MA21260386 JHPS1J2417729 American Indian/Alaska Native Hispanic/Latino 11/18/24
+Hampshire 5444103 MA21127356 Black/African American Not Hispanic/Latino 11/18/24 365 205
+Hampshire 5014612 MA10442379 JHPS1J2417733 Black/African American Not Hispanic/Latino 11/19/24
+Hampshire 5596760 MA21247673 JHPS1J2417740 White Not Hispanic/Latino 11/20/24
+Hampshire 3166669 MA21124778 JHPS1J2417739 White Not Hispanic/Latino 11/20/24
+Hampshire 2092416 MA09831515 White Not Hispanic/Latino 11/21/24 10 365 116
+Hampshire 2909106 MA10584017 JHPS1J2417758 White Not Hispanic/Latino 11/25/24
+Hampshire 5294906 MA21236636 JHPS1J2417757 White Not Hispanic/Latino 11/25/24
+Hampshire 5636969 MA21270850 JHPS1J2417765 Black/African American Not Hispanic/Latino 11/26/24
+Hampshire 764524 MA09455241 HHPS1H2417775 White Not Hispanic/Latino 11/27/24 10 60
+Hampshire 3194930 MA21109036 JHPS1J2417782 White Not Hispanic/Latino 11/29/24
+Hampshire 2330734 MA10036894 JHPS1J2417795 White Hispanic/Latino 12/2/24
+Hampshire 5532828 MA21195986 JHPS1J2417801 White Not Hispanic/Latino 12/3/24
+Hampshire 2177909 MA09217576 HHPS2H2417802 White Hispanic/Latino 12/4/24 36 270 128
+Hampshire 2703260 MA10091813 JHPS1J2417805 White Not Hispanic/Latino 12/5/24
+Hampshire 2546920 MA10114970 JHPS1J2417806 White Not Hispanic/Latino 12/5/24
+Hampshire 832236 MA00971969 JHPS1J2417813 White Not Hispanic/Latino 12/6/24
+Hampshire 5360771 MA21065864 JHPS1J2417826 Asian/Pacific Islander Hispanic/Latino 12/9/24
+Hampshire 5669272 White Not Hispanic/Latino 12/9/24
+Hampshire 2925746 MA10517637 JHPS1J2417825 White Not Hispanic/Latino 12/9/24
+Hampshire 2089540 MA09771482 HHPS1H2417830 White Hispanic/Latino 12/10/24 365
+Hampshire 888185 MA09002049 HHPS1H2417837 White Not Hispanic/Latino 12/11/24 1229
+Hampshire 5623113 MA21299988 JHPS1J2417836 White Not Hispanic/Latino 12/11/24
+Page 3 of 11
+
+ADMISSIONS AND RELEASES
+LENGTH OF JAIL
+SHERIFF'S BOOKING RELEASE EARNED TIME
+PCF SID OBTN RACE ETHNICITY SENTENCE CREDIT
+OFFICE DATE DATE IN DAYS
+IN DAYS IN DAYS
+Hampshire 5659071 MA21286598 JHPS1J2417839 White Hispanic/Latino 12/11/24
+Hampshire 5307733 MA21025159 JHPS1J2417841 White Not Hispanic/Latino 12/12/24
+Hampshire 2682622 MA09906296 JHPS1J2417856 White Hispanic/Latino 12/16/24
+Hampshire 1026006 MA09005322 JHPS2J2417854 White Not Hispanic/Latino 12/16/24
+Hampshire 5298115 MA21000114 JHPS1J2417855 White Hispanic/Latino 12/16/24
+Hampshire 3086001 MA10592162 JHPS1J2417867 White Not Hispanic/Latino 12/18/24
+Hampshire 2410315 MA09748148 JHPS1J2417866 White Hispanic/Latino 12/18/24
+Hampshire 5573624 MA21222480 Black/African American Not Hispanic/Latino 12/19/24
+Hampshire 5673676 MA21300478 JHPS1J2417873 White Not Hispanic/Latino 12/19/24
+Hampshire MA21300859 JHPS2J2417893 Black/African American Not Hispanic/Latino 12/24/24
+Hampshire 5665574 MA21294517 Black/African American Not Hispanic/Latino 12/26/24 180 90
+Hampshire 5255089 MA10640311 JHPS1J2417899 White Hispanic/Latino 12/27/24
+Hampshire 3027149 MA21027411 JHPS1J2417913 White Not Hispanic/Latino 12/30/24
+Hampshire 5585724 MA21271265 HHPS1H2417914 Asian/Pacific Islander Not Hispanic/Latino 12/30/24 1820 86
+Hampshire 2855848 MA10163127 JHPS1J2417489 Other/Unknown Hispanic/Latino 10/1/24
+Hampshire 5132117 MA10516717 JHPS1J2416686 White Not Hispanic/Latino 10/1/24
+Hampshire 5657940 MA21288702 JHPS1J2417178 White Not Hispanic/Latino 10/1/24
+Hampshire 2240446 MA10306634 JHPS1J2314921 White Not Hispanic/Latino 10/1/24
+Hampshire 5663248 MA21292606 JHPS1J2417411 Black/African American Not Hispanic/Latino 10/2/24
+Hampshire 2445736 MA10076619 JHPS1J2417522 White Not Hispanic/Latino 10/3/24
+Hampshire 2903506 MA10195439 HHPS1H2417494 White Hispanic/Latino 10/3/24 10
+Hampshire 2438044 MA10543226 HHPS1H2315800 White Not Hispanic/Latino 10/3/24 676 98
+Hampshire 5600598 MA21260386 JHPS2J2417140 American Indian/Alaska Native Hispanic/Latino 10/4/24
+Hampshire 5526210 MA21191196 JHPS1J2416430 White Hispanic/Latino 10/4/24
+Hampshire 2639080 MA10001324 HHPS1H2417528 White Hispanic/Latino 10/4/24 10 5
+Hampshire 5246507 MA21026099 JHPS1J2417165 White Not Hispanic/Latino 10/4/24
+Hampshire 841874 MA21263696 White Not Hispanic/Latino 10/7/24 2.5 240 73
+Hampshire 5345835 MA21087443 White Not Hispanic/Latino 10/7/24 2.5 180 45
+Hampshire 3192350 MA10596965 JHPS1J2417550 Black/African American Not Hispanic/Latino 10/8/24
+Hampshire 2732618 MA10061544 JHPS2J2417206 Black/African American Not Hispanic/Latino 10/8/24
+Hampshire 962155 MA10616944 JHPS1J2417288 White Not Hispanic/Latino 10/9/24
+Hampshire 5120646 MA10639434 HHPS1H2417428 White Not Hispanic/Latino 10/9/24 7.5 60
+Hampshire 2541817 MA10517935 JHPS1J2417439 White Not Hispanic/Latino 10/9/24
+Hampshire 2410315 MA09748148 JHPS1J2417311 White Hispanic/Latino 10/9/24
+Hampshire 5643911 MA21284525 JHPS1J2417201 Black/African American Not Hispanic/Latino 10/10/24
+Hampshire 3151881 MA10497851 JHPS1J2417452 White Hispanic/Latino 10/11/24
+Hampshire 5120646 S26930400 White Not Hispanic/Latino 10/11/24
+Hampshire 5666980 MA21295500 JHPS1J2417573 White Not Hispanic/Latino 10/11/24
+Hampshire 3112649 MA10586151 HHPS1H2417524 White Not Hispanic/Latino 10/11/24 12
+Hampshire 5637777 MA21289664 JHPS1J2417236 American Indian/Alaska Native Hispanic/Latino 10/15/24
+Hampshire 2800854 MA10190835 JHPS1J2417319 White Not Hispanic/Latino 10/16/24
+Hampshire 5500883 MA21166520 JHPS1J2416768 Black/African American Not Hispanic/Latino 10/16/24
+Hampshire 5566840 MA21217571 JHPS1J2417464 White Not Hispanic/Latino 10/16/24
+Hampshire 1761199 MA09313418 Black/African American Not Hispanic/Latino 10/17/24 20 450 64
+Hampshire 2541817 MA10517935 White Not Hispanic/Latino 10/18/24 45 35
+Hampshire 832236 MA00971969 JHPS1J2417257 White Not Hispanic/Latino 10/22/24
+Hampshire 5376272 MA21075187 JHPS1J2417323 Black/African American Not Hispanic/Latino 10/22/24
+Hampshire 2532128 MA09926468 HHPS1H2417498 White Not Hispanic/Latino 10/24/24 30
+Hampshire 840850 MA00954484 JHPS1J2417357 White Not Hispanic/Latino 10/24/24
+Hampshire 2054118 MA09733744 JHPS1J2417243 White Not Hispanic/Latino 10/24/24
+Hampshire 5244923 MA10631172 JHPS1J2310329 White Not Hispanic/Latino 10/24/24
+Hampshire 2855145 MA10154259 White Hispanic/Latino 10/25/24
+Hampshire 2406428 MA10070189 HHPS1H2416954 White Hispanic/Latino 10/28/24 10 364 170
+Hampshire 709212 MA00684753 JHPS1J2316057 White Not Hispanic/Latino 10/29/24
+Hampshire 2156688 MA09838396 JHPS1J2415844 Black/African American Not Hispanic/Latino 10/29/24
+Hampshire 5585437 MA21262793 JHPS1J2417612 White Not Hispanic/Latino 10/31/24
+Hampshire 2445736 MA10076619 White Not Hispanic/Latino 11/1/24 30
+Hampshire 2894574 MA10256469 JHPS1J2417656 White Not Hispanic/Latino 11/1/24
+Hampshire 2445736 MA10076619 White Not Hispanic/Latino 11/1/24
+Hampshire 2484730 MA09831353 JHPS1J2417586 Black/African American Not Hispanic/Latino 11/1/24
+Hampshire 5570508 MA21236357 JHPS2J2417644 Black/African American Hispanic/Latino 11/1/24
+Hampshire White Not Hispanic/Latino 11/2/24
+Hampshire 1477403 MA09755287 JHPS1J2312386 Black/African American Not Hispanic/Latino 11/6/24
+Hampshire 3109872 MA10377547 JHPS1J2417318 Black/African American Not Hispanic/Latino 11/8/24
+Hampshire 5430628 MA21115424 JHPS1J2416278 White Hispanic/Latino 11/8/24
+Hampshire 5264592 MA10629803 White Not Hispanic/Latino 11/8/24 10 144 11
+Page 4 of 11
+
+ADMISSIONS AND RELEASES
+LENGTH OF JAIL
+SHERIFF'S BOOKING RELEASE EARNED TIME
+PCF SID OBTN RACE ETHNICITY SENTENCE CREDIT
+OFFICE DATE DATE IN DAYS
+IN DAYS IN DAYS
+Hampshire 5381895 MA21079313 White Not Hispanic/Latino 11/8/24 10 540 109
+Hampshire 2122733 MA10229980 HHPS2H2416912 White Not Hispanic/Latino 11/8/24 10 233 38
+Hampshire 5425596 MA21110681 JHPS1J2417614 Black/African American Not Hispanic/Latino 11/8/24
+Hampshire 2516372 MA21201911 JHPS1J2417344 White Not Hispanic/Latino 11/8/24
+Hampshire 2634683 MA10051430 JHPS1J2416467 White Not Hispanic/Latino 11/8/24
+Hampshire 2258371 MA09750108 JHPS1J2417592 White Not Hispanic/Latino 11/13/24
+Hampshire 5669695 MA21297487 JHPS1J2417681 White Not Hispanic/Latino 11/13/24
+Hampshire 5579347 MA21268838 JHPS1J2316035 White Not Hispanic/Latino 11/15/24
+Hampshire 5444103 MA21127356 JHPS1J2416820 Black/African American Not Hispanic/Latino 11/18/24
+Hampshire 3025559 MA10452640 JHPS1J2417413 White Not Hispanic/Latino 11/18/24
+Hampshire 3144041 MA10476546 JHPS1J2316169 Asian/Pacific Islander Not Hispanic/Latino 11/19/24
+Hampshire 5622419 MA21295929 JHPS1J2417593 Black/African American Not Hispanic/Latino 11/19/24
+Hampshire 2423537 MA09755331 JHPS1J2417465 White Not Hispanic/Latino 11/19/24
+Hampshire 2092416 MA09831515 JHPS1J2417417 White Not Hispanic/Latino 11/21/24
+Hampshire 5047048 MA10217009 White Not Hispanic/Latino 11/22/24 365 191
+Hampshire 3188017 MA21185928 White Hispanic/Latino 11/22/24 466 172
+Hampshire 5072519 MA10445164 JHPS1J2417717 White Not Hispanic/Latino 11/24/24
+Hampshire 3104779 MA10413174 White Not Hispanic/Latino 11/26/24 17.5 587 190
+Hampshire 5284831 MA21004834 JHPS1J2417423 White Hispanic/Latino 11/26/24 2.5 86
+Hampshire 5543043 MA21256890 HHPS1H2416657 White Hispanic/Latino 11/29/24 541 286
+Hampshire 3087712 MA10548438 HHPS2H2416615 White Hispanic/Latino 12/3/24 20 2550 1231
+Hampshire 3192350 MA10596965 Black/African American Not Hispanic/Latino 12/3/24 60 3
+Hampshire 888185 MA09002049 JHPS1J2417674 White Not Hispanic/Latino 12/3/24
+Hampshire 5573938 MA21282933 HHPS1H2416816 White Not Hispanic/Latino 12/6/24 365
+Hampshire 5595723 MA21240876 Black/African American Not Hispanic/Latino 12/6/24 12.5 320 50
+Hampshire 1076798 MA09816224 HHPS2H2417649 White Not Hispanic/Latino 12/6/24 10 365 20
+Hampshire 2948822 MA10595340 White Not Hispanic/Latino 12/9/24 22.5 272 51
+Hampshire 5669272 White Not Hispanic/Latino 12/9/24
+Hampshire 2880663 MA10339551 JHPS1J2417218 Other/Unknown Hispanic/Latino 12/10/24
+Hampshire 2703260 MA10091813 JHPS1J2417805 White Not Hispanic/Latino 12/10/24
+Hampshire 3175732 MA10556637 JHPS1J2417575 White Hispanic/Latino 12/11/24
+Hampshire 5659071 MA21286598 JHPS1J2417839 White Hispanic/Latino 12/12/24
+Hampshire 5243608 MA21006864 JHPS1J2417625 White Not Hispanic/Latino 12/12/24
+Hampshire 5409766 MA21098406 Black/African American Not Hispanic/Latino 12/13/24 32.5 540 158
+Hampshire 2234472 MA09837851 HHPS1H2416305 Black/African American Not Hispanic/Latino 12/13/24 32.5 910 308
+Hampshire 5307733 MA21025159 JHPS1J2417841 White Not Hispanic/Latino 12/14/24
+Hampshire 5636969 MA21270850 JHPS1J2417765 Black/African American Not Hispanic/Latino 12/16/24
+Hampshire 5532828 MA21195986 JHPS1J2417801 White Not Hispanic/Latino 12/16/24
+Hampshire 5605496 MA21246220 JHPS1J2417565 Black/African American Not Hispanic/Latino 12/18/24
+Hampshire 5573624 MA21222480 JHPS1J2417355 Black/African American Not Hispanic/Latino 12/19/24 27.5 540
+Hampshire 5670015 MA21297909 JHPS1J2417706 White Not Hispanic/Latino 12/19/24
+Hampshire 2925746 MA10517637 JHPS1J2417825 White Not Hispanic/Latino 12/19/24
+Hampshire 3042285 MA10360248 JHPS1J2312824 Black/African American Not Hispanic/Latino 12/19/24
+Hampshire 5573624 MA21222480 Black/African American Not Hispanic/Latino 12/20/24
+Hampshire 3086001 MA10592162 JHPS1J2417867 White Not Hispanic/Latino 12/20/24
+Hampshire 5014612 MA10442379 JHPS1J2417733 Black/African American Not Hispanic/Latino 12/20/24
+Hampshire 5673676 MA21300478 JHPS1J2417873 White Not Hispanic/Latino 12/23/24
+Hampshire 5665574 MA21294517 JHPS1J2417507 Black/African American Not Hispanic/Latino 12/26/24
+Hampshire 3171186 MA10547197 White Not Hispanic/Latino 12/30/24 30 730 46
+Hampshire 2330734 MA10036894 JHPS1J2417795 White Hispanic/Latino 12/30/24
+Page 5 of 11
+
+PROGRAMMING
+SHERIFF'S PROGRAM
+PCF SID OBTN RACE ETHNICITY ADMIT TYPE PROGRAM NAME PARTICIPANT STATUS
+OFFICE REGISTERED DATE
+Hampshire 3175228 MA10556666 JHPS1J2315351 White Hispanic/Latino Pre-Trial 10/1/24 Thinking For A Change 16-24 Completed
+Hampshire 3175228 MA10556666 JHPS1J2315351 White Hispanic/Latino Pre-Trial 10/1/24 Thinking For A Change 16-24 Completed
+Hampshire 5250893 MA10635916 White Hispanic/Latino Sentenced 10/1/24 Thinking For A Change 16-24 Completed
+Hampshire 5250893 MA10635916 White Hispanic/Latino Sentenced 10/1/24 Thinking For A Change 16-24 Completed
+Hampshire 2367228 MA09733005 JHPS2J2416807 White Hispanic/Latino Pre-Trial 10/1/24 Thinking For A Change 16-24 Completed
+Hampshire 2367228 MA09733005 JHPS2J2416807 White Hispanic/Latino Pre-Trial 10/1/24 Thinking For A Change 16-24 Completed
+Hampshire 5120646 MA10639434 HHPS1H2417428 White Not Hispanic/Latino Sentenced 10/1/24 Wise Mind Released
+Hampshire 5305708 MA21023228 HHPS1H2416473 Black/African American Not Hispanic/Latino Sentenced 10/1/24 Thinking For A Change 16-24 Completed
+Hampshire 5305708 MA21023228 HHPS1H2416473 Black/African American Not Hispanic/Latino Sentenced 10/1/24 Thinking For A Change 16-24 Completed
+Hampshire 3215540 MA21020627 White Hispanic/Latino Pre-Trial 10/1/24 Thinking For A Change 16-24 Completed
+Hampshire 3215540 MA21020627 White Hispanic/Latino Pre-Trial 10/1/24 Thinking For A Change 16-24 Completed
+Hampshire 894599 MA00993567 HHPS1H2416429 White Hispanic/Latino Sentenced 10/1/24 Thinking For A Change 16-24 Completed
+Hampshire 894599 MA00993567 HHPS1H2416429 White Hispanic/Latino Sentenced 10/1/24 Thinking For A Change 16-24 Completed
+Hampshire 5260275 MA10644583 HHPS1H2316006 Black/African American Not Hispanic/Latino Sentenced 10/1/24 Thinking For A Change 16-24 Disciplinary
+Hampshire 5260275 MA10644583 HHPS1H2316006 Black/African American Not Hispanic/Latino Sentenced 10/1/24 Thinking For A Change 16-24 Disciplinary
+Hampshire 3185937 MA10314743 HHPS3H2416835 White Not Hispanic/Latino Sentenced 10/1/24 ELA Other
+Hampshire 3185937 MA10314743 HHPS3H2416835 White Not Hispanic/Latino Sentenced 10/1/24 Thinking For A Change 16-24 Disciplinary
+Hampshire 3185937 MA10314743 HHPS3H2416835 White Not Hispanic/Latino Sentenced 10/1/24 Thinking For A Change 16-24 Disciplinary
+Hampshire 5244923 MA10631172 JHPS1J2310329 White Not Hispanic/Latino Pre-Trial 10/1/24 Thinking For A Change 16-24 Released
+Hampshire 5244923 MA10631172 JHPS1J2310329 White Not Hispanic/Latino Pre-Trial 10/1/24 Thinking For A Change 16-24 Released
+Hampshire 962155 MA10616944 JHPS1J2417288 White Not Hispanic/Latino Pre-Trial 10/2/24 DBT Released
+Hampshire 2224544 MA10229375 White Hispanic/Latino Sentenced 10/2/24 DBT Completed
+Hampshire 5338349 MA21245620 HHPS1H2516938 White Hispanic/Latino Sentenced 10/2/24 Justice Other
+Hampshire 1477403 MA09755287 JHPS1J2312386 Black/African American Not Hispanic/Latino Pre-Trial 10/2/24 DBT Released
+Hampshire 5264592 MA10629803 White Not Hispanic/Latino Sentenced 10/2/24 DBT Released
+Hampshire 5652164 MA21284262 JHPS1J2416905 White Hispanic/Latino Pre-Trial 10/2/24 DBT Completed
+Hampshire 3197132 MA21013994 JHPS1J2416397 Black/African American Not Hispanic/Latino Pre-Trial 10/2/24 DBT Disciplinary
+Hampshire 2635443 MA10009678 HHPS2H2516984 White Not Hispanic/Latino Sentenced 10/2/24 Mindful Eating Disciplinary
+Hampshire 2635443 MA10009678 HHPS2H2516984 White Not Hispanic/Latino Sentenced 10/2/24 Mindfulness Education Disciplinary
+Hampshire 2635443 MA10009678 HHPS2H2516984 White Not Hispanic/Latino Sentenced 10/2/24 Mindfulness Education Disciplinary
+Hampshire 2635443 MA10009678 HHPS2H2516984 White Not Hispanic/Latino Sentenced 10/2/24 labyrinth Disciplinary
+Hampshire 5250893 MA10635916 White Hispanic/Latino Sentenced 10/4/24 Decisional Training Completed
+Hampshire 5260275 MA10644583 HHPS1H2316006 Black/African American Not Hispanic/Latino Sentenced 10/4/24 ELA Other
+Hampshire 3151881 MA10497851 JHPS1J2417452 White Hispanic/Latino Pre-Trial 10/8/24 ELA Released
+Hampshire 3151881 MA10497851 JHPS1J2417452 White Hispanic/Latino Pre-Trial 10/8/24 ELA Released
+Hampshire 5293104 MA21013093 HHPS1H2417063 Black/African American Not Hispanic/Latino Sentenced 10/8/24 ELA Completed
+Hampshire 5293104 MA21013093 HHPS1H2417063 Black/African American Not Hispanic/Latino Sentenced 10/8/24 ELA Completed
+Hampshire 2769887 MA10136781 JHPS1J2315263 White Hispanic/Latino Pre-Trial 10/11/24 ELA Completed
+Hampshire 5579347 MA21268838 JHPS1J2316035 White Not Hispanic/Latino Pre-Trial 10/11/24 Stages of Change Other
+Hampshire 5619702 MA21267427 JHPS1J2315959 White Not Hispanic/Latino Pre-Trial 10/11/24 Yoga Completed
+Hampshire 5619702 MA21267427 JHPS1J2315959 White Not Hispanic/Latino Pre-Trial 10/11/24 Yoga Completed
+Hampshire 2823718 MA10215131 JHPS1J2416910 White Hispanic/Latino Pre-Trial 10/11/24 Financial Literacy Completed
+Hampshire 2823718 MA10215131 JHPS1J2416910 White Hispanic/Latino Pre-Trial 10/11/24 Financial Literacy Completed
+Hampshire 2561616 MA10093464 White Hispanic/Latino Sentenced 10/11/24 Yoga Completed
+Hampshire 2561616 MA10093464 White Hispanic/Latino Sentenced 10/11/24 Yoga Completed
+Hampshire 5657940 MA21288702 White Not Hispanic/Latino Sentenced 10/11/24 Helping Men Recover Completed
+Hampshire 5657940 MA21288702 White Not Hispanic/Latino Sentenced 10/11/24 Helping Men Recover Completed
+Hampshire 5657940 MA21288702 White Not Hispanic/Latino Sentenced 10/11/24 UMASS Completed
+Hampshire 5537832 MA21202737 HHPS1H2315940 White Not Hispanic/Latino Sentenced 10/11/24 Yoga Completed
+Hampshire 5537832 MA21202737 HHPS1H2315940 White Not Hispanic/Latino Sentenced 10/11/24 Yoga Completed
+Hampshire 3171186 MA10547197 White Not Hispanic/Latino Sentenced 10/11/24 Yoga Other
+Hampshire 3171186 MA10547197 White Not Hispanic/Latino Sentenced 10/11/24 Yoga Completed
+Hampshire 3189031 MA10558890 JHPS1J2313827 White Hispanic/Latino Pre-Trial 10/11/24 Yoga Completed
+Hampshire 3189031 MA10558890 JHPS1J2313827 White Hispanic/Latino Pre-Trial 10/11/24 Yoga Completed
+Hampshire 5573624 MA21222480 JHPS1J2417355 Black/African American Not Hispanic/Latino Sentenced 10/11/24 Stages of Change Completed
+Hampshire 5573624 MA21222480 JHPS1J2417355 Black/African American Not Hispanic/Latino Sentenced 10/11/24 Stages of Change Completed
+Hampshire 894599 MA00993567 HHPS1H2416429 White Hispanic/Latino Sentenced 10/11/24 Stages of Change Completed
+Hampshire 894599 MA00993567 HHPS1H2416429 White Hispanic/Latino Sentenced 10/11/24 Stages of Change Completed
+Hampshire 2635443 MA10009678 HHPS2H2516984 White Not Hispanic/Latino Sentenced 10/11/24 Yoga Disciplinary
+Hampshire 2635443 MA10009678 HHPS2H2516984 White Not Hispanic/Latino Sentenced 10/11/24 Yoga Disciplinary
+Hampshire 5343621 MA21053773 JHPS1J2416290 White Hispanic/Latino Pre-Trial 10/11/24 Yoga Completed
+Hampshire 5343621 MA21053773 JHPS1J2416290 White Hispanic/Latino Pre-Trial 10/11/24 Yoga Completed
+Hampshire 832236 MA00971969 JHPS1J2417257 White Not Hispanic/Latino Pre-Trial 10/11/24 Financial Literacy Released
+Hampshire 832236 MA00971969 JHPS1J2417257 White Not Hispanic/Latino Pre-Trial 10/11/24 Financial Literacy Released
+Hampshire 832236 MA00971969 JHPS1J2417257 White Not Hispanic/Latino Pre-Trial 10/11/24 Stages of Change Released
+Hampshire 832236 MA00971969 JHPS1J2417257 White Not Hispanic/Latino Pre-Trial 10/11/24 Stages of Change Released
+Hampshire 3155767 MA10576885 JHPS1J2417450 White Hispanic/Latino Pre-Trial 10/15/24 Math Completed
+Hampshire 3155767 MA10576885 JHPS1J2417450 White Hispanic/Latino Pre-Trial 10/15/24 Math Completed
+Hampshire 3155767 MA10576885 JHPS1J2417450 White Hispanic/Latino Pre-Trial 10/15/24 Math Completed
+Hampshire 3155767 MA10576885 JHPS1J2417450 White Hispanic/Latino Pre-Trial 10/15/24 Math Completed
+Hampshire 2224544 MA10229375 White Hispanic/Latino Sentenced 10/15/24 Stages of Change Completed
+Hampshire 2224544 MA10229375 White Hispanic/Latino Sentenced 10/15/24 Stages of Change Completed
+Hampshire 2445736 MA10076619 White Not Hispanic/Latino Sentenced 10/15/24 Creative Writing Released
+Hampshire 3085207 MA10350066 White Hispanic/Latino Sentenced 10/15/24 ELA Other
+Hampshire 5343621 MA21053773 JHPS1J2416290 White Hispanic/Latino Pre-Trial 10/15/24 ELA Other
+Hampshire 3104875 MA10403874 JHPS1J2417535 Black/African American Not Hispanic/Latino Pre-Trial 10/16/24 Criminal Thinking Other
+Hampshire 3104875 MA10403874 JHPS1J2417535 Black/African American Not Hispanic/Latino Pre-Trial 10/16/24 Criminal Thinking Currently Enrolled
+Hampshire 3104875 MA10403874 JHPS1J2417535 Black/African American Not Hispanic/Latino Pre-Trial 10/16/24 Phase 1 Group Completed
+Hampshire 3104875 MA10403874 JHPS1J2417535 Black/African American Not Hispanic/Latino Pre-Trial 10/16/24 Stages of Change Completed
+Page 6 of 11
+
+PROGRAMMING
+SHERIFF'S PROGRAM
+PCF SID OBTN RACE ETHNICITY ADMIT TYPE PROGRAM NAME PARTICIPANT STATUS
+OFFICE REGISTERED DATE
+Hampshire 3104875 MA10403874 JHPS1J2417535 Black/African American Not Hispanic/Latino Pre-Trial 10/16/24 Stages of Change Completed
+Hampshire 3104875 MA10403874 JHPS1J2417535 Black/African American Not Hispanic/Latino Pre-Trial 10/16/24 Tobacco Awareness Group Completed
+Hampshire 3104875 MA10403874 JHPS1J2417535 Black/African American Not Hispanic/Latino Pre-Trial 10/16/24 Wise Mind Completed
+Hampshire 2948822 MA10595340 White Not Hispanic/Latino Sentenced 10/16/24 Tobacco Awareness Group Completed
+Hampshire 2367228 MA09733005 JHPS2J2416807 White Hispanic/Latino Pre-Trial 10/16/24 Helping Men Recover Completed
+Hampshire 2367228 MA09733005 JHPS2J2416807 White Hispanic/Latino Pre-Trial 10/16/24 Helping Men Recover Completed
+Hampshire 701025 MA00926367 HHPS1H2517134 White Not Hispanic/Latino Sentenced 10/16/24 Criminal Thinking Disciplinary
+Hampshire 701025 MA00926367 HHPS1H2517134 White Not Hispanic/Latino Sentenced 10/16/24 Criminal Thinking Disciplinary
+Hampshire 701025 MA00926367 HHPS1H2517134 White Not Hispanic/Latino Sentenced 10/16/24 Stages of Change Completed
+Hampshire 701025 MA00926367 HHPS1H2517134 White Not Hispanic/Latino Sentenced 10/16/24 Stages of Change Completed
+Hampshire 701025 MA00926367 HHPS1H2517134 White Not Hispanic/Latino Sentenced 10/16/24 Tobacco Awareness Group Completed
+Hampshire 5293104 MA21013093 HHPS1H2417063 Black/African American Not Hispanic/Latino Sentenced 10/16/24 Helping Men Recover Completed
+Hampshire 5293104 MA21013093 HHPS1H2417063 Black/African American Not Hispanic/Latino Sentenced 10/16/24 Helping Men Recover Completed
+Hampshire 5293104 MA21013093 HHPS1H2417063 Black/African American Not Hispanic/Latino Sentenced 10/16/24 Phase 1 Group Completed
+Hampshire 3171186 MA10547197 White Not Hispanic/Latino Sentenced 10/16/24 ELA Completed
+Hampshire 2234472 MA09837851 HHPS1H2416305 Black/African American Not Hispanic/Latino Sentenced 10/16/24 Criminal Thinking Released
+Hampshire 5652164 MA21284262 JHPS1J2416905 White Hispanic/Latino Pre-Trial 10/16/24 ELA Completed
+Hampshire 5652164 MA21284262 JHPS1J2416905 White Hispanic/Latino Pre-Trial 10/16/24 ELA Other
+Hampshire 3022576 MA21040040 White Not Hispanic/Latino Sentenced 10/16/24 Phase 1 Group Completed
+Hampshire 3022576 MA21040040 White Not Hispanic/Latino Sentenced 10/16/24 Stages of Change Completed
+Hampshire 3022576 MA21040040 White Not Hispanic/Latino Sentenced 10/16/24 Stages of Change Completed
+Hampshire 3022576 MA21040040 White Not Hispanic/Latino Sentenced 10/16/24 Tobacco Awareness Group Completed
+Hampshire 2092416 MA09831515 JHPS1J2417417 White Not Hispanic/Latino Pre-Trial 10/16/24 Wise Mind Released
+Hampshire 3197132 MA21013994 JHPS1J2416397 Black/African American Not Hispanic/Latino Pre-Trial 10/16/24 Tobacco Awareness Group Completed
+Hampshire 5573624 MA21222480 JHPS1J2417355 Black/African American Not Hispanic/Latino Sentenced 10/16/24 Criminal Thinking Released
+Hampshire 2635443 MA10009678 HHPS2H2516984 White Not Hispanic/Latino Sentenced 10/16/24 Tobacco Awareness Group Completed
+Hampshire 2277515 MA09904144 HHPS1H2416637 White Hispanic/Latino Sentenced 10/16/24 Helping Men Recover Completed
+Hampshire 2277515 MA09904144 HHPS1H2416637 White Hispanic/Latino Sentenced 10/16/24 Helping Men Recover Completed
+Hampshire 2769887 MA10136781 JHPS1J2315263 White Hispanic/Latino Pre-Trial 10/21/24 ELA Completed
+Hampshire 3104875 MA10403874 JHPS1J2417535 Black/African American Not Hispanic/Latino Pre-Trial 10/21/24 Digital Literacy Completed
+Hampshire 3104875 MA10403874 JHPS1J2417535 Black/African American Not Hispanic/Latino Pre-Trial 10/21/24 Digital Literacy Completed
+Hampshire 2561616 MA10093464 White Hispanic/Latino Sentenced 10/21/24 Tobacco Awareness Group Completed
+Hampshire 5657940 MA21288702 White Not Hispanic/Latino Sentenced 10/21/24 SMART recovery Released
+Hampshire 5425366 MA21262219 HHPS5H2314750 White Hispanic/Latino Sentenced 10/21/24 ELA Other
+Hampshire 5264592 MA10629803 White Not Hispanic/Latino Sentenced 10/21/24 Helping Men Recover Other
+Hampshire 5264592 MA10629803 White Not Hispanic/Latino Sentenced 10/21/24 Helping Men Recover Other
+Hampshire 3192350 MA10596965 Black/African American Not Hispanic/Latino Sentenced 10/23/24 Men's Health Disciplinary
+Hampshire 3192350 MA10596965 Black/African American Not Hispanic/Latino Sentenced 10/23/24 Men's Resource Group Disciplinary
+Hampshire 3192350 MA10596965 Black/African American Not Hispanic/Latino Sentenced 10/23/24 Phase 1 Group Completed
+Hampshire 3192350 MA10596965 Black/African American Not Hispanic/Latino Sentenced 10/23/24 thinking for a change Disciplinary
+Hampshire 3192350 MA10596965 Black/African American Not Hispanic/Latino Sentenced 10/23/24 thinking for a change Disciplinary
+Hampshire 5436349 MA21120714 JHPS1J2314580 White Hispanic/Latino Pre-Trial 10/23/24 thinking for a change Completed
+Hampshire 5436349 MA21120714 JHPS1J2314580 White Hispanic/Latino Pre-Trial 10/23/24 thinking for a change Completed
+Hampshire 3016511 MA10289258 JHPS1J2416975 White Hispanic/Latino Sentenced 10/23/24 Men's Health Disciplinary
+Hampshire 3016511 MA10289258 JHPS1J2416975 White Hispanic/Latino Sentenced 10/23/24 thinking for a change Disciplinary
+Hampshire 3016511 MA10289258 JHPS1J2416975 White Hispanic/Latino Sentenced 10/23/24 thinking for a change Disciplinary
+Hampshire 2224544 MA10229375 White Hispanic/Latino Sentenced 10/23/24 SMART recovery Completed
+Hampshire 3092334 MA10378293 HHPS1H2415942 White Hispanic/Latino Sentenced 10/23/24 Helping Men Recover Completed
+Hampshire 3092334 MA10378293 HHPS1H2415942 White Hispanic/Latino Sentenced 10/23/24 Helping Men Recover Completed
+Hampshire 2234472 MA09837851 HHPS1H2416305 Black/African American Not Hispanic/Latino Sentenced 10/23/24 thinking for a change Released
+Hampshire 2234472 MA09837851 HHPS1H2416305 Black/African American Not Hispanic/Latino Sentenced 10/23/24 thinking for a change Released
+Hampshire 3022576 MA21040040 White Not Hispanic/Latino Sentenced 10/23/24 thinking for a change Completed
+Hampshire 3022576 MA21040040 White Not Hispanic/Latino Sentenced 10/23/24 thinking for a change Completed
+Hampshire 3098138 MA21250374 White Hispanic/Latino Sentenced 10/23/24 thinking for a change Completed
+Hampshire 3098138 MA21250374 White Hispanic/Latino Sentenced 10/23/24 thinking for a change Completed
+Hampshire 3068711 MA10624328 White Hispanic/Latino Sentenced 10/23/24 thinking for a change Disciplinary
+Hampshire 3068711 MA10624328 White Hispanic/Latino Sentenced 10/23/24 thinking for a change Disciplinary
+Hampshire 5398102 MA21103287 Black/African American Not Hispanic/Latino Sentenced 10/23/24 thinking for a change Disciplinary
+Hampshire 5398102 MA21103287 Black/African American Not Hispanic/Latino Sentenced 10/23/24 thinking for a change Disciplinary
+Hampshire 3192350 MA10596965 Black/African American Not Hispanic/Latino Sentenced 10/24/24 SMART recovery Disciplinary
+Hampshire 3104875 MA10403874 JHPS1J2417535 Black/African American Not Hispanic/Latino Pre-Trial 10/24/24 Financial Literacy Completed
+Hampshire 3104875 MA10403874 JHPS1J2417535 Black/African American Not Hispanic/Latino Pre-Trial 10/24/24 Financial Literacy Completed
+Hampshire 5293104 MA21013093 HHPS1H2417063 Black/African American Not Hispanic/Latino Sentenced 10/24/24 SMART recovery Housing / Classification change
+Hampshire 5264592 MA10629803 White Not Hispanic/Latino Sentenced 10/24/24 SMART recovery Released
+Hampshire 5398102 MA21103287 Black/African American Not Hispanic/Latino Sentenced 10/24/24 SMART recovery Released
+Hampshire 5595723 MA21240876 Black/African American Not Hispanic/Latino Sentenced 10/24/24 SMART recovery Released
+Hampshire 3175228 MA10556666 JHPS1J2315351 White Hispanic/Latino Pre-Trial 10/25/24 Advanced Skills Practice Completed
+Hampshire 5436349 MA21120714 JHPS1J2314580 White Hispanic/Latino Pre-Trial 10/25/24 Advanced Skills Practice Completed
+Hampshire 709212 MA00684753 JHPS1J2316057 White Not Hispanic/Latino Pre-Trial 10/25/24 Advanced Skills Practice Released
+Hampshire 2367228 MA09733005 JHPS2J2416807 White Hispanic/Latino Pre-Trial 10/25/24 Advanced Skills Practice Completed
+Hampshire 5305708 MA21023228 HHPS1H2416473 Black/African American Not Hispanic/Latino Sentenced 10/25/24 Advanced Skills Practice Completed
+Hampshire 3215540 MA21020627 White Hispanic/Latino Pre-Trial 10/25/24 Advanced Skills Practice Completed
+Hampshire 3104875 MA10403874 JHPS1J2417535 Black/African American Not Hispanic/Latino Pre-Trial 10/28/24 Acceptance Commitment Therapy Completed
+Hampshire 2948822 MA10595340 White Not Hispanic/Latino Sentenced 10/28/24 Acceptance Commitment Therapy Released
+Hampshire 5619702 MA21267427 JHPS1J2315959 White Not Hispanic/Latino Pre-Trial 10/28/24 Acceptance Commitment Therapy Completed
+Hampshire 3092334 MA10378293 HHPS1H2415942 White Hispanic/Latino Sentenced 10/28/24 Seeking Safety Completed
+Hampshire 709212 MA00684753 JHPS1J2316057 White Not Hispanic/Latino Pre-Trial 10/28/24 Seeking Safety Released
+Hampshire 2367228 MA09733005 JHPS2J2416807 White Hispanic/Latino Pre-Trial 10/28/24 Acceptance Commitment Therapy Completed
+Hampshire 701025 MA00926367 HHPS1H2517134 White Not Hispanic/Latino Sentenced 10/28/24 Acceptance Commitment Therapy Disciplinary
+Page 7 of 11
+
+PROGRAMMING
+SHERIFF'S PROGRAM
+PCF SID OBTN RACE ETHNICITY ADMIT TYPE PROGRAM NAME PARTICIPANT STATUS
+OFFICE REGISTERED DATE
+Hampshire 5657940 MA21288702 White Not Hispanic/Latino Sentenced 10/28/24 Seeking Safety Completed
+Hampshire 2634683 MA10051430 JHPS1J2416467 White Not Hispanic/Latino Pre-Trial 10/28/24 Seeking Safety Released
+Hampshire 3189031 MA10558890 JHPS1J2313827 White Hispanic/Latino Pre-Trial 10/28/24 Acceptance Commitment Therapy Disciplinary
+Hampshire 2092416 MA09831515 JHPS1J2417417 White Not Hispanic/Latino Pre-Trial 10/28/24 Acceptance Commitment Therapy Released
+Hampshire 5595723 MA21240876 Black/African American Not Hispanic/Latino Sentenced 10/28/24 Acceptance Commitment Therapy Released
+Hampshire 2277515 MA09904144 HHPS1H2416637 White Hispanic/Latino Sentenced 10/28/24 Seeking Safety Housing / Classification change
+Hampshire 2800854 MA10190835 White Not Hispanic/Latino Sentenced 11/1/24 Anger Management Completed
+Hampshire 2800854 MA10190835 White Not Hispanic/Latino Sentenced 11/1/24 Anger Management Completed
+Hampshire 2800854 MA10190835 White Not Hispanic/Latino Sentenced 11/1/24 Criminal Thinking Released
+Hampshire 2800854 MA10190835 White Not Hispanic/Latino Sentenced 11/1/24 Criminal Thinking Released
+Hampshire 2800854 MA10190835 White Not Hispanic/Latino Sentenced 11/1/24 Phase 1 Group Completed
+Hampshire 3092334 MA10378293 HHPS1H2415942 White Hispanic/Latino Sentenced 11/1/24 Men's Health Completed
+Hampshire 5588190 MA21232816 HHPS2H2417172 American Indian/Alaska Native Hispanic/Latino Sentenced 11/1/24 Anger Management Completed
+Hampshire 5588190 MA21232816 HHPS2H2417172 American Indian/Alaska Native Hispanic/Latino Sentenced 11/1/24 Anger Management Completed
+Hampshire 5657940 MA21288702 White Not Hispanic/Latino Sentenced 11/1/24 Anger Management Completed
+Hampshire 5657940 MA21288702 White Not Hispanic/Latino Sentenced 11/1/24 Anger Management Completed
+Hampshire 3197132 MA21013994 JHPS1J2416397 Black/African American Not Hispanic/Latino Pre-Trial 11/1/24 Anger Management Completed
+Hampshire 3197132 MA21013994 JHPS1J2416397 Black/African American Not Hispanic/Latino Pre-Trial 11/1/24 Anger Management Completed
+Hampshire 5573624 MA21222480 JHPS1J2417355 Black/African American Not Hispanic/Latino Sentenced 11/1/24 Anger Management Completed
+Hampshire 5573624 MA21222480 JHPS1J2417355 Black/African American Not Hispanic/Latino Sentenced 11/1/24 Anger Management Completed
+Hampshire 2865330 MA10417357 JHPS1J2516365 White Not Hispanic/Latino Pre-Trial 11/1/24 Anger Management Completed
+Hampshire 2865330 MA10417357 JHPS1J2516365 White Not Hispanic/Latino Pre-Trial 11/1/24 Anger Management Completed
+Hampshire 2865330 MA10417357 JHPS1J2516365 White Not Hispanic/Latino Pre-Trial 11/1/24 Wise Mind Completed
+Hampshire 5398102 MA21103287 Black/African American Not Hispanic/Latino Sentenced 11/1/24 Men's Health Disciplinary
+Hampshire 5665574 MA21294517 JHPS1J2417507 Black/African American Not Hispanic/Latino Pre-Trial 11/4/24 ELA Completed
+Hampshire 5665574 MA21294517 JHPS1J2417507 Black/African American Not Hispanic/Latino Pre-Trial 11/4/24 Math Completed
+Hampshire 5665574 MA21294517 JHPS1J2417507 Black/African American Not Hispanic/Latino Pre-Trial 11/4/24 Math Completed
+Hampshire 5665574 MA21294517 JHPS1J2417507 Black/African American Not Hispanic/Latino Pre-Trial 11/4/24 Math Completed
+Hampshire 5665574 MA21294517 JHPS1J2417507 Black/African American Not Hispanic/Latino Pre-Trial 11/4/24 Math Completed
+Hampshire 5665574 MA21294517 JHPS1J2417507 Black/African American Not Hispanic/Latino Pre-Trial 11/4/24 Science Completed
+Hampshire 5305708 MA21023228 HHPS1H2416473 Black/African American Not Hispanic/Latino Sentenced 11/4/24 Anger Management Completed
+Hampshire 5305708 MA21023228 HHPS1H2416473 Black/African American Not Hispanic/Latino Sentenced 11/4/24 Anger Management Completed
+Hampshire 5613087 MA21252102 JHPS1J2417416 Other/Unknown Not Hispanic/Latino Pre-Trial 11/4/24 Creative Writing Participated
+Hampshire 2800854 MA10190835 White Not Hispanic/Latino Sentenced 11/5/24 Digital Literacy Housing / Classification change
+Hampshire 2800854 MA10190835 White Not Hispanic/Latino Sentenced 11/5/24 Digital Literacy Housing / Classification change
+Hampshire 3189031 MA10558890 JHPS1J2313827 White Hispanic/Latino Pre-Trial 11/5/24 Greek Literature Disciplinary
+Hampshire 3189031 MA10558890 JHPS1J2313827 White Hispanic/Latino Pre-Trial 11/5/24 Greek Literature Disciplinary
+Hampshire 3098138 MA21250374 White Hispanic/Latino Sentenced 11/5/24 Criminal Thinking Other
+Hampshire 3098138 MA21250374 White Hispanic/Latino Sentenced 11/5/24 Criminal Thinking Other
+Hampshire 5243608 MA21006864 JHPS1J2417625 White Not Hispanic/Latino Pre-Trial 11/5/24 Men's Health Released
+Hampshire 5243608 MA21006864 JHPS1J2417625 White Not Hispanic/Latino Pre-Trial 11/5/24 Phase 1 Group Completed
+Hampshire 5421716 MA21188298 HHPS1H2315498 Black/African American Not Hispanic/Latino Sentenced 11/6/24 Math Completed
+Hampshire 5421716 MA21188298 HHPS1H2315498 Black/African American Not Hispanic/Latino Sentenced 11/6/24 Math Completed
+Hampshire 5421716 MA21188298 HHPS1H2315498 Black/African American Not Hispanic/Latino Sentenced 11/6/24 Math Completed
+Hampshire 5421716 MA21188298 HHPS1H2315498 Black/African American Not Hispanic/Latino Sentenced 11/6/24 Math Completed
+Hampshire 3215540 MA21020627 White Hispanic/Latino Pre-Trial 11/12/24 ELA Completed
+Hampshire 3215540 MA21020627 White Hispanic/Latino Pre-Trial 11/12/24 ELA Other
+Hampshire 5343621 MA21053773 JHPS1J2416290 White Hispanic/Latino Pre-Trial 11/12/24 ELA Completed
+Hampshire 5343621 MA21053773 JHPS1J2416290 White Hispanic/Latino Pre-Trial 11/12/24 ELA Completed
+Hampshire 5243608 MA21006864 JHPS1J2417625 White Not Hispanic/Latino Pre-Trial 11/12/24 Criminal Thinking Released
+Hampshire 5243608 MA21006864 JHPS1J2417625 White Not Hispanic/Latino Pre-Trial 11/12/24 Criminal Thinking Released
+Hampshire 3185937 MA10314743 HHPS3H2416835 White Not Hispanic/Latino Sentenced 11/12/24 ELA Other
+Hampshire 3185937 MA10314743 HHPS3H2416835 White Not Hispanic/Latino Sentenced 11/12/24 Math Administrative Removal
+Hampshire 3185937 MA10314743 HHPS3H2416835 White Not Hispanic/Latino Sentenced 11/12/24 Math Administrative Removal
+Hampshire 3185937 MA10314743 HHPS3H2416835 White Not Hispanic/Latino Sentenced 11/12/24 Math Other
+Hampshire 3185937 MA10314743 HHPS3H2416835 White Not Hispanic/Latino Sentenced 11/12/24 Math Administrative Removal
+Hampshire 5250893 MA10635916 White Hispanic/Latino Sentenced 11/13/24 Serv Safe Completed
+Hampshire 3104875 MA10403874 JHPS1J2417535 Black/African American Not Hispanic/Latino Pre-Trial 11/13/24 Serv Safe Completed
+Hampshire 5,537,832 MA21202737 HHPS1H2315940 White Not Hispanic/Latino Sentenced 11/13/24 Greek Literature Completed
+Hampshire 5537832 MA21202737 HHPS1H2315940 White Not Hispanic/Latino Sentenced 11/13/24 Greek Literature Completed
+Hampshire 5305708 MA21023228 HHPS1H2416473 Black/African American Not Hispanic/Latino Sentenced 11/13/24 Greek Literature Other
+Hampshire 5305708 MA21023228 HHPS1H2416473 Black/African American Not Hispanic/Latino Sentenced 11/13/24 Greek Literature Other
+Hampshire 3171186 MA10547197 White Not Hispanic/Latino Sentenced 11/13/24 Greek Literature Completed
+Hampshire 3171186 MA10547197 White Not Hispanic/Latino Sentenced 11/13/24 Greek Literature Completed
+Hampshire 3171186 MA10547197 White Not Hispanic/Latino Sentenced 11/13/24 culinary arts Housing / Classification change
+Hampshire 2635443 MA10009678 HHPS2H2516984 White Not Hispanic/Latino Sentenced 11/13/24 Serv Safe Disciplinary
+Hampshire 5243608 MA21006864 JHPS1J2417625 White Not Hispanic/Latino Pre-Trial 11/13/24 Greek Literature Released
+Hampshire 5243608 MA21006864 JHPS1J2417625 White Not Hispanic/Latino Pre-Trial 11/13/24 Greek Literature Released
+Hampshire 2516372 MA21201911 White Not Hispanic/Latino Sentenced 11/14/24 ELA Completed
+Hampshire 2516372 MA21201911 White Not Hispanic/Latino Sentenced 11/14/24 Math Completed
+Hampshire 2516372 MA21201911 White Not Hispanic/Latino Sentenced 11/14/24 Math Completed
+Hampshire 2516372 MA21201911 White Not Hispanic/Latino Sentenced 11/14/24 Math Completed
+Hampshire 2516372 MA21201911 White Not Hispanic/Latino Sentenced 11/14/24 Math Completed
+Hampshire 2516372 MA21201911 White Not Hispanic/Latino Sentenced 11/14/24 Science Completed
+Hampshire 928649 MA09016953 JHPS1J2417560 White Hispanic/Latino Pre-Trial 11/14/24 English Language Learner Other
+Hampshire 2746959 MA10093762 JHPS1J2517672 White Hispanic/Latino Pre-Trial 11/14/24 ELA Completed
+Hampshire 2746959 MA10093762 JHPS1J2517672 White Hispanic/Latino Pre-Trial 11/14/24 ELA Completed
+Hampshire 2746959 MA10093762 JHPS1J2517672 White Hispanic/Latino Pre-Trial 11/14/24 ELA Completed
+Hampshire 2746959 MA10093762 JHPS1J2517672 White Hispanic/Latino Pre-Trial 11/14/24 Math Released
+Page 8 of 11
+
+PROGRAMMING
+SHERIFF'S PROGRAM
+PCF SID OBTN RACE ETHNICITY ADMIT TYPE PROGRAM NAME PARTICIPANT STATUS
+OFFICE REGISTERED DATE
+Hampshire 2746959 MA10093762 JHPS1J2517672 White Hispanic/Latino Pre-Trial 11/14/24 Math Released
+Hampshire 2746959 MA10093762 JHPS1J2517672 White Hispanic/Latino Pre-Trial 11/14/24 Math Released
+Hampshire 2746959 MA10093762 JHPS1J2517672 White Hispanic/Latino Pre-Trial 11/14/24 Math Released
+Hampshire 2746959 MA10093762 JHPS1J2517672 White Hispanic/Latino Pre-Trial 11/14/24 Science Completed
+Hampshire 2865330 MA10417357 JHPS1J2516365 White Not Hispanic/Latino Pre-Trial 11/15/24 labyrinth Completed
+Hampshire 2800854 MA10190835 White Not Hispanic/Latino Sentenced 11/18/24 DBT Released
+Hampshire 2224544 MA10229375 White Hispanic/Latino Sentenced 11/18/24 Victim Impact Housing / Classification change
+Hampshire 2561616 MA10093464 White Hispanic/Latino Sentenced 11/18/24 Victim Impact Completed
+Hampshire 5537832 MA21202737 HHPS1H2315940 White Not Hispanic/Latino Sentenced 11/18/24 Serv Safe Completed
+Hampshire 5293104 MA21013093 HHPS1H2417063 Black/African American Not Hispanic/Latino Sentenced 11/18/24 DBT Completed
+Hampshire 5652164 MA21284262 JHPS1J2416905 White Hispanic/Latino Pre-Trial 11/18/24 Victim Impact Other
+Hampshire 2602654 MA10166916 HHPS1H2315289 White Not Hispanic/Latino Sentenced 11/18/24 Victim Impact Completed
+Hampshire 5595723 MA21240876 Black/African American Not Hispanic/Latino Sentenced 11/18/24 Victim Impact Released
+Hampshire 5243608 MA21006864 JHPS1J2417625 White Not Hispanic/Latino Pre-Trial 11/18/24 DBT Released
+Hampshire 2800854 MA10190835 White Not Hispanic/Latino Sentenced 11/19/24 Tobacco Awareness Group Disciplinary
+Hampshire 2884153 MA10415793 JHPS2J2417662 White Not Hispanic/Latino Pre-Trial 11/19/24 Digital Literacy Administrative Removal
+Hampshire 2884153 MA10415793 JHPS2J2417662 White Not Hispanic/Latino Pre-Trial 11/19/24 Digital Literacy Disciplinary
+Hampshire 2884153 MA10415793 JHPS2J2417662 White Not Hispanic/Latino Pre-Trial 11/19/24 Digital Literacy Disciplinary
+Hampshire 2884153 MA10415793 JHPS2J2417662 White Not Hispanic/Latino Pre-Trial 11/19/24 Greek Literature Disciplinary
+Hampshire 2884153 MA10415793 JHPS2J2417662 White Not Hispanic/Latino Pre-Trial 11/19/24 Greek Literature Disciplinary
+Hampshire 2884153 MA10415793 JHPS2J2417662 White Not Hispanic/Latino Pre-Trial 11/19/24 Men's Health Disciplinary
+Hampshire 2884153 MA10415793 JHPS2J2417662 White Not Hispanic/Latino Pre-Trial 11/19/24 Phase 1 Group Disciplinary
+Hampshire 2884153 MA10415793 JHPS2J2417662 White Not Hispanic/Latino Pre-Trial 11/19/24 Tobacco Awareness Group Disciplinary
+Hampshire 5588190 MA21232816 HHPS2H2417172 American Indian/Alaska Native Hispanic/Latino Sentenced 11/19/24 Seeking Safety Completed
+Hampshire 2746959 MA10093762 JHPS1J2517672 White Hispanic/Latino Pre-Trial 11/19/24 Criminal Thinking Other
+Hampshire 2746959 MA10093762 JHPS1J2517672 White Hispanic/Latino Pre-Trial 11/19/24 Criminal Thinking Other
+Hampshire 2746959 MA10093762 JHPS1J2517672 White Hispanic/Latino Pre-Trial 11/19/24 Phase 1 Group Completed
+Hampshire 3068711 MA10624328 White Hispanic/Latino Sentenced 11/19/24 Financial Literacy Completed
+Hampshire 3068711 MA10624328 White Hispanic/Latino Sentenced 11/19/24 Financial Literacy Completed
+Hampshire 701025 MA00926367 HHPS1H2517134 White Not Hispanic/Latino Sentenced 11/20/24 culinary arts Participated
+Hampshire 5250893 MA10635916 White Hispanic/Latino Sentenced 11/22/24 Pensamiento Adictivo y Criminal Other
+Hampshire 2224544 MA10229375 White Hispanic/Latino Sentenced 11/22/24 Pensamiento Adictivo y CriminaHlousing / Classification change
+Hampshire 5588190 MA21232816 HHPS2H2417172 American Indian/Alaska Native Hispanic/Latino Sentenced 11/22/24 NEADS Training Other
+Hampshire 5588190 MA21232816 HHPS2H2417172 American Indian/Alaska Native Hispanic/Latino Sentenced 11/22/24 Pensamiento Adictivo y Criminal Other
+Hampshire 5293104 MA21013093 HHPS1H2417063 Black/African American Not Hispanic/Latino Sentenced 11/22/24 NEADS Training Housing / Classification change
+Hampshire 2092416 MA09831515 White Not Hispanic/Latino Sentenced 11/22/24 Acceptance Commitment Therapy Disciplinary
+Hampshire 2092416 MA09831515 White Not Hispanic/Latino Sentenced 11/22/24 Digital Literacy Completed
+Hampshire 2092416 MA09831515 White Not Hispanic/Latino Sentenced 11/22/24 Digital Literacy Completed
+Hampshire 2092416 MA09831515 White Not Hispanic/Latino Sentenced 11/22/24 Financial Literacy Completed
+Hampshire 2092416 MA09831515 White Not Hispanic/Latino Sentenced 11/22/24 Financial Literacy Completed
+Hampshire 2092416 MA09831515 White Not Hispanic/Latino Sentenced 11/22/24 SMART recovery Completed
+Hampshire 2092416 MA09831515 White Not Hispanic/Latino Sentenced 11/22/24 Tobacco Awareness Group Completed
+Hampshire 2092416 MA09831515 White Not Hispanic/Latino Sentenced 11/22/24 Wise Mind Completed
+Hampshire 2234472 MA09837851 HHPS1H2416305 Black/African American Not Hispanic/Latino Sentenced 11/22/24 NEADS Training Released
+Hampshire 2746959 MA10093762 JHPS1J2517672 White Hispanic/Latino Pre-Trial 11/22/24 Tobacco Awareness Group Completed
+Hampshire 3197132 MA21013994 JHPS1J2416397 Black/African American Not Hispanic/Latino Pre-Trial 11/22/24 Men's Health Disciplinary
+Hampshire 5576780 MA21224900 HHPS1H2416607 White Not Hispanic/Latino Sentenced 11/22/24 NEADS Training Other
+Hampshire 2277515 MA09904144 HHPS1H2416637 White Hispanic/Latino Sentenced 11/22/24 ELA Other
+Hampshire 2277515 MA09904144 HHPS1H2416637 White Hispanic/Latino Sentenced 11/22/24 ELA Other
+Hampshire 5312977 MA21030006 JHPS1J2313649 White Not Hispanic/Latino Pre-Trial 11/25/24 Men's Health Completed
+Hampshire 3155767 MA10576885 JHPS1J2417450 White Hispanic/Latino Pre-Trial 11/25/24 ELA Other
+Hampshire 2516372 MA21201911 White Not Hispanic/Latino Sentenced 11/25/24 ELA Completed
+Hampshire 2516372 MA21201911 White Not Hispanic/Latino Sentenced 11/25/24 ELA Completed
+Hampshire 2516372 MA21201911 White Not Hispanic/Latino Sentenced 11/25/24 Men's Resource Group Released
+Hampshire 2516372 MA21201911 White Not Hispanic/Latino Sentenced 11/25/24 Phase 1 Group Released
+Hampshire 888185 MA09002049 JHPS1J2417674 White Not Hispanic/Latino Pre-Trial 11/25/24 Creative Writing Released
+Hampshire 5543043 MA21256890 HHPS1H2416657 White Hispanic/Latino Sentenced 11/26/24 ELA Other
+Hampshire 5250893 MA10635916 White Hispanic/Latino Sentenced 11/27/24 Stages of Change Completed
+Hampshire 2884153 MA10415793 JHPS2J2417662 White Not Hispanic/Latino Pre-Trial 11/27/24 Stages of Change Disciplinary
+Hampshire 2884153 MA10415793 JHPS2J2417662 White Not Hispanic/Latino Pre-Trial 11/27/24 Stages of Change Disciplinary
+Hampshire 2516372 MA21201911 White Not Hispanic/Latino Sentenced 11/27/24 Stages of Change Other
+Hampshire 2516372 MA21201911 White Not Hispanic/Latino Sentenced 11/27/24 Stages of Change Other
+Hampshire 5652164 MA21284262 JHPS1J2416905 White Hispanic/Latino Pre-Trial 11/27/24 Stages of Change Completed
+Hampshire 5652164 MA21284262 JHPS1J2416905 White Hispanic/Latino Pre-Trial 11/27/24 Stages of Change Completed
+Hampshire 2746959 MA10093762 JHPS1J2517672 White Hispanic/Latino Pre-Trial 11/27/24 Stages of Change Completed
+Hampshire 2746959 MA10093762 JHPS1J2517672 White Hispanic/Latino Pre-Trial 11/27/24 Stages of Change Completed
+Hampshire 3197132 MA21013994 JHPS1J2416397 Black/African American Not Hispanic/Latino Pre-Trial 11/27/24 Stages of Change Disciplinary
+Hampshire 3197132 MA21013994 JHPS1J2416397 Black/African American Not Hispanic/Latino Pre-Trial 11/27/24 Stages of Change Disciplinary
+Hampshire 3166669 MA21124778 JHPS1J2417739 White Not Hispanic/Latino Pre-Trial 12/2/24 Phase 1 Group Completed
+Hampshire 5596760 MA21247673 JHPS1J2417740 White Not Hispanic/Latino Pre-Trial 12/2/24 Phase 1 Group Disciplinary
+Hampshire 5600598 MA21260386 JHPS1J2417729 American Indian/Alaska Native Hispanic/Latino Pre-Trial 12/2/24 Phase 1 Group Released
+Hampshire 3166669 MA21124778 JHPS1J2417739 White Not Hispanic/Latino Pre-Trial 12/5/24 Financial Literacy Released
+Hampshire 3166669 MA21124778 JHPS1J2417739 White Not Hispanic/Latino Pre-Trial 12/5/24 Financial Literacy Released
+Hampshire 2516372 MA21201911 White Not Hispanic/Latino Sentenced 12/5/24 ELA Completed
+Hampshire 5596760 MA21247673 JHPS1J2417740 White Not Hispanic/Latino Pre-Trial 12/5/24 Financial Literacy Housing / Classification change
+Hampshire 5596760 MA21247673 JHPS1J2417740 White Not Hispanic/Latino Pre-Trial 12/5/24 Financial Literacy Housing / Classification change
+Hampshire 3166669 MA21124778 JHPS1J2417739 White Not Hispanic/Latino Pre-Trial 12/9/24 Criminal Thinking Released
+Hampshire 3166669 MA21124778 JHPS1J2417739 White Not Hispanic/Latino Pre-Trial 12/9/24 Criminal Thinking Released
+Hampshire 3166669 MA21124778 JHPS1J2417739 White Not Hispanic/Latino Pre-Trial 12/9/24 Men's Health Released
+Page 9 of 11
+
+PROGRAMMING
+SHERIFF'S PROGRAM
+PCF SID OBTN RACE ETHNICITY ADMIT TYPE PROGRAM NAME PARTICIPANT STATUS
+OFFICE REGISTERED DATE
+Hampshire 2769887 MA10136781 JHPS1J2315263 White Hispanic/Latino Pre-Trial 12/9/24 Wise Mind Completed
+Hampshire 5596760 MA21247673 JHPS1J2417740 White Not Hispanic/Latino Pre-Trial 12/9/24 Men's Health Disciplinary
+Hampshire 5600598 MA21260386 JHPS1J2417729 American Indian/Alaska Native Hispanic/Latino Pre-Trial 12/9/24 Criminal Thinking Released
+Hampshire 5600598 MA21260386 JHPS1J2417729 American Indian/Alaska Native Hispanic/Latino Pre-Trial 12/9/24 Criminal Thinking Released
+Hampshire 5600598 MA21260386 JHPS1J2417729 American Indian/Alaska Native Hispanic/Latino Pre-Trial 12/9/24 Victim Impact Released
+Hampshire 5600598 MA21260386 JHPS1J2417729 American Indian/Alaska Native Hispanic/Latino Pre-Trial 12/9/24 Wise Mind Released
+Hampshire 2234472 MA09837851 HHPS1H2416305 Black/African American Not Hispanic/Latino Sentenced 12/9/24 culinary arts Released
+Hampshire 5665574 MA21294517 JHPS1J2417507 Black/African American Not Hispanic/Latino Pre-Trial 12/10/24 ELA Completed
+Hampshire 2092416 MA09831515 White Not Hispanic/Latino Sentenced 12/11/24 Men's Resource Group Disciplinary
+Hampshire 3022576 MA21040040 White Not Hispanic/Latino Sentenced 12/11/24 Work - Woodshop Other
+Hampshire 3022576 MA21040040 White Not Hispanic/Latino Sentenced 12/11/24 Work - Woodshop Other
+Hampshire 3022576 MA21040040 White Not Hispanic/Latino Sentenced 12/11/24 Work - Woodshop Other
+Hampshire 3022576 MA21040040 White Not Hispanic/Latino Sentenced 12/11/24 Work - Woodshop Other
+Hampshire 3022576 MA21040040 White Not Hispanic/Latino Sentenced 12/11/24 Work - Woodshop Other
+Hampshire 2769887 MA10136781 JHPS1J2315263 White Hispanic/Latino Pre-Trial 12/12/24 thinking for a change Completed
+Hampshire 2769887 MA10136781 JHPS1J2315263 White Hispanic/Latino Pre-Trial 12/12/24 thinking for a change Completed
+Hampshire 2516372 MA21201911 White Not Hispanic/Latino Sentenced 12/12/24 thinking for a change Released
+Hampshire 2516372 MA21201911 White Not Hispanic/Latino Sentenced 12/12/24 thinking for a change Released
+Hampshire 5665574 MA21294517 JHPS1J2417507 Black/African American Not Hispanic/Latino Pre-Trial 12/12/24 ELA Released
+Hampshire 5596760 MA21247673 JHPS1J2417740 White Not Hispanic/Latino Pre-Trial 12/12/24 thinking for a change Disciplinary
+Hampshire 5596760 MA21247673 JHPS1J2417740 White Not Hispanic/Latino Pre-Trial 12/12/24 thinking for a change Disciplinary
+Hampshire 701025 MA00926367 HHPS1H2517134 White Not Hispanic/Latino Sentenced 12/12/24 thinking for a change Disciplinary
+Hampshire 701025 MA00926367 HHPS1H2517134 White Not Hispanic/Latino Sentenced 12/12/24 thinking for a change Disciplinary
+Hampshire 2092416 MA09831515 White Not Hispanic/Latino Sentenced 12/12/24 thinking for a change Disciplinary
+Hampshire 2092416 MA09831515 White Not Hispanic/Latino Sentenced 12/12/24 thinking for a change Disciplinary
+Hampshire 5343621 MA21053773 JHPS1J2416290 White Hispanic/Latino Pre-Trial 12/12/24 thinking for a change Completed
+Hampshire 5343621 MA21053773 JHPS1J2416290 White Hispanic/Latino Pre-Trial 12/12/24 thinking for a change Completed
+Hampshire 3175228 MA10556666 JHPS1J2315351 White Hispanic/Latino Pre-Trial 12/17/24 Criminal Thinking Currently Enrolled
+Hampshire 3175228 MA10556666 JHPS1J2315351 White Hispanic/Latino Pre-Trial 12/17/24 Criminal Thinking Currently Enrolled
+Hampshire 2800854 MA10190835 White Not Hispanic/Latino Sentenced 12/17/24 Digital Literacy Completed
+Hampshire 2800854 MA10190835 White Not Hispanic/Latino Sentenced 12/17/24 Digital Literacy Completed
+Hampshire 5312977 MA21030006 JHPS1J2313649 White Not Hispanic/Latino Pre-Trial 12/17/24 Advanced Skills Practice Completed
+Hampshire 3166669 MA21124778 JHPS1J2417739 White Not Hispanic/Latino Pre-Trial 12/17/24 DBT Released
+Hampshire 2769887 MA10136781 JHPS1J2315263 White Hispanic/Latino Pre-Trial 12/17/24 Advanced Skills Practice Completed
+Hampshire 5619702 MA21267427 JHPS1J2315959 White Not Hispanic/Latino Pre-Trial 12/17/24 Advanced Skills Practice Completed
+Hampshire 764524 MA09455241 HHPS1H2417775 White Not Hispanic/Latino Sentenced 12/17/24 DBT Released
+Hampshire 764524 MA09455241 HHPS1H2417775 White Not Hispanic/Latino Sentenced 12/17/24 Men's Health Released
+Hampshire 764524 MA09455241 HHPS1H2417775 White Not Hispanic/Latino Sentenced 12/17/24 Mindfulness Released
+Hampshire 764524 MA09455241 HHPS1H2417775 White Not Hispanic/Latino Sentenced 12/17/24 Phase 1 Group Released
+Hampshire 764524 MA09455241 HHPS1H2417775 White Not Hispanic/Latino Sentenced 12/17/24 SMART recovery Released
+Hampshire 2823718 MA10215131 JHPS1J2416910 White Hispanic/Latino Pre-Trial 12/17/24 Advanced Skills Practice Completed
+Hampshire 2823718 MA10215131 JHPS1J2416910 White Hispanic/Latino Pre-Trial 12/17/24 Men's Health Completed
+Hampshire 701025 MA00926367 HHPS1H2517134 White Not Hispanic/Latino Sentenced 12/17/24 DBT Disciplinary
+Hampshire 5600598 MA21260386 JHPS1J2417729 American Indian/Alaska Native Hispanic/Latino Pre-Trial 12/17/24 Mindfulness Released
+Hampshire 5657940 MA21288702 White Not Hispanic/Latino Sentenced 12/17/24 Advanced Skills Practice Completed
+Hampshire 5425366 MA21262219 HHPS5H2314750 White Hispanic/Latino Sentenced 12/17/24 Advanced Skills Practice Completed
+Hampshire 5425366 MA21262219 HHPS5H2314750 White Hispanic/Latino Sentenced 12/17/24 Mindfulness Completed
+Hampshire 5425366 MA21262219 HHPS5H2314750 White Hispanic/Latino Sentenced 12/17/24 Wise Mind Completed
+Hampshire 5537832 MA21202737 HHPS1H2315940 White Not Hispanic/Latino Sentenced 12/17/24 Victim Impact Other
+Hampshire 5305708 MA21023228 HHPS1H2416473 Black/African American Not Hispanic/Latino Sentenced 12/17/24 Wise Mind Other
+Hampshire 5293104 MA21013093 HHPS1H2417063 Black/African American Not Hispanic/Latino Sentenced 12/17/24 Advanced Skills Practice Housing / Classification change
+Hampshire 5293104 MA21013093 HHPS1H2417063 Black/African American Not Hispanic/Latino Sentenced 12/17/24 Mindfulness Housing / Classification change
+Hampshire 2092416 MA09831515 White Not Hispanic/Latino Sentenced 12/17/24 DBT Disciplinary
+Hampshire 2917687 MA10392228 HHPS1H2417613 Black/African American Not Hispanic/Latino Sentenced 12/17/24 DBT Completed
+Hampshire 2917687 MA10392228 HHPS1H2417613 Black/African American Not Hispanic/Latino Sentenced 12/17/24 Men's Health Completed
+Hampshire 2917687 MA10392228 HHPS1H2417613 Black/African American Not Hispanic/Latino Sentenced 12/17/24 Men's Resource Group Released
+Hampshire 2917687 MA10392228 HHPS1H2417613 Black/African American Not Hispanic/Latino Sentenced 12/17/24 Phase 1 Group Completed
+Hampshire 2917687 MA10392228 HHPS1H2417613 Black/African American Not Hispanic/Latino Sentenced 12/17/24 SMART recovery Completed
+Hampshire 5652164 MA21284262 JHPS1J2416905 White Hispanic/Latino Pre-Trial 12/17/24 Advanced Skills Practice Completed
+Hampshire 3098138 MA21250374 White Hispanic/Latino Sentenced 12/17/24 Mindfulness Completed
+Hampshire 2746959 MA10093762 JHPS1J2517672 White Hispanic/Latino Pre-Trial 12/17/24 Mindfulness Released
+Hampshire 2602654 MA10166916 HHPS1H2315289 White Not Hispanic/Latino Sentenced 12/17/24 Advanced Skills Practice Completed
+Hampshire 3215540 MA21020627 White Hispanic/Latino Pre-Trial 12/17/24 Criminal Thinking Disciplinary
+Hampshire 3215540 MA21020627 White Hispanic/Latino Pre-Trial 12/17/24 Criminal Thinking Disciplinary
+Hampshire 3215540 MA21020627 White Hispanic/Latino Pre-Trial 12/17/24 Wise Mind Disciplinary
+Hampshire 5576780 MA21224900 HHPS1H2416607 White Not Hispanic/Latino Sentenced 12/17/24 DBT Completed
+Hampshire 3068711 MA10624328 White Hispanic/Latino Sentenced 12/17/24 Phase 1 Group Disciplinary
+Hampshire 3068711 MA10624328 White Hispanic/Latino Sentenced 12/17/24 SMART recovery Disciplinary
+Hampshire 5343621 MA21053773 JHPS1J2416290 White Hispanic/Latino Pre-Trial 12/17/24 Acceptance Commitment Therapy Currently Enrolled
+Hampshire 5343621 MA21053773 JHPS1J2416290 White Hispanic/Latino Pre-Trial 12/17/24 DBT Completed
+Hampshire 5343621 MA21053773 JHPS1J2416290 White Hispanic/Latino Pre-Trial 12/17/24 Men's Health Completed
+Hampshire 2865330 MA10417357 JHPS1J2516365 White Not Hispanic/Latino Pre-Trial 12/17/24 Advanced Skills Practice Completed
+Hampshire 888185 MA09002049 HHPS1H2417837 White Not Hispanic/Latino Sentenced 12/17/24 Digital Literacy Completed
+Hampshire 888185 MA09002049 HHPS1H2417837 White Not Hispanic/Latino Sentenced 12/17/24 Digital Literacy Completed
+Hampshire 5250893 MA10635916 White Hispanic/Latino Sentenced 12/20/24 SMART recovery Completed
+Hampshire 701025 MA00926367 HHPS1H2517134 White Not Hispanic/Latino Sentenced 12/20/24 NEADS Training Disciplinary
+Hampshire 2917687 MA10392228 HHPS1H2417613 Black/African American Not Hispanic/Latino Sentenced 12/20/24 ELA Released
+Hampshire 2917687 MA10392228 HHPS1H2417613 Black/African American Not Hispanic/Latino Sentenced 12/20/24 ELA Released
+Hampshire 2917687 MA10392228 HHPS1H2417613 Black/African American Not Hispanic/Latino Sentenced 12/20/24 Math Released
+Page 10 of 11
+
+PROGRAMMING
+SHERIFF'S PROGRAM
+PCF SID OBTN RACE ETHNICITY ADMIT TYPE PROGRAM NAME PARTICIPANT STATUS
+OFFICE REGISTERED DATE
+Hampshire 2917687 MA10392228 HHPS1H2417613 Black/African American Not Hispanic/Latino Sentenced 12/20/24 Math Released
+Hampshire 2917687 MA10392228 HHPS1H2417613 Black/African American Not Hispanic/Latino Sentenced 12/20/24 Math Released
+Hampshire 2917687 MA10392228 HHPS1H2417613 Black/African American Not Hispanic/Latino Sentenced 12/20/24 Science Other
+Hampshire 5619702 MA21267427 JHPS1J2315959 White Not Hispanic/Latino Pre-Trial 12/23/24 Pre-Apprentice Certificate Training Other
+Hampshire 5619702 MA21267427 JHPS1J2315959 White Not Hispanic/Latino Pre-Trial 12/23/24 Pre-Apprentice Certificate Training Participated
+Hampshire 5619702 MA21267427 JHPS1J2315959 White Not Hispanic/Latino Pre-Trial 12/23/24 Pre-Apprentice Certificate Training Participated
+Hampshire 5619702 MA21267427 JHPS1J2315959 White Not Hispanic/Latino Pre-Trial 12/23/24 Pre-Apprentice Certificate Training Participated
+Hampshire 5619702 MA21267427 JHPS1J2315959 White Not Hispanic/Latino Pre-Trial 12/23/24 Pre-Apprentice Certificate Training Participated
+Hampshire 2367228 MA09733005 JHPS2J2416807 White Hispanic/Latino Pre-Trial 12/23/24 Pre-Apprentice Certificate Training Participated
+Hampshire 2367228 MA09733005 JHPS2J2416807 White Hispanic/Latino Pre-Trial 12/23/24 Pre-Apprentice Certificate Training Participated
+Hampshire 2367228 MA09733005 JHPS2J2416807 White Hispanic/Latino Pre-Trial 12/23/24 Pre-Apprentice Certificate Training Participated
+Hampshire 2367228 MA09733005 JHPS2J2416807 White Hispanic/Latino Pre-Trial 12/23/24 Pre-Apprentice Certificate Training Other
+Hampshire 2367228 MA09733005 JHPS2J2416807 White Hispanic/Latino Pre-Trial 12/23/24 Pre-Apprentice Certificate Training Participated
+Hampshire 5338349 MA21245620 HHPS1H2516938 White Hispanic/Latino Sentenced 12/23/24 Pre-Apprentice Certificate Training Other
+Hampshire 5338349 MA21245620 HHPS1H2516938 White Hispanic/Latino Sentenced 12/23/24 Pre-Apprentice Certificate Training Disciplinary
+Hampshire 5338349 MA21245620 HHPS1H2516938 White Hispanic/Latino Sentenced 12/23/24 Pre-Apprentice Certificate Training Disciplinary
+Hampshire 5338349 MA21245620 HHPS1H2516938 White Hispanic/Latino Sentenced 12/23/24 Pre-Apprentice Certificate Training Disciplinary
+Hampshire 5338349 MA21245620 HHPS1H2516938 White Hispanic/Latino Sentenced 12/23/24 Pre-Apprentice Certificate Training Disciplinary
+Hampshire 5305708 MA21023228 HHPS1H2416473 Black/African American Not Hispanic/Latino Sentenced 12/23/24 Pre-Apprentice Certificate Training Participated
+Hampshire 5305708 MA21023228 HHPS1H2416473 Black/African American Not Hispanic/Latino Sentenced 12/23/24 Pre-Apprentice Certificate Training Other
+Hampshire 5305708 MA21023228 HHPS1H2416473 Black/African American Not Hispanic/Latino Sentenced 12/23/24 Pre-Apprentice Certificate Training Participated
+Hampshire 3098138 MA21250374 White Hispanic/Latino Sentenced 12/23/24 Financial Literacy Completed
+Hampshire 3098138 MA21250374 White Hispanic/Latino Sentenced 12/23/24 Financial Literacy Completed
+Hampshire 3098138 MA21250374 White Hispanic/Latino Sentenced 12/23/24 Pre-Apprentice Certificate Training Participated
+Hampshire 3098138 MA21250374 White Hispanic/Latino Sentenced 12/23/24 Pre-Apprentice Certificate Training Other
+Hampshire 3098138 MA21250374 White Hispanic/Latino Sentenced 12/23/24 Pre-Apprentice Certificate Training Participated
+Hampshire 2909106 MA10584017 JHPS1J2417758 White Not Hispanic/Latino Pre-Trial 12/23/24 Pre-Apprentice Certificate Training Other
+Hampshire 2909106 MA10584017 JHPS1J2417758 White Not Hispanic/Latino Pre-Trial 12/23/24 Pre-Apprentice Certificate Training Released
+Hampshire 2909106 MA10584017 JHPS1J2417758 White Not Hispanic/Latino Pre-Trial 12/23/24 Pre-Apprentice Certificate Training Released
+Hampshire 2909106 MA10584017 JHPS1J2417758 White Not Hispanic/Latino Pre-Trial 12/23/24 Pre-Apprentice Certificate Training Released
+Hampshire 2909106 MA10584017 JHPS1J2417758 White Not Hispanic/Latino Pre-Trial 12/23/24 Pre-Apprentice Certificate Training Released
+Hampshire 5600598 MA21260386 JHPS1J2417729 American Indian/Alaska Native Hispanic/Latino Pre-Trial 12/24/24 Digital Literacy Released
+Hampshire 5600598 MA21260386 JHPS1J2417729 American Indian/Alaska Native Hispanic/Latino Pre-Trial 12/24/24 Digital Literacy Released
+Hampshire 2709589 MA10183063 JHPS1J2416535 Black/African American Not Hispanic/Latino Pre-Trial 12/24/24 ELA Completed
+Hampshire 2709589 MA10183063 JHPS1J2416535 Black/African American Not Hispanic/Latino Pre-Trial 12/24/24 ELA Completed
+Hampshire 2709589 MA10183063 JHPS1J2416535 Black/African American Not Hispanic/Latino Pre-Trial 12/24/24 ELA Other
+Hampshire 2709589 MA10183063 JHPS1J2416535 Black/African American Not Hispanic/Latino Pre-Trial 12/24/24 Math Participated
+Hampshire 2709589 MA10183063 JHPS1J2416535 Black/African American Not Hispanic/Latino Pre-Trial 12/24/24 Math Participated
+Hampshire 2709589 MA10183063 JHPS1J2416535 Black/African American Not Hispanic/Latino Pre-Trial 12/24/24 Math Participated
+Hampshire 2709589 MA10183063 JHPS1J2416535 Black/African American Not Hispanic/Latino Pre-Trial 12/24/24 Math Participated
+Hampshire 2709589 MA10183063 JHPS1J2416535 Black/African American Not Hispanic/Latino Pre-Trial 12/24/24 Math Other
+Hampshire 2709589 MA10183063 JHPS1J2416535 Black/African American Not Hispanic/Latino Pre-Trial 12/24/24 Science Other
+Page 11 of 11
+
+[DELETED:  B R EEDEDEIFSDONREEYS C JSIe20M4H8WeHo1410e50M2WeNo1430205e35M4J5BnNo1e26M9WeNo143e34M0J4WeHo1e30M5J0BnNo1e13M4J1WeNo1e99M3J0WeHo1e30M5BnNo1460e56S0WeNo1e27M5WeNo14453e56M0J5BnNo1e50M0J3WeNo1e32M7J5WeHo1e29M4J2BnNo1e20M3J6BnNo1e24M5WeNo1415226e59M9J3BnNo1e21M8J2WeNo1e57M3J2WeNo1e27M8H3BnNo1425266e56M1J4BnNo1e58M4J5WeNo1e25M9WeHo1e19M9J3WeNo1e58M7J4BnHo1e18M4H9WeNo1410352e55M1J2WeHo1e22M9J3WeHo1e24M9J6WeNo1e57M3WeNo1425201e23M3J2WeNo1eWeNo1e26M9WeNo1e29M2J2WeHo1e85M9J4WeNo1e55M7J1WeNo1e22M1WeNo1415201e24M7J6WeNo1e55M8J5WeNo1e55M9J6WeNo1e56M9J5WeHo1e59M4J7WeNo1e58M6J9AeHo1e53M6BnNo14352e52M9J3BnNo1e50M3J0WeNo1e39M8J9WeNo1e26M5WeNo1410351e26M7J8WeNo1e56M6J7WeNo1e59M0J5BnNo1e74M1H5WeNo14106e30M6J2WeNo1e24M4J5WeHo1e58M6J1WeNo1e29M6H2WeHo1436201e20M3J5WeNo1e20M0J6WeNo1e86M9J3WeNo1e51M4J6ArHo1e52WeNo1e26M7J5WeNo1e20M2H0WeHo143e85M9H7WeNo141e53M8J6WeNo1]
+[DELETED:  B R EEDEDEIFSDONREEYS C JSIe51M8J9WeHo1e53M9J1WeNo1e22M6J6WeHo1e16M2J4WeNo1e55M4J5WeHo1e31M2J7WeNo1e25M8J6WeHo1e54M0BnNo1e56M8J3WeNo1eM9J3BnNo1e54M7BnNo14109e59M1J9WeHo1e39M1J3WeNo1e54M5H4ArNo14108e28M7J9OnHo1e57M7J6WeNo1e50M2J8WeNo1e26M4J1WeNo1e58M6J1BnNo1e26M9J2WeNo1e26M9H4WeHo141e24M6H0WeNo14669e58M6J0AeHo1e50M6J0WeHo1e20M4H8WeHo1410e57M9J5WeNo1e84M6WeNo1425207e55M3WeNo1425104e30M5J0BnNo1e28M4J6BnNo1e95M4J8WeNo1e56M4H8WeNo14756e27M5J9WeNo1e25M8J1WeHo1e51M5J1BnNo1e31M1J2WeHo1e56S0WeNo1e50M0J3WeNo1e39M1H4WeNo141e57M4J6AeHo1e24M5J9WeNo1e53M0J8BnNo1e50M1J4WeNo1e19M8BnNo1420406e27M5WeNo14453e86M9J7WeNo1e52M7J3BnNo1e28M8H8WeNo143e80M4J7WeNo1e28M4J3WeNo1e53M2J9WeNo1e25M9WeHo1e28M9H4WeHo1410341e72M3J7WeNo1e28M6J4BnNo1e57M3J2WeNo1e26M9WeNo143e24M9J6WeNo1e26M9WeNo1e20M3J6BnNo1e58M7J4BnHo1eWeNo1e13M7J6BnNo1e32M7J8BnNo1e58M4J8WeHo1e52M3WeNo1410141]
+[DELETED:  B R EEDEDEIFSDONREEYS C JSIe55M3WeNo1410501e23M0H2WeNo1410233e56M1J4BnNo1e22M1J4WeNo1e23M0J7WeNo1e21M8J2WeNo1e55M7J1WeNo1e57M8J5WeNo1e53M6J0BnNo1e39M0J3WeNo1e31M6J9ArNo1e59M9J3BnNo1e27M1J5WeNo1e26M5J7WeNo1e58M9WeNo14351e37M8WeHo14461e59M4J7WeNo1e39M4WeNo1415571e51M4J3WeHo14258e53M0H7WeHo14512e32M8H5WeHo1420201e30M5BnNo1460e85M9J4WeNo1e58M3H6WeNo143e53M6BnNo1415305e18M4H9WeNo1410352e22M0WeNo1425225e52WeNo1e23M1J8OnHo1e20M3J5WeNo1e32M7J5WeHo1e51M8J9WeHo1e58M4J5WeNo1e56M6BnNo1435501e22M1H5BnNo1435903e53M9J1WeNo1e59M0J5BnNo1e58M6J1WeNo1e56M0J5BnNo1e54M0J5BnNo14255e55M9J6WeNo1e26M7J5WeNo1e35M8J4BnNo1e54M0BnNo1e31M2J7WeNo1e52M9J3BnNo1e56M8J3WeNo1e54M7J7BnNo1e36M7WeNo1430704e24M4J5WeHo1]
+[DELETED:  PERFSDONREEYAEPEPe38M6J1WeHoPl14T4Ce38M6J1WeHoPl14T4Ce53M6WeHoSd14T4Ce53M6WeHoSd14T4Ce28M5J7WeHoPl14T4Ce28M5J7WeHoPl14T4Ce56M4H8WeNoSd14WdRe58M8H3BnNoSd14T4Ce58M8H3BnNoSd14T4Ce30M7WeHoPl14T4Ce30M7WeHoPl14T4Ce89M7H9WeHoSd14T4Ce89M7H9WeHoSd14T4Ce55M3H6BnNoSd14T4De55M3H6BnNoSd14T4De37M3H5WeNoSd14EAOe37M3H5WeNoSd14T4De37M3H5WeNoSd14T4De53M2J9WeNoPl14T4Re53M2J9WeNoPl14T4Re95M4J8WeNoPl14DTRe24M5WeHoSd14DTCe59M0H8WeHoSd14JeOe13M7J6BnNoPl14DTRe52M3WeNoSd14DTRe54M2J5WeHoPl14DTCe32M4J7BnNoPl14DTDe23M8H4WeNoSd14MgDe23M8H4WeNoSd14MnDe23M8H4WeNoSd14MnDe23M8H4WeNoSd14lhDe53M6WeHoSd14DgCe55M3H6BnNoSd14EAOe31M1J2WeHoPl14EARe31M1J2WeHoPl14EARe54M3H3BnNoSd14EACe54M3H3BnNoSd14EACe27M1J3WeHoPl14EACe57M8J5WeNoPl14SeOe52M7J9WeNoPl14YaCe52M7J9WeNoPl14YaCe28M1J0WeHoPl14FyCe28M1J0WeHoPl14FyCe26M4WeHoSd14YaCe26M4WeHoSd14YaCe50M2WeNoSd14HrCe50M2WeNoSd14HrCe50M2WeNoSd14USCe52M7H0WeNoSd14YaCe52M7H0WeNoSd14YaCe36M7WeNoSd14YaOe36M7WeNoSd14YaCe31M0J7WeHoPl14YaCe31M0J7WeHoPl14YaCe54M0J5BnNoSd14SeCe54M0J5BnNoSd14SeCe89M7H9WeHoSd14SeCe89M7H9WeHoSd14SeCe23M8H4WeNoSd14YaDe23M8H4WeNoSd14YaDe51M3J0WeHoPl14YaCe51M3J0WeHoPl14YaCe86M9J7WeNoPl14FyRe86M9J7WeNoPl14FyRe86M9J7WeNoPl14SeRe86M9J7WeNoPl14SeRe37M5J0WeHoPl14MhCe37M5J0WeHoPl14MhCe37M5J0WeHoPl14MhCe37M5J0WeHoPl14MhCe24M5WeHoSd14SeCe24M5WeHoSd14SeCe26M9WeNoSd14CgRe37M6WeHoSd14EAOe51M3J0WeHoPl14EAOe35M4J5BnNoPl14CgOe35M4J5BnNoPl14CgCe35M4J5BnNoPl14PpCe35M4J5BnNoPl14SeC]
+[DELETED:  PERFSDONREEYAEPEPe35M4J5BnNoPl14SeCe35M4J5BnNoPl14TpCe35M4J5BnNoPl14WdCe22M0WeNoSd14TpCe28M5J7WeHoPl14HrCe28M5J7WeHoPl14HrCe75M7H4WeNoSd14CgDe75M7H4WeNoSd14CgDe75M7H4WeNoSd14SeCe75M7H4WeNoSd14SeCe75M7H4WeNoSd14TpCe54M3H3BnNoSd14HrCe54M3H3BnNoSd14HrCe54M3H3BnNoSd14PpCe36M7WeNoSd14EACe22M1H5BnNoSd14CgRe54M2J5WeHoPl14EACe54M2J5WeHoPl14EAOe36M0WeNoSd14PpCe36M0WeNoSd14SeCe36M0WeNoSd14SeCe36M0WeNoSd14TpCe26M5J7WeNoPl14WdRe32M4J7BnNoPl14TpCe54M0J5BnNoSd14CgRe23M8H4WeNoSd14TpCe25M4H7WeHoSd14HrCe25M4H7WeHoSd14HrCe27M1J3WeHoPl14EACe35M4J5BnNoPl14DyCe35M4J5BnNoPl14DyCe26M4WeHoSd14TpCe50M2WeNoSd14SyRe56M9H0WeHoSd14EAOe52M3WeNoSd14HrOe52M3WeNoSd14HrOe30M5BnNoSd14MhDe30M5BnNoSd14MpDe30M5BnNoSd14PpCe30M5BnNoSd14teDe30M5BnNoSd14teDe59M4J0WeHoPl14teCe59M4J0WeHoPl14teCe31M8J5WeHoSd14MhDe31M8J5WeHoSd14teDe31M8J5WeHoSd14teDe24M5WeHoSd14SyCe34M3H2WeHoSd14HrCe34M3H2WeHoSd14HrCe22M1H5BnNoSd14teRe22M1H5BnNoSd14teRe36M0WeNoSd14teCe36M0WeNoSd14teCe38M4WeHoSd14teCe38M4WeHoSd14teCe31M8WeHoSd14teDe31M8WeHoSd14teDe52M7BnNoSd14teDe52M7BnNoSd14teDe30M5BnNoSd14SyDe35M4J5BnNoPl14FyCe35M4J5BnNoPl14FyCe54M3H3BnNoSd14SyHe52M3WeNoSd14SyRe52M7BnNoSd14SyRe53M6BnNoSd14SyRe38M6J1WeHoPl14AeCe59M4J0WeHoPl14AeCe72M3J7WeNoPl14AeRe28M5J7WeHoPl14AeCe58M8H3BnNoSd14AeCe30M7WeHoPl14AeCe35M4J5BnNoPl14AyCe22M0WeNoSd14AyRe52M7J9WeNoPl14AyCe34M3H2WeHoSd14SyCe72M3J7WeNoPl14SyRe28M5J7WeHoPl14AyCe75M7H4WeNoSd14AyD]
+[DELETED:  PERFSDONREEYAEPEPe50M2WeNoSd14SyCe23M0J7WeNoPl14SyRe31M0J7WeHoPl14AyDe26M5J7WeNoPl14AyRe53M6BnNoSd14AyRe25M4H7WeHoSd14SyHe24M5WeNoSd14AtCe24M5WeNoSd14AtCe24M5WeNoSd14CgRe24M5WeNoSd14CgRe24M5WeNoSd14PpCe34M3H2WeHoSd14MhCe50M6H2AeHoSd14AtCe50M6H2AeHoSd14AtCe50M2WeNoSd14AtCe50M2WeNoSd14AtCe32M4J7BnNoPl14AtCe32M4J7BnNoPl14AtCe54M0J5BnNoSd14AtCe54M0J5BnNoSd14AtCe20M7J5WeNoPl14AtCe20M7J5WeNoPl14AtCe20M7J5WeNoPl14WdCe52M7BnNoSd14MhDe54M7J7BnNoPl14EACe54M7J7BnNoPl14MhCe54M7J7BnNoPl14MhCe54M7J7BnNoPl14MhCe54M7J7BnNoPl14MhCe54M7J7BnNoPl14SeCe58M8H3BnNoSd14AtCe58M8H3BnNoSd14AtCe57M2J6OnNoPl14CgPe24M5WeNoSd14DyHe24M5WeNoSd14DyHe31M0J7WeHoPl14GeDe31M0J7WeHoPl14GeDe38M4WeHoSd14CgOe38M4WeHoSd14CgOe58M4J5WeNoPl14MhRe58M4J5WeNoPl14PpCe56M8H8BnNoSd14MhCe56M8H8BnNoSd14MhCe56M8H8BnNoSd14MhCe56M8H8BnNoSd14MhCe30M7WeHoPl14EACe30M7WeHoPl14EAOe51M3J0WeHoPl14EACe51M3J0WeHoPl14EACe58M4J5WeNoPl14CgRe58M4J5WeNoPl14CgRe37M3H5WeNoSd14EAOe37M3H5WeNoSd14MhAe37M3H5WeNoSd14MhAe37M3H5WeNoSd14MhOe37M3H5WeNoSd14MhAe53M6WeHoSd14SeCe35M4J5BnNoPl14SeCe52M7H0WeNoSd14GeCe52M7H0WeNoSd14GeCe58M8H3BnNoSd14GeOe58M8H3BnNoSd14GeOe36M7WeNoSd14GeCe36M7WeNoSd14GeCe36M7WeNoSd14csHe23M8H4WeNoSd14SeDe58M4J5WeNoPl14GeRe58M4J5WeNoPl14GeRe22M1WeNoSd14EACe22M1WeNoSd14MhCe22M1WeNoSd14MhCe22M1WeNoSd14MhCe22M1WeNoSd14MhCe22M1WeNoSd14SeCe99M3J0WeHoPl14ErOe29M2J2WeHoPl14EACe29M2J2WeHoPl14EACe29M2J2WeHoPl14EACe29M2J2WeHoPl14MhR]
+[DELETED:  PERFSDONREEYAEPEPe29M2J2WeHoPl14MhRe29M2J2WeHoPl14MhRe29M2J2WeHoPl14MhRe29M2J2WeHoPl14SeCe20M7J5WeNoPl14lhCe24M5WeNoSd14DTRe24M5WeHoSd14VtHe26M4WeHoSd14VtCe52M7H0WeNoSd14SeCe54M3H3BnNoSd14DTCe54M2J5WeHoPl14VtOe24M6H9WeNoSd14VtCe53M6BnNoSd14VtRe58M4J5WeNoPl14DTRe24M5WeNoSd14TpDe23M3J2WeNoPl14DyAe23M3J2WeNoPl14DyDe23M3J2WeNoPl14DyDe23M3J2WeNoPl14GeDe23M3J2WeNoPl14GeDe23M3J2WeNoPl14MhDe23M3J2WeNoPl14PpDe23M3J2WeNoPl14TpDe50M6H2AeHoSd14SyCe29M2J2WeHoPl14CgOe29M2J2WeHoPl14CgOe29M2J2WeHoPl14PpCe31M8WeHoSd14FyCe31M8WeHoSd14FyCe75M7H4WeNoSd14csPe53M6WeHoSd14PlOe24M5WeHoSd14Ploe50M6H2AeHoSd14NgOe50M6H2AeHoSd14PlOe54M3H3BnNoSd14NgHe26M5WeNoSd14AyDe26M5WeNoSd14DyCe26M5WeNoSd14DyCe26M5WeNoSd14FyCe26M5WeNoSd14FyCe26M5WeNoSd14SyCe26M5WeNoSd14TpCe26M5WeNoSd14WdCe22M1H5BnNoSd14NgRe29M2J2WeHoPl14TpCe32M4J7BnNoPl14MhDe50M0H7WeNoSd14NgOe25M4H7WeHoSd14EAOe25M4H7WeHoSd14EAOe57M6J9WeNoPl14MhCe37M5J0WeHoPl14EAOe22M1WeNoSd14EACe22M1WeNoSd14EACe22M1WeNoSd14MpRe22M1WeNoSd14PpRe85M9J4WeNoPl14CgRe53M0H7WeHoSd14EAOe53M6WeHoSd14SeCe23M3J2WeNoPl14SeDe23M3J2WeNoPl14SeDe22M1WeNoSd14SeOe22M1WeNoSd14SeOe54M2J5WeHoPl14SeCe54M2J5WeHoPl14SeCe29M2J2WeHoPl14SeCe29M2J2WeHoPl14SeCe32M4J7BnNoPl14SeDe32M4J7BnNoPl14SeDe39M8J9WeNoPl14PpCe50M3J0WeNoPl14PpDe58M6J9AeHoPl14PpRe39M8J9WeNoPl14FyRe39M8J9WeNoPl14FyRe22M1WeNoSd14EACe50M3J0WeNoPl14FyHe50M3J0WeNoPl14FyHe39M8J9WeNoPl14CgRe39M8J9WeNoPl14CgRe39M8J9WeNoPl14MhR]
+[DELETED:  PERFSDONREEYAEPEPe27M1J3WeHoPl14WdCe50M3J0WeNoPl14MhDe58M6J9AeHoPl14CgRe58M6J9AeHoPl14CgRe58M6J9AeHoPl14VtRe58M6J9AeHoPl14WdRe22M1H5BnNoSd14csRe54M7J7BnNoPl14EACe26M5WeNoSd14MpDe36M0WeNoSd14WpOe36M0WeNoSd14WpOe36M0WeNoSd14WpOe36M0WeNoSd14WpOe36M0WeNoSd14WpOe27M1J3WeHoPl14teCe27M1J3WeHoPl14teCe22M1WeNoSd14teRe22M1WeNoSd14teRe54M7J7BnNoPl14EARe50M3J0WeNoPl14teDe50M3J0WeNoPl14teDe75M7H4WeNoSd14teDe75M7H4WeNoSd14teDe26M5WeNoSd14teDe26M5WeNoSd14teDe51M3J0WeHoPl14teCe51M3J0WeHoPl14teCe38M6J1WeHoPl14CgCe38M6J1WeHoPl14CgCe24M5WeNoSd14DyCe24M5WeNoSd14DyCe57M6J9WeNoPl14AeCe39M8J9WeNoPl14DTRe27M1J3WeHoPl14AeCe52M7J9WeNoPl14AeCe74M1H5WeNoSd14DTRe74M1H5WeNoSd14MhRe74M1H5WeNoSd14MsRe74M1H5WeNoSd14PpRe74M1H5WeNoSd14SyRe28M1J0WeHoPl14AeCe28M1J0WeHoPl14MhCe75M7H4WeNoSd14DTDe58M6J9AeHoPl14MsRe50M2WeNoSd14AeCe56M9H0WeHoSd14AeCe56M9H0WeHoSd14MsCe56M9H0WeHoSd14WdCe52M7H0WeNoSd14VtOe58M8H3BnNoSd14WdOe54M3H3BnNoSd14AeHe54M3H3BnNoSd14MsHe26M5WeNoSd14DTDe27M8H3BnNoSd14DTCe27M8H3BnNoSd14MhCe27M8H3BnNoSd14MpRe27M8H3BnNoSd14PpCe27M8H3BnNoSd14SyCe54M2J5WeHoPl14AeCe38M4WeHoSd14MsCe29M2J2WeHoPl14MsRe24M6H9WeNoSd14AeCe30M7WeHoPl14CgDe30M7WeHoPl14CgDe30M7WeHoPl14WdDe50M0H7WeNoSd14DTCe31M8WeHoSd14PpDe31M8WeHoSd14SyDe51M3J0WeHoPl14AyCe51M3J0WeHoPl14DTCe51M3J0WeHoPl14MhCe20M7J5WeNoPl14AeCe85M9H7WeNoSd14DyCe85M9H7WeNoSd14DyCe53M6WeHoSd14SyCe75M7H4WeNoSd14NgDe27M8H3BnNoSd14EARe27M8H3BnNoSd14EARe27M8H3BnNoSd14MhR]
+[DELETED:  PERFSDONREEYAEPEPe27M8H3BnNoSd14MhRe27M8H3BnNoSd14MhRe27M8H3BnNoSd14SeOe52M7J9WeNoPl14PgOe52M7J9WeNoPl14PgPe52M7J9WeNoPl14PgPe52M7J9WeNoPl14PgPe52M7J9WeNoPl14PgPe28M5J7WeHoPl14PgPe28M5J7WeHoPl14PgPe28M5J7WeHoPl14PgPe28M5J7WeHoPl14PgOe28M5J7WeHoPl14PgPe59M0H8WeHoSd14PgOe59M0H8WeHoSd14PgDe59M0H8WeHoSd14PgDe59M0H8WeHoSd14PgDe59M0H8WeHoSd14PgDe58M8H3BnNoSd14PgPe58M8H3BnNoSd14PgOe58M8H3BnNoSd14PgPe38M4WeHoSd14FyCe38M4WeHoSd14FyCe38M4WeHoSd14PgPe38M4WeHoSd14PgOe38M4WeHoSd14PgPe26M7J8WeNoPl14PgOe26M7J8WeNoPl14PgRe26M7J8WeNoPl14PgRe26M7J8WeNoPl14PgRe26M7J8WeNoPl14PgRe58M6J9AeHoPl14DyRe58M6J9AeHoPl14DyRe29M3J5BnNoPl14EACe29M3J5BnNoPl14EACe29M3J5BnNoPl14EAOe29M3J5BnNoPl14MhPe29M3J5BnNoPl14MhPe29M3J5BnNoPl14MhPe29M3J5BnNoPl14MhPe29M3J5BnNoPl14MhOe29M3J5BnNoPl14SeO]

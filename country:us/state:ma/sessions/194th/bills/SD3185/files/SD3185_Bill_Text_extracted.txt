@@ -1,0 +1,1251 @@
+Title: Massachusetts Executive Office of Public Safety and Security
+Official Title: Massachusetts Executive Office of Public Safety and Security
+Number of Sections: 3
+Source: versions - Bill Text
+Media Type: application/pdf
+Strikethrough Detection: 17 sections found
+
+================================================================================
+
+Section 1:
+Firearm-Related Activity in Massachusetts
+2022-2023
+September 2025
+Maura Healey, Governor
+Terrence Reidy, Secretary of the Executive Office of Public Safety and
+Security
+Firearm-Related Activity in Massachusetts 2022-2023
+Overview
+
+Section 2:
+Section 18 ¾ of Chapter 6A of the Massachusetts General Laws mandates that a report be completed by
+the Executive Office of Public Safety and Security (EOPSS) detailing the prevalence of firearm-related
+crimes, the number of arrests, prosecutions, and points of origins of these illegal firearms. This report will
+provide statistics on the state of illegal firearms in the Commonwealth for the time period of 2022-2023 to
+determine if recent laws have had an effect on the number of illegal firearms in the Commonwealth, the
+number of crimes committed with a firearm, and prosecutions related to these violations. The governing
+statute requires that EOPSS:
+(10) …develop a biennial report to be sent to the clerks of the House of Representatives and Senate, the
+House and Senate committees on ways and means and the House and Senate chairs of the joint committee
+on public safety and homeland security not later than March 1 of every even-numbered year. The report shall
+contain, but not be limited to, the following information: (i) statistics related to firearms crimes; (ii) arrests
+and prosecutions of firearms-related offenses, to serve as an examination of the effectiveness of the
+commonwealth's firearms-related regulations; (iii) aggregate data on the source of firearms that have been
+confiscated and identified as being used in a crime or in an attempted or completed suicide during the report
+period, including aggregate information on the manufacturer, state of origin and last known point of sale,
+transfer, loss or theft of such firearms; (iv) an explanation of substantial changes in state and federal
+firearms-related laws and firearms-related statistics in the commonwealth; and (v) the effectiveness of
+
+Section 3:
+section 128B of chapter 140.
+Methodology and Data Collection
+Currently, the data requested is not located within a single data set. For this report, crime statistics and
+arrest statistics were compiled by utilizing National Incident Based Reporting System (NIBRS) data, which
+is voluntarily submitted to the Executive Office of Public Safety and Security and ultimately to the FBI by
+local, state, campus, and hospital police agencies. NIBRS data includes the nature and types of specific
+offenses in the incident, characteristics of the victim(s) and offender(s), types and value of property stolen
+and recovered, and characteristics of persons arrested in connection with a crime incident; not all police
+agencies submit crime data using NIBRS. It should be noted that in NIBRS data, it is possible to report
+multiple offenses, crimes, victims and weapons within one incident. For this report, data shall be reported
+as the total number of crimes where firearms were utilized during all of the offenses, unless otherwise noted.
+Information about homicides with a firearm and suicides with a firearm was compiled from the
+Massachusetts Office of the Chief Medical Examiner (OCME). In order to examine case statuses and
+prosecutions of firearm cases, data was received from the Massachusetts Trial Court. Information about
+firearms confiscated or recovered was received from the Bureau of Alcohol, Tobacco, Firearms and
+Explosives (ATF).
+2 Firearm-Related Activity in MA | EOPSS
+Going forward, EOPSS will continue to work with municipal police departments, the Massachusetts State
+Police (MSP), the Commonwealth Fusion Center (CFC), and federal partners to maintain a dataset where
+this information may be more readily available. In addition, the Massachusetts State Police utilize a data
+collection tool in the Criminal Justice Information Services (CJIS) environment to collect data on firearm
+recoveries and seizures in the Commonwealth. This system, referred to as the Crime Gun Tracking System,
+allows law enforcement to enter data in the field in relation to the criminal incidents and the firearms
+associated with crimes. This data collection tool is currently being revamped to enhance analysis
+capabilities. In addition to this report, the Massachusetts State Police also publish an annual report regarding
+firearms used in crimes based upon this collection tool. EOPSS is also in the process of adding a data point
+to collect information on non-fatal shootings in NIBRS via the injury type field.
+Limitations of the Data
+As mentioned above, it is difficult to locate and merge data that does not reside within a structured data
+environment. While NIBRS reporting now covers more than 98% of the Commonwealth’s total population,
+some smaller agencies still do not report. Massachusetts State Police began reporting to NIBRS in 2021
+and manually enter reports into the Sidearm system. For the purpose of this report, agencies that failed to
+submit data or are not contributing NIBRS data for either year were excluded for the crime and arrest
+statistics, unless otherwise noted. Overall, NIBRS statistics were available for 384 Massachusetts police
+agencies.
+With respect to prosecution, criminal charges involving firearms were examined for the years 2022-2023.
+It should be noted that this will not reflect all firearm-related arrests from this time frame, but only those
+resulting in prosecutions completed during these years, as some of the 2022-2023 arrests will not yet have
+been adjudicated. At the time of the writing of this report, ATF data was not available for 2023, so only
+2022 data is included in the Origins of Firearms section.
+Statistics on Firearm-Related Crimes
+Since in some cases, it is possible to convert NIBRS data to UCR data, this methodology was utilized to
+provide a count of Homicides, Robberies and Aggravated Assaults with a Firearm across the
+Commonwealth for all agencies that submitted NIBRS data. These are the only three categories where it is
+possible to extract weapons data from UCR. The data is then converted to summary, to compare against
+historical data, where NIBRS data was not available for all of the agencies. The number of Robberies with
+a Firearm continued to decrease from 1,400 incidents in 2016 to approximately 1,000 in 2018, dropping
+again to 615 in 2021, and 563 in 2023. Aggravated Assaults with a Firearm did remain consistent in this
+3 Firearm-Related Activity in MA | EOPSS
+two-year timeframe after jumping by over 600 incidents between 2019 and 2020. The number of homicides
+includes two justifiable homicides which are not included in the NIBRS counts.
+Figure 1: NIBRS Data Converted to UCR
+Crime Type 2022 2023
+Homicide with a Firearm 101 109
+Robbery with a Firearm 620 563
+Aggravated Assault with a Firearm 2,495 2,280
+Total 3,216 2,952
+Data Source: MA NIBRS Data
+For the time period 2022-2023, there were 13,414 crimes in which firearms were utilized, up from 11,805
+in 2020-2021. In 2022, 6,758 crimes were committed with a firearm, while in 2023, 6,656 crimes were
+committed with a firearm. When reporting NIBRS, the FBI allows for 15 crime types to include a reference
+to the use or presence of a firearm. There was a substantial increase of over 1,600 incidents when compared
+to 2020–2021. This increase was due in large part to an increase in Weapons Law Violations.
+Figure 2: Firearm-Related Crimes 2022 - 2023
+Crime Type Using NIBRS Categories 2022 2023 Total
+Murder and Nonnegligent Manslaughter 100 107 207
+Kidnapping/Abduction 72 55 127
+Rape 38 22 60
+Sodomy 1 3 4
+Sexual Assault With An Object 1 1 3
+Fondling 14 8 22
+Aggravated Assault 2,555 2,345 4,900
+Human Trafficking, Commercial Sex Acts 1 0 1
+Human Trafficking, Involuntary Servitude 0 1 1
+Extortion/Blackmail 13 16 29
+Robbery 627 566 1,193
+Weapon Law Violations 3,336 3,532 6,868
+Grand Total 6,758 6,656 13,414
+Data Source: MA NIBRS statistics. Data is a count of crimes where a firearm was listed as the weapon
+involved.
+As seen in Figure 2, Weapon Law Violations were the most frequent incident type. These incidents are
+typically for violating laws related to the manufacturing, selling, purchasing, transporting, possessing,
+concealing, or using of firearms. Common incidents within this category are arrests for Unlawful Possession
+of a Firearm, and incidents of shots fired. Aggravated Assaults with a firearm could be Non-Fatal shootings,
+pistol whippings, threats with a firearm, or cases of shots fired at an intended target. The 2022 and 2023
+numbers are fairly consistent with the prior two-year period.
+4 Firearm-Related Activity in MA | EOPSS
+The remaining crime type with a significant number of firearms used was Robberies with 1,193, down from
+1,398 in 2020-2021. Robberies encompass street, commercial, home invasion and carjacking robberies. It
+should be noted that the 2020-2021 time period included the COVID-19 Pandemic, which impacted crime
+statistics in various ways. Assaults and frauds increased significantly, while other crimes like Robbery and
+Burglary declined. It is also possible that the increase in Weapons Law Violations was impacted by the end
+of the Pandemic. While capturing homicide data utilizing NIBRS data is possible, for this report it was also
+assessed utilizing OCME data to go into in greater depth and is detailed later in this report.
+Figure 3: Agencies with over 100 Crimes with Firearms 2022 - 2023
+Agency 2022 2023 Total 2023 Population 2023 Rate per 100,000
+Springfield 1,042 1,345 2,387 155,046 867.48
+Boston 1,083 972 2,055 638,925 152.13
+Worcester 448 228 676 206,575 110.37
+Broc kton 291 313 604 110,084 284.33
+Holyoke 200 337 537 37,945 888.13
+New Bedford 218 208 426 101,402 205.12
+Fall River 173 186 359 94,339 197.16
+Lawrence 151 174 325 88,422 196.78
+Lowe ll 228 78 306 113,277 68.86
+Lynn 153 108 261 101,056 106.87
+Pittsfield 122 71 193 43,496 163.23
+Chicopee 103 88 191 55,265 159.23
+Fitchburg 88 100 188 41,791 239.29
+Quin cy 80 66 146 101,434 65.07
+Chelsea 66 75 141 37,590 199.52
+Cambridge 77 61 138 117,044 52.12
+Haverhill 84 54 138 67,359 80.17
+Suffolk State Police 72 60 132 0 0
+Data Source: MA NIBRS Data. Population figures obtained from the US Census Bureau.
+Sorting the firearm data by reporting agency reveals that the larger cities have more crimes with firearms,
+even when considering it on a per capita basis. This is the first time that Boston has not had the most firearm
+incidents since the inception of this report, which utilized data going back to 2014. In this period,
+Springfield reported 2,387 crimes with a firearm, followed by Boston (2,055), Worcester (676), Brockton
+(604), Holyoke (537), New Bedford (426), Fall River (359), Lawrence (325) and Lowell (306). It should
+be noted that although both cities were in the top 10, Worcester and Lowell failed to submit all twelve
+months of 2023 data, so it is likely they would have even more incidents had the dataset been complete.
+(See Appendix Table 1 for a complete Town / City list) Overall, this list remains incredibly consistent over
+the reporting years. Springfield had consistently reported the second amount of firearm crimes until this
+year, and their total has increased over 700 incidents vs 2018–2019. When rates of firearm incidents for
+2023 are calculated per 100,000 residents, the numbers are similar, although Holyoke moves to the first
+position with a rate of 888.13/100,000; followed by Springfield (867.48), Brockton (284.33) and Fitchburg
+(239.29). Boston drops down to the 17th position when utilizing this method, while the small towns of
+5 Firearm-Related Activity in MA | EOPSS
+Southbridge, Bridgewater, Greenfield, Warren, Freetown, New Marlboro and Plympton moved into the top
+20 on a per capita basis.
+Homicides and Suicides with a Firearm
+Homicides and suicides with a firearm were examined to determine the prevalence of firearm-related deaths
+in the Commonwealth. Looking at the last five years, the average number of homicides with a firearm is
+107 per year, while the average number of suicides is 142. On average, approximately 250 lives are taken
+with a firearm every year in the Commonwealth, with the average age of a homicide victim being
+approximately 31.6 years old, and the average age of a person committing suicide with a firearm is 52.4.
+The average age of females committing suicide with a firearm is lower, where the 2020-2021 average was
+46, while the male average was 53. Firearm-related deaths are far more common among males. Over the
+last two years, 93% of suicides with a firearm have been committed by men, while 88% of victims fatally
+shot by others have been men.
+Figure 4: Firearm-Related Deaths in MA 2019 - 2023
+Death Type 2019 2020 2021 2022 2023 Total 5 year Avg.
+Homicide 90 128 102 109 122 551 110.2
+Suicide 135 136 134 147 148 700 140
+Total 225 264 236 256 270 1,251 250.2
+Data Source: OCME Data
+Figure 5: Firearm-Related Deaths by Gender 2022 - 2023
+Death Type Male Female Total
+Homicide 195 36 231
+Suicide 275 19 294
+Total 470 55 525
+Data Source: OCME Data * Contains one incident where Gender was undetermined.
+When looking at where these homicide incidents took place during 2022-2023, only five cities had more
+than 10 firearm-related homicides: Boston (60), Springfield (45), Brockton (13), Worcester (12) and Lynn
+(11). (See Appendix Table 2 for a complete list.) Boston, Springfield and Worcester are consistently on this
+list. However, this is the first year for Worcester and Lynn. In 2020–2021, homicides with a firearm were
+reported in 54 cities and towns. For 2022–2023, homicides with a firearm were reported in 52 jurisdictions.
+Boston breaks down the city into police precincts. The precincts of B2, B3 and C11, which make up the
+neighborhoods of Roxbury, Mattapan and Dorchester each also had over 10 homicides with a firearm. B2
+(Roxbury), accounted for 12, while B3 (Mattapan and North Dorchester), had 19 homicides and C11
+(Dorchester) had 15 homicides. (For a full list of Boston district homicides, see Appendix Table 2B).
+6 Firearm-Related Activity in MA | EOPSS
+Boston Shootings Data
+Among the reporting agencies, Boston had the second-most firearms used in crimes, the most deaths, and
+readily publishes data on shootings, so this data was chosen to be examined in further detail. For the past
+five years, on average, 200 individuals have been shot in Boston per year. This number has come down by
+over 25 victims since the previous report. These numbers have also fluctuated over the current five-year
+span. 2023 resulted in the fewest total shootings, while 2021 had the fewest homicides. There was a
+difference of 119 victims being shot between the high year of 2020 and the low year of 2023. 2022 and
+2023 also represent the fewest total shootings since Boston Police began publishing data in 2015.
+Figure 6: Boston Shootings 2019 - 2023
+Shooting Type 2019 2020 2021 2022 2023 Total 5 Year Average
+Homicide 28 44 25 32 28 157 31.4
+Non-Fatal 163 230 172 148 127 840 168
+Total Shootings 191 274 197 180 155 997 199.4
+Data Source: Boston Police Department - Boston Regional Intelligence Center
+Firearm-Related Arrest Statistics
+NIBRS data contains clearance information along with the firearm data. An incident can be “cleared” in
+several ways. The most common way for a case to be cleared is with an arrest: the charging either of an
+adult or juvenile. Another way a case can be cleared is by “exceptional clearance.” When a case is cleared
+exceptionally, an arrest does not take place despite probable cause existing to make such an arrest. Reasons
+for an exceptional clearance may include: death of an offender, the decision of the prosecutor not to go
+forward, the offender is in custody in another jurisdiction, the victim refuses to cooperate, or a juvenile is
+handled without being brought into custody. In 41.4% of the firearm offenses submitted, an arrest was made
+or the offense was cleared exceptionally.
+Figure 7: NIBRS Clearance Statistics 2022 - 2023
+Clear ance Type 2022 2023 Total % Cleared
+Cleared By Arrest 2,875 2,664 5,539 41.3%
+Exceptional Clearance 12 5 17 0.1%
+Total Cleared 2,887 2,669 5,556 41.4%
+Data Source: NIBRS data
+Prosecutions for Firearm Charges
+For the time period of 2022-2023, 23,738 criminal charges related to firearms were brought forward in the
+Commonwealth: 12,248 in 2022, and 11,490 in 2023. The most common charges did not change as
+7 Firearm-Related Activity in MA | EOPSS
+compared to the previous reporting period of 2020-2021. The seven most common charges still all have
+above 800 total charges and range from over 4,000 charges to 840 charges. There was an increase in charges
+between 2020–2021 vs 2022–2023 of 1,157 charges.
+Figure 8: Firearm Charges by Year 2018-2021
+Court Type 2020 2021 2022 2023 Total
+Firearm Charges 10,075 12,506 12,248 11,490 46,319
+Data Source: MA Trial Court
+The most common charges for this time period were:
+ Carry Firearm without License, M.G.L. c. 269, §10(a): 4,303 charges
+ Carry Loaded Firearm without License, M.G.L. c. 269, §10(n): 3,381 charges
+ Possess Firearm without FID Card, M.G.L. c. 269, §10(h): 3,030 charges
+ Possess Large Capacity Firearm, M.G.L. c. 269, §10(m): 2,816 charges
+ Improper Storage of Firearm, M.G.L. c. 140, §131L(a)&(b): 2,679 charges
+ Possess Firearm in Felony, M.G.L. c. 265, §18B: 1,152 charges
+ Discharge Firearm within 500 Feet of Building, M.G.L. c. 269, §12E: 840 charges
+Crime Guns in Massachusetts
+M.G.L. c. 140, § 131Q requires the entry of recovered crime guns into the Commonwealth Fusion Center’s
+Crime Gun Tracking System. The law directs firearms licensing authorities within the Commonwealth to
+annually report to the Colonel of the Massachusetts State Police certain data related to crime gun seizures
+within their jurisdiction. For the years 2022 and 2023, information was submitted on 4,900 firearms and
+arrests were made in approximately 73% of the seizures. The 4,900 recoveries were an increase of over 600
+seizures vs the previous period of 2020-2021.
+Figure 9: Crime Guns Reported to Commonwealth Fusion Center
+Arrest Made 2022 2023 Total
+Yes 1,811 1,767 3,578
+No 582 684 1,266
+Unknown 26 30 56
+Total 2,419 2,481 4,900
+8 Firearm-Related Activity in MA | EOPSS
+Origins of Firearms
+Figure 10: Source State for MA Guns
+When a firearm is recovered in Massachusetts, agencies have the Source State 2022
+Massachusetts 877
+option of running a trace via the ATF. Agencies may request
+New Hampshire 291
+traces for crime guns, or guns turned over to police. A trace can
+Maine 205
+determine the place of production, as well as legal points of sale Florida 135
+for the firearm. The ATF traced 3,665 guns recovered in Georgia 135
+Vermont 94
+Massachusetts in 2022 and established a source state in 2,381
+South Carolina 61
+cases. In 877 cases, the ATF determined the source state was
+North Carolina 55
+Massachusetts. Tennessee 50
+Data Source: ATF
+It is often believed that the bulk of crime guns coming into the Northeast are brought up from the southern
+states, however, for 2022 the top 3 states were within New England. Of the 3,665 firearms traced, 3,032
+(83%) were determined to be handguns (pistol or revolver). Based upon these recoveries, the leading
+calibers also corresponded to handguns, with the exception of the shotgun:
+ 9 mm (1630)  .380 cal (238)
+ .40 cal. (329)  .38 cal (123)
+ .22 cal. (298)  12 gauge (120)
+ .45 cal. (244)
+One measure that is often examined after a crime is how long after the original purchase of the firearm was
+it used in a crime (time-to-crime). For 2022, the average for Massachusetts was 7.88 years, while the
+national average was 6.34 years. Of the traced firearms in Massachusetts in 2022, 1,317 had a time-to-crime
+of 3 years and over; 483 firearms had a time-to-crime of one year or under.
+Firearm Licenses
+Firearm licenses were examined several ways and all displayed similar trends across the years. When
+reviewing new applications for the years 2010-2023, 2013 had significantly higher applications than every
+other year with 41,427 applications. It should be noted that nationwide, at the time, 2013 had the highest
+number of National Instant Criminal Background Check System (NICS) checks in the history of the
+program according to the FBI, which was indicative of higher gun sales nationwide. Following 2014, NICS
+checks steadily increased. In 2020 and 2021, the FBI again reported its highest number of NICS background
+checks with 39.6 million and 38.7 million. In 2022, this number fell off to approximately 31.6 million
+checks. In Massachusetts, there was also a steep increase in new licenses. In 2020-2021, there were
+approximately 98,704 new license applications received, while in 2022-2023 the numbers fell to 69,241
+9 Firearm-Related Activity in MA | EOPSS
+new applications. During the years, 2022-2022, over 178,000 applications for firearm licenses were
+received and as of 1/1/24, over 542,000 licenses were active in the Commonwealth.
+Figure 11: Firearm License Applications 2022 - 2023
+License Type Application Type 2022 2023 Total
+Firearms Identification Card New 1,538 1,617 3,155
+Resident Class A Large capacity License to Carry Firearms New 32,028 33,855 65,883
+Resident Class B Non-Large Capacity to Carry Firearms New 0 0 0
+Resident License to Possess a Machine Gun New 95 108 203
+Total New License Applications 33,661 35,580 69,241
+Firearms Identification Card Renewal 1,550 1,641 3,191
+Resident Class A Large capacity License to Carry Firearms Renewal 50,230 55,264 105,494
+Resident Class B Non-Large Capacity to Carry Firearms Renewal 0 0 0
+Resident License to Possess a Machine Gun Renewal 236 269 505
+Total Renewal Applications 52,016 57,174 109,190
+Total Applications 85,677 92,754 178,431
+Data Source: MA Firearm Records Bureau
+Figure 12: Active Firearm Licenses by Year 2020- 2024
+Active on: Class A LTC Class B LTC FID Card Total
+01/03/20 401,922 0 25,605 427,527
+01/01/21 448,758 0 24,289 473,047
+01/01/22 493,944 0 24,567 518,511
+1/1/2023 508,968 3 23,113 532,084
+1/1/2024 520,892 2 21,457 542,351
+Data Source: MA Firearms Record Bureau
+Figure 13: Firearm Sales & Transfers
+Transaction Type 2019 2020 2021 2022 2023
+Firearms Dealer Sales 89,277 135,641 140,230 115,383 111,264
+Personal Transfers (Gun Portal) 24,104 28,724 27,475 20,813 24,254
+Data Source: MA Firearms Records Bureau
+Firearm Sales
+According to the Firearms Records Bureau data, firearm sales increased each year from 2006 to 2013, from
+41,160 sales in 2006 to 110,350 sales in 2013. After 2013, the number of sales decreased to 102,081 in
+2014 while 2015 produced 108,290 sales. The 2016 numbers were the highest the Firearms Record Bureau
+has recorded while the 2017 numbers were more consistent with data from 2013-2015. The numbers
+continued to decrease in 2018 and 2019 with dealer sales below 100,000. The 2020 and 2021 numbers
+mirrored the license application numbers where there was a significant increase to over 140,000 dealer sales
+in 2021. The 2022 and 2023 data fell to approximately 115,000 and 111,000 sales respectively. Personal
+transfers have hovered between 20,000 - 25,000 transfers per year over the past ten years.
+10 Firearm-Related Activity in MA | EOPSS
+Changes in State and Federal Statutes
+There were no changes to firearms laws in 2022 or 2023.
+This section intentionally left blank
+11 Firearm-Related Activity in MA | EOPSS
+APPENDIX
+Data Sources:
+NIBRS Data: National Incident Based Reporting System, Massachusetts Executive Office of Public Safety
+and Security (EOPSS). Massachusetts is currently equipped to collect NIBRS data from 317 agencies.
+NIBRS captures the nature and types of specific offenses in the incident, characteristics of the victim(s) and
+offender(s), types and value of property stolen and recovered, and characteristics of persons arrested in
+connection with a crime incident. MA agencies submit their data through an online portal managed by
+Beyond2020. The data is stored in a repository also managed by Beyond2020. The data was queried by
+EOPSS on April 8, 2024.
+Homicides & Suicides with a Firearm Data: OCME Database, Massachusetts Office of Chief Medical
+Examiner. Data was queried from the MA OCME database via the Adapt Analytics Platform.
+Prosecution Data: MassCourts Case Management System, Massachusetts Trial Court. Charges were
+selected from the Massachusetts General Laws where firearms were mentioned.
+Firearm Origin Data: Firearms Tracing System, Department of Justice, Bureau of Alcohol, Tobacco,
+Firearms and Explosives, Office of Strategic Intelligence and Information. Available from:
+https://www.atf.gov/resource-center/firearms-trace-data-massachusetts-2022#total.
+Census Data: State & County Quick Facts, US Census Bureau. Available from:
+http://quickfacts.census.gov/.
+Firearm Licensing Data: Massachusetts Gun Transaction Portal, Massachusetts Department of Criminal
+Justice Information Services, Firearms Records Bureau. Data was queried from databases to determine the
+number of firearm sales, as well as the number of active firearm licenses. The data is available publicly
+from: https://www.mass.gov/info-details/data-about-firearms-licensing-and-transactions#personal-
+transfers,-registrations-&-firearms-reported-lost/stolen.
+12 Firearm-Related Activity in MA | EOPSS
+Table 1: Crimes with Firearms Table 1: Crimes with Firearms
+Agency 2022 2023 Total Agency 2022 2023 Total
+Abington 3 8 11 Canton 14 10 24
+Acton 3 2 5 Carver 6 2 8
+Acushnet 1 5 6 Charlton 10 6 16
+Adams 2 2 4 Chatham 2 1 3
+Agawam 19 12 31 Chelmsford 19 8 27
+Amesbury 7 6 13 Chelsea 66 75 141
+Amherst 7 7 14 Cheshire 0 2 2
+Andover 3 3 6 Chicopee 103 88 191
+Arlington 5 3 8 Chilmark 0 1 1
+Ashby 3 1 4 Clark University 2 3 5
+Ashfield 1 1 2 Clinton 1 0 1
+Ashland 8 4 12 Cohasset 0 2 2
+Athol 16 4 20 Concord 3 3 6
+Attleboro 27 27 54 Dalton 8 1 9
+Auburn 8 17 25 Danvers 12 5 17
+Avon 3 0 3 Dartmouth 21 15 36
+Ayer 1 8 9 Dedham 4 8 12
+Barnstable 50 42 92 Deerfield 3 4 7
+Barnstable State Pol 7 1 8 Dennis 9 6 15
+Barre 8 3 11 Dighton 1 9 10
+Bedford 0 2 2 Douglas 4 2 6
+Belchertown 1 12 13 Dover 1 2 3
+Bellingham 8 8 16 Dracut 12 19 31
+Belmont 2 4 6 Dudley 3 8 11
+Berkley 2 2 4 Duxbury 0 1 1
+Berkshire State Police 7 4 11 East Bridgewater 3 11 14
+Berlin 1 0 1 East Brookfield 3 0 3
+Bernardston 2 0 2 East Longmeadow 6 10 16
+Beverly 8 6 14 Eastham 3 0 3
+Billerica 4 5 9 Easthampton 4 5 9
+Blackstone 5 4 9 Easton 19 5 24
+Bolton 1 0 1 Edgartown 2 4 6
+Boston 1,083 972 2,055 Egremont 1 1 2
+Boston University 1 0 1 Environmental Police 11 18 29
+Bourne 10 9 19 Erving 1 0 1
+Boxborough 0 1 1 Essex 1 3 4
+Boylston 1 0 1 Essex State Police 11 27 38
+Braintree 19 16 35 Everett 38 33 71
+Brewster 6 4 10 Fairhaven 10 17 27
+Bridgewater 14 15 29 Fall River 173 186 359
+Bridgewater State Univ 1 0 1 Falmouth 31 20 51
+Brimfield 0 2 2 Fitchburg 88 100 188
+Bristol State Police 9 8 17 Foxborough 10 4 14
+Brockton 291 313 604 Framingham 26 27 53
+Brookfield 2 3 5 Franklin 5 16 21
+Brookline 7 7 14 Franklin State Police 10 6 16
+Burlington 10 8 18 Freetown 7 13 20
+Cambridge 77 61 138 Gardner 11 24 35
+Appendix 1: Firearm-Related Activity in MA | EOPSS Data Source : MA NIBRS Data
+Table 1: Crimes with Firearms Table 1: Crimes with Firearms
+Agency 2022 2023 Total Agency 2022 2023 Total
+Georgetown 1 4 5 Lynnfield 2 1 3
+Gloucester 9 6 15 Malden 31 41 72
+Grafton 4 10 14 Manchester-by-the-sea 0 1 1
+Granby 3 2 5 Mansfield 5 9 14
+Great Barrington 3 2 5 Marblehead 3 0 3
+Greenfield 19 29 48 Marion 2 1 3
+Groton 1 0 1 Marlborough 27 19 46
+Groveland 0 1 1 Marshfield 7 14 21
+Hadley 3 1 4 Mashpee 8 1 9
+Halifax 1 3 4 Mattapoisett 2 5 7
+Hamilton 0 1 1 Maynard 1 3 4
+Hampden 5 0 5 Medfield 0 5 5
+Hampden State Police 41 29 70 Medford 16 23 39
+Hampshire State Police 2 9 11 Medway 0 2 2
+Hanover 2 1 3 Melrose 4 2 6
+Hanson 1 2 3 Mendon 3 1 4
+Hardwick 1 2 3 Merrimac 4 1 5
+Harvard 4 0 4 Merrimack College 1 1 2
+Harwich 5 6 11 Methuen 20 23 43
+Haverhill 84 54 138 Middleborough 26 19 45
+Hingham 1 2 3 Middlesex State Police 20 20 40
+Holbrook 11 6 17 Middleton 2 0 2
+Holden 4 5 9 Milford 2 21 23
+Holliston 3 0 3 Millbury 7 9 16
+Holyoke 200 337 537 Millis 3 1 4
+Hopedale 4 3 7 Millville 0 3 3
+Hopkinton 1 1 2 Monson 5 5 10
+Hudson 11 17 28 Montague 2 4 6
+Hull 4 1 5 Nahant 1 0 1
+Ipswich 1 0 1 Nantucket 2 4 6
+Kingston 1 7 8 Natick 11 9 20
+Lakeville 4 2 6 Needham 6 1 7
+Lancaster 4 3 7 New Bedford 218 208 426
+Lanesboro 2 1 3 New Braintree 0 1 1
+Lawrence 151 174 325 New Marlboro 2 2 4
+Lee 1 3 4 Newbury 2 3 5
+Leicester 6 4 10 Newburyport 3 4 7
+Lenox 5 3 8 Newton 7 7 14
+Leominster 28 43 71 Norfolk State Police 10 14 24
+Leverett 1 2 3 North Adams 42 11 53
+Lexington 2 0 2 North Andover 7 5 12
+Lincoln 0 2 2 North Reading 0 3 3
+Littleton 4 3 7 Northampton 8 20 28
+Longmeadow 4 6 10 Northbridge 5 14 19
+Lowell 228 78 306 Northfield 1 2 3
+Ludlow 8 5 13 Norton 7 5 12
+Lunenburg 3 8 11 Norwell 0 1 1
+Lynn 153 108 261 Norwood 12 13 25
+Appendix 1: Firearm-Related Activity in MA | EOPSS Data Source : MA NIBRS Data
+Table 1: Crimes with Firearms Table 1: Crimes with Firearms
+Agency 2022 2023 Total Agency 2022 2023 Total
+Oak Bluffs 1 0 1 Sterling 0 5 5
+Orange 7 4 11 Stockbridge 1 0 1
+Orleans 2 0 2 Stoneham 12 2 14
+Oxford 2 5 7 Stoughton 22 36 58
+Palmer 17 13 30 Stow 1 0 1
+Paxton 0 3 3 Sturbridge 7 11 18
+Peabody 22 31 53 Sudbury 1 5 6
+Pembroke 8 4 12 Suffolk State Police 72 60 132
+Pepperell 6 7 13 Sunderland 0 1 1
+Pittsfield 122 71 193 Sutton 3 4 7
+Plainville 3 1 4 Swampscott 4 1 5
+Plymouth 35 27 62 Swansea 9 4 13
+Plymouth State Police 7 17 24 Taunton 21 35 56
+Plympton 2 4 6 Templeton 2 2 4
+Princeton 2 0 2 Tewksbury 22 14 36
+Provincetown 3 3 6 Tisbury 3 4 7
+Quincy 80 66 146 Townsend 3 5 8
+Randolph 19 24 43 Truro 0 1 1
+Raynham 5 9 14 Tyngsborough 4 10 14
+Reading 1 0 1 U-Mass Amherst 0 1 1
+Rehoboth 5 6 11 U-Mass Lowell 4 0 4
+Revere 46 44 90 U-Mass Worcester 2 3 5
+Rochester 4 7 11 Upton 7 4 11
+Rockland 9 12 21 Uxbridge 7 5 12
+Rockport 0 4 4 Wakefield 4 11 15
+Rowley 3 0 3 Walpole 8 4 12
+Royalston 1 0 1 Waltham 13 25 38
+Rutland 4 2 6 Ware 12 10 22
+Salem 30 21 51 Wareham 13 16 29
+Salisbury 5 5 10 Warren 4 8 12
+Sandwich 9 11 20 Watertown 6 13 19
+Saugus 22 18 40 Wayland 0 1 1
+Scituate 2 1 3 Webster 26 21 47
+Seekonk 10 10 20 Wellesley 1 0 1
+Sharon 2 2 4 Wellfleet 4 2 6
+Shelburne 0 1 1 Wentworth Inst of Tech 1 0 1
+Sherborn 1 1 2 West Boylston 1 2 3
+Shirley 1 2 3 West Bridgewater 3 6 9
+Shrewsbury 1 1 2 West Brookfield 0 4 4
+Somerset 2 6 8 West Newbury 0 1 1
+Somerville 65 32 97 West Springfield 45 50 95
+South Hadley 12 10 22 West Tisbury 0 1 1
+Southampton 1 1 2 Westborough 3 10 13
+Southborough 8 2 10 Westfield 23 27 50
+Southbridge 36 32 68 Westfield State College 0 2 2
+Southwick 5 2 7 Westford 14 4 18
+Spencer 3 0 3 Westminster 2 2 4
+Springfield 1,042 1,345 2,387 Weston 0 6 6
+Appendix 1: Firearm-Related Activity in MA | EOPSS Data Source : MA NIBRS Data
+Table 1: Crimes with Firearms
+Agency 2022 2023 Total
+Westport 7 5 12
+Westwood 3 1 4
+Weymouth 10 29 39
+Whitman 3 3 6
+Wilbraham 16 8 24
+Williamsburg 0 1 1
+Williamstown 2 8 10
+Wilmington 6 7 13
+Winchendon 13 13 26
+Winthrop 10 8 18
+Woburn 12 16 28
+Worcester 448 228 676
+Worcester Polytechnic 4 0 4
+Worcester State 0 2 2
+Worcester State Police 30 20 50
+Worthington 0 1 1
+Wrentham 1 1 2
+Yarmouth 17 18 35
+Appendix 1: Firearm-Related Activity in MA | EOPSS Data Source : MA NIBRS Data
+Table 2: Fatal Gunshot Incidents 2022 - 2023 Table 2B: Boston Fatal Shootings 2022 - 2023
+Town 2022 2023 Total BPD District 2022 2023 Total
+BOSTON 34 26 60 A1: Downtown 0 1 1
+SPRINGFIELD 13 32 45 A7: East Boston 0 0 0
+BROCKTON 6 7 13 A15: Charlestown 0 0 0
+WORCESTER 7 5 12 B2: Roxbury 6 6 12
+LYNN 6 5 11 B3: Mattapan 11 8 19
+HOLYOKE 5 3 8 C6: South Boston 0 0 0
+LAWRENCE 4 4 8 C11: Dorchester 9 6 15
+NEW BEDFORD 3 3 6 D4: South End 3 1 4
+CHICOPEE 5 0 5 D14: Brighton 0 1 1
+FALL RIVER 1 3 4 E5: West Roxbury 1 0 1
+PITTSFIELD 4 0 4 E13: Jamiaca Plain 1 3 4
+BRAINTREE 1 2 3 E18: Hyde Park 1 2 3
+LOWELL 2 1 3 Grand Total 32 28 60
+METHUEN 2 1 3 Data Source: Boston PD / BRIC
+TAUNTON 2 1 3
+ANDOVER 0 2 2
+CAMBRIDGE 0 2 2
+DOVER 0 2 2
+QUINCY 2 0 2
+RANDOLPH 1 1 2
+WAREHAM 1 1 2
+BURLINGTON 1 0 1
+CHELSEA 0 1 1
+CHESTERFIELD 1 0 1
+EAST LONGMEADOW 0 1 1
+EASTON 0 1 1
+EVERETT 1 0 1
+FAIRHAVEN 0 1 1
+FALMOUTH 1 0 1
+FITCHBURG 0 1 1
+GARDNER 0 1 1
+HANCOCK 0 1 1
+KINGSTON 1 0 1
+LEXINGTON 1 0 1
+MALDEN 0 1 1
+MANSFIELD 0 1 1
+MARLBOROUGH 0 1 1
+MEDFORD 1 0 1
+MILLIS 0 1 1
+MILTON 0 1 1
+PAXTON 1 0 1
+PEABODY 1 0 1
+PLYMOUTH 0 1 1
+RAYNAHM 0 1 1
+REHOBETH 0 1 1
+REVERE 1 0 1
+ROCHESTER 0 1 1
+SALEM 0 1 1
+SAUGUS 0 1 1
+WALTHAM 0 1 1
+WEST SPRINGFIELD 0 1 1
+WOBURN 0 1 1
+Grand Total 109 122 231
+Data Source: OCME
+*Note - When injury location could not be determined, the hospital
+location was utilized.
+Appendix 2: Firearm-Related Activity in MA | EOPSS Data Source: OCME / BPD - BRIC
+[DELETED: r2]
+[DELETED:  F)… p o f o t s a a e o t e o t a h w a f a s w a f w c f t c o r w r f t B o A T F a]
+[DELETED: 3 F w c T d c t i c b r t e a a c o H R a A A w a F a t]
+[DELETED: 4 Fe222m111m605m252l362s2223Tr201n72551e38226y13t11g1482t25254s10e01l13162y67561s36326l68661]
+[DELETED: 5 F s t i o t r w u d g b t 2 I t p7 y2223Tl2n2d121527168n139225651r482866251n213364142e203757358d282846122r131639991e111435821l287836176n131821161d127113461e138811551g881018412y806616146a667511301e776118145l845418698e7260120]
+[DELETED: 6 F a f e y i t C w t a a o a h v beMeFeTe15362e25192l40555e2920212223Tl5e9018121912511e1516141718701l2524262620112]
+[DELETED: 7 F 1 i 2 a 1 i 2 T m c c d n c ae2920212223T 5e2844253228173 1320121817801s1124171015971e2223Tl%t2524594e125170d2729564]
+[DELETED: 8 Fe2223Ts11173 52641n26305l29214e20212223Ts151618104]
+[DELETED: 9 F t f T A t 3 g r i B I M t w a a s i i n l I 2 t we2s8e2e2a1a1t9a6a5e5 . . 1]
+[DELETED: 1 F a D t y 2 o 1 a f f l we292021222s871110131)242425232 CCCCFdT04202541480294244027535832354522275eAe2223TdNw18173sNw38356sNw00nNw95182s31306dRl10113sRl50541sRl00nRl26295s56541s87941]
+[DELETED: 1 F]
+[DELETED: 1 F a E O o S I a I A f D S & C Q F U C B A f/ h]
+[DELETED: yA223Tl2223TnC81114102nC2562tC561061sC2421mC912311982yC61366751tC71402rC3613881nC3801yC1423dC1210dC41202lC642033oD7275481nD17251251nD0321153rD89481eD0429234lD18961eD311191dD2242nD121312mD81612193tD46381yD2401eE4113111nE0130nE026101yE61430aE5945eE491952nE0124nE3922511yE0111182eE091910hE1113nE0111273eE9163538337rF41010172rF4152913163vF0131205dF2288101eF8171041nF1336426275dF355162eF7141061nF08187132eG7611811243sTSD]
+[DELETED: yA223Tl2223TnL4521rM61531417nM101401yM25591nM2530dM9294821nM0127194dM117142yM1481xM3425nM1113nM0505eM1297016233eM91102rM1342nM2331kM2341dM0411hM61120234lM4541826194mM2320204kM161720nM592212nM03791eM0375731eM3703nM12551nM1172824lN1510hN0124nN781192eN2661rN3728284oN1301eN1143522eN3423rN41034xN38771rN8437110142tN2342115nN02751nN2203nN378202wN6105141lN8783612wN513751gN81101nN3182112132sTSD]
+[DELETED: yA223Tl2223TsS0105eS41110sS021221dS5722365rS7133010nS337111yS2315315eS41272601lS71301dS2711334eS1441hS52762941eT172421355nT4622nT0222143nT3634yT0661635hT9244301mT9144101gU0101hU61140eU6449023rU711741dU1221751tW444111yW03841nW0113253dW2612102mW0215113162yW510481hW11206131sW2184001eW1326214kW0102010nW2442eW1110nW1212yW2336yW1204tW6801eW5329745509yW2102201nW123101hW21023275eW6326802kW271441rW0322dW2152706sTSD]
+[DELETED: 223T5110293368218171313208121628286020205117183SD]
+[DELETED: n2223TlTt222N342660n0D133245n0N6713n0R75121y6N65111n11E538n0E4481r9D336d3E505n0R134y1D404n1E123k1L2136l322N21N21R02E02R02Y20H11M11N10A01D10W01N01T10N01H10G01R01K01N10N10N01D01H01D10S01N01N10Y10H01M01H01E10R01M01S01M01D01N01l191223TSD]
+
+
+================================================================================
+
+Raw Text:
+Firearm-Related Activity in Massachusetts
+2022-2023
+Massachusetts Executive Office of Public Safety and Security
+September 2025
+Maura Healey, Governor
+Terrence Reidy, Secretary of the Executive Office of Public Safety and
+Security
+
+Firearm-Related Activity in Massachusetts 2022-2023
+Overview
+Section 18 ¾ of Chapter 6A of the Massachusetts General Laws mandates that a report be completed by
+the Executive Office of Public Safety and Security (EOPSS) detailing the prevalence of firearm-related
+crimes, the number of arrests, prosecutions, and points of origins of these illegal firearms. This report will
+provide statistics on the state of illegal firearms in the Commonwealth for the time period of 2022-2023 to
+determine if recent laws have had an effect on the number of illegal firearms in the Commonwealth, the
+number of crimes committed with a firearm, and prosecutions related to these violations. The governing
+statute requires that EOPSS:
+(10) …develop a biennial report to be sent to the clerks of the House of Representatives and Senate, the
+House and Senate committees on ways and means and the House and Senate chairs of the joint committee
+on public safety and homeland security not later than March 1 of every even-numbered year. The report shall
+contain, but not be limited to, the following information: (i) statistics related to firearms crimes; (ii) arrests
+and prosecutions of firearms-related offenses, to serve as an examination of the effectiveness of the
+commonwealth's firearms-related regulations; (iii) aggregate data on the source of firearms that have been
+confiscated and identified as being used in a crime or in an attempted or completed suicide during the report
+period, including aggregate information on the manufacturer, state of origin and last known point of sale,
+transfer, loss or theft of such firearms; (iv) an explanation of substantial changes in state and federal
+firearms-related laws and firearms-related statistics in the commonwealth; and (v) the effectiveness of
+section 128B of chapter 140.
+Methodology and Data Collection
+Currently, the data requested is not located within a single data set. For this report, crime statistics and
+arrest statistics were compiled by utilizing National Incident Based Reporting System (NIBRS) data, which
+is voluntarily submitted to the Executive Office of Public Safety and Security and ultimately to the FBI by
+local, state, campus, and hospital police agencies. NIBRS data includes the nature and types of specific
+offenses in the incident, characteristics of the victim(s) and offender(s), types and value of property stolen
+and recovered, and characteristics of persons arrested in connection with a crime incident; not all police
+agencies submit crime data using NIBRS. It should be noted that in NIBRS data, it is possible to report
+multiple offenses, crimes, victims and weapons within one incident. For this report, data shall be reported
+as the total number of crimes where firearms were utilized during all of the offenses, unless otherwise noted.
+Information about homicides with a firearm and suicides with a firearm was compiled from the
+Massachusetts Office of the Chief Medical Examiner (OCME). In order to examine case statuses and
+prosecutions of firearm cases, data was received from the Massachusetts Trial Court. Information about
+firearms confiscated or recovered was received from the Bureau of Alcohol, Tobacco, Firearms and
+Explosives (ATF).
+2 Firearm-Related Activity in MA | EOPSS
+
+Going forward, EOPSS will continue to work with municipal police departments, the Massachusetts State
+Police (MSP), the Commonwealth Fusion Center (CFC), and federal partners to maintain a dataset where
+this information may be more readily available. In addition, the Massachusetts State Police utilize a data
+collection tool in the Criminal Justice Information Services (CJIS) environment to collect data on firearm
+recoveries and seizures in the Commonwealth. This system, referred to as the Crime Gun Tracking System,
+allows law enforcement to enter data in the field in relation to the criminal incidents and the firearms
+associated with crimes. This data collection tool is currently being revamped to enhance analysis
+capabilities. In addition to this report, the Massachusetts State Police also publish an annual report regarding
+firearms used in crimes based upon this collection tool. EOPSS is also in the process of adding a data point
+to collect information on non-fatal shootings in NIBRS via the injury type field.
+Limitations of the Data
+As mentioned above, it is difficult to locate and merge data that does not reside within a structured data
+environment. While NIBRS reporting now covers more than 98% of the Commonwealth’s total population,
+some smaller agencies still do not report. Massachusetts State Police began reporting to NIBRS in 2021
+and manually enter reports into the Sidearm system. For the purpose of this report, agencies that failed to
+submit data or are not contributing NIBRS data for either year were excluded for the crime and arrest
+statistics, unless otherwise noted. Overall, NIBRS statistics were available for 384 Massachusetts police
+agencies.
+With respect to prosecution, criminal charges involving firearms were examined for the years 2022-2023.
+It should be noted that this will not reflect all firearm-related arrests from this time frame, but only those
+resulting in prosecutions completed during these years, as some of the 2022-2023 arrests will not yet have
+been adjudicated. At the time of the writing of this report, ATF data was not available for 2023, so only
+2022 data is included in the Origins of Firearms section.
+Statistics on Firearm-Related Crimes
+Since in some cases, it is possible to convert NIBRS data to UCR data, this methodology was utilized to
+provide a count of Homicides, Robberies and Aggravated Assaults with a Firearm across the
+Commonwealth for all agencies that submitted NIBRS data. These are the only three categories where it is
+possible to extract weapons data from UCR. The data is then converted to summary, to compare against
+historical data, where NIBRS data was not available for all of the agencies. The number of Robberies with
+a Firearm continued to decrease from 1,400 incidents in 2016 to approximately 1,000 in 2018, dropping
+again to 615 in 2021, and 563 in 2023. Aggravated Assaults with a Firearm did remain consistent in this
+3 Firearm-Related Activity in MA | EOPSS
+
+two-year timeframe after jumping by over 600 incidents between 2019 and 2020. The number of homicides
+includes two justifiable homicides which are not included in the NIBRS counts.
+Figure 1: NIBRS Data Converted to UCR
+Crime Type 2022 2023
+Homicide with a Firearm 101 109
+Robbery with a Firearm 620 563
+Aggravated Assault with a Firearm 2,495 2,280
+Total 3,216 2,952
+Data Source: MA NIBRS Data
+For the time period 2022-2023, there were 13,414 crimes in which firearms were utilized, up from 11,805
+in 2020-2021. In 2022, 6,758 crimes were committed with a firearm, while in 2023, 6,656 crimes were
+committed with a firearm. When reporting NIBRS, the FBI allows for 15 crime types to include a reference
+to the use or presence of a firearm. There was a substantial increase of over 1,600 incidents when compared
+to 2020–2021. This increase was due in large part to an increase in Weapons Law Violations.
+Figure 2: Firearm-Related Crimes 2022 - 2023
+Crime Type Using NIBRS Categories 2022 2023 Total
+Murder and Nonnegligent Manslaughter 100 107 207
+Kidnapping/Abduction 72 55 127
+Rape 38 22 60
+Sodomy 1 3 4
+Sexual Assault With An Object 1 1 3
+Fondling 14 8 22
+Aggravated Assault 2,555 2,345 4,900
+Human Trafficking, Commercial Sex Acts 1 0 1
+Human Trafficking, Involuntary Servitude 0 1 1
+Extortion/Blackmail 13 16 29
+Robbery 627 566 1,193
+Weapon Law Violations 3,336 3,532 6,868
+Grand Total 6,758 6,656 13,414
+Data Source: MA NIBRS statistics. Data is a count of crimes where a firearm was listed as the weapon
+involved.
+As seen in Figure 2, Weapon Law Violations were the most frequent incident type. These incidents are
+typically for violating laws related to the manufacturing, selling, purchasing, transporting, possessing,
+concealing, or using of firearms. Common incidents within this category are arrests for Unlawful Possession
+of a Firearm, and incidents of shots fired. Aggravated Assaults with a firearm could be Non-Fatal shootings,
+pistol whippings, threats with a firearm, or cases of shots fired at an intended target. The 2022 and 2023
+numbers are fairly consistent with the prior two-year period.
+4 Firearm-Related Activity in MA | EOPSS
+
+The remaining crime type with a significant number of firearms used was Robberies with 1,193, down from
+1,398 in 2020-2021. Robberies encompass street, commercial, home invasion and carjacking robberies. It
+should be noted that the 2020-2021 time period included the COVID-19 Pandemic, which impacted crime
+statistics in various ways. Assaults and frauds increased significantly, while other crimes like Robbery and
+Burglary declined. It is also possible that the increase in Weapons Law Violations was impacted by the end
+of the Pandemic. While capturing homicide data utilizing NIBRS data is possible, for this report it was also
+assessed utilizing OCME data to go into in greater depth and is detailed later in this report.
+Figure 3: Agencies with over 100 Crimes with Firearms 2022 - 2023
+Agency 2022 2023 Total 2023 Population 2023 Rate per 100,000
+Springfield 1,042 1,345 2,387 155,046 867.48
+Boston 1,083 972 2,055 638,925 152.13
+Worcester 448 228 676 206,575 110.37
+Broc kton 291 313 604 110,084 284.33
+Holyoke 200 337 537 37,945 888.13
+New Bedford 218 208 426 101,402 205.12
+Fall River 173 186 359 94,339 197.16
+Lawrence 151 174 325 88,422 196.78
+Lowe ll 228 78 306 113,277 68.86
+Lynn 153 108 261 101,056 106.87
+Pittsfield 122 71 193 43,496 163.23
+Chicopee 103 88 191 55,265 159.23
+Fitchburg 88 100 188 41,791 239.29
+Quin cy 80 66 146 101,434 65.07
+Chelsea 66 75 141 37,590 199.52
+Cambridge 77 61 138 117,044 52.12
+Haverhill 84 54 138 67,359 80.17
+Suffolk State Police 72 60 132 0 0
+Data Source: MA NIBRS Data. Population figures obtained from the US Census Bureau.
+Sorting the firearm data by reporting agency reveals that the larger cities have more crimes with firearms,
+even when considering it on a per capita basis. This is the first time that Boston has not had the most firearm
+incidents since the inception of this report, which utilized data going back to 2014. In this period,
+Springfield reported 2,387 crimes with a firearm, followed by Boston (2,055), Worcester (676), Brockton
+(604), Holyoke (537), New Bedford (426), Fall River (359), Lawrence (325) and Lowell (306). It should
+be noted that although both cities were in the top 10, Worcester and Lowell failed to submit all twelve
+months of 2023 data, so it is likely they would have even more incidents had the dataset been complete.
+(See Appendix Table 1 for a complete Town / City list) Overall, this list remains incredibly consistent over
+the reporting years. Springfield had consistently reported the second amount of firearm crimes until this
+year, and their total has increased over 700 incidents vs 2018–2019. When rates of firearm incidents for
+2023 are calculated per 100,000 residents, the numbers are similar, although Holyoke moves to the first
+position with a rate of 888.13/100,000; followed by Springfield (867.48), Brockton (284.33) and Fitchburg
+(239.29). Boston drops down to the 17th position when utilizing this method, while the small towns of
+5 Firearm-Related Activity in MA | EOPSS
+
+Southbridge, Bridgewater, Greenfield, Warren, Freetown, New Marlboro and Plympton moved into the top
+20 on a per capita basis.
+Homicides and Suicides with a Firearm
+Homicides and suicides with a firearm were examined to determine the prevalence of firearm-related deaths
+in the Commonwealth. Looking at the last five years, the average number of homicides with a firearm is
+107 per year, while the average number of suicides is 142. On average, approximately 250 lives are taken
+with a firearm every year in the Commonwealth, with the average age of a homicide victim being
+approximately 31.6 years old, and the average age of a person committing suicide with a firearm is 52.4.
+The average age of females committing suicide with a firearm is lower, where the 2020-2021 average was
+46, while the male average was 53. Firearm-related deaths are far more common among males. Over the
+last two years, 93% of suicides with a firearm have been committed by men, while 88% of victims fatally
+shot by others have been men.
+Figure 4: Firearm-Related Deaths in MA 2019 - 2023
+Death Type 2019 2020 2021 2022 2023 Total 5 year Avg.
+Homicide 90 128 102 109 122 551 110.2
+Suicide 135 136 134 147 148 700 140
+Total 225 264 236 256 270 1,251 250.2
+Data Source: OCME Data
+Figure 5: Firearm-Related Deaths by Gender 2022 - 2023
+Death Type Male Female Total
+Homicide 195 36 231
+Suicide 275 19 294
+Total 470 55 525
+Data Source: OCME Data * Contains one incident where Gender was undetermined.
+When looking at where these homicide incidents took place during 2022-2023, only five cities had more
+than 10 firearm-related homicides: Boston (60), Springfield (45), Brockton (13), Worcester (12) and Lynn
+(11). (See Appendix Table 2 for a complete list.) Boston, Springfield and Worcester are consistently on this
+list. However, this is the first year for Worcester and Lynn. In 2020–2021, homicides with a firearm were
+reported in 54 cities and towns. For 2022–2023, homicides with a firearm were reported in 52 jurisdictions.
+Boston breaks down the city into police precincts. The precincts of B2, B3 and C11, which make up the
+neighborhoods of Roxbury, Mattapan and Dorchester each also had over 10 homicides with a firearm. B2
+(Roxbury), accounted for 12, while B3 (Mattapan and North Dorchester), had 19 homicides and C11
+(Dorchester) had 15 homicides. (For a full list of Boston district homicides, see Appendix Table 2B).
+6 Firearm-Related Activity in MA | EOPSS
+
+Boston Shootings Data
+Among the reporting agencies, Boston had the second-most firearms used in crimes, the most deaths, and
+readily publishes data on shootings, so this data was chosen to be examined in further detail. For the past
+five years, on average, 200 individuals have been shot in Boston per year. This number has come down by
+over 25 victims since the previous report. These numbers have also fluctuated over the current five-year
+span. 2023 resulted in the fewest total shootings, while 2021 had the fewest homicides. There was a
+difference of 119 victims being shot between the high year of 2020 and the low year of 2023. 2022 and
+2023 also represent the fewest total shootings since Boston Police began publishing data in 2015.
+Figure 6: Boston Shootings 2019 - 2023
+Shooting Type 2019 2020 2021 2022 2023 Total 5 Year Average
+Homicide 28 44 25 32 28 157 31.4
+Non-Fatal 163 230 172 148 127 840 168
+Total Shootings 191 274 197 180 155 997 199.4
+Data Source: Boston Police Department - Boston Regional Intelligence Center
+Firearm-Related Arrest Statistics
+NIBRS data contains clearance information along with the firearm data. An incident can be “cleared” in
+several ways. The most common way for a case to be cleared is with an arrest: the charging either of an
+adult or juvenile. Another way a case can be cleared is by “exceptional clearance.” When a case is cleared
+exceptionally, an arrest does not take place despite probable cause existing to make such an arrest. Reasons
+for an exceptional clearance may include: death of an offender, the decision of the prosecutor not to go
+forward, the offender is in custody in another jurisdiction, the victim refuses to cooperate, or a juvenile is
+handled without being brought into custody. In 41.4% of the firearm offenses submitted, an arrest was made
+or the offense was cleared exceptionally.
+Figure 7: NIBRS Clearance Statistics 2022 - 2023
+Clear ance Type 2022 2023 Total % Cleared
+Cleared By Arrest 2,875 2,664 5,539 41.3%
+Exceptional Clearance 12 5 17 0.1%
+Total Cleared 2,887 2,669 5,556 41.4%
+Data Source: NIBRS data
+Prosecutions for Firearm Charges
+For the time period of 2022-2023, 23,738 criminal charges related to firearms were brought forward in the
+Commonwealth: 12,248 in 2022, and 11,490 in 2023. The most common charges did not change as
+7 Firearm-Related Activity in MA | EOPSS
+
+compared to the previous reporting period of 2020-2021. The seven most common charges still all have
+above 800 total charges and range from over 4,000 charges to 840 charges. There was an increase in charges
+between 2020–2021 vs 2022–2023 of 1,157 charges.
+Figure 8: Firearm Charges by Year 2018-2021
+Court Type 2020 2021 2022 2023 Total
+Firearm Charges 10,075 12,506 12,248 11,490 46,319
+Data Source: MA Trial Court
+The most common charges for this time period were:
+ Carry Firearm without License, M.G.L. c. 269, §10(a): 4,303 charges
+ Carry Loaded Firearm without License, M.G.L. c. 269, §10(n): 3,381 charges
+ Possess Firearm without FID Card, M.G.L. c. 269, §10(h): 3,030 charges
+ Possess Large Capacity Firearm, M.G.L. c. 269, §10(m): 2,816 charges
+ Improper Storage of Firearm, M.G.L. c. 140, §131L(a)&(b): 2,679 charges
+ Possess Firearm in Felony, M.G.L. c. 265, §18B: 1,152 charges
+ Discharge Firearm within 500 Feet of Building, M.G.L. c. 269, §12E: 840 charges
+Crime Guns in Massachusetts
+M.G.L. c. 140, § 131Q requires the entry of recovered crime guns into the Commonwealth Fusion Center’s
+Crime Gun Tracking System. The law directs firearms licensing authorities within the Commonwealth to
+annually report to the Colonel of the Massachusetts State Police certain data related to crime gun seizures
+within their jurisdiction. For the years 2022 and 2023, information was submitted on 4,900 firearms and
+arrests were made in approximately 73% of the seizures. The 4,900 recoveries were an increase of over 600
+seizures vs the previous period of 2020-2021.
+Figure 9: Crime Guns Reported to Commonwealth Fusion Center
+Arrest Made 2022 2023 Total
+Yes 1,811 1,767 3,578
+No 582 684 1,266
+Unknown 26 30 56
+Total 2,419 2,481 4,900
+8 Firearm-Related Activity in MA | EOPSS
+
+Origins of Firearms
+Figure 10: Source State for MA Guns
+When a firearm is recovered in Massachusetts, agencies have the Source State 2022
+Massachusetts 877
+option of running a trace via the ATF. Agencies may request
+New Hampshire 291
+traces for crime guns, or guns turned over to police. A trace can
+Maine 205
+determine the place of production, as well as legal points of sale Florida 135
+for the firearm. The ATF traced 3,665 guns recovered in Georgia 135
+Vermont 94
+Massachusetts in 2022 and established a source state in 2,381
+South Carolina 61
+cases. In 877 cases, the ATF determined the source state was
+North Carolina 55
+Massachusetts. Tennessee 50
+Data Source: ATF
+It is often believed that the bulk of crime guns coming into the Northeast are brought up from the southern
+states, however, for 2022 the top 3 states were within New England. Of the 3,665 firearms traced, 3,032
+(83%) were determined to be handguns (pistol or revolver). Based upon these recoveries, the leading
+calibers also corresponded to handguns, with the exception of the shotgun:
+ 9 mm (1630)  .380 cal (238)
+ .40 cal. (329)  .38 cal (123)
+ .22 cal. (298)  12 gauge (120)
+ .45 cal. (244)
+One measure that is often examined after a crime is how long after the original purchase of the firearm was
+it used in a crime (time-to-crime). For 2022, the average for Massachusetts was 7.88 years, while the
+national average was 6.34 years. Of the traced firearms in Massachusetts in 2022, 1,317 had a time-to-crime
+of 3 years and over; 483 firearms had a time-to-crime of one year or under.
+Firearm Licenses
+Firearm licenses were examined several ways and all displayed similar trends across the years. When
+reviewing new applications for the years 2010-2023, 2013 had significantly higher applications than every
+other year with 41,427 applications. It should be noted that nationwide, at the time, 2013 had the highest
+number of National Instant Criminal Background Check System (NICS) checks in the history of the
+program according to the FBI, which was indicative of higher gun sales nationwide. Following 2014, NICS
+checks steadily increased. In 2020 and 2021, the FBI again reported its highest number of NICS background
+checks with 39.6 million and 38.7 million. In 2022, this number fell off to approximately 31.6 million
+checks. In Massachusetts, there was also a steep increase in new licenses. In 2020-2021, there were
+approximately 98,704 new license applications received, while in 2022-2023 the numbers fell to 69,241
+9 Firearm-Related Activity in MA | EOPSS
+
+new applications. During the years, 2022-2022, over 178,000 applications for firearm licenses were
+received and as of 1/1/24, over 542,000 licenses were active in the Commonwealth.
+Figure 11: Firearm License Applications 2022 - 2023
+License Type Application Type 2022 2023 Total
+Firearms Identification Card New 1,538 1,617 3,155
+Resident Class A Large capacity License to Carry Firearms New 32,028 33,855 65,883
+Resident Class B Non-Large Capacity to Carry Firearms New 0 0 0
+Resident License to Possess a Machine Gun New 95 108 203
+Total New License Applications 33,661 35,580 69,241
+Firearms Identification Card Renewal 1,550 1,641 3,191
+Resident Class A Large capacity License to Carry Firearms Renewal 50,230 55,264 105,494
+Resident Class B Non-Large Capacity to Carry Firearms Renewal 0 0 0
+Resident License to Possess a Machine Gun Renewal 236 269 505
+Total Renewal Applications 52,016 57,174 109,190
+Total Applications 85,677 92,754 178,431
+Data Source: MA Firearm Records Bureau
+Figure 12: Active Firearm Licenses by Year 2020- 2024
+Active on: Class A LTC Class B LTC FID Card Total
+01/03/20 401,922 0 25,605 427,527
+01/01/21 448,758 0 24,289 473,047
+01/01/22 493,944 0 24,567 518,511
+1/1/2023 508,968 3 23,113 532,084
+1/1/2024 520,892 2 21,457 542,351
+Data Source: MA Firearms Record Bureau
+Figure 13: Firearm Sales & Transfers
+Transaction Type 2019 2020 2021 2022 2023
+Firearms Dealer Sales 89,277 135,641 140,230 115,383 111,264
+Personal Transfers (Gun Portal) 24,104 28,724 27,475 20,813 24,254
+Data Source: MA Firearms Records Bureau
+Firearm Sales
+According to the Firearms Records Bureau data, firearm sales increased each year from 2006 to 2013, from
+41,160 sales in 2006 to 110,350 sales in 2013. After 2013, the number of sales decreased to 102,081 in
+2014 while 2015 produced 108,290 sales. The 2016 numbers were the highest the Firearms Record Bureau
+has recorded while the 2017 numbers were more consistent with data from 2013-2015. The numbers
+continued to decrease in 2018 and 2019 with dealer sales below 100,000. The 2020 and 2021 numbers
+mirrored the license application numbers where there was a significant increase to over 140,000 dealer sales
+in 2021. The 2022 and 2023 data fell to approximately 115,000 and 111,000 sales respectively. Personal
+transfers have hovered between 20,000 - 25,000 transfers per year over the past ten years.
+10 Firearm-Related Activity in MA | EOPSS
+
+Changes in State and Federal Statutes
+There were no changes to firearms laws in 2022 or 2023.
+This section intentionally left blank
+11 Firearm-Related Activity in MA | EOPSS
+
+APPENDIX
+Data Sources:
+NIBRS Data: National Incident Based Reporting System, Massachusetts Executive Office of Public Safety
+and Security (EOPSS). Massachusetts is currently equipped to collect NIBRS data from 317 agencies.
+NIBRS captures the nature and types of specific offenses in the incident, characteristics of the victim(s) and
+offender(s), types and value of property stolen and recovered, and characteristics of persons arrested in
+connection with a crime incident. MA agencies submit their data through an online portal managed by
+Beyond2020. The data is stored in a repository also managed by Beyond2020. The data was queried by
+EOPSS on April 8, 2024.
+Homicides & Suicides with a Firearm Data: OCME Database, Massachusetts Office of Chief Medical
+Examiner. Data was queried from the MA OCME database via the Adapt Analytics Platform.
+Prosecution Data: MassCourts Case Management System, Massachusetts Trial Court. Charges were
+selected from the Massachusetts General Laws where firearms were mentioned.
+Firearm Origin Data: Firearms Tracing System, Department of Justice, Bureau of Alcohol, Tobacco,
+Firearms and Explosives, Office of Strategic Intelligence and Information. Available from:
+https://www.atf.gov/resource-center/firearms-trace-data-massachusetts-2022#total.
+Census Data: State & County Quick Facts, US Census Bureau. Available from:
+http://quickfacts.census.gov/.
+Firearm Licensing Data: Massachusetts Gun Transaction Portal, Massachusetts Department of Criminal
+Justice Information Services, Firearms Records Bureau. Data was queried from databases to determine the
+number of firearm sales, as well as the number of active firearm licenses. The data is available publicly
+from: https://www.mass.gov/info-details/data-about-firearms-licensing-and-transactions#personal-
+transfers,-registrations-&-firearms-reported-lost/stolen.
+12 Firearm-Related Activity in MA | EOPSS
+
+Table 1: Crimes with Firearms Table 1: Crimes with Firearms
+Agency 2022 2023 Total Agency 2022 2023 Total
+Abington 3 8 11 Canton 14 10 24
+Acton 3 2 5 Carver 6 2 8
+Acushnet 1 5 6 Charlton 10 6 16
+Adams 2 2 4 Chatham 2 1 3
+Agawam 19 12 31 Chelmsford 19 8 27
+Amesbury 7 6 13 Chelsea 66 75 141
+Amherst 7 7 14 Cheshire 0 2 2
+Andover 3 3 6 Chicopee 103 88 191
+Arlington 5 3 8 Chilmark 0 1 1
+Ashby 3 1 4 Clark University 2 3 5
+Ashfield 1 1 2 Clinton 1 0 1
+Ashland 8 4 12 Cohasset 0 2 2
+Athol 16 4 20 Concord 3 3 6
+Attleboro 27 27 54 Dalton 8 1 9
+Auburn 8 17 25 Danvers 12 5 17
+Avon 3 0 3 Dartmouth 21 15 36
+Ayer 1 8 9 Dedham 4 8 12
+Barnstable 50 42 92 Deerfield 3 4 7
+Barnstable State Pol 7 1 8 Dennis 9 6 15
+Barre 8 3 11 Dighton 1 9 10
+Bedford 0 2 2 Douglas 4 2 6
+Belchertown 1 12 13 Dover 1 2 3
+Bellingham 8 8 16 Dracut 12 19 31
+Belmont 2 4 6 Dudley 3 8 11
+Berkley 2 2 4 Duxbury 0 1 1
+Berkshire State Police 7 4 11 East Bridgewater 3 11 14
+Berlin 1 0 1 East Brookfield 3 0 3
+Bernardston 2 0 2 East Longmeadow 6 10 16
+Beverly 8 6 14 Eastham 3 0 3
+Billerica 4 5 9 Easthampton 4 5 9
+Blackstone 5 4 9 Easton 19 5 24
+Bolton 1 0 1 Edgartown 2 4 6
+Boston 1,083 972 2,055 Egremont 1 1 2
+Boston University 1 0 1 Environmental Police 11 18 29
+Bourne 10 9 19 Erving 1 0 1
+Boxborough 0 1 1 Essex 1 3 4
+Boylston 1 0 1 Essex State Police 11 27 38
+Braintree 19 16 35 Everett 38 33 71
+Brewster 6 4 10 Fairhaven 10 17 27
+Bridgewater 14 15 29 Fall River 173 186 359
+Bridgewater State Univ 1 0 1 Falmouth 31 20 51
+Brimfield 0 2 2 Fitchburg 88 100 188
+Bristol State Police 9 8 17 Foxborough 10 4 14
+Brockton 291 313 604 Framingham 26 27 53
+Brookfield 2 3 5 Franklin 5 16 21
+Brookline 7 7 14 Franklin State Police 10 6 16
+Burlington 10 8 18 Freetown 7 13 20
+Cambridge 77 61 138 Gardner 11 24 35
+Appendix 1: Firearm-Related Activity in MA | EOPSS Data Source : MA NIBRS Data
+
+Table 1: Crimes with Firearms Table 1: Crimes with Firearms
+Agency 2022 2023 Total Agency 2022 2023 Total
+Georgetown 1 4 5 Lynnfield 2 1 3
+Gloucester 9 6 15 Malden 31 41 72
+Grafton 4 10 14 Manchester-by-the-sea 0 1 1
+Granby 3 2 5 Mansfield 5 9 14
+Great Barrington 3 2 5 Marblehead 3 0 3
+Greenfield 19 29 48 Marion 2 1 3
+Groton 1 0 1 Marlborough 27 19 46
+Groveland 0 1 1 Marshfield 7 14 21
+Hadley 3 1 4 Mashpee 8 1 9
+Halifax 1 3 4 Mattapoisett 2 5 7
+Hamilton 0 1 1 Maynard 1 3 4
+Hampden 5 0 5 Medfield 0 5 5
+Hampden State Police 41 29 70 Medford 16 23 39
+Hampshire State Police 2 9 11 Medway 0 2 2
+Hanover 2 1 3 Melrose 4 2 6
+Hanson 1 2 3 Mendon 3 1 4
+Hardwick 1 2 3 Merrimac 4 1 5
+Harvard 4 0 4 Merrimack College 1 1 2
+Harwich 5 6 11 Methuen 20 23 43
+Haverhill 84 54 138 Middleborough 26 19 45
+Hingham 1 2 3 Middlesex State Police 20 20 40
+Holbrook 11 6 17 Middleton 2 0 2
+Holden 4 5 9 Milford 2 21 23
+Holliston 3 0 3 Millbury 7 9 16
+Holyoke 200 337 537 Millis 3 1 4
+Hopedale 4 3 7 Millville 0 3 3
+Hopkinton 1 1 2 Monson 5 5 10
+Hudson 11 17 28 Montague 2 4 6
+Hull 4 1 5 Nahant 1 0 1
+Ipswich 1 0 1 Nantucket 2 4 6
+Kingston 1 7 8 Natick 11 9 20
+Lakeville 4 2 6 Needham 6 1 7
+Lancaster 4 3 7 New Bedford 218 208 426
+Lanesboro 2 1 3 New Braintree 0 1 1
+Lawrence 151 174 325 New Marlboro 2 2 4
+Lee 1 3 4 Newbury 2 3 5
+Leicester 6 4 10 Newburyport 3 4 7
+Lenox 5 3 8 Newton 7 7 14
+Leominster 28 43 71 Norfolk State Police 10 14 24
+Leverett 1 2 3 North Adams 42 11 53
+Lexington 2 0 2 North Andover 7 5 12
+Lincoln 0 2 2 North Reading 0 3 3
+Littleton 4 3 7 Northampton 8 20 28
+Longmeadow 4 6 10 Northbridge 5 14 19
+Lowell 228 78 306 Northfield 1 2 3
+Ludlow 8 5 13 Norton 7 5 12
+Lunenburg 3 8 11 Norwell 0 1 1
+Lynn 153 108 261 Norwood 12 13 25
+Appendix 1: Firearm-Related Activity in MA | EOPSS Data Source : MA NIBRS Data
+
+Table 1: Crimes with Firearms Table 1: Crimes with Firearms
+Agency 2022 2023 Total Agency 2022 2023 Total
+Oak Bluffs 1 0 1 Sterling 0 5 5
+Orange 7 4 11 Stockbridge 1 0 1
+Orleans 2 0 2 Stoneham 12 2 14
+Oxford 2 5 7 Stoughton 22 36 58
+Palmer 17 13 30 Stow 1 0 1
+Paxton 0 3 3 Sturbridge 7 11 18
+Peabody 22 31 53 Sudbury 1 5 6
+Pembroke 8 4 12 Suffolk State Police 72 60 132
+Pepperell 6 7 13 Sunderland 0 1 1
+Pittsfield 122 71 193 Sutton 3 4 7
+Plainville 3 1 4 Swampscott 4 1 5
+Plymouth 35 27 62 Swansea 9 4 13
+Plymouth State Police 7 17 24 Taunton 21 35 56
+Plympton 2 4 6 Templeton 2 2 4
+Princeton 2 0 2 Tewksbury 22 14 36
+Provincetown 3 3 6 Tisbury 3 4 7
+Quincy 80 66 146 Townsend 3 5 8
+Randolph 19 24 43 Truro 0 1 1
+Raynham 5 9 14 Tyngsborough 4 10 14
+Reading 1 0 1 U-Mass Amherst 0 1 1
+Rehoboth 5 6 11 U-Mass Lowell 4 0 4
+Revere 46 44 90 U-Mass Worcester 2 3 5
+Rochester 4 7 11 Upton 7 4 11
+Rockland 9 12 21 Uxbridge 7 5 12
+Rockport 0 4 4 Wakefield 4 11 15
+Rowley 3 0 3 Walpole 8 4 12
+Royalston 1 0 1 Waltham 13 25 38
+Rutland 4 2 6 Ware 12 10 22
+Salem 30 21 51 Wareham 13 16 29
+Salisbury 5 5 10 Warren 4 8 12
+Sandwich 9 11 20 Watertown 6 13 19
+Saugus 22 18 40 Wayland 0 1 1
+Scituate 2 1 3 Webster 26 21 47
+Seekonk 10 10 20 Wellesley 1 0 1
+Sharon 2 2 4 Wellfleet 4 2 6
+Shelburne 0 1 1 Wentworth Inst of Tech 1 0 1
+Sherborn 1 1 2 West Boylston 1 2 3
+Shirley 1 2 3 West Bridgewater 3 6 9
+Shrewsbury 1 1 2 West Brookfield 0 4 4
+Somerset 2 6 8 West Newbury 0 1 1
+Somerville 65 32 97 West Springfield 45 50 95
+South Hadley 12 10 22 West Tisbury 0 1 1
+Southampton 1 1 2 Westborough 3 10 13
+Southborough 8 2 10 Westfield 23 27 50
+Southbridge 36 32 68 Westfield State College 0 2 2
+Southwick 5 2 7 Westford 14 4 18
+Spencer 3 0 3 Westminster 2 2 4
+Springfield 1,042 1,345 2,387 Weston 0 6 6
+Appendix 1: Firearm-Related Activity in MA | EOPSS Data Source : MA NIBRS Data
+
+Table 1: Crimes with Firearms
+Agency 2022 2023 Total
+Westport 7 5 12
+Westwood 3 1 4
+Weymouth 10 29 39
+Whitman 3 3 6
+Wilbraham 16 8 24
+Williamsburg 0 1 1
+Williamstown 2 8 10
+Wilmington 6 7 13
+Winchendon 13 13 26
+Winthrop 10 8 18
+Woburn 12 16 28
+Worcester 448 228 676
+Worcester Polytechnic 4 0 4
+Worcester State 0 2 2
+Worcester State Police 30 20 50
+Worthington 0 1 1
+Wrentham 1 1 2
+Yarmouth 17 18 35
+Appendix 1: Firearm-Related Activity in MA | EOPSS Data Source : MA NIBRS Data
+
+Table 2: Fatal Gunshot Incidents 2022 - 2023 Table 2B: Boston Fatal Shootings 2022 - 2023
+Town 2022 2023 Total BPD District 2022 2023 Total
+BOSTON 34 26 60 A1: Downtown 0 1 1
+SPRINGFIELD 13 32 45 A7: East Boston 0 0 0
+BROCKTON 6 7 13 A15: Charlestown 0 0 0
+WORCESTER 7 5 12 B2: Roxbury 6 6 12
+LYNN 6 5 11 B3: Mattapan 11 8 19
+HOLYOKE 5 3 8 C6: South Boston 0 0 0
+LAWRENCE 4 4 8 C11: Dorchester 9 6 15
+NEW BEDFORD 3 3 6 D4: South End 3 1 4
+CHICOPEE 5 0 5 D14: Brighton 0 1 1
+FALL RIVER 1 3 4 E5: West Roxbury 1 0 1
+PITTSFIELD 4 0 4 E13: Jamiaca Plain 1 3 4
+BRAINTREE 1 2 3 E18: Hyde Park 1 2 3
+LOWELL 2 1 3 Grand Total 32 28 60
+METHUEN 2 1 3 Data Source: Boston PD / BRIC
+TAUNTON 2 1 3
+ANDOVER 0 2 2
+CAMBRIDGE 0 2 2
+DOVER 0 2 2
+QUINCY 2 0 2
+RANDOLPH 1 1 2
+WAREHAM 1 1 2
+BURLINGTON 1 0 1
+CHELSEA 0 1 1
+CHESTERFIELD 1 0 1
+EAST LONGMEADOW 0 1 1
+EASTON 0 1 1
+EVERETT 1 0 1
+FAIRHAVEN 0 1 1
+FALMOUTH 1 0 1
+FITCHBURG 0 1 1
+GARDNER 0 1 1
+HANCOCK 0 1 1
+KINGSTON 1 0 1
+LEXINGTON 1 0 1
+MALDEN 0 1 1
+MANSFIELD 0 1 1
+MARLBOROUGH 0 1 1
+MEDFORD 1 0 1
+MILLIS 0 1 1
+MILTON 0 1 1
+PAXTON 1 0 1
+PEABODY 1 0 1
+PLYMOUTH 0 1 1
+RAYNAHM 0 1 1
+REHOBETH 0 1 1
+REVERE 1 0 1
+ROCHESTER 0 1 1
+SALEM 0 1 1
+SAUGUS 0 1 1
+WALTHAM 0 1 1
+WEST SPRINGFIELD 0 1 1
+WOBURN 0 1 1
+Grand Total 109 122 231
+Data Source: OCME
+*Note - When injury location could not be determined, the hospital
+location was utilized.
+Appendix 2: Firearm-Related Activity in MA | EOPSS Data Source: OCME / BPD - BRIC
+
+[DELETED: r2]
+[DELETED:  F)… p o f o t s a a e o t e o t a h w a f a s w a f w c f t c o r w r f t B o A T F a]
+[DELETED: 3 F w c T d c t i c b r t e a a c o H R a A A w a F a t]
+[DELETED: 4 Fe222m111m605m252l362s2223Tr201n72551e38226y13t11g1482t25254s10e01l13162y67561s36326l68661]
+[DELETED: 5 F s t i o t r w u d g b t 2 I t p7 y2223Tl2n2d121527168n139225651r482866251n213364142e203757358d282846122r131639991e111435821l287836176n131821161d127113461e138811551g881018412y806616146a667511301e776118145l845418698e7260120]
+[DELETED: 6 F a f e y i t C w t a a o a h v beMeFeTe15362e25192l40555e2920212223Tl5e9018121912511e1516141718701l2524262620112]
+[DELETED: 7 F 1 i 2 a 1 i 2 T m c c d n c ae2920212223T 5e2844253228173 1320121817801s1124171015971e2223Tl%t2524594e125170d2729564]
+[DELETED: 8 Fe2223Ts11173 52641n26305l29214e20212223Ts151618104]
+[DELETED: 9 F t f T A t 3 g r i B I M t w a a s i i n l I 2 t we2s8e2e2a1a1t9a6a5e5 . . 1]
+[DELETED: 1 F a D t y 2 o 1 a f f l we292021222s871110131)242425232 CCCCFdT04202541480294244027535832354522275eAe2223TdNw18173sNw38356sNw00nNw95182s31306dRl10113sRl50541sRl00nRl26295s56541s87941]
+[DELETED: 1 F]
+[DELETED: 1 F a E O o S I a I A f D S & C Q F U C B A f/ h]
+[DELETED: yA223Tl2223TnC81114102nC2562tC561061sC2421mC912311982yC61366751tC71402rC3613881nC3801yC1423dC1210dC41202lC642033oD7275481nD17251251nD0321153rD89481eD0429234lD18961eD311191dD2242nD121312mD81612193tD46381yD2401eE4113111nE0130nE026101yE61430aE5945eE491952nE0124nE3922511yE0111182eE091910hE1113nE0111273eE9163538337rF41010172rF4152913163vF0131205dF2288101eF8171041nF1336426275dF355162eF7141061nF08187132eG7611811243sTSD]
+[DELETED: yA223Tl2223TnL4521rM61531417nM101401yM25591nM2530dM9294821nM0127194dM117142yM1481xM3425nM1113nM0505eM1297016233eM91102rM1342nM2331kM2341dM0411hM61120234lM4541826194mM2320204kM161720nM592212nM03791eM0375731eM3703nM12551nM1172824lN1510hN0124nN781192eN2661rN3728284oN1301eN1143522eN3423rN41034xN38771rN8437110142tN2342115nN02751nN2203nN378202wN6105141lN8783612wN513751gN81101nN3182112132sTSD]
+[DELETED: yA223Tl2223TsS0105eS41110sS021221dS5722365rS7133010nS337111yS2315315eS41272601lS71301dS2711334eS1441hS52762941eT172421355nT4622nT0222143nT3634yT0661635hT9244301mT9144101gU0101hU61140eU6449023rU711741dU1221751tW444111yW03841nW0113253dW2612102mW0215113162yW510481hW11206131sW2184001eW1326214kW0102010nW2442eW1110nW1212yW2336yW1204tW6801eW5329745509yW2102201nW123101hW21023275eW6326802kW271441rW0322dW2152706sTSD]
+[DELETED: 223T5110293368218171313208121628286020205117183SD]
+[DELETED: n2223TlTt222N342660n0D133245n0N6713n0R75121y6N65111n11E538n0E4481r9D336d3E505n0R134y1D404n1E123k1L2136l322N21N21R02E02R02Y20H11M11N10A01D10W01N01T10N01H10G01R01K01N10N10N01D01H01D10S01N01N10Y10H01M01H01E10R01M01S01M01D01N01l191223TSD]

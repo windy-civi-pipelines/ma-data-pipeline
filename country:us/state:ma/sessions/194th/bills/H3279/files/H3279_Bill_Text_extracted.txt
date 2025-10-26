@@ -1,0 +1,299 @@
+Title: To the Honorable Senate and House of Representatives of the Commonwealth of Massachusetts in General
+Official Title: To the Honorable Senate and House of Representatives of the Commonwealth of Massachusetts in General
+Number of Sections: 1
+Source: versions - Bill Text
+Media Type: application/pdf
+Strikethrough Detection: 7 sections found
+
+================================================================================
+
+Section 1:
+HOUSE DOCKET, NO. 3762 FILED ON: 1/17/2025
+HOUSE . . . . . . . . . . . . . . . No. 3279
+The Commonwealth of Massachusetts
+_________________
+PRESENTED BY:
+Christopher J. Worrell
+_________________
+Court assembled:
+The undersigned legislators and/or citizens respectfully petition for the adoption of the accompanying bill:
+An Act allowing for fiscal resilience through strategic investment in stable digital financial
+assets.
+_______________
+PETITION OF:
+NAME: DISTRICT/ADDRESS: DATE ADDED:
+Christopher J. Worrell 5th Suffolk 1/17/2025
+1 of 1
+HOUSE DOCKET, NO. 3762 FILED ON: 1/17/2025
+HOUSE . . . . . . . . . . . . . . . No. 3279
+By Representative Worrell of Boston, a petition (accompanied by bill, House, No. 3279) of
+Christopher J. Worrell relative to taxation and investment in digital financial assets. Revenue.
+The Commonwealth of Massachusetts
+_______________
+In the One Hundred and Ninety-Fourth General Court
+(2025-2026)
+_______________
+An Act allowing for fiscal resilience through strategic investment in stable digital financial
+assets.
+Be it enacted by the Senate and House of Representatives in General Court assembled, and by the authority
+of the same, as follows:
+1 SECTION 1. The General Laws are hereby amended by inserting after chapter 64N the
+2 following new chapter:-
+3 CHAPTER 64O. Taxation and Investment in Digital Financial Assets
+4 Section 1. Intent
+5 (a) It shall be the intent of the General Court to authorize the state treasurer and public
+6 pension funds to:
+7 (i) permit the inclusion of bitcoin and other stable digital financial assets to serve as
+8 stores of value and provide a hedge against inflation, thereby protecting the purchasing power of
+9 state funds;
+1 of 6
+10 (ii) ensure that the investment strategies employed by the state treasurer and public
+11 pension funds are aligned with the goal of enhancing the economic security and financial
+12 resilience of the commonwealth; and
+13 (ii) allow flexibility in investment decisions to respond to changing economic conditions
+14 and emerging opportunities that may offer better protection or returns on state funds.
+15 Section 2. Definitions
+16 As used in this chapter, the following terms shall have the following meanings unless the
+17 context clearly requires otherwise:
+18 "Bitcoin", the decentralized digital currency launched in 2009, a digital asset which is the
+19 basis of the Bitcoin exchange traded product which is regulated by the federal securities and
+20 exchange commission.
+21 "Digital financial asset", any digital representation of value that is recorded on a
+22 cryptographically secured distributed ledger of virtual currency, cryptocurrencies, natively
+23 electronic assets including stablecoins and non-fungible tokens or other exclusively digital assets
+24 that confer economic, proprietary or access rights or powers that are not cash; provided,
+25 however, that for the purposes of taxation pursuant to sections 58 to 65C, inclusive, digital assets
+26 shall be considered a cash equivalent.
+27 "Exchange-traded product”, any financial instrument that is approved by the federal
+28 securities and exchange commission, the federal commodities future trading commission,or the
+29 division of banks that is traded on a United States regulated exchange and derives its value from
+30 an underlying pool of assets, such as stocks, bonds, commodities or indexes.
+2 of 6
+31 “Private key”, a unique element of cryptographic data used for signing transactions on a
+32 blockchain, which is known to the owner of the private key.
+33 “Qualified custodian”, any federal or state-chartered bank, trust company or special
+34 purpose depository institution or a company regulated by the state which custodies digital assets
+35 for an approved exchange-raded product.
+36 “Secure custody solution”, a technological product or blended product and service which
+37 has the following characteristics:
+38 (1) The cryptographic private keys that secure digital assets are exclusively known by
+39 and accessible by a government entity;
+40 (2) the cryptographic private keys that secure digital assets are exclusively contained
+41 within an encrypted environment and accessible exclusivelyt via end-to-end encrypted channels;
+42 (3) The cryptographic private keys that secure digital assets are never contained by,
+43 accessible by, or controllable via a smartphone;
+44 (4) Any hardware that contains the cryptographic private keys that secure digital assets is
+45 maintained in at least 2 geographically diversified and specially designated secure data centers;
+46 (5) The secure custody solution enforces a multi-party governance structure for
+47 authorizing transactions, enforces user access controls and logs all user-initiated actions;
+48 (6) The provider of the secure custody solution has implemented a disaster recovery
+49 protocol that ensures customer access to assets in the event the provider becomes unavailable;
+50 and
+3 of 6
+51 (7) The secure custody solution undergoes regular code audits and penetration testing
+52 from audit firms; provided, however, that any identified vulnerabilities shall be promptly
+53 remedied.
+54 Section 3. Imposition; rate; time of payment
+55 (a) Except as otherwise provided in this chapter or any other general law to the contrary,
+56 an excise is hereby imposed upon digital mediums of exchange at the rate of 5 per cent of the
+57 total amount of digital gross revenues in digital currency obtained by a taxpayer. The excise shall
+58 be paid by the taxpayer to the commissioner at the time provided for filing the returns required
+59 by section 16 of chapter 62C.
+60 (b) If a taxpayer received any digital asset as compensation for services or disposed of
+61 any digital asset that was held for sale to customers in a trade or business, the taxpayer shall
+62 report the income as a taxpayer would be required to report other income of the same type.
+63 (c) If a digital financial asset may be loaned without increasing the financial risk of the
+64 state, the state treasurer shall be allowed to loan the digital asset to bring further return to the
+65 state through regulations, rules or guidelines established by the state treasurer.The state treasurer
+66 may, if they deem such action necessary for the protection of the revenue of the commonwealth,
+67 recommend to the commissioner additional regulations for the taxation rate of digital financial
+68 assets, which the commissioner may promulgate.
+69 (d) All sums received by the commissioner under this section shall be distributed,
+70 credited and paid by the state treasurer upon certification of the commissioner to the amount of
+71 the sums received from the sales of digital currency by that taxpayer. A taxpayer seeking to
+4 of 6
+72 dispute the commissioner's calculation of its distribution under this subsection shall notify the
+73 commissioner, in writing, not later than 1 year from the date the tax was distributed.
+74 (e) Any state retirement fund may invest in exchange traded products that have been duly
+75 registered by the federal securities and exchange commission, the federal commodity future
+76 trading commission or the securities division of the office of the state secretary.
+77 Section 4. Application and investment of tax revenue
+78 (a) The state treasurer shall deposit revenue collected pursuant to this chapter, other than
+79 revenue collected pursuant to section 2 of chapter 64H, in the General Fund and it shall be
+80 subject to appropriation. The General Fund shall reimburse whatever fund the qualifying digital
+81 asset was designated to with United States currency.
+82 (b) The state treasurer may invest public funds in Bitcoin from the following funds:
+83 (1) The General Fund;
+84 (2) The Commonwealth Stabilization Fund established pursuant to section 2H of chapter
+85 29;
+86 (3) The State Retiree Benefits Trust Fund established pursuant to section 24 of chapter
+87 32A; or
+88 (4) Any other state fund deemed appropriate as requested by the state treasurer and
+89 approved by the General Court.
+90 (c) The amount of public funds that the state treasurer may invest in Bitcoin shall not
+91 exceed 10 per cent of the total amount of public funds in the applicable account.
+5 of 6
+92 (d) Any digital assets acquired by any of the funds listed in subsection (b) shall be held:
+93 (i) directly by the state treasurer through the use of a secure custody solution; (ii) on behalf of the
+94 state by a qualified custodian; or (iii) in the form of an exchange-traded product issued by a
+95 registered investment company.
+96 SECTION 2. Section 1 shall take effect upon enactment.
+6 of 6
+[DELETED: :D/A:DAEITDSA Dl5k1]
+[DELETED: SfCS(p(ss]
+[DELETED: 0(1p2r3(4a5S6A7c8"9b0e1"2c3e4t5h6s7"8s9d0a]
+[DELETED: 1“2b3“4p5f6“7h8(9a0(1w2(3a4(5m6(7a8(9p0a]
+[DELETED: 1(2f3r4S5(6a7t8b9b0(1a2r3(4s5s6m7r8a9(0c1t]
+[DELETED: 2d3c4(5r6t7S8(9r0s1a2(3(4(526(738(9a0(1e]
+[DELETED: 2(3(4s5r6S]
+
+
+================================================================================
+
+Raw Text:
+HOUSE DOCKET, NO. 3762 FILED ON: 1/17/2025
+HOUSE . . . . . . . . . . . . . . . No. 3279
+The Commonwealth of Massachusetts
+_________________
+PRESENTED BY:
+Christopher J. Worrell
+_________________
+To the Honorable Senate and House of Representatives of the Commonwealth of Massachusetts in General
+Court assembled:
+The undersigned legislators and/or citizens respectfully petition for the adoption of the accompanying bill:
+An Act allowing for fiscal resilience through strategic investment in stable digital financial
+assets.
+_______________
+PETITION OF:
+NAME: DISTRICT/ADDRESS: DATE ADDED:
+Christopher J. Worrell 5th Suffolk 1/17/2025
+1 of 1
+
+HOUSE DOCKET, NO. 3762 FILED ON: 1/17/2025
+HOUSE . . . . . . . . . . . . . . . No. 3279
+By Representative Worrell of Boston, a petition (accompanied by bill, House, No. 3279) of
+Christopher J. Worrell relative to taxation and investment in digital financial assets. Revenue.
+The Commonwealth of Massachusetts
+_______________
+In the One Hundred and Ninety-Fourth General Court
+(2025-2026)
+_______________
+An Act allowing for fiscal resilience through strategic investment in stable digital financial
+assets.
+Be it enacted by the Senate and House of Representatives in General Court assembled, and by the authority
+of the same, as follows:
+1 SECTION 1. The General Laws are hereby amended by inserting after chapter 64N the
+2 following new chapter:-
+3 CHAPTER 64O. Taxation and Investment in Digital Financial Assets
+4 Section 1. Intent
+5 (a) It shall be the intent of the General Court to authorize the state treasurer and public
+6 pension funds to:
+7 (i) permit the inclusion of bitcoin and other stable digital financial assets to serve as
+8 stores of value and provide a hedge against inflation, thereby protecting the purchasing power of
+9 state funds;
+1 of 6
+
+10 (ii) ensure that the investment strategies employed by the state treasurer and public
+11 pension funds are aligned with the goal of enhancing the economic security and financial
+12 resilience of the commonwealth; and
+13 (ii) allow flexibility in investment decisions to respond to changing economic conditions
+14 and emerging opportunities that may offer better protection or returns on state funds.
+15 Section 2. Definitions
+16 As used in this chapter, the following terms shall have the following meanings unless the
+17 context clearly requires otherwise:
+18 "Bitcoin", the decentralized digital currency launched in 2009, a digital asset which is the
+19 basis of the Bitcoin exchange traded product which is regulated by the federal securities and
+20 exchange commission.
+21 "Digital financial asset", any digital representation of value that is recorded on a
+22 cryptographically secured distributed ledger of virtual currency, cryptocurrencies, natively
+23 electronic assets including stablecoins and non-fungible tokens or other exclusively digital assets
+24 that confer economic, proprietary or access rights or powers that are not cash; provided,
+25 however, that for the purposes of taxation pursuant to sections 58 to 65C, inclusive, digital assets
+26 shall be considered a cash equivalent.
+27 "Exchange-traded product”, any financial instrument that is approved by the federal
+28 securities and exchange commission, the federal commodities future trading commission,or the
+29 division of banks that is traded on a United States regulated exchange and derives its value from
+30 an underlying pool of assets, such as stocks, bonds, commodities or indexes.
+2 of 6
+
+31 “Private key”, a unique element of cryptographic data used for signing transactions on a
+32 blockchain, which is known to the owner of the private key.
+33 “Qualified custodian”, any federal or state-chartered bank, trust company or special
+34 purpose depository institution or a company regulated by the state which custodies digital assets
+35 for an approved exchange-raded product.
+36 “Secure custody solution”, a technological product or blended product and service which
+37 has the following characteristics:
+38 (1) The cryptographic private keys that secure digital assets are exclusively known by
+39 and accessible by a government entity;
+40 (2) the cryptographic private keys that secure digital assets are exclusively contained
+41 within an encrypted environment and accessible exclusivelyt via end-to-end encrypted channels;
+42 (3) The cryptographic private keys that secure digital assets are never contained by,
+43 accessible by, or controllable via a smartphone;
+44 (4) Any hardware that contains the cryptographic private keys that secure digital assets is
+45 maintained in at least 2 geographically diversified and specially designated secure data centers;
+46 (5) The secure custody solution enforces a multi-party governance structure for
+47 authorizing transactions, enforces user access controls and logs all user-initiated actions;
+48 (6) The provider of the secure custody solution has implemented a disaster recovery
+49 protocol that ensures customer access to assets in the event the provider becomes unavailable;
+50 and
+3 of 6
+
+51 (7) The secure custody solution undergoes regular code audits and penetration testing
+52 from audit firms; provided, however, that any identified vulnerabilities shall be promptly
+53 remedied.
+54 Section 3. Imposition; rate; time of payment
+55 (a) Except as otherwise provided in this chapter or any other general law to the contrary,
+56 an excise is hereby imposed upon digital mediums of exchange at the rate of 5 per cent of the
+57 total amount of digital gross revenues in digital currency obtained by a taxpayer. The excise shall
+58 be paid by the taxpayer to the commissioner at the time provided for filing the returns required
+59 by section 16 of chapter 62C.
+60 (b) If a taxpayer received any digital asset as compensation for services or disposed of
+61 any digital asset that was held for sale to customers in a trade or business, the taxpayer shall
+62 report the income as a taxpayer would be required to report other income of the same type.
+63 (c) If a digital financial asset may be loaned without increasing the financial risk of the
+64 state, the state treasurer shall be allowed to loan the digital asset to bring further return to the
+65 state through regulations, rules or guidelines established by the state treasurer.The state treasurer
+66 may, if they deem such action necessary for the protection of the revenue of the commonwealth,
+67 recommend to the commissioner additional regulations for the taxation rate of digital financial
+68 assets, which the commissioner may promulgate.
+69 (d) All sums received by the commissioner under this section shall be distributed,
+70 credited and paid by the state treasurer upon certification of the commissioner to the amount of
+71 the sums received from the sales of digital currency by that taxpayer. A taxpayer seeking to
+4 of 6
+
+72 dispute the commissioner's calculation of its distribution under this subsection shall notify the
+73 commissioner, in writing, not later than 1 year from the date the tax was distributed.
+74 (e) Any state retirement fund may invest in exchange traded products that have been duly
+75 registered by the federal securities and exchange commission, the federal commodity future
+76 trading commission or the securities division of the office of the state secretary.
+77 Section 4. Application and investment of tax revenue
+78 (a) The state treasurer shall deposit revenue collected pursuant to this chapter, other than
+79 revenue collected pursuant to section 2 of chapter 64H, in the General Fund and it shall be
+80 subject to appropriation. The General Fund shall reimburse whatever fund the qualifying digital
+81 asset was designated to with United States currency.
+82 (b) The state treasurer may invest public funds in Bitcoin from the following funds:
+83 (1) The General Fund;
+84 (2) The Commonwealth Stabilization Fund established pursuant to section 2H of chapter
+85 29;
+86 (3) The State Retiree Benefits Trust Fund established pursuant to section 24 of chapter
+87 32A; or
+88 (4) Any other state fund deemed appropriate as requested by the state treasurer and
+89 approved by the General Court.
+90 (c) The amount of public funds that the state treasurer may invest in Bitcoin shall not
+91 exceed 10 per cent of the total amount of public funds in the applicable account.
+5 of 6
+
+92 (d) Any digital assets acquired by any of the funds listed in subsection (b) shall be held:
+93 (i) directly by the state treasurer through the use of a secure custody solution; (ii) on behalf of the
+94 state by a qualified custodian; or (iii) in the form of an exchange-traded product issued by a
+95 registered investment company.
+96 SECTION 2. Section 1 shall take effect upon enactment.
+6 of 6
+
+[DELETED: :D/A:DAEITDSA Dl5k1]
+[DELETED: SfCS(p(ss]
+[DELETED: 0(1p2r3(4a5S6A7c8"9b0e1"2c3e4t5h6s7"8s9d0a]
+[DELETED: 1“2b3“4p5f6“7h8(9a0(1w2(3a4(5m6(7a8(9p0a]
+[DELETED: 1(2f3r4S5(6a7t8b9b0(1a2r3(4s5s6m7r8a9(0c1t]
+[DELETED: 2d3c4(5r6t7S8(9r0s1a2(3(4(526(738(9a0(1e]
+[DELETED: 2(3(4s5r6S]

@@ -1,0 +1,576 @@
+The Commonwealth of Massachusetts
+Executive Office of Technology Services and Security
+One Ashburton Place, 8th Floor
+Boston, Massachusetts 02108
+MAURA T. HEALEY JASON SNYDER
+Governor Secretary / CIO
+KIMBERLY DRISCOLL
+Lieutenant Governor
+February 17, 2025
+Matthew Gorzkowicz The Honorable Diana DiZoglio
+Secretary of Administration and Finance State Auditor
+State House, Room 373 State House, Room 230
+Boston, MA 02133 Boston, MA 02133
+Chair Aaron Michlewitz Chair Michael Rodrigues
+House Committee on Ways and Means Senate Committee on Ways and Means
+State House, Room 243 State House, Room 230
+Boston, MA 02133 Boston, MA 02133
+Dear Secretary Gorzkowicz, Auditor DiZoglio, Chair Rodrigues, and Chair Michlewitz,
+Pursuant to Chapter 140 of the Acts of 2024, the Executive Office of Technology Services and
+Security is pleased to provide you with the enclosed report detailing initiatives undertaken by
+EOTSS over the previous 12-month period to modernize the Commonwealth’s information
+technology (IT) infrastructure and enhance its cybersecurity posture.
+I am grateful for your continued partnership with EOTSS. Please feel free to contact Christopher
+Smith at christopher.t.smith@mass.gov should you have any questions about this report.
+Sincerely,
+Jason Snyder
+Secretary and Commonwealth Chief Information Officer
+
+Executive Office of Technology Services
+and Security
+
+Purpose of this Report
+The Executive Office of Technology Services and Security’s (EOTSS) 1790-0100 line item in the Fiscal Year
+2025 operating budget includes language requiring EOTSS to report on various aspects of information
+technology (IT) consolidation initiatives in the Commonwealth under the authority granted by Chapter
+64 of the Acts of 2017 – which established EOTSS as the lead IT secretariat for the Executive Branch.
+“and provided further, that not later than February 17, 2025, the executive office shall submit a report to
+the executive office for administration and finance, the state auditor and the house and senate
+committees on ways and means that shall include, but not be limited to: (i) financial statements detailing
+savings and, where applicable, additional expenses realized from the consolidation of information
+technology services within each executive office and other initiatives; (ii) efforts being taken to ensure
+the compatibility and interoperability of agency systems and to consolidate relevant data between
+agencies; (iii) the number of personnel assigned to information technology services within each executive
+office; (iv) efficiencies that have been achieved from the sharing of resources; (v) the status of the
+centralization of the commonwealth's information technology staffing, infrastructure and network and
+cloud hosting; (vi) the status of the commonwealth's cybersecurity; and (vii) strategies and initiatives to
+further improve the: (a) efficiency and security of the commonwealth's information technology; and (b)
+transparency of the executive office of technology services and security with the general court, other
+executive branch agencies and the general public”
+Introduction
+As the lead enterprise technology organization for the Commonwealth, EOTSS is committed to
+modernizing state-owned IT systems and services, strengthening the Commonwealth’s cybersecurity
+posture, and improving the constituent digital-government experience.
+EOTSS’s enterprise approach is at the heart of how the Commonwealth approaches IT modernization,
+cybersecurity, and the delivery of accessible digital services. By leveraging this enterprise approach, the
+cost advantages achieved by more efficient operations offer greater economies of scale.
+We thank our colleagues in the Legislature for their continued leadership and investment in the
+Commonwealth’s technology and cybersecurity needs. We look forward to continued dialogue with the
+Legislature as we navigate the challenges ahead, in furtherance of our mission to provide IT leadership
+along with secure, quality digital information, services, technology and tools across the enterprise.
+Savings, Efficiencies in Sharing Resources, and Additional Expenses through
+Consolidation
+Contract Management
+To successfully undertake multiple transformational IT projects while also ensuring they each meet the
+requisite security measures, oversight, and cost accounting, methodical contract management is
+critical.
+
+The Contract Management unit provides contract review and contract negotiation services on large-
+scale projects across the Commonwealth at the direction of the Secretary. To date, our Contract
+Management Office has negotiated and established highly discounted enterprise volume license
+agreements with several major software providers, resulting in millions of dollars of annual savings for
+the Commonwealth (e.g. license costs, maintenance, and cost avoidance for deployment).The cost
+avoidance gained in mandating standard data security terms and maintaining up-to-date software
+systems can be measured against the potential damages of a security breach or system failures due to
+unsupported or compromised software. By negotiating Master Services Agreements (MSA) that can be
+used by other agencies within the Executive Branch, EOTSS has saved considerable administrative and
+legal work for other agencies - as well as our bidders and vendors - in preparing bid responses and
+negotiating contracts. For example, a Business Associate Agreement for HIPAA data negotiated once at
+the MSA level applies to any purchases by HIPAA-covered entities within the Commonwealth. While it is
+hard to quantify the hours saved, agencies find value in the existence of a fully negotiated agreement to
+use. This in turn allows agencies to deliver services and software for use by their constituents and/or
+employees in a more time effective manner and with robust privacy and security protections.
+IT Investment Advisory Board
+We are grateful to the full Legislature for its continued leadership and support of both the EOTSS
+operating budget and IT capital authorizations. In particular, IT capital funding is critical for new
+investments and the replacement of outdated legacy IT infrastructure and systems.
+Understanding the critical nature of these IT capital needs, last year the Legislature passed the
+FutureTech Act, a five-year bond authorization that was signed by the Governor in July 2024. We deeply
+appreciate the legislature’s pivotal work to ensure the modernization of our state’s IT capital,
+cybersecurity capabilities and support for IT capital strategic initiatives across the state government
+enterprise.
+The need for IT project funding is significant. In any given year, we receive twice as many requests for
+funding than we can provide. To select which projects move forward, a Board judiciously reviews
+proposals to determine their affordability and feasibility.
+EOTSS chairs the IT Investment Advisory Board through its Office of Capital Planning to oversee the IT
+capital investment portfolio and program management. Composed of executives across the
+Commonwealth with expertise in overseeing large, complex IT portfolios, the Board strategically
+approves capital projects that improve the delivery of government services, taking into consideration
+the project’s risk and respecting the investment of taxpayer dollars. The governance around capital
+spending is well-developed, with clear protocols and methods for evaluating capital requests, and
+collaboration among the board to ensure that IT investments align with IT priorities.
+Once a capital project is approved by the Board, the project performance is evaluated throughout its
+lifecycle. Similar to contract management, common missteps can be avoided if personnel are dedicated
+to guide complex projects. If a project performance is undesirable, the EOTSS Capital Planning office
+may request a project health check. As a result of this well-developed capital investment process,
+projects stay on track, on time, and remain sound investments.
+2 | Page
+
+EOTSS values transparency, and we believe the IIAB, combined with our project management expertise,
+is a successful check to the trust placed in us through these bond authorizations.
+Cloud Computing
+EOTSS continues to collaborate with agency leaders and business application managers to make further
+progress in migrating critical legacy Commonwealth applications and systems to cloud-hosted services
+and other EOTSS-approved hosting options included in our Standard Operating Environment (SOE)
+framework. Cloud migrations and the move to modern hosting solutions are vital tools in the
+government’s ability to ensure critical business applications that power important government services
+remain accessible and resilient.
+All migrations are handled through a “cloud smart” approach, where EOTSS works with agencies to gain
+a full understanding of their business needs while ensuring the continuity of those government services
+to avoid any adverse effects for the constituents that rely on them. Outside of Massachusetts, we are
+seen as a leader in the space of cloud hosting. Last year, Amazon Web Services (AWS) awarded
+Massachusetts with the AWS State and Local Government Champions award for our innovative use of
+AWS Cloud technologies in a way that had a positive impact on state services and citizen engagement.
+We continue to work with our agency partners to identify and prioritize opportunities for further cloud
+migrations and hosting opportunities. Failure of government IT systems are costly, both in terms of a
+temporary inability for constituents to access vital government services and also potential costs
+associated with needed data recovery. Cloud migrations can be viewed as a cost avoidance initiative for
+the Commonwealth and investments in the continuity of government operations and improvements to
+the constituent digital experience.
+Compatibility and Interoperability of Agency Systems to Consolidate Relevant Data
+Between Agencies
+Guided by the vision that data should be a key driver for process, policy and decision-making in the
+Commonwealth, the EOTSS Data Office has some ambitious and exciting goals set for 2025.
+In the last year we established the Enterprise Data Analytics program to improve the
+constituent experience by allowing decision-makers in every Secretariat to access accurate, timely, and
+easy-to-digest data to support the evaluation, analysis, and continuous improvement of Commonwealth
+policies and operations. The program is underpinned by a strong, clear data governance framework that
+ensures the security and reliability of state data when it is being created, stored, and shared between
+agencies.
+We recognize that the importance of measuring and reporting on policy outcomes has never been
+higher. Building an analytics program that focuses on the constituent and how our processes, services,
+and policy impact them is essential. Outcomes rarely are self-contained within one agency, and
+establishing formal processes for both sharing and reporting upon these outcomes is the mission of our
+data and analytics program.
+Providing data governance standards and processes for all secretariats to adhere to, the Data Analytics
+program has been boosted by the continued maturity of the Data Leadership Council, comprised of data
+experts across the Executive Branch, with the goal of aligning our data vision across the enterprise. The
+3 | Page
+
+Data Leadership Council is also actively engaged in efforts to evaluate the current statewide data-
+sharing framework and make iterative improvements to ease the safe, secure integration and use of
+data across state agencies to improve the delivery of state services to residents.
+Massachusetts Data Hub
+The EOTSS Data Office continues to build on the success of the user-friendly Massachusetts Data Hub
+tool to connect researchers and members of the public to data and reports published by Massachusetts
+state agencies. The tool not only allows users to search state resources and data by topic or keyword
+and aggregates state agency-published data and web pages; it also organizes content around topics that
+cut across multiple secretariats, making data easier to find by the general public.
+The Commonwealth's Data Hub remained a highly visited resource for the public, ranking in the top 1%
+of mass.gov visits over the past year. In 2024, EOTSS expanded the Data Hub's capabilities by
+introducing "Sub Hubs," offering a centralized gateway to agency-specific data portals across the
+Commonwealth.
+This year EOTSS fully integrated the MassGIS data hub into the main Data Hub user menu. The MassGIS
+Data Hub serves as a "front door" where users can go to search for public geospatial data services from
+MassGIS and other organizations across the Commonwealth. Anyone can search the Hub for data of
+interest by entering keywords, or by browsing featured content or data categories, with options for
+viewing the items in maps and downloading the data in several formats.
+The Massachusetts Data Hub reflects the Commonwealth’s commitment to sharing data transparently
+and openly to better serve the Commonwealth’s residents, businesses, and visitors. We are continually
+iterating on the success of the Data Hub to integrate more state sources of publicly available data and
+improve the user experience.
+Commonwealth Information Warehouse (CIW)
+The Commonwealth Information Warehouse (CIW) brings together enterprise financial, budget, time
+and labor, human resources, and payroll data that is maintained in separate source applications run by
+independent agencies. This year we plan to migrate the CIW from Redshift to Snowflake, for better
+integration with the enterprise user environment. The CIW provides query assistance to over 2,000
+Commonwealth employee users. Since the modernization has been completed, millions of queries have
+been successfully executed with an average run time of approximately 2 seconds.
+Thanks to this year’s planned Snowflake migration and integration in the EOTSS data analytics program,
+we will improve the availability and reporting capabilities of finance and human resources data for all
+state agencies. Additional benefits will be realized through this migration will include cost savings, data
+sharing across agencies, user environment modernization and standardization, and operating
+efficiencies.
+Executive Branch IT Personnel
+EOTSS remains dedicated to its legislative mandate to consolidate IT personnel under its statutory
+authority. EOTSS continues to make strategic and targeted consolidation efforts that achieve efficiencies
+across the Commonwealth while prioritizing the continuity of vital government service operations for
+the constituents that rely on them. In calendar year 2025 we intend to make significant progress
+4 | Page
+
+consolidating Network and Telecom staff and service management to EOTSS from at least one of the
+three remaining, non-consolidated secretariats, and continue our progress toward full executive branch
+IT staff consolidation.
+The following chart shows the number of IT personnel who support IT infrastructure and business
+applications within each executive office as of February 2025:
+Figure 1
+Secretariat Number of IT Personnel
+DOT 112
+ANF 231
+EEA 44
+EOED 6
+EOE 26
+HLC 6
+HHS 537
+LWD 32
+EPS 27
+TSS 337
+EOVS 1
+TOTAL 1359
+Status of Centralization of Infrastructure, Network, and Cloud Hosting
+Cloud Hosting
+EOTSS works closely with the Secretariat Chief Information Officers (SCIOs) and business application
+owners at Executive Branch secretariats to best understand their business needs and prepare for lift and
+shift, lift and optimize, and complete re-platform transformations of Commonwealth systems to the
+cloud to ensure continuity of those government services.
+Cloud migrations and hosting benefit from improved cybersecurity through more routine backups, high
+availability, resiliency, fewer individual points of failure, and specialized security capabilities. Utilizing
+the Cloud also offers improved environmental resiliency, as the consolidated hosting footprint allows for
+green energy usage, lower electricity consumption, and lower carbon emissions than maintaining
+several traditional on-premises data centers.
+5 | Page
+
+Since 2017, EOTSS has coordinated the migration of over 500 Commonwealth applications and
+platforms to the cloud services hosting model. Over the past year, EOTSS collaborated with our agency
+partners to complete the successful migration of several key Commonwealth applications. This effort
+has allowed us to decommission 117 outdated physical servers and remove 20 racks from MITC data
+center. We are continuing progress toward reducing the application, server and rack footprint in EOTSS’
+Chelsea data center.
+Network and Infrastructure
+As EOTSS promotes information sharing and privacy, a key component of that playbook is to deploy
+hardware, software, and tools that promote data security, collaboration, and mobility – all vital in the
+continuity of government services. EOTSS is committed to operational excellence and efficiency through
+the centralized management of information technology standards, infrastructure, and service delivery.
+Throughout 2025, EOTSS will also continue with its consolidation of executive office information and
+technology services, bringing the benefit of standardization and economy of scale to purchasing and
+service delivery.
+While some Executive Branch entities still operate distinct data centers and networks, EOTSS is working
+to transfer that infrastructure to the center through the One Network program. Enterprise Information
+Security policies and standards are published for the entire executive branch and any other agencies
+that rely on EOTSS services. Any executive office maintaining a separate environment from EOTSS must
+adhere to those security policies and standards. Through the Enterprise Risk Management office, EOTSS
+reviews and updates those critical policies and standards on an annual basis.
+Cybersecurity
+Security Operations Center
+The security of the Commonwealth’s IT infrastructure, networks, and data remains a top priority.
+Through the support of trusted vendors, the unified Commonwealth Security Operations Center, or SOC,
+continues to expand its capacity and service offerings to monitor, alert, respond to, and mitigate
+cybersecurity threats across the Executive Branch. Guided by the Enterprise Security Incident Reporting
+and Response Framework, the SOC receives all incidents reported by executive branch agencies, and can
+receive reports from municipalities and independent agencies as another layer of security awareness
+that is mutually beneficial. In addition to the Incident Reporting and Response Framework, EOTSS
+maintains the publication of other security policies, standards, guidelines, and administrative directives
+as part of the Standard Operating Environment (SOE), including end-user hardware and software
+standards.
+Enterprise Risk Management Program
+The Commonwealth’s Chief Risk Officer and Chief Information Security Officer works with the Chief
+Information Security Officer (CISO) Council, a peer-to-peer network of risk and security professionals
+comprised of representatives from the Executive Branch, Judiciary, Constitutional Officers, and
+Independent Agencies. Vulnerabilities are regularly identified by the Commonwealth SOC and then fed
+into the CISO Council to remediate through a vulnerability management lifecycle program. Last year
+EOTSS set an aggressive goal to reduce critical vulnerabilities from the July 2023 baseline and
+successfully reduced such vulnerabilities by 41% (15284 to 9055) while increasing the sample size (total
+6 | Page
+
+scanned assets increased by 16% from the baseline during this time). EOTSS’ mitigation velocity, the
+number of vulnerabilities eliminated within 30 days, increased by 297% when comparing January 2024
+to January 2025.
+EOTSS also frequently engages with cybersecurity stakeholders across all levels of government to both
+lead and participate in cybersecurity tabletop exercises that simulate ‘real world’ security events with
+agency and secretariat business users, the vendor community, municipalities, and our state partners.
+In a nation-leading effort to enhance the Commonwealth’s ability to prepare for, respond to, mitigate
+against, and recover from significant cybersecurity incidents, the Massachusetts Cyber Incident
+Response Team (MA-CIRT) was established in December 2022. Comprised of members from across
+EOTSS and the Executive Office of Public Safety and Security, the MA-CIRT ensures the continuity of
+government and government services, public safety, public health, economic security, and the risk of
+any loss of public confidence potentially resulting from significant cybersecurity incidents.
+The MA-CIRT has developed and maintains a Cyber Incident Response Plan for the
+Commonwealth. Tested through several tabletop exercises each year, the Cyber Incident Response Plan
+ensures that the Commonwealth’s leadership is informed of ongoing and pending cybersecurity
+incidents or threats and guides the deployment of resources to rapidly respond to and minimize the
+impact of significant cybersecurity threats. The collaboration built between technology and public safety
+experts is a unique – and effective - model in the nation.
+Third-party vendor risk remains a potential threat to the Commonwealth. Accordingly, our Office of
+Enterprise Risk Management (ERM) is now requiring cloud service providers to respond to an
+information security risk assessment as part of its Vendor Risk Management program. This program is
+overseen in coordination with our Procurement and Contract Management teams.
+The Application Security Center of Excellence was created to evaluate the security of software and
+applications purchased and renewed across the Executive Branch and aligns with the ERM’s vendor risk
+management program. The security risk assessments include static and dynamic code analysis and
+penetration testing. These investments are designed to enhance the Commonwealth’s security posture
+by mitigating third-party risk.
+Privacy Program
+Protecting the Commonwealth’s data is of paramount importance to EOTSS. To that end, our Privacy
+Office has been using a Privacy Impact Assessment, or “PIA,” to facilitate the identification and
+resolution of data protection and privacy concerns to address the growing threat of data breaches and
+the risk to Commonwealth and constituent data. The Privacy Office has been overseeing a pilot program
+in collaboration with our risk and security teams to assess privacy risks during the contracting and
+development stages using this new PIA tool. This program allows the Privacy Office to assess privacy
+risks for new contracts and projects and develop mitigation strategies to protect Commonwealth data.
+We continue to engage with state agency partners to promote data privacy within state
+government. The Commonwealth Chief Privacy Officer leads an Enterprise Privacy Council consisting of
+privacy and legal experts from across state government to meet on a monthly basis with the goal of
+information sharing and building our privacy maturity. The Privacy Office, in collaboration with the
+Council, has developed a privacy policy designed to set baseline standards for privacy protection across
+7 | Page
+
+the Commonwealth and fill in the gaps within the existing statutory framework. The Privacy Office has
+also developed an AI Policy to standardize AI use in the Commonwealth with the goal of promoting
+innovation while setting necessary guardrails to address privacy and legal risks. To complement this
+effort, last year EOTSS established the AI Center of Excellence, one function of which is to continually
+iterate on these frameworks, mitigate risk, and provide legal leadership to state government to ensure
+continued understanding and compliance with evolving federal and state guidance on AI frameworks.
+State Cybersecurity Awareness Training
+The Commonwealth provides cybersecurity end-user awareness training to all Commonwealth Executive
+Branch employees to ensure they are equipped with the knowledge to remain vigilant and avoid falling
+prey to potential cyber threats. By training our workforce, we essentially expand the number of the
+Commonwealth’s cybersecurity team from a couple dozen to tens of thousands of employees. EOTSS
+supplements its cybersecurity training with enterprise phishing simulation exercises to gain a better
+understanding of the Commonwealth’s endpoint vulnerabilities and to enhance its training materials.
+With the issuance of Executive Order 602 establishing the Massachusetts Cyber Incident Response Team
+(MA-CIRT), all executive department personnel are required to complete the EOTSS-approved security
+awareness training program administered by the Human Resources Division (HRD). In collaboration with
+HRD and secretariat leadership, EOTSS ensures that employees remain in full compliance with this
+mandate. Annual security training is complemented by monthly phishing exercises to all employees to
+simulate real phishing emails, essentially turning the state workforce into a team of cybersecurity
+analysts.
+Municipal Cybersecurity Resources
+In addition to the Commonwealth’s workforce, EOTSS supports opportunities to assist our partners in
+municipal government. EOTSS’ Office of Municipal and School Technology (OMST) oversees the
+municipal cybersecurity training program, which has grown each year since its inception. Now in its sixth
+year, the program is being accessed by over 100,000 employees from over 200 municipalities and public
+school districts. Participants will receive cybersecurity awareness training to better detect and avoid
+cyber threats. The program provides much-needed cost avoidance for municipal organizations by
+utilizing the state’s purchasing power to procure this training on behalf of municipal organizations.
+Coupled with the Community Compact IT Grant Program; the OMST’s no-cost Cybersecurity Health
+Check Program; cyber health services, scanning and penetration testing provided by the Massachusetts
+State Police Commonwealth Fusion Center; and the MassCyberCenter’s planning guidance, the
+Administration offers our partners in municipal government with multiple no-cost resources to shore up
+their cybersecurity capabilities.
+State and Local Cybersecurity Grant Program
+In 2021, the federal government and Congress made a monumental statement by including $1 billion for
+a State and Local Cybersecurity Grant Program in the bi-partisan infrastructure bill. This four-year
+program will provide states across the country with vital resources to improve their cyber defenses. The
+passage of this first-of-its-kind cybersecurity grant program is a clear indication that Congress recognizes
+the increasing threat that municipal governments face from cyber threats.
+8 | Page
+
+In 2022, EOTSS engaged with the Executive Office of Public Safety and Security (EOPSS) and the
+MassTech Collaborative’s MassCyberCenter to lead a legislatively-mandated working group that includes
+municipal representatives and cybersecurity subject matter experts to set the priorities for funded
+cybersecurity grants. In July 2024 the Healey-Driscoll Administration announced the first award of nearly
+$7 million in federal grant funds to local governments and state agencies to enhance cybersecurity
+initiatives and reduce cyber risk for public agencies statewide. A second Application for Grant Funding
+(AGF) is tentatively scheduled to be posted in early summer 2025.
+Transparency with the Legislature, Executive Branch Agencies and the General Public
+Transparency with the Legislature
+In coordination with our partners in the Legislature, EOTSS has developed and implemented systems for
+additional oversight and reporting for IT projects and procurement. For enhanced cost oversight and
+control, any IT project or procurement with expenses over $200,000 made by an executive office or one
+of its’ respective state agencies must be reported to and approved by the Chief Information Officer of
+the Commonwealth.
+Additionally, on an annual basis, EOTSS provides a report to the State Auditor and Legislature detailing
+the complete accounting and justification for all IT expenditures over $250,000. We appreciate the
+opportunity to share this information with the Legislature for increased transparency detailing how
+allocated funds are being invested in the Commonwealth’s IT and cybersecurity infrastructure.
+Reporting on IT expenditures in state government supports the mission of EOTSS and its IT Investment
+Advisory Board to ensure that taxpayer money is being invested wisely to improve the delivery of
+government services and secure the Commonwealth’s IT and data assets.
+Transparency with Executive Branch Agencies
+In 2022, EOTSS successfully launched a new Product and Service Catalog, which allows our agency
+customers to browse approximately 170 EOTSS products and services all in one place on mass.gov. This
+streamlined product and service catalog makes it convenient for customers to leverage EOTSS’ many
+offerings. As an example, customers can make product and service requests through ServiceNow, a
+cloud-based software that allows EOTSS to receive, track, and fulfill customer product and service
+requests.
+Along with the service catalog update, EOTSS recognized that chargeback models were not reflecting the
+full cost of current services, which led to a chargeback modernization initiative. In FY26, EOTSS will
+implement an updated chargeback methodology for products and services consumed by customer
+agencies that more accurately reflects the full costs of products and services provided by EOTSS. This
+modernization effort has led to both the review and recalculation of rates for all existing services and
+the rollout of a number of new chargeback services including, but not limited to, end user support,
+mobile and cellular support, contact center services, an updated network service model, and full
+chargeback for cloud hosting. We partnered with A&F to shift general funds to customer budgets so
+that the total EOTSS funding remains level or slightly decreases, and customer agencies are able to
+afford the cost.
+9 | Page
+
+Transparency with the General Public
+EOTSS has undertaken a number of initiatives to make state government services more accessible and to
+improve transparency between state government and the constituents we all serve.
+These initiatives include:
+Enhancing the Digital Experience for Residents
+Since 2022, EOTSS has been engaged in a multi-year digital roadmap project to provide a simple and
+secure digital experience that adapts to people’s diverse and changing needs. Support for the Digital
+Roadmap has since been bolstered through the capital authorizations in the FutureTech Act, passed in
+2024 by the Legislature.
+Similar to our data reporting effort, the digital services need to shift from a focus on each individual
+agency and instead focus on a user’s experience. The cornerstone of the roadmap is the creation of a
+single, secure user profile that interfaces with various state agency services. By providing a single,
+unified identity across state government, we can better serve the person as an individual and only ask
+them for information once. In the future state, this will allow the resident a better way to track their
+progress, whether they are applying for a benefit or renewing a license, to improve transparency
+throughout the process and alert them proactively when action is needed or the process is
+complete. Users should not need to “know state government” to receive the services available to them;
+it should be simple and straightforward. We are also using this tool to streamline communications,
+making meaningful engagements across different channels, like SMS texts, chat and live agent, and
+getting residents’ feedback to inform future opportunities. Concurrently, we aim to provide
+personalized user experiences when interacting with the Commonwealth by catering to a resident’s
+unique needs, placing a strong emphasis on the accessibility of our digital services, while using simple,
+concise language to deliver personalized content.
+We are seeing tremendous success as state agency partners are increasingly partnering with the Mass
+Digital team’s expertise in user research and content analysis to keep residents at the center, involve
+them, and elevate their voices in how we design and improve state services. These engagements include
+direct communication with residents who rely on state services, offering increased transparency and
+improved service delivery.
+The second full year of the Digital Roadmap has introduced a period of rapid growth and sustained
+progress. The success of the Roadmap continues to rely on a people-first approach to government
+service delivery, by understanding the needs of our constituents and designing services and technology
+around those needs. EOTSS continues to support agency partners with this endeavor by helping them
+adopt innovative digital solutions, build their capacity to deliver exceptional constituent experiences,
+and take a more holistic approach to service delivery that considers the end-to-end constituent journey.
+Notable program highlights for this year include:
+MyMassGov Portal Launch & Expansion of Single-Sign-On (SSO) & Universal Profile
+The MyMassGov portal officially went live in July 2024, building on the Constituent Single-Sign-On (SSO)
+functionality which now serves nearly 2 million constituents. The portal allows people to easily and
+securely access multiple Massachusetts state programs and applications with a single login and self-
+10 | Page
+
+manage their data including their name, password, email and multifactor authentication settings. The
+MyMassGov team has continued to expand SSO integrations with other constituent facing applications
+which are now accessible through the portal. Notable 2024 additions include: EOHHS’ Virtual Gateway
+(500k users), and Paid Family and Medical Leave (300K users). Looking ahead, planned integrations for
+2025 include MassAbility, MassFishHunt, DUA’s Division Of Occupational Licensure’s Professional
+Licensing System, and EOED’s Business Front Door.
+MyMassGov prepares to launch Identify Verification solution
+Significant progress has been made in efforts to develop an Identify Verification solution through
+MyMassGov, a feature that will allow agencies to verify their users through MyMassGov and ensure that
+personal data is kept safe. Key activities during 2024 include the launch of a central portal for users to
+manage their credentials and access integrated applications, procurement of vendor Zelus to support
+contact center training and management, piloting the use of central profile data to help users complete
+a paid leave application, and procurement of Socure to provide identity verification services. The March
+2025 planned roll out of IDV is a milestone achievement that will offer constituents a secure and simple
+method of verification through the MyMassGov portal, after which they do not have to verify again
+when applying for state services.
+Partnership with Registry of Motor Vehicles (RMV)
+As part of the Digital Roadmap’s Seamless Engagement initiative, EOTSS conducted a deep dive into
+constituent needs, mapping key pain points and identifying engagement opportunities across more than
+a dozen Commonwealth services. This strategic groundwork surfaced an opportunity to partner with the
+RMV to employ a generative AI (GenAI) virtual assistant to support their efforts to enhance customer
+experience ahead of the REAL ID deadline on May 7, 2025. This partnership takes an integrated
+approach that spans content, GenAI-based chat, and staff enablement while building the foundation for
+expanding to other agencies and adding the ability to chat with a live person.
+Partnership with Department of Early Education & Care (EEC) and Executive Office of Education (EOE
+IT)
+As part of the Digital Roadmap’s Life Experience initiative, EOTSS has kicked off a partnership with the
+Department of Early Education and Care (EEC) and the Executive Office of Education Information
+Technology team (EOE IT) to understand and improve the experience of building a career as an early
+childhood educator. Together, EEC and EOE IT in partnership with EOTSS will develop a holistic end-to-
+end “minimum viable experience” for early childhood educators seeking to maintain and grow their
+skills.
+Capacity Building
+A cornerstone of the Digital Roadmap is helping agencies by building capabilities to support and
+maintain high quality digital services through targeted training and resources. This is done through: (1)
+Enablement Engagements where we partner with state organizations to adopt people-centered product
+and service delivery; (2) hosting Communities of Practice, which are interactive forums where
+organization staff collaborate and grow their experience design and research skills; and (3) providing
+resources in the form of guides, tools and operational support to help organizations build teams and
+take action. Since launch of the Commonwealth Digital Roadmap, agency engagement across one or
+11 | Page
+
+more of these enablement levers has expanded to include: Executive Office of Energy and
+Environmental Affairs (EOEEA), Executive Office of Health and Human Services (EOHHS), Massachusetts
+Department of Transportation (MassDOT), Executive Office of Housing and Livable Communities
+(EOHLC), Executive Office of Education (EOE), Executive Office of Economic Development (EOED),
+Executive Office of Public Safety and Security (EOPSS), and Executive Office of Veteran Services (EOVS).
+‘Ask MA’ Chatbot
+The AskMA chatbot quickly connects visitors to Mass.gov with the content and services they are seeking,
+with multilingual capabilities in twenty languages. Ask MA includes an auto-suggestion feature, which
+displays suggested questions if the text the user is entering matches or is similar. Content typed into the
+chatbot helps provide the Commonwealth with important feedback on how constituents are interacting
+with the chatbot, whether they are finding what they are looking for, and what additional responses can
+be added to address the most frequent questions. We have now advanced the language access
+capabilities of the chatbot so that it is available in 20 different languages.
+Ahead of the tax filing season in 2023, the AskMA chatbot offered graphic animation videos explaining
+one of the Department of Revenue’s most frequently asked questions. The feature has received highly
+positive feedback since its implementation, and EOTSS continues to engage with our agency partners to
+find new opportunities to collaborate on this project. The chatbot first integrated with the Registry of
+Motor Vehicles in 2022 to assist customers with frequently addressed issues, a function which has
+allowed RMV employees to focus on more specialized customer service functions.
+Digital Accessibility
+Last year, EOTSS hired Massachusetts’ first-ever Chief Information Technology Accessibility Officer
+(CIAO). She is just the fourth statewide CIAO in the country. In this role, the CIAO chairs the Digital
+Accessibility and Equity Governance Board, established through Executive Order 614 to advance the
+Healey-Driscoll Administration’s goal of providing a more equitable, inclusive, and accessible digital
+experience for everyone, including those who are blind, have low vision, deaf or hard of hearing, and
+other disabilities.
+Under the CIAO’s leadership, this year EOTSS built out the Accessibility Center for Consulting, Education
+and Support Services (ACCESS) Team to provide accessibility expertise and guidance to all state agencies
+and coordinate accessibility initiatives and training throughout the Commonwealth. The team hosts
+regular workshops and office hours, and provides training to executive department staff on a rolling
+basis, to assist agencies in meeting the Administration’s accessibility goals. To date, over 110 technical
+and nontechnical staff from across the executive branch have attended these training sessions and
+office hours.
+To further support the implementation of Executive Order 614, EOTSS has assisted in identifying and
+hiring Secretariat IT Accessibility Officers for EOEEA, EOA&F, EOHHS, and MassDOT. Further, EOTSS will
+be working with EOVS, EOLWD, EOPSS, EOE, and EOHLC to provide them with temporary support until
+they are able to hire. The team also supports the broader equity and language access goals of the
+Administration.
+12 | Page
+
+State Employee Diversity Dashboard
+EOTSS’ Data Team and Mass Digital partnered with the Human Resources Division (HRD) to launch the
+State Employee Diversity Dashboard in 2022. Since its launch, the dashboard has allowed users to
+explore demographic data on the MA executive branch workforce and track the progress toward state
+government’s goals to reflect the diversity of the Commonwealth workforce, and to stand out as an
+employer of choice.
+Data contained in the dashboard includes overall workforce composition, the number of hires,
+promotions, and separations. Demographic data includes gender, race, age group, length of service,
+veteran status, disability status, and more.
+Operational Excellence
+In 2024, EOTSS was able to make major advancements in the efficiency of its daily operations. EOTSS
+provides 24x7 enterprise monitoring services to monitor the health of all infrastructure hardware,
+networks, and applications to identify, predict, and preempt service outages and to notify the
+appropriate stakeholders. Notifications are sent to both the customer and EOTSS when a system is
+critical or down. EOTSS will escalate within the EOTSS Incident Management process, up through the
+Major Incident process, as necessary.
+Incident response took a leap forward by several key metrics. This year, EOTSS reported a reduction in
+Major Incidents from 83 in calendar year 2023 to 60 in calendar year 2024, a 28.57% year-over-year
+improvement. Average major incident duration was also substantially reduced, from 8 hours, 47 minutes
+in 2023 to 4 hours, 53 minutes in 2024, a duration reduction of 55.6%. These improvements translate to
+significantly more reliable state IT systems, and much less outage activity: In 2023 the average outage
+duration per major incident was 15 hours, 47 minutes, and in 2024 that time was reduced to 9 hours, 8
+minutes.
+EOTSS handles a high volume of change request activity; this year, we continued to maintain and
+enhance technology services with a 97.35% success rate on all change activities, improving upon an
+already robust 93% success rate in calendar year 2023. This work ensures continuity of up-to-date and
+enhanced service. This results in 323 such changes monthly, on average.
+Summary
+This year, EOTSS reached major milestones, both operationally and with our IT capital portfolio. We
+made significant and impactful toward mitigating vulnerabilities in our state’s IT systems and further
+developing our incident response frameworks to make our services and residents safer, while ensuring
+service and information continuity from government. We remain committed to the above efforts to
+advance operational excellence, enhance government efficiency, promote cybersecurity in the executive
+branch and with our external partners, and modernize the way the state does business.
+EOTSS is enhancing the delivery of services to our residents through the continued ramp-up of the
+MyMassGov single sign-on solution and adding more business applications and constituent-facing
+services to the portal. Putting to work the capital authorizations in the FutureTech Act will allow further
+13 | Page
+
+progress on the Massachusetts Digital Roadmap, and through the leadership of the first Chief IT
+Accessibility Officer, EOTSS will continue to advance the Healey-Driscoll Administration's priorities of
+equity, accessibility and efficient service delivery. We are moving our artificial intelligence work from the
+development phase to the production environment in order to enhance service delivery, knowing that
+the front door to government is now digital.
+EOTSS remains grateful to the Legislature for the opportunity to highlight some of our successes over
+the past year to modernize and secure the IT infrastructure across the enterprise, in collaboration with
+our IT and business partners from across state government and in the vendor community. We are
+committed to these ongoing efforts to make state government more secure, more accessible, and more
+efficient. We welcome continued engagement and partnership with the Legislature to maintain the
+Commonwealth’s position as a national technology leader.
+14 | Page
+
+[DELETED: 8  YJ         S                          zT    eS 3S   3B   zC   sS 3S   3B   ]
+[DELETED: Page]
+[DELETED: Page]
+[DELETED: Page]
+[DELETED: Page     F N 1 2 4 6 2 6 5 3 2 3 1 1]
+[DELETED: Page]
+[DELETED: Page]
+[DELETED: Page]
+[DELETED: Page]
+[DELETED: Page]
+[DELETED: Page]
+[DELETED: Page]
+[DELETED: Page]
+[DELETED: Page]

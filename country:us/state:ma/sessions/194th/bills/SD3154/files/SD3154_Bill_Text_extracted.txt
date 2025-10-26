@@ -1,0 +1,2179 @@
+Title: The Executive Office of Energy and Environmental Affairs
+Official Title: The Executive Office of Energy and Environmental Affairs
+Number of Sections: 29
+Source: versions - Bill Text
+Media Type: application/pdf
+Strikethrough Detection: 32 sections found
+
+================================================================================
+
+Section 1:
+Flood Risk Mapping
+Resource Assessment
+and Recommendations
+000 Executive Office of Energy
+A Report to the Massachusetts Legislature
+and Environmental Affairs,
+August 2025
+August 2025
+developed this report to review the existing state flood
+risk mapping resources, assess the need for and feasibility
+of creating additional resources, and recommend steps
+towards developing those resources.
+DRAFT Flood Risk Mapping Resource Assessment August 2025
+and Recommendations: A Report to the Massachusetts Legislature
+Draft Report
+August 2025
+Prepared for:
+Joint Committee on Environment and Natural Resources
+Melissa Hoffer, Climate Chief, Office of Climate Innovation and Resilience
+House of Representatives Committee on Ways and Means
+Senate Committee on Ways and Means
+Prepared by:
+Executive Office of Energy and Environmental Affairs
+100 Cambridge Street, Suite 900
+Boston, MA 02114
+Page 1
+DRAFT Flood Risk Mapping Resource Assessment August 2025
+and Recommendations: A Report to the Massachusetts Legislature
+Contents
+I. Introduction .................................................................................................... 3
+II. Review of Existing Flood Risk Mapping Resources.............................................. 3
+A. Federally-Produced Resources............................................................................... 4
+B. State-Produced Resources .................................................................................. 10
+C. Regional and Local Resources ............................................................................. 16
+III. Ongoing State Projects and Initiatives ............................................................ 17
+A. Streamflow Projections and Temperature and Precipitation Projections Update .... 18
+B. MassDOT Highway Division Flooding and Storm Damage Mapper ........................ 19
+C. Groundwater Flooding Risk Assessment and Mapping ........................................ 20
+D. Riverine and Pluvial Flood Modeling and Mapping ............................................... 21
+E. Planning and Coordination: Coastal Flooding Strategy ........................................ 22
+F. Planning and Coordination: Floodplain Framework Development ........................ 22
+IV. Assessment of Needs/Feasibility of Developing New Flood Risk Mapping
+Resources and Recommendations ................................................................ ….23
+A. Consolidated Database of Past Flood Locations; Development of an Online Reporting
+Tool for Crowd-Sourcing Real-Time Flood Locations .................................................. 23
+B. Coastal Flood Mapping Products ....................................................................... 24
+C. Statewide Groundwater Flood Mapping Products ............................................... 27
+D. Statewide Riverine Flood Mapping Products ....................................................... 24
+E. Statewide Pluvial (Stormwater) Flood Mapping Products ..................................... 26
+F. Statewide Compound Flood Modeling ............................................................... 28
+G. Statewide River Corridor Mapping ..................................................................... 29
+H. Statewide Flooding and Environmental Justice Vulnerability Assessment ............. 29
+I. Vulnerability Assessment of the Agricultural Sector to Flooding ........................... 30
+Appendix A – Bill S.2967, An Act Promoting a Clean Energy Grid, Advancing Equity and
+Protecting Ratepayers – Section 125 .................................................................. 32
+Page 2
+DRAFT Flood Risk Mapping Resource Assessment August 2025
+and Recommendations: A Report to the Massachusetts Legislature
+I. Introduction
+Bill S.2967, An Act Promoting a Clean Energy Grid, Advancing Equity and Protecting
+Ratepayers (Climate Bill), signed into law on November 20, 2024, reforms the siting and
+permitting of clean energy facilities, while responsibly reforming the gas distribution system.
+It vastly expands the electric vehicle (EV) charging network, incentivizes innovative
+technologies such as battery storage, fusion energy, advanced metering and meter socket
+adapters, includes measures to protect residents from high energy costs, and equips state
+agencies with the mandate to fight climate change.1
+
+Section 2:
+Section 125 of the Climate Bill requires the Secretary of Energy and Environmental Affairs
+(EEA) to (1) conduct a review of existing flood risk mapping resources, (2) conduct an
+assessment of the need for and feasibility of creating additional flood risk mapping
+resources to identify areas of vulnerability across the Commonwealth, and (3) develop
+associated recommendations, including any legislation or funding necessary, to be
+submitted to the legislature by August 18, 2025. Appendix A includes the full text of Section
+
+Section 3:
+125.
+
+Section 4:
+Section 125 reflects the importance of accurate and comprehensive flood hazard
+information, including mapping, to support a wide range of activities. These include land use
+planning, zoning, infrastructure and building siting, strategy for maintenance and retrofits,
+as well as strategic initiatives to proactively address the evolving flood exposure profile of
+Massachusetts’ existing building stock, infrastructure systems, and natural resources. With
+comprehensive and accurate flood hazard information, these activities can minimize the
+impact of flooding on Massachusetts’ housing stock, infrastructure resilience, public health,
+safety, and financial security.
+To provide the Massachusetts Legislature with the information required under Section 125,
+this Report provides an inventory of and details the scope and limitations of existing sources
+of flood risk mapping resources developed and maintained both within and outside of EEA,
+summarizes ongoing initiatives to develop and / or effectively deploy additional resources,
+and outlines a set of recommendations for funding necessary to effectively support these
+and future efforts.
+II. Review of Existing Flood Risk Mapping Resources
+A multitude of flood information resources exist and are used within the Commonwealth for
+various purposes related to planning, design, communication and risk mitigation. These
+resources address flooding associated with groundwater, rivers and streams, stormwater or
+pluvial (i.e. urban or stormwater), and coastal, tidal, and storm surges.
+1 Commonwealth of Massachusetts Legislature’s Press Room: “Sweeping Climate Bill Passes the
+Massachusetts Legislature”
+Page 3
+DRAFT Flood Risk Mapping Resource Assessment August 2025
+and Recommendations: A Report to the Massachusetts Legislature
+This Report identifies data that are used to calibrate and validate flood models and used to
+map flooding, including data on observed precipitation, streamflow, coastal water level, and
+documented flood locations. The Report also identifies resources that can be used to drive
+flood model runs to map flooding for particular events of interest, for example, the 100-year
+flood. Most importantly, this Report summarizes resources which map past and projected
+future flood risk.
+These resources are produced by federal entities, state entities, local and regional
+governments, as well as private entities and nonprofit groups such as watershed
+organizations. These existing resources and products have been summarized below, where
+they are organized in order of the producer of each resource.
+Many of the flood information resources used broadly in Massachusetts are produced or
+supported by federal sources. These include resources produced by the Federal Emergency
+Management Agency (FEMA), the United States Army Corps of Engineers (USACE), the
+United States Geological Survey (USGS), the National Oceanic and Atmospheric
+Administration (NOAA), and others. Several of these federal flood risk information products
+and supporting resources are under active development and their future release date is
+unknown. A number of flood information resources are produced within the Executive Office
+of Energy and Environmental Affairs and other state agencies, such as the Massachusetts
+Department of Transportation (MassDOT). Flood risk mapping resources are also produced
+by local entities, regional government entities, and nonprofit organizations such as
+watershed groups. These flood information resources reflect the special capabilities,
+capacity, and resources available to their producer, such as local knowledge or insights,
+expertise, and federal resources and standards.
+A. Federally-Produced Resources
+i. NOAA and USGS: Tide Stations
+NOAA and USGS maintain tidal monitoring stations at coastal locations nationwide,
+including several in and near Massachusetts’ coast. Data from the tide stations (6 NOAA, 4
+USGS) are collected and posted publicly in real time; data may be publicly displayed as
+“provisional” until they have been reviewed and quality-checked. Tide station data include
+long-term coastal water level time series. In addition, NOAA provides mean sea level
+estimates and other information on water level variability and record highs and lows.
+Page 4
+DRAFT Flood Risk Mapping Resource Assessment August 2025
+and Recommendations: A Report to the Massachusetts Legislature
+Figure 1: (a) NOAA Tide Gage Locations by Data Monitored; (b) USGS Tide Gage
+Locations
+These data are useful for understanding trends in sea level and tidal variability,
+understanding how storms affect coastal water levels (surge), and supporting coastal flood
+model development.
+ii. USGS: Hydrologic Monitoring Network, High Water Marks and
+StreamStats Application
+USGS monitors
+precipitation,
+streamflow and
+groundwater at over 200
+locations throughout
+Massachusetts funded
+cooperatively by EEA and
+USGS. In addition, as
+part of the streamflow
+monitoring program,
+USGS collects high
+water marks during and
+after flood events.
+Measured data is shown
+on the website in real
+time; data may be
+shown as provisional
+until they have been Figure 2: USGS Stream Gage Locations
+Page 5
+DRAFT Flood Risk Mapping Resource Assessment August 2025
+and Recommendations: A Report to the Massachusetts Legislature
+quality-reviewed, which
+typically happens within
+weeks and up to a few
+months.
+These data are used for
+critical operational
+purposes such as weather
+and flooding forecasting,
+dam management and
+drought monitoring. These
+data are also the basis of
+numerous special studies,
+models and tools that serve
+to understand and adapt to
+a changing climate
+including intense and
+erosive precipitation Figure 3: USGS Groundwater Monitoring Locations By Monitoring Type
+events, flash flooding, and (real-time data collection vs. discrete measurements)
+flash droughts. Other
+important functions that the state performs and for which data are critical include the
+determination of Total Maximum Daily Loads (TMDLs) for polluted water bodies;
+implementation of the Wetlands Protection Act (WPA); implementation of the National
+Pollutant Discharge Elimination
+System (NPDES) permitting; water
+allocation decisions; design of
+roads, culverts, bridges, and septic
+systems; design and review of
+stormwater management systems,
+among others.
+USGS also maintains a StreamStats
+tool that allows users to view
+streamflow statistics, including
+flood flow statistics, at any location
+on a river or stream in
+Massachusetts. These streamflow
+statistics can be used as inputs to
+models that generate maps of
+riverine flooding for particular flood
+flow return periods (e.g. 100-year
+flood, 50-year flood). This tool does
+not currently provide climate-
+informed streamflow statistics.
+Figure 4: StreamStats Tool Example Watershed Delineation StreamStats can be used to identify
+Page 6
+DRAFT Flood Risk Mapping Resource Assessment August 2025
+and Recommendations: A Report to the Massachusetts Legislature
+streamflow statistics which reflect patterns of streamflow, but do not account for trends in
+streamflow over time or future climate change influence on streamflow.
+iii. NOAA: Atlas 14
+NOAA publishes a nation-wide atlas of precipitation frequency relationships. NOAA Atlas 14
+is the latest federal data source of this variety. The statistical estimates published in NOAA
+Atlas 14 are based on precipitation gage data collected through the period of record, up until
+
+Section 5:
+2012. NOAA Atlas 14 Volume 10, which covers northeastern states including
+Massachusetts, was published in 2015 and revised in 2019. Precipitation frequency data
+relate precipitation depths (amount of precipitation, typically in inches) by location,
+duration, and chance of occurrence. Estimates of the depth of precipitation within a
+particular duration (e.g. two hours, 24 hours, etc.) that has a particular chance of occurrence
+or exceedance each year are used in a broad variety of design and risk assessment contexts.
+The estimates assume the chance of extreme precipitation with a particular depth and
+duration are static and have not changed over time.
+Funded by the Bipartisan Infrastructure Law, NOAA has been developing an Atlas 15 which
+would (a) account for trends in extreme precipitation during the period for which gages have
+been collecting precipitation data until present, and (b) develop a methodology for adjusting
+extreme precipitation frequency relationships to account for future trends and climate
+change. Precipitation frequency relationship resources can be used to drive flood models
+and map flooding which would occur under particular precipitation events.
+iv. USACE: National Levee Database
+USACE maintains a database on all known levees in the United States. The database
+includes information on levee age and condition, as well as the areas, populations, and
+assets protected by levees. The data is updated continuously in cooperation with federal,
+state, tribal, and local agencies.
+The database is useful for flood risk management and for configuring hydraulic models that
+may be used to map flooding.
+v. USACE: National Inventory of Dams and Dam Inundation Mapping
+USACE maintains a database of dams nationwide, including both federal- and state-
+regulated dams with either high hazard potential, significant hazard potential, or dams that
+meet specific height and reservoir size requirements. The majority of dams in the database
+are state-regulated. The database is continually updated in cooperation with outside
+entities, primarily state dam regulating entities such as the Massachusetts Office of Dam
+Safety, to improve its completeness.
+Page 7
+DRAFT Flood Risk Mapping Resource Assessment August 2025
+and Recommendations: A Report to the Massachusetts Legislature
+The database includes an interactive web tool allowing users to view areas which could be
+inundated if the dam were to malfunction or fail for some dams in the database. Not all dams
+(especially smaller dams) are included in the database, and not all dams in the database are
+associated with inundation maps in the tool.
+Dams included in the database may be used to support development of hydrologic and/or
+hydraulic models which are used to map riverine flooding. The dam inundation mapping in
+the database, when available, may be used to understand places that could be at risk of
+flooding in the event of dam failure.
+vi. FEMA: Flood Insurance Studies
+FEMA Flood Insurance Studies (FIS) are detailed reports on flood studies conducted by
+FEMA or in compliance with FEMA standards to map FEMA flood zones. The studies, typically
+conducted by county, contain more detailed information on flood risk than typically provided
+in FEMA flood maps. FIS can be consulted individually by county through FEMA’s Map
+Service Center. FIS are paper or pdf documents that include some technical engineering
+maps and cross sections of flood depths at different points along a river or coast. FIS are
+typically conducted and updated county by county. Once published, FIS remain effective for
+decades. The currently effective FIS in several western Massachusetts counties were
+published in the 1980s. Estimates of the 100-year and 500-year flood flow in FIS reports are
+based on variable periods of record. For example, the FIS for Deerfield, MA uses Deerfield
+River streamflow records which begin in 1914 at one gage and 1941 at a second gage; the
+study does not reflect any streamflow data or flood events occurring after 1980, when the
+study was published. Flood flow estimates in the Essex County FIS, revised 2025, are based
+on 14-84 year records from several stream gages for which records exit. Streamflow records
+used in the study begin at points between 1931 through 2001; flood events and stream gage
+data collected after 2015 were not considered.
+These graphics, tables, and charts may be consulted by technical experts to derive forcing
+scenarios for coastal storm surge and/or riverine flood modeling and mapping. Technical
+experts may also use the FIS to develop an understanding of coastal or riverine flood risk at
+a particular point in space.
+vii. FEMA: National Flood Hazard Layer
+The National Flood Hazard Layer (NFHL) is a geospatial database containing maps of flood
+hazard areas identified through FEMA FIS and Letters of Map Change (LOMC). The maps
+delineate areas exposed to a 1% annual chance (100-year flood) and 0.2% annual chance
+(500-year flood) coastal or river flood, as well as several technical/regulatory zones within
+these categories. The floods are mapped using estimates of the chance of flooding based on
+past sea levels and precipitation and streamflow patterns. However, they do not account for
+sea level rise or trends in precipitation or streamflow and do not account for future climate
+change influence on sea levels, precipitation, and streamflow. The products do not map
+Page 8
+DRAFT Flood Risk Mapping Resource Assessment August 2025
+and Recommendations: A Report to the Massachusetts Legislature
+flooding on small streams. The maps also do not represent pluvial (urban or stormwater)
+flooding that is caused by high rates of precipitation away from streams and rivers.
+Haz
+Figure 5: National Flood Hazard Layer detail; Boston Harbor
+FEMA updates the NFHL continuously as new FIS studies and updates are completed. A
+cohesive version of the NFHL for Massachusetts is hosted at MassGIS and updated upon
+request; typically several years apart.
+The FEMA National Flood Hazard Layer is an important digital spatial data resource that
+maps two levels of riverine or coastal storm surge flood risk in a way that is broadly
+accessible. While the primary use case for this dataset is flood insurance regulatory
+information and support, the dataset is also used broadly for understanding areas exposed
+to river and storm surge flood risk.
+viii. FEMA: Non-Regulatory Products
+FEMA has initiated an effort to publish additional flood map datasets as non-regulatory
+products that are not used in insurance determinations. These products include mapped
+flood depth and flood velocity digital spatial datasets based on modeling. Through the Future
+of Flood Risk Data Initiative, FEMA may continue to expand these offerings with additional
+spatial coverage and additional types of mapped flood data and mapped flood scenarios
+provided as raster and network datasets.
+These products include maps of riverine and coastal storm surge flood extent and depth for
+a variety of forcing scenarios. Some products may also map the chance of flooding over
+Page 9
+DRAFT Flood Risk Mapping Resource Assessment August 2025
+and Recommendations: A Report to the Massachusetts Legislature
+space. The products are under development, though none have been developed for
+Massachusetts at this time.
+B. State-Produced Resources
+i. EEA: MyCoast King Tide and Coastal Storm Reports
+In 2009, the Massachusetts Office of Coastal Zone Management (CZM) standardized real-
+time reporting of moderate to major coastal storm damages with the development of an
+online form and database for the Massachusetts Rapid Response Coastal Storm Damage
+Assessment Team. In 2013-2014, the MyCoast platform was launched with mobile
+applications to more broadly collect photos and document flooding and other impacts from
+coastal storms and King Tides (or higher than normal tides). The crowd-sourced database
+includes locations and water levels of impacts. MyCoast data on damages to infrastructure,
+homes, businesses, and natural resources is used to inform emergency response and
+recovery, weather warnings and forecasts, scientific studies and modeling (e.g., storm surge
+and wave overtopping of seawalls), and resilience planning and projects. While MyCoast has
+over 1,500 registered users along the Massachusetts coast, additional coverage is needed
+to support and validate mapping of riverine flooding, pluvial (urban or stormwater) flooding,
+tidal river flooding, and coastal compound flooding. The MyCoast platform does not contain
+any information on storm and flood impacts outside of the coastal region.
+Figure 6: MyCoast Massachusetts mapped coastal storm reports with detail popup from January 13, 2024
+impassable flooding of Summer Street and water flow around/under buildings in Lynn, MA.
+Page 10
+DRAFT Flood Risk Mapping Resource Assessment August 2025
+and Recommendations: A Report to the Massachusetts Legislature
+Reports of flooding in the database may be used to support the development and validation
+of coastal storm surge flood models which map coastal storm surge flood risk, riverine flood
+models which map riverine flood risk in coastal areas, and stormwater models which map
+pluvial flood risk in coastal areas. The flood reports in the database may also be used to
+support the development and validation of flood models that represent interactions
+between each type of flooding (“compound flooding”) which map compound flood risk in
+coastal areas.
+ii.Statewide Flooding and Environmental Justice Vulnerability Assessment
+This project involves collecting existing spatial flood risk information from a variety of
+sources, including the Massachusetts Coast Flood Risk Model (MC-FRM), FEMA flood maps,
+and local stormwater modeling studies and knowledge, and engaging with municipalities
+that contain state-designated Environmental Justice (EJ) neighborhoods to characterize past
+flooding, understand flood issues and potential flood mitigation strategies in those
+communities through a community-driven framework.
+Figure 7: Flood Map Viewer produced by Statewide Flooding and Environmental Justice Vulnerability Assessment.
+Detail: Boston Harbor communities; FEMA National Flood Hazard layer and community-identified flood-prone areas
+shown. Viewer also allows users to view Massachusetts Coast Flood Risk Model (MC-FRM) modeled flooding.
+Page 11
+DRAFT Flood Risk Mapping Resource Assessment August 2025
+and Recommendations: A Report to the Massachusetts Legislature
+This project involved collecting modeled, documented, and crowd-sourced areas prone to
+flooding into a GIS dataset which is framed in a web map product. The dataset combines
+existing modeled coastal flooding, riverine flooding, and pluvial flooding extents created
+through a variety of modeling studies such as FEMA flood maps, MC-FRM products, and
+local/regional hydrologic and hydraulic model studies. Documented flood-prone areas
+produced for municipal Hazard Mitigation Plans, compiled by municipal committees that
+typically include emergency services, public works, and/or city or town engineers are also
+included. Lastly, the data products include the results of a map-based survey distributed to
+participating communities to further identify locations known for flooding.
+These data products are useful for understanding vulnerabilities to flooding at the local level,
+where flooding may occur in the future as identified through the localized studies
+incorporated, and for identifying and prioritizing areas for flood mitigation. The data products
+are also useful supporting resources for flood modelling projects that seek to expand upon
+the types of flooding and scenarios depicted in FEMA flood maps (FEMA maps display
+modeled riverine and coastal flood areas based on historically based static estimates of
+flood probability). Documented areas of past flooding collected through this project,
+especially areas of stormwater flooding, can be used to calibrate and validate hydrologic
+and hydraulic flood models which are used to generate flood maps, especially those
+mapping future flood conditions and stormwater flooding away from rivers, streams, and
+coastal water bodies. The mapped flood areas collected through this project will be used in
+several ongoing state flood modelling projects.
+iii.EEA: Temperature and Precipitation Projections
+In the Climate and Hydrologic Risk Project, EEA collaborated with researchers at USGS, Tufts
+University, and Cornell University to develop resources to help EEA better understand
+evolving hydrologic risks under future climate conditions. Phase 1 of this project developed
+temperature and precipitation projections at a Massachusetts watershed scale.
+Page 12
+DRAFT Flood Risk Mapping Resource Assessment August 2025
+and Recommendations: A Report to the Massachusetts Legislature
+The projections are based on Coupled Model Intercomparison Project (CMIP) 5 climate
+modeling experiments. Projections based on the greenhouse gas Representative
+Concentration Pathway (RCP) 8.5 are posted publicly; projected statistics for RCP 4.5 are
+available upon request. They cover four future decades and include temperature and
+precipitation statistics representing average conditions as well as how both high and low
+extremes (cold and extreme heat; drought and heavy precipitation) may change in the future.
+The projected statistics are applicable to a wide variety of climate adaptation applications.
+Figure 9: Image showing Climate Change Projections Dashboard projected precipitation statistics for Arlington in 2050.
+Figure 8: Estimated annual chance of September 11, 2023 Leominster and North Attleborough precipitation amounts
+based on NOAA Atlas 14 precipitation frequency relationships and Climate-Hydrologic Risk Phase 1 projected
+precipitation design storms for future decades.
+Page 13
+DRAFT Flood Risk Mapping Resource Assessment August 2025
+and Recommendations: A Report to the Massachusetts Legislature
+The projected precipitation design storms are a key input to mapping future precipitation-
+driven flooding, including both riverine and pluvial flooding. These projected values may also
+be used to map compound riverine/storm surge flood scenarios and/or stormwater/coastal
+storm surge flood scenarios.
+iv.EEA: Dam Inundation Mapping
+Massachusetts Dam Safety Regulations, promulgated by the Massachusetts Department of
+Conservation and Recreation (DCR) Office of Dam Safety, require owners of Significant and
+High Hazard Dams to prepare Emergency Action Plans (EAPs). The Office of Dam Safety has
+jurisdiction over dams which are not federally owned. “High Hazard Dams” are dams for
+which dam failure or mis-operation would likely cause loss of life. “Significant Hazard Dams”
+are dams for which dam failure or mis-operation would likely not cause loss of life, but could
+cause economic losses, disrupt lifeline facilities, cause environmental damage, or other
+important impacts. EAPs must contain dam failure inundation maps, which identify areas
+downstream that could be impacted by flooding in the event of a dam failure under different
+scenarios.
+The High Hazard Potential Dam (HHPD) EAP is required to provide both a “Sunny Day” and
+“Wet Weather” Scenario inundation mapping. The term “Sunny Day” scenario represents
+failure or mis-operation impacts when the dam is storing a normal amount of water (“normal
+pool”) and there is no streamflow at the dam at the time of failure or mis-operation. The term
+“Wet Weather” scenario refers to conditions in which dam failure or mis-operation occurs
+during the dam’s design peak streamflow with correlating streamflow downstream of the
+dam. The Significant Hazard Potential Dam (SHPD) EAP inundation mapping is a result of a
+“Max Pool” Scenario, where the dam is storing the maximum amount of water (filled to the
+top of the embankment) and allowed to fail, with no streamflow downstream of the dam prior
+to the dam’s failure or mis-operation. These inundation maps are available in the PDF or
+paper EAP documents and are available to emergency managers and MEMA. They are not
+posted publicly, though members of the general public can access EAPs via public
+information request.
+The Office of Dam Safety is in the process of digitizing EAP inundation maps into digital
+spatial datasets.
+v.MassDOT: Flood Risk Assessment
+MassDOT has an ongoing project (also sometimes referenced as the Climate Adaptation and
+Vulnerability Assessment (CAVA)) that includes modeling projected riverine flooding to
+quantify risks to a range of critical transportation assets and support identification and
+prioritization of capital resiliency investments. The project involves modeling streamflow
+and flow statistics for all Strahler order 2 + rivers and streams in the state, and modeling the
+hydraulics (flow dynamics, flood velocity, and flood inundation) at regular intervals along the
+stream network and in the immediate vicinity of each asset in the project. The modeling uses
+Page 14
+DRAFT Flood Risk Mapping Resource Assessment August 2025
+and Recommendations: A Report to the Massachusetts Legislature
+climate change inputs recommended by the Federal Highway Administration, that are based
+on the 50th percentile of the RCP 8.5 ensemble and the 90th percentile of the RCP 4.5
+ensemble, to model future riverine flooding outcomes under a range of future decades and
+design storms. The project is complete for three watersheds comprising approximately 10%
+of the state and is proceeding for the remainder of the state.
+Products from the project include:
+• Estimates of future flood flows for all Strahler order 2+ streams for a range of time
+horizons and return periods
+• Maps of riverine flood depth, flood extent, flood elevation, and erosion hazard along
+Strahler order 2+ streams for a range of time horizons and return periods
+• Quantification of transportation asset exposure and risk, and identification of higher-
+risk assets
+• Methodologies for evaluating the cost-effectiveness of resilience solutions and case
+study applications at a range of assets
+vi.MassDOT and EEA: Massachusetts Coast Flood Risk Model Data Products
+The MC-FRM was commissioned by MassDOT and developed by the Woods Hole Group
+(WHG) to understand future coastal flood risks to transportation assets under higher future
+sea levels and enhanced coastal storm scenarios. CZM subsequently worked with WHG to
+produce publicly facing data layers, maps, and training materials for broader application and
+coastal risk management. The model was used to create high-resolution flood maps across
+the entire Massachusetts coast that demonstrate (a) annual probabilities of coastal storm
+flooding, and (b) elevations and depths of flooding expected for several specified coastal
+flood return periods under three future time periods and sea level rise combination
+scenarios. The model also produced several outputs related to shorelines and wave action
+for technical users. While focused on sea level rise and storm surge, MC-FRM also
+incorporates freshwater discharge at major estuarine rivers. The model does not currently
+include several other important drivers of coastal flooding which interact with sea level rise
+Figure 10: Map detail from CZM Sea level Rise and Coastal Flooding Viewer depicting annual chance of coastal
+flooding in Boston Harbor communities under a 2050 sea level scenario.
+Pa ge 15
+DRAFT Flood Risk Mapping Resource Assessment August 2025
+and Recommendations: A Report to the Massachusetts Legislature
+and storm surge flooding such as stormwater (pluvial) flooding or groundwater changes
+under future sea level.
+Several state web pages and tools feature MC-FRM-based maps which, under several future
+sea level scenarios, include maps representing coastal storm surge flood probability and
+depth of flooding for selected flood risk levels.
+C. Regional and Local Resources
+i.Municipal Governments: Locally Identified Flood Areas
+Municipalities are required to produce local Hazard Mitigation Plans (HMPs) in order to be
+eligible for FEMA funding; the HMPs must be updated every five years. The HMPs must
+include assessments and mapping of a variety of natural hazards that impact or could
+conceivably impact the municipality and prioritize actions to address these hazards. Part of
+Page 16
+DRAFT Flood Risk Mapping Resource Assessment August 2025
+and Recommendations: A Report to the Massachusetts Legislature
+the process involves documenting areas known to municipal staff to be flood prone.
+Municipal and community surveys on flood-prone locations are also sometimes issued by
+watershed organizations and other regional entities.
+Maps of flood-prone areas are useful for targeting flood risk management measures; they
+may also be used in calibration of flood models. These HMPs may be posted on municipal
+websites and from the Massachusetts Emergency Management Agency (MEMA) by request.
+Locally identified flood area maps in HMPs are available in paper report or pdf report format.
+Spatial data for use in other mapping or analysis applications may be available by request
+from the HMP producer (typically a private consulting firm, a Regional Planning Agency
+(RPA), or in some cases municipal staff).
+ii.Various Local and Regional Entities: Local and Regional Stormwater Studies
+Several municipalities, coalitions of municipalities, and other regional entities such as
+watershed organizations have been conducting their own flood studies to map river and/or
+stormwater flooding in their area. The studies are conducted with a range of goals, which
+include mapping flooding for planning purposes, understanding how to mitigate flooding,
+and others. The studies use a wide range of modeling methods and model a wide range of
+scenarios, including scenarios based on projected climate change.
+Various geospatial datasets and web maps/tools displaying modeled flooding resulting from
+these studies are available publicly or by request. Some examples include products
+developed by the Charles River Watershed Association, Franklin Regional Council of
+Governments, city of Medford, Mystic River Watershed Association, Neponset River
+Watershed Association, and the Metropolitan Area Planning Council.
+III.Ongoing State Projects and Initiatives
+EEA, in coordination with the Resilient Massachusetts Action Team (RMAT), has conducted
+several initiatives which serve to further assess and characterize the state’s existing flood
+risk mapping resources and the need for additional products. These include the
+development of the 2022 Massachusetts Climate Change Assessment, the 2023
+ResilientMass Plan, and engagement supporting the development of the Climate Resilience
+Design Standards Tool, which allows users to screen proposed projects for exposure to
+mapped climate risks including flooding.
+In addition, EEA is currently conducting four initiatives that, combined with the completed
+initiatives mentioned above, provide the inputs to this Report.
+Page 17
+DRAFT Flood Risk Mapping Resource Assessment August 2025
+and Recommendations: A Report to the Massachusetts Legislature
+A. Streamflow Projections and Temperature and Precipitation
+Projections Update
+Summary
+In Phase 2 of the Climate and Hydrologic Risk Project, EEA is updating projected
+temperature, precipitation, and streamflow statistics for Massachusetts. The project relies
+on meteorological and streamflow monitoring data from federal sources, such as the USGS
+stream gage data. Phase 1 of the project developed the projected temperature and
+precipitation statistics that were used in the 2022 MA Climate Change Assessment.
+Phase 2, currently underway, and a first-in-the-nation effort, will update the projected
+temperature and precipitation projections and produce streamflow projections for the first
+time in Massachusetts.
+Phase 2 involves several methodological improvements relative to Phase 1:
+• Phase 2 projections are based on the latest generation of climate model simulations
+from CMIP 6. Phase 1 projected temperature and precipitation statistics were based
+on CMIP 5.
+• Inclusion of additional greenhouse gas concentration scenarios (SSP 5-4.5; SSP
+3-7.0; SSP 5-8.5)
+• Climate model ensemble downscaled to local conditions using improved statistical
+downscaling technique which better accounts for precipitation extremes relative to
+statistical downscaling method available in Phase 1
+• Improved cutting-edge post-processing technique used to generate projected
+statistics, which will account for both thermodynamic changes (change in average
+temperature and impact on extreme precipitation) and dynamic changes to
+Massachusetts climate (accounting for large-scale shifts in weather regimes
+affecting Massachusetts derived from climate model simulations)
+• Improved spatial resolution in the resulting projections
+Relevant Products
+This project will produce updated temperature and precipitation statistics to reflect the most
+recent generation of climate model simulations from CMIP6 and add several new projected
+meteorological and hydrological statistics to the products. These include:
+• Twenty-one new temperature or precipitation statistics
+• Peak streamflow statistics, including the discharge of the 2-, 5-, 10-, 25-, 50-, 100-,
+200-, and 500-year return period flood flows
+• Low flow streamflow statistics, including the 7-day 10-year low flow and the 7-day
+2-year low flow
+Page 18
+DRAFT Flood Risk Mapping Resource Assessment August 2025
+and Recommendations: A Report to the Massachusetts Legislature
+When complete, these projected streamflow statistics (e.g. 2050 100-year flood flow, in
+cubic feet per second) may be used to model riverine flooding under projected future
+scenarios. The projected design precipitation values (e.g. 2050 24-hour 100-year
+precipitation depth) can be used as key inputs to riverine and pluvial (urban or stormwater)
+modeling and mapping studies, as well as compound flood modeling and mapping studies.
+Timeline
+The project will conclude mid-2026.
+Figure 11: Modeled Mean Depth to Groundwater
+B. MassDOT Highway Division Flooding and Storm Damage Mapper
+Summary
+MassDOT is developing a GIS-based application for documenting institutional knowledge of
+Highway Division staff on known areas of flooding and storm damage. The data will be used
+as an additional tool for screening during project development, and to inform other resiliency
+efforts within the Division.
+Timeline
+The application is expected to be completed in December 2025.
+Page 19
+DRAFT Flood Risk Mapping Resource Assessment August 2025
+and Recommendations: A Report to the Massachusetts Legislature
+C. Groundwater Flooding Risk Assessment and Mapping
+Summary
+With increasing precipitation and sea level rise, groundwater elevations are rising and are
+projected to continue to rise under climate change. Groundwater rise impacts include
+flooding of basements, septic systems, water and wastewater infrastructure, and
+underground utilities; damage to foundations; destabilization of roads; mobilization of
+historical subsurface contamination; and drowning of agricultural lands and forests. DCR
+engaged with the University of Massachusetts at Amherst and developed an initial statewide
+groundwater model to estimate average annual, historical and future groundwater depths
+across the state (except the Islands) based on 70 groundwater monitoring points. The
+Massachusetts projections of future precipitation (derived from the Climate and Hydrologic
+Risk Phase 1 project) were used to define future increases in recharge. Sea level rise
+projections were from the same data source as the one used for the MC-FRM.
+Relevant Products
+The project will produce maps and GIS layers of (a) depth to water categories across the
+state under historical and potential future recharge and sea level scenarios, and (b) areas
+where the estimated groundwater levels are likely to cause impacts. Impacts under each
+scenario are assessed for different land uses such as farmland and forests, basements and
+subsurface infrastructure based on building footprints, and EJ populations.
+The project will produce maps of estimated groundwater depth categories under current and
+future conditions showing locations of potential flooding. The project’s estimated
+groundwater levels could also serve as key driving inputs to river and pluvial (urban or
+stormwater) modeling and mapping studies. Future phases may incorporate flood location
+insights from the Flooding and Environmental Justice project.
+Timeline
+Products and reports are expected in December 2025.
+Page 20
+DRAFT Flood Risk Mapping Resource Assessment August 2025
+and Recommendations: A Report to the Massachusetts Legislature
+D. Riverine and Pluvial Flood Modeling and Mapping
+Summary
+This project is a collaborative effort between EEA and the USGS. The most publicly available
+flood maps, produced by FEMA for the National Flood Insurance Program (NFIP), represent
+riverine and coastal flood areas based on static, unchanging estimates of coastal flood risk.
+Flood maps which reflect trends in flooding, future flooding, and pluvial (urban/stormwater)
+flooding away from rivers and streams are necessary to support comprehensive flood risk
+management and climate adaptation in Massachusetts.
+This project aims to develop methods and standards for flood risk modeling and mapping to
+identify areas vulnerable to current and future flooding across the Commonwealth. The
+project will pilot those methods in several hydrologically diverse locations, refine the
+methods based on findings from the pilot, and in FY 2027 will deploy the methods in some
+parts of the Commonwealth, as feasible within project budget and based on findings from
+the pilot phase.
+The project’s direction is heavily informed by a User Advisory Group and a Technical Advisory
+Group. The User Advisory Group is representative of the likely user audience for flood map
+products, such as representatives from multiple state agencies, nonprofit organizations,
+regional entities, and private engineering consultants. The Technical Advisory Group is
+composed of flood modelling and flood mapping experts from diverse backgrounds,
+including federal agencies such as USGS, FEMA, and the U.S. Army Corps of Engineers
+(USACE); state agencies, academia, private research and development, and private
+engineering consultants. The project will incorporate and map flooding caused by the
+projected peak flow statistics and projections developed through the Climate and
+Hydrologic Risk Project, Phase 2. Flood location insights from the Flooding and
+Environmental Justice project and any other documented past flood location mapping will
+be used to validate modelling conducted in this project.
+Relevant Products
+A key outcome of this project is insights from engaging with a broad range of flood map users
+at the local and regional level around needs for projected river and stormwater flood maps
+and data. The project will produce tiered modeling standards, each tier requiring
+increasingly detailed levels of data inputs, for riverine and pluvial flooding, guidelines on
+selecting a modeling standard tier, and riverine and pluvial flood maps across key
+watersheds in the state.
+Timeline
+The project launched in June 2024 and will end in mid-2027.
+Page 21
+DRAFT Flood Risk Mapping Resource Assessment August 2025
+and Recommendations: A Report to the Massachusetts Legislature
+E. Planning and Coordination: Coastal Flooding Strategy
+Summary
+To facilitate planning and coordination along the coastal zone, the ResilientCoasts Initiative
+was launched by EEA’s Coastal Zone Management Office in November 2023 to develop a
+comprehensive framework for coastal resilience. This effort is mapping vulnerability and risk
+across the coast, identifying Coastal Resilience Districts, providing guidance on place-
+based coastal resilience measures, and recommendations for coastwide strategies.
+ResilientCoasts relies on the MC-FRM, which is a dynamic model developed for the
+Commonwealth to project impacts of coastal flooding accounting for sea level rise this
+century. Data products used in ResilientCoasts Phase I include the probability of flooding in
+each year (present day, 2030, 2050, and 2070) and water depths associated with the 1%
+(100-year), 0.5% (200-year), and 0.1% (1000-year) annual exceedance probability levels.
+Relevant Products
+The project involves broad engagement, which will identify (1) existing flood risk mapping
+resources and (2) the need for additional resources. Related work involves development of
+additional geospatial data on future mean high-water shorelines, which could be used to
+map future inundation under higher sea levels.
+Timeline
+The ResilientCoasts Draft Plan was released in May 2025 for public review and comment.
+The plan will be finalized and released in the Fall of 2025. All final data layers associated with
+the plan will be made publicly available via an online map viewer. Additional MC-FRM
+products to support place-based coastal resilience measures including future mean high-
+water shorelines are being developed and are expected to be available Fall 2025.
+F. Planning and Coordination: Floodplain Framework Development
+Summary
+This interagency coordination initiative led by Massachusetts Water Resources
+Commission’s floodplain management staff brings together staff across state agencies and
+executive offices who are involved in floodplain planning and development, flood risk
+management, flood recovery, and flood response for all types of flooding. The project
+synthesized state entity knowledge, practice, needs, and goals for floodplain management
+Page 22
+DRAFT Flood Risk Mapping Resource Assessment August 2025
+and Recommendations: A Report to the Massachusetts Legislature
+and in the coming years seeks to operationalize an inter-agency framework around
+floodplain management.
+Relevant Products
+This effort will generate a report that outlines potential coordination and management
+strategies and include examination of existing resources, regulations, and policies. Over the
+next year, the project will also define roles and responsibilities for the numerous actions
+required to steward floodplains in general and will include floodplain restoration priorities as
+well as flood mitigation priorities.
+Timeline
+The project was launched in 2024. Phase I concluded in FY25; Phase II will begin in 2026.
+IV. Assessment of Needs/Feasibility of Developing New
+Flood Risk Mapping Resources and Recommendations
+As outlined above, over the past five years the state has made several investments in studies
+and projects that have resulted in a better understanding and characterization of
+precipitation and floods in Massachusetts. The products that have been generated are being
+used in state-, regional- and municipal-level planning. Several past and ongoing initiatives at
+EEA have assessed the need for additional flood information resources or are in the process
+of doing so. However, more of such efforts are needed to fully characterize floods and
+develop tools and resources at more local scales to help with planning, design, and
+development of mitigation strategies to deal with floods.
+This section provides an overview of possible additional risk assessment, modeling, and
+mapping resources that could aid in the understanding and mitigation of coastal, riverine,
+pluvial, and groundwater flooding and their combined effects.
+A. Consolidated Database of Past Flood Locations; Development of
+an Online Reporting Tool for Crowd-Sourcing Real-Time Flood
+Locations
+Needs
+Cataloguing location and extent of flooding at the local scale as it occurs and characterizing
+the extent of impacts and losses helps to inform the state’s understanding of flood risk and
+Page 23
+DRAFT Flood Risk Mapping Resource Assessment August 2025
+and Recommendations: A Report to the Massachusetts Legislature
+impacts. Records of past flooding are important resources for calibrating and validating
+flood models, especially models which map stormwater (pluvial) flooding that occurs away
+from rivers and streams. Currently, the MyCoast King Tide and Coastal Storm Reporter tool
+addresses this need in the Commonwealth’s coastal areas and the MassDOT App targets
+flooding which occurs at the agency’s infrastructure, but there is no statewide tool for
+collecting flood impact reports as they occur and no comprehensive statewide database of
+past flood locations. Flood reports in the tool/database could be used to support disaster
+assistance requests, identify priorities for flood mitigation and minimization, and support
+flood modeling studies.
+Conversations on this need and potential next steps have begun among EEA staff; however,
+no funding has yet been identified or project scoped.
+Recommendations
+
+Section 6:
+1. Develop a statewide online flood reporting tool
+
+Section 7:
+2. Collect and standardize locally identified flood area digital GIS data from municipal
+Hazard Mitigation Plans and enhanced by any other local lived experience; post this GIS
+resource on state web platforms such as MassGIS
+B. Statewide Riverine Flood Mapping Products
+Needs
+Across the Commonwealth there is a need for uniform and complete riverine flood maps
+statewide. In addition to uniform coverage and quality statewide which is necessary for
+policy and planning purposes, it is important to many applications of riverine flood mapping
+that riverine flood maps are up to date, cover rivers and streams of smaller drainage area,
+and include a wide range of flood return periods and climate change scenarios. These needs
+have been identified through the development of a MEPA resiliency policy, the ongoing
+development of guidance for siting clean energy infrastructure and housing, 2022 MA
+Climate Change Assessment, the 2023 ResilientMass plan, the development and periodic
+re-assessment of the Climate Resilience Design Standards tool, and through other
+initiatives. The needs have been further defined and clarified through initial engagement for
+the Riverine and Pluvial Flood Mapping project.
+FEMA flood hazard areas map the 100- and 500-year flood areas based on past estimates of
+flood risk. The 100-year flood area and FEMA 100-year flood elevations are the basis of many
+existing regulations, including local floodplain ordinances and elevation requirements in
+building code. FEMA provides Flood Insurance Rate Maps (FIRMs), available throughout
+Massachusetts, which can be used to determine whether a site or building is located within
+a flood hazard area. FEMA also provides a FEMA National Flood Hazard Layer (NFHL), which
+maps some of the FEMA flood hazard areas in Massachusetts in a digital format suitable for
+Page 24
+DRAFT Flood Risk Mapping Resource Assessment August 2025
+and Recommendations: A Report to the Massachusetts Legislature
+web mapping. Other flood hazard areas can only be identified by consulting location-
+specific FIRMs in paper or pdf format. Approximate digitizations of these paper flood maps
+exist in these areas, but these may not include full flood zone designation detail and are not
+suitable for site-specific determinations. Other areas of the state not yet covered by the
+NFHL are the subject of recent FEMA flood studies which have not yet been approved by the
+community. It is important to expand the National Flood Hazard Layer to cover all of
+Massachusetts so that the impacts of proposed policy based on FEMA flood zone
+designations may be studied and quantified, for local and community planning purposes,
+and for individuals’ awareness of local flood hazard.
+Because FEMA flood hazard areas are the basis of many policies and regulations which seek
+to protect the Commonwealth from flood damage, but FEMA flood hazard areas are based
+on past estimates of flood risk, it is also important to develop flood maps which account for
+future increases in flooding and area in floodplains under climate change. While mapping
+future 100-year flood elevations is important, it is a time-consuming and expensive
+endeavor. In the meantime, existing FEMA 500-year flood areas and elevations could serve
+as a proxy for greater area exposed to the 100-year flood in the future. While the National
+Flood Hazard Layer does not contain 500-year flood elevations, augmenting existing maps
+of 500-year flood areas with elevations from FEMA Flood Insurance Studies would be
+feasible to achieve within a shorter time frame as a temporary proxy and basis of flood
+adaptation.
+Two ongoing projects highlighted above also address part of this need - the ongoing Climate
+and Hydrologic Risk Project Phase II will develop projected design flood discharge; and the
+Riverine and Pluvial flood mapping project which will model how projected design flood
+discharge translates to flood extent (area of floodplains) and depth. However, the project
+does not have sufficient funding to provide statewide riverine flood mapping coverage. Even
+with funding available, achieving uniform statewide coverage would be a lengthy process.
+Recommendations
+
+Section 8:
+1. Extend the Riverine and Pluvial Flood Mapping project to achieve full statewide
+coverage
+
+Section 9:
+2. Support FEMA Flood Insurance Study (FIS) updates, particularly in Hampshire,
+Hampden, Franklin, and Berkshire counties
+
+Section 10:
+3. Sustain, or if possible, expand funding for MassGIS and EOEEA GIS software and
+personnel to ensure timely updates and functioning web map and data services
+
+Section 11:
+4. Develop publicly available resources for flood elevation of FEMA 500-year flood
+areas
+5, Continue funding for river and stream gages statewide. Fund the addition of new river
+and stream gages at key gaps in the monitoring network for better model calibration
+and validation.
+Page 25
+DRAFT Flood Risk Mapping Resource Assessment August 2025
+and Recommendations: A Report to the Massachusetts Legislature
+C. Statewide Pluvial (Stormwater) Flood Mapping Products
+Needs
+Stormwater flood maps exist piecemeal statewide as the result of local and regional
+modeling projects; however, coverage is very limited spatially and the modeling methods
+and modeled scenarios vary widely. Pluvial flood data products that map a wide range of
+storm scenarios and return periods, map climate change scenarios, and which are produced
+using a standard set of methods are needed. This need for pluvial flooding was identified
+through the 2022 MA Climate Change Assessment and 2023 ResilientMass plan, the
+development and periodic reassessment of the Climate Resilience Design Standards tool
+(used for screening projects for climate risks and making initial climate-informed design
+recommendations), in the Floodplain Framework effort, and other initiatives. The needs
+were further refined and clarified through initial engagement for the Riverine and Pluvial
+Flood Mapping project.
+The ability to provide statewide pluvial flood mapping products is contingent on several
+ongoing products, including (1) the ongoing Climate and Hydrologic Risk Project Phase II,
+which will develop projected design precipitation events, and (2) the Riverine and Pluvial
+Flood Mapping project, which will establish a standard for pluvial flood mapping and develop
+pluvial flood maps in several locations within the Commonwealth. However, the project
+does not have sufficient funding to provide statewide pluvial flood mapping coverage, and
+the lack of detailed digitized stormwater infrastructure information statewide limits the
+ability to map flood risk accounting for this infrastructure.
+Recommendations
+
+Section 12:
+1. Support the development of municipal stormwater infrastructure data through a
+grant program, potentially as part of an existing related program. These data are key
+inputs for pluvial flood modeling which require information on stormwater
+infrastructure location, elevation, shape, and size. Municipalities rarely have these
+data available (i.e., they mostly only have location data) in an electronic/digitized
+form.
+
+Section 13:
+2. Extend the Riverine and Pluvial Flood Mapping project to achieve greater statewide
+coverage of pluvial flooding. We also recommend providing the modeling standards
+produced through the project as part of state solicitation materials for grants that
+fund flood studies so that all such flood studies are compatible and can be integrated
+into statewide flooding platform produced through the Riverine and Pluvial Flood
+Mapping project
+Page 26
+DRAFT Flood Risk Mapping Resource Assessment August 2025
+and Recommendations: A Report to the Massachusetts Legislature
+D. Coastal Flood Mapping Products
+Needs
+The ResilientCoasts Initiative and other statewide initiatives, such as MassDEP’s wetlands
+regulations update process, identified several needs regarding coastal flood mapping
+resources:
+• Additional technical analysis to improve and update MC-FRM with additional data
+and information
+• Incorporation of coastal water conduit and infrastructure in the MC-FRM to better
+reflect the hydraulics and extent of coastal flooding in future coastal flood maps
+• Regularly update MC-FRM so that it may be more suitable as a basis for coastal
+regulations
+• Mapping of compound flood risk that can be incorporated into later phases of
+ResilientCoasts and used to update municipal and regional flood risk2
+Recommendations
+
+Section 14:
+1. Conduct additional technical analysis to improve and update the MC-FRM with additional
+data and information. Update the MC-FRM with additional water infrastructure
+information and future coastal flooding.
+E. Statewide Groundwater Flood Mapping Products
+Needs
+Initial results from the Statewide Groundwater Flooding Risk Assessment and Mapping
+project established that modeling at the statewide scale with a static groundwater model
+that estimates average annual levels yields too much uncertainty to provide design
+appropriate estimates of current and future groundwater levels. There is a need for
+statewide, groundwater flood mapping products that are of sufficient temporal and spatial
+resolution to inform siting, assess impacts, and develop adaptation policy and design given
+the extensive potential impacts of groundwater rise on subsurface infrastructure (utilities,
+septic systems, basements, foundations), historical contaminant mobilization potential and
+loss of arable lands and forests.
+2 Referenced below under “Compound Flooding” needs.
+Page 27
+DRAFT Flood Risk Mapping Resource Assessment August 2025
+and Recommendations: A Report to the Massachusetts Legislature
+Recommendations
+
+Section 15:
+1. Enhance the statewide model from static to transient to allow for the estimation of high
+groundwater levels rather than only average annual levels. This model and its results will
+provide a near-term product with statewide coverage that can guide adaptation planning
+or be downloaded and further refined by local entities to estimate groundwater levels with
+sufficient accuracy for adaptation design
+
+Section 16:
+2. Conduct high temporal and spatial resolution modeling to determine appropriate
+regional scale for models that will produce groundwater level estimates of sufficient
+accuracy to support adaptation design
+
+Section 17:
+3. Build out coverage of the state using high resolution modeling to provide future
+groundwater level estimates accurate enough for adaptation design.
+
+Section 18:
+4. Publish all groundwater elevation maps and guidance on their use in flood adaptation to
+the ResilientMass Maps and Data Center in user-friendly web tools. Publish all models as
+downloadable files for site-specific use.
+
+Section 19:
+5. Continue full funding for groundwater monitoring wells and expand the groundwater
+monitoring network with sites at current gaps.
+F. Statewide Compound Flood Modeling
+Needs
+Flood maps representing areas at risk of flooding caused by compound riverine and coastal
+flood events are needed for flood risk management in coastal areas. This need was identified
+through the Riverine and Pluvial Flood Mapping Project, which will account for interactions
+between riverine and pluvial (urban or stormwater) flooding and coastal water levels through
+a simplified methodology, as well as through the ResilientCoasts initiative modeling.
+The need is being partially addressed by the Riverine and Pluvial flood mapping project;
+however, (1) that project does not have sufficient funding to provide statewide riverine flood
+mapping coverage, and (2) the project is taking a simplified approach to modeling the
+interaction between river and stormwater flooding and high coastal water level, and more
+detailed modelling of compound flood processes may be needed to better support decision-
+making.
+Recommendations
+
+Section 20:
+1. Further clarify the need for compound flood map resources, if any, beyond those to
+be produced through the Riverine and Pluvial Flood Mapping project through
+initiatives such as the ResilientCoasts Strategy and ResilientFloodplains initiative.
+Page 28
+DRAFT Flood Risk Mapping Resource Assessment August 2025
+and Recommendations: A Report to the Massachusetts Legislature
+
+Section 21:
+2. Ground-truth the compound flood maps developed through the Riverine and Pluvial
+Flood Mapping project relative to documented past compound flooding through the
+MyCoast coastal storm impacts database, the Flooding and Environmental Justice
+project, and any other sources of information on past flooding.
+
+Section 22:
+3. In future phases of the Massachusetts Coast Flood Risk Model (MC-FRM)
+development, assess opportunities to incorporate more robust representation of
+compound flooding processes and develop detailed cost estimates for doing so in
+future model and map updates.
+G. Statewide River Corridor Mapping
+Needs
+Studies and maps depicting areas where rivers could migrate to in the future given existing
+fluvial geomorphologic trends are needed. This need was identified through the Riverine and
+Pluvial Flood Mapping project; however, work to address this need is not within the scope of
+that project. Maps showing where river corridors could shift given natural processes, and
+increased precipitation causing erosion, sediment transport, etc. are important resources
+for local and regional land use planning.
+Recommendations
+
+Section 23:
+1. Review river corridor mapping methods applied in other New England states and
+refine methodology for Massachusetts’ needs
+
+Section 24:
+2. Develop the maps depicting the migratory path and extent of the changing river
+corridors over time
+
+Section 25:
+3. Establish a pathway toward incorporating river corridor migration areas in state,
+regional, and local land use planning
+H. Statewide Flooding and Environmental Justice Vulnerability
+Assessment
+Needs
+The Statewide Flooding and Environmental Justice Vulnerability Assessment Project, that
+concluded June 30, 2025, established an approach for engaging with environmental justice
+communities, built collaborative networks, and began building a statewide crowd-sourced
+flood map database. The Project identified the following main needs:
+(1) Continue community engagement in the three pilot communities that are part of the
+current study. Add additional pilot communities with high flood vulnerabilities.
+Page 29
+DRAFT Flood Risk Mapping Resource Assessment August 2025
+and Recommendations: A Report to the Massachusetts Legislature
+(2) Collaborate with local colleges and universities to leverage existing engagement and
+flood assessment tools, thereby fostering academic partnerships and expanding
+direct community support.
+(3) Expand the approach (that is currently focused in EJ areas, which are primarily urban
+and suburban areas) to rural communities vulnerable to flooding. Collect existing
+flood maps and community knowledge of flood-prone areas and develop mitigation
+designs tailored to the unique challenges and characteristics of rural environments3.
+Recommendations
+
+Section 26:
+1. The project should continue to build upon the successful foundational work over the
+past two years, emphasizing deeper community engagement, the specific needs of
+rural communities, project implementation, and knowledge transfer. Future work
+should include additional pilot communities, characterizing flood vulnerabilities in
+rural communities, and engaging with local institutions.
+I. Vulnerability Assessment of the Agricultural Sector to Flooding
+Needs
+The agricultural sector has been impacted by precipitation-driven flooding throughout
+Massachusetts’ history and during recent events such as Hurricane Irene and the floods of
+July 2023. It can be desirable to locate crop lands near rivers, as floodplains such as but not
+limited to the Connecticut River Valley contain fertile soil and topographically favorable land
+for farming. However, the vulnerability of farms in these areas to floods increases as the
+Northeast US faces more frequent and severe intense precipitation.
+Recommendations
+
+Section 27:
+1. Engage the agricultural sector in ongoing flood vulnerability assessment and
+planning efforts as well as flood map resource development projects to ensure that
+policy, executive actions, and new data products reflect the needs of the agricultural
+sector to address flooding.
+
+Section 28:
+2. Further clarify the need for flood map resources in the agricultural sector through
+state planning initiatives,
+3 Documentation of flood-prone locations in rural areas would support ongoing flood modelling and mapping
+initiatives including updates to the MC-FRM and riverine and pluvial flood mapping.
+Page 30
+DRAFT Flood Risk Mapping Resource Assessment August 2025
+and Recommendations: A Report to the Massachusetts Legislature
+Conclusions
+Over the last 10 years Massachusetts has taken significant steps to understand and
+characterize floods and strengthen floodplain management in response to changing
+precipitation patterns and increased flood risks. High-intensity, short-duration storm events
+are now among the most pressing natural hazards facing the Commonwealth—an issue
+highlighted in the ResilientMass Plan. Recognizing this, state agencies have been prioritizing
+projects and programs and have been coming together to align flood-related policies, data,
+and planning efforts.
+This report provides a summary of existing and available data, maps and products related to
+precipitation, streamflow and flooding that are readily available to state agencies and the
+public. The report also provides a summary of several ongoing studies and projects that are
+developing cutting-edge and state-of-the-art methods and products as building blocks that
+showcase existing and future riverine, pluvial (urban), and groundwater flooding. EEA and
+MassDOT have invested significant resources through dedicated staff time and their capital
+and operating budgets, along with some federal support to develop these products. We have
+made noted strides and progress and have developed mapping resources and tools for
+better planning and management of floods across the Commonwealth.
+However, it will take further coordination among state agencies and a combination of funding
+sources in the future to meet the needs and fully realize our vision for Massachusetts
+floodplains - to be healthy, resilient and functionally beneficial for the natural environment
+and all living beings, with no damages to the built environment or the people who are
+impacted by flooding. As we continue to implement the studies highlighted in Section III and
+initiate new projects and studies outlined in Section IV we will look to existing authorizations
+and authorities at EEA. This would include authorization outlined in the Mass Ready Act filed
+by Governor Healey in June 2025, development and implementation of the Resilient Mass
+Plan, implementation of ResilientCoasts, and the other broad authority that Massachusetts
+Water Resources Commission at other programs at EEA currently have related to flood
+management and flood loss prevention. We would also look to future capital, operating
+budgets as well as seek opportunities and resources at the federal level to guide floodplain
+management, and resilience efforts in Massachusetts.
+Page 31
+DRAFT Flood Risk Mapping Resource Assessment August 2025
+and Recommendations: A Report to the Massachusetts Legislature
+Appendix A – Bill S.2967, An Act Promoting a Clean Energy
+Grid, Advancing Equity and Protecting Ratepayers – Section
+125
+
+Section 29:
+SECTION 125. The secretary of energy and environmental affairs shall review existing 2949
+flood risk mapping resources and assess the need for and feasibility of creating additional
+flood 2950 risk mapping resources to identify areas vulnerable to current and future flooding
+across the 2951 commonwealth. 2952
+The secretary shall develop recommendations, including any legislation or funding 2953
+necessary, to support any additional required flood risk mapping resources and shall submit
+its 2954 recommendations to the joint committee on environment and natural resources,
+the climate chief, 2955 the house and senate committees on ways and means and the clerks
+of the senate and house of 2956 representatives not later than 6 months after the effective
+date of this act. The recommendations 2957 shall also be made available to the public on
+the website of the executive office of energy and 2958 environmental affairs
+Page 32
+[DELETED:   ]
+[DELETED:    S M G R P P A o N o D N F R M C C S S S S S S V]
+[DELETED:    S A A P a C E G A E a P v e t e v ( c n i i.  t ( c a r o e fl r m r ( c a o t n f a f o c a fl r m t i a o v a t C a ( d r i a l o f n t b 1 r t i o a a c fl h p t p d c a r m TC o M L P R “ C B P t]
+[DELETED:    r a p b f e s e l a r a w a p e a n g s a w A ( t U S A C o E ( t S G S ( t N O a A s r a u d a t f r d l e r g e a n o s a g T fl i r r t s c o a U m t m s a c l n c w l t s I a N p m s l]
+[DELETED:    d a u f u t i s l a t v.U H M N H W M a m a t f I a a o t s p c h m d a fl e t w i r d m b a p t h b]
+[DELETED:    w h w a u t a f d a u f o s a w fl f m a m T a a t b o s s c c i a p fl fl a d O f t t s p a f w d a c i t o T M D L ( f p w b o t W P A ( i o t N D E ( p w d d o d a r o t a u t v s i a r o s i T s t g m o r p ( 1 c p c s s U G M L B M T]
+[DELETED:   .N N A 1 V 1 w c n s i p d ( o p t i i b l a c o o E o t d o p w a e a t c o e p w a p d a p f r t a f f t a c.U m a d o a k l i t U S T d.U m a d o d n i b f a s s T d i c u i c w o]
+[DELETED:   .F F I S ( d r o fl s c b F fl m F c b c i b c t F M T c e F i s w M c w.F]
+[DELETED:    A t l o r o c s s fl r i a w t i b W t p u c f t d i fl i r.  h i a t p a fl m d a n]
+[DELETED:    T p a u d t n h b d f T I 2 t M p w l w m b a n r i u t i e r a 6 M M m c s r w d p f J 1 2]
+[DELETED:    t d a v o fl m t r i p i c e s fl r i f a v o u fl i a p fl m s i t]
+[DELETED:    h a h m s D fl a fl m o i t f a i t t l s t o fl a s d i F fl m ( m d h p D a o p fl c t t p h fl m w a u t g fl m e t a C U t d r t h E b u]
+[DELETED:    p a b o C M I P ( 5 c e P b o t g g R u r T c f f d a i t a]
+[DELETED:    p t m o t g p c a E v p A ( t i m p r fl t r t a r o c t a s i a  ]
+[DELETED:    t 50 p o t R 8 e a t 90 p o t R 4ht b r p u t f t p a s l r c t u W f o s l r a s s M a]
+[DELETED:    s s fl s a s ( fl o g c f F f t H m b u e fi y T H m a a m o a v o n h t i o c]
+[DELETED:    p i d a k t m s t b fl p t H p ( a p c fi a R P A m c o m a o r e s a s a a p o b r S e i p b t C R W A F R C o c o M M R W A N R m r a t n f a p T i t o t 2 M C C A t 2 S T w u t p p f e t]
+[DELETED:   .S P 2 o t C a H R P E i u p g d P 1 o t p d t p t a 2 c u a a fi e w u t p o a g g c s ( 5 S c p t u t g p a i o e p a d c t c ( f l s i w r]
+[DELETED:    c t p s ( 2 1 fl fl i f p s m b u t m r fl u p f T p d p v ( 2 2 1..M]
+[DELETED:   .G t c t r u c c G r i i o b s s w a w i a u d t f d o r m o t s ( t I b o 7 g m p T P 1 p w u t d f i i r S l r c s l o p fl T p e l c a s a k d i t r a p ( o]
+[DELETED:   .R a v t c a f fl a t C T w p t m i s h d l r t s a r f m s a n o e a p e c T T A G i o fl m a fl m e f d b f a a U F a t U A C o E s a a p r a d a p c T p w i a m fl c b t p fl s a p d t t C a R P P 2 F l i f t F a d T p w p t m s e t r a m s t a r a p fl m a k]
+[DELETED:   .P t c i C R D p g o p c r m a r f c s r o t M w i a d m d f t t p i o fl a s l r p w b m p a v a o m v A M.P i c i l b M W R o w a i i fl p a d fl r fl r a fl r f a t o fl T p]
+[DELETED:    i t c y s t o a i f a e w g a r t o p c a m A o N o D N p t h r i a b u a c o d s H m o s e a n t f c fl a t a r a m l s t h w p d a.C]
+[DELETED:    R o p fl a i r f c a v w o a t a i b t i n s t f D C a s l i fl a d G d f m.S I a t u c q s w i n f b i t t d o a M r p t o o g f s c e i a h 2 M o t C R D S t a t o r l fl o e r i c F p F I R M ( a t]
+[DELETED:    m O fl h a c o b i b c l I i i t e t N F H L t c a o s t t i o p p b o F fl z 1 fl e i i i i a t a e 5 fl a w e f F F I S w b a w a s t f a a p a b o fl m E t R a P F M p t a f s S F F I S ( u p i H S D p a r f fl e o F 5 fl C]
+[DELETED:   .S fl m e p s a t r o l a r m t 2 M C C A a 2 R p t i t F F e a o i T n f r a c t i f t R a P a t p p fl m p i o s fl m i s l w t C H p l o d d s i i s l t S t d o m s i d t a f p fl m w r i o s E s fl p p t t a P F]
+[DELETED:   .C u p i s n r c fl m u M s i m b m s a a b c o c fl r t c b i i l p ok  C a i U t M w a w i.S r f t S G F R A a M e a a l y t m u t p d e o c a f g l T i a n f]
+[DELETED:    E C h t a s r m t d a s f m t w p g l e o s B o c o t s u h r m t p f P C f f f g m w a e t g.S c a ( t p i t a s a t m t F p t t R a P F M p t]
+[DELETED:    G I f p o t M C F R M ( a o t i m r r o.S R D t m d t m p a e o t c r E a p t i r c m a i s.S)C]
+[DELETED:   )C a t t f a p a e)Es. T c p a k t F w.V a s h b i b p fl t t E t a s i o fl v a a F]
+[DELETED:    t l 1 y M h t s s t u a fl a s fl m i r t c n t m p n h f t C i n s a p a h d m r t f i t f t m t n a f r o v f M a l b w n d t t b e o t p w a R C a o p a E c h r t fl a fl l p w a l t f c o]
+[DELETED:    s s d r i a l o f 2]
+
+
+================================================================================
+
+Raw Text:
+Flood Risk Mapping
+Resource Assessment
+and Recommendations
+000 Executive Office of Energy
+A Report to the Massachusetts Legislature
+and Environmental Affairs,
+August 2025
+August 2025
+The Executive Office of Energy and Environmental Affairs
+developed this report to review the existing state flood
+risk mapping resources, assess the need for and feasibility
+of creating additional resources, and recommend steps
+towards developing those resources.
+
+DRAFT Flood Risk Mapping Resource Assessment August 2025
+and Recommendations: A Report to the Massachusetts Legislature
+Draft Report
+August 2025
+Prepared for:
+Joint Committee on Environment and Natural Resources
+Melissa Hoffer, Climate Chief, Office of Climate Innovation and Resilience
+House of Representatives Committee on Ways and Means
+Senate Committee on Ways and Means
+Prepared by:
+Executive Office of Energy and Environmental Affairs
+100 Cambridge Street, Suite 900
+Boston, MA 02114
+Page 1
+
+DRAFT Flood Risk Mapping Resource Assessment August 2025
+and Recommendations: A Report to the Massachusetts Legislature
+Contents
+I. Introduction .................................................................................................... 3
+II. Review of Existing Flood Risk Mapping Resources.............................................. 3
+A. Federally-Produced Resources............................................................................... 4
+B. State-Produced Resources .................................................................................. 10
+C. Regional and Local Resources ............................................................................. 16
+III. Ongoing State Projects and Initiatives ............................................................ 17
+A. Streamflow Projections and Temperature and Precipitation Projections Update .... 18
+B. MassDOT Highway Division Flooding and Storm Damage Mapper ........................ 19
+C. Groundwater Flooding Risk Assessment and Mapping ........................................ 20
+D. Riverine and Pluvial Flood Modeling and Mapping ............................................... 21
+E. Planning and Coordination: Coastal Flooding Strategy ........................................ 22
+F. Planning and Coordination: Floodplain Framework Development ........................ 22
+IV. Assessment of Needs/Feasibility of Developing New Flood Risk Mapping
+Resources and Recommendations ................................................................ ….23
+A. Consolidated Database of Past Flood Locations; Development of an Online Reporting
+Tool for Crowd-Sourcing Real-Time Flood Locations .................................................. 23
+B. Coastal Flood Mapping Products ....................................................................... 24
+C. Statewide Groundwater Flood Mapping Products ............................................... 27
+D. Statewide Riverine Flood Mapping Products ....................................................... 24
+E. Statewide Pluvial (Stormwater) Flood Mapping Products ..................................... 26
+F. Statewide Compound Flood Modeling ............................................................... 28
+G. Statewide River Corridor Mapping ..................................................................... 29
+H. Statewide Flooding and Environmental Justice Vulnerability Assessment ............. 29
+I. Vulnerability Assessment of the Agricultural Sector to Flooding ........................... 30
+Appendix A – Bill S.2967, An Act Promoting a Clean Energy Grid, Advancing Equity and
+Protecting Ratepayers – Section 125 .................................................................. 32
+Page 2
+
+DRAFT Flood Risk Mapping Resource Assessment August 2025
+and Recommendations: A Report to the Massachusetts Legislature
+I. Introduction
+Bill S.2967, An Act Promoting a Clean Energy Grid, Advancing Equity and Protecting
+Ratepayers (Climate Bill), signed into law on November 20, 2024, reforms the siting and
+permitting of clean energy facilities, while responsibly reforming the gas distribution system.
+It vastly expands the electric vehicle (EV) charging network, incentivizes innovative
+technologies such as battery storage, fusion energy, advanced metering and meter socket
+adapters, includes measures to protect residents from high energy costs, and equips state
+agencies with the mandate to fight climate change.1
+Section 125 of the Climate Bill requires the Secretary of Energy and Environmental Affairs
+(EEA) to (1) conduct a review of existing flood risk mapping resources, (2) conduct an
+assessment of the need for and feasibility of creating additional flood risk mapping
+resources to identify areas of vulnerability across the Commonwealth, and (3) develop
+associated recommendations, including any legislation or funding necessary, to be
+submitted to the legislature by August 18, 2025. Appendix A includes the full text of Section
+125.
+Section 125 reflects the importance of accurate and comprehensive flood hazard
+information, including mapping, to support a wide range of activities. These include land use
+planning, zoning, infrastructure and building siting, strategy for maintenance and retrofits,
+as well as strategic initiatives to proactively address the evolving flood exposure profile of
+Massachusetts’ existing building stock, infrastructure systems, and natural resources. With
+comprehensive and accurate flood hazard information, these activities can minimize the
+impact of flooding on Massachusetts’ housing stock, infrastructure resilience, public health,
+safety, and financial security.
+To provide the Massachusetts Legislature with the information required under Section 125,
+this Report provides an inventory of and details the scope and limitations of existing sources
+of flood risk mapping resources developed and maintained both within and outside of EEA,
+summarizes ongoing initiatives to develop and / or effectively deploy additional resources,
+and outlines a set of recommendations for funding necessary to effectively support these
+and future efforts.
+II. Review of Existing Flood Risk Mapping Resources
+A multitude of flood information resources exist and are used within the Commonwealth for
+various purposes related to planning, design, communication and risk mitigation. These
+resources address flooding associated with groundwater, rivers and streams, stormwater or
+pluvial (i.e. urban or stormwater), and coastal, tidal, and storm surges.
+1 Commonwealth of Massachusetts Legislature’s Press Room: “Sweeping Climate Bill Passes the
+Massachusetts Legislature”
+Page 3
+
+DRAFT Flood Risk Mapping Resource Assessment August 2025
+and Recommendations: A Report to the Massachusetts Legislature
+This Report identifies data that are used to calibrate and validate flood models and used to
+map flooding, including data on observed precipitation, streamflow, coastal water level, and
+documented flood locations. The Report also identifies resources that can be used to drive
+flood model runs to map flooding for particular events of interest, for example, the 100-year
+flood. Most importantly, this Report summarizes resources which map past and projected
+future flood risk.
+These resources are produced by federal entities, state entities, local and regional
+governments, as well as private entities and nonprofit groups such as watershed
+organizations. These existing resources and products have been summarized below, where
+they are organized in order of the producer of each resource.
+Many of the flood information resources used broadly in Massachusetts are produced or
+supported by federal sources. These include resources produced by the Federal Emergency
+Management Agency (FEMA), the United States Army Corps of Engineers (USACE), the
+United States Geological Survey (USGS), the National Oceanic and Atmospheric
+Administration (NOAA), and others. Several of these federal flood risk information products
+and supporting resources are under active development and their future release date is
+unknown. A number of flood information resources are produced within the Executive Office
+of Energy and Environmental Affairs and other state agencies, such as the Massachusetts
+Department of Transportation (MassDOT). Flood risk mapping resources are also produced
+by local entities, regional government entities, and nonprofit organizations such as
+watershed groups. These flood information resources reflect the special capabilities,
+capacity, and resources available to their producer, such as local knowledge or insights,
+expertise, and federal resources and standards.
+A. Federally-Produced Resources
+i. NOAA and USGS: Tide Stations
+NOAA and USGS maintain tidal monitoring stations at coastal locations nationwide,
+including several in and near Massachusetts’ coast. Data from the tide stations (6 NOAA, 4
+USGS) are collected and posted publicly in real time; data may be publicly displayed as
+“provisional” until they have been reviewed and quality-checked. Tide station data include
+long-term coastal water level time series. In addition, NOAA provides mean sea level
+estimates and other information on water level variability and record highs and lows.
+Page 4
+
+DRAFT Flood Risk Mapping Resource Assessment August 2025
+and Recommendations: A Report to the Massachusetts Legislature
+Figure 1: (a) NOAA Tide Gage Locations by Data Monitored; (b) USGS Tide Gage
+Locations
+These data are useful for understanding trends in sea level and tidal variability,
+understanding how storms affect coastal water levels (surge), and supporting coastal flood
+model development.
+ii. USGS: Hydrologic Monitoring Network, High Water Marks and
+StreamStats Application
+USGS monitors
+precipitation,
+streamflow and
+groundwater at over 200
+locations throughout
+Massachusetts funded
+cooperatively by EEA and
+USGS. In addition, as
+part of the streamflow
+monitoring program,
+USGS collects high
+water marks during and
+after flood events.
+Measured data is shown
+on the website in real
+time; data may be
+shown as provisional
+until they have been Figure 2: USGS Stream Gage Locations
+Page 5
+
+DRAFT Flood Risk Mapping Resource Assessment August 2025
+and Recommendations: A Report to the Massachusetts Legislature
+quality-reviewed, which
+typically happens within
+weeks and up to a few
+months.
+These data are used for
+critical operational
+purposes such as weather
+and flooding forecasting,
+dam management and
+drought monitoring. These
+data are also the basis of
+numerous special studies,
+models and tools that serve
+to understand and adapt to
+a changing climate
+including intense and
+erosive precipitation Figure 3: USGS Groundwater Monitoring Locations By Monitoring Type
+events, flash flooding, and (real-time data collection vs. discrete measurements)
+flash droughts. Other
+important functions that the state performs and for which data are critical include the
+determination of Total Maximum Daily Loads (TMDLs) for polluted water bodies;
+implementation of the Wetlands Protection Act (WPA); implementation of the National
+Pollutant Discharge Elimination
+System (NPDES) permitting; water
+allocation decisions; design of
+roads, culverts, bridges, and septic
+systems; design and review of
+stormwater management systems,
+among others.
+USGS also maintains a StreamStats
+tool that allows users to view
+streamflow statistics, including
+flood flow statistics, at any location
+on a river or stream in
+Massachusetts. These streamflow
+statistics can be used as inputs to
+models that generate maps of
+riverine flooding for particular flood
+flow return periods (e.g. 100-year
+flood, 50-year flood). This tool does
+not currently provide climate-
+informed streamflow statistics.
+Figure 4: StreamStats Tool Example Watershed Delineation StreamStats can be used to identify
+Page 6
+
+DRAFT Flood Risk Mapping Resource Assessment August 2025
+and Recommendations: A Report to the Massachusetts Legislature
+streamflow statistics which reflect patterns of streamflow, but do not account for trends in
+streamflow over time or future climate change influence on streamflow.
+iii. NOAA: Atlas 14
+NOAA publishes a nation-wide atlas of precipitation frequency relationships. NOAA Atlas 14
+is the latest federal data source of this variety. The statistical estimates published in NOAA
+Atlas 14 are based on precipitation gage data collected through the period of record, up until
+2012. NOAA Atlas 14 Volume 10, which covers northeastern states including
+Massachusetts, was published in 2015 and revised in 2019. Precipitation frequency data
+relate precipitation depths (amount of precipitation, typically in inches) by location,
+duration, and chance of occurrence. Estimates of the depth of precipitation within a
+particular duration (e.g. two hours, 24 hours, etc.) that has a particular chance of occurrence
+or exceedance each year are used in a broad variety of design and risk assessment contexts.
+The estimates assume the chance of extreme precipitation with a particular depth and
+duration are static and have not changed over time.
+Funded by the Bipartisan Infrastructure Law, NOAA has been developing an Atlas 15 which
+would (a) account for trends in extreme precipitation during the period for which gages have
+been collecting precipitation data until present, and (b) develop a methodology for adjusting
+extreme precipitation frequency relationships to account for future trends and climate
+change. Precipitation frequency relationship resources can be used to drive flood models
+and map flooding which would occur under particular precipitation events.
+iv. USACE: National Levee Database
+USACE maintains a database on all known levees in the United States. The database
+includes information on levee age and condition, as well as the areas, populations, and
+assets protected by levees. The data is updated continuously in cooperation with federal,
+state, tribal, and local agencies.
+The database is useful for flood risk management and for configuring hydraulic models that
+may be used to map flooding.
+v. USACE: National Inventory of Dams and Dam Inundation Mapping
+USACE maintains a database of dams nationwide, including both federal- and state-
+regulated dams with either high hazard potential, significant hazard potential, or dams that
+meet specific height and reservoir size requirements. The majority of dams in the database
+are state-regulated. The database is continually updated in cooperation with outside
+entities, primarily state dam regulating entities such as the Massachusetts Office of Dam
+Safety, to improve its completeness.
+Page 7
+
+DRAFT Flood Risk Mapping Resource Assessment August 2025
+and Recommendations: A Report to the Massachusetts Legislature
+The database includes an interactive web tool allowing users to view areas which could be
+inundated if the dam were to malfunction or fail for some dams in the database. Not all dams
+(especially smaller dams) are included in the database, and not all dams in the database are
+associated with inundation maps in the tool.
+Dams included in the database may be used to support development of hydrologic and/or
+hydraulic models which are used to map riverine flooding. The dam inundation mapping in
+the database, when available, may be used to understand places that could be at risk of
+flooding in the event of dam failure.
+vi. FEMA: Flood Insurance Studies
+FEMA Flood Insurance Studies (FIS) are detailed reports on flood studies conducted by
+FEMA or in compliance with FEMA standards to map FEMA flood zones. The studies, typically
+conducted by county, contain more detailed information on flood risk than typically provided
+in FEMA flood maps. FIS can be consulted individually by county through FEMA’s Map
+Service Center. FIS are paper or pdf documents that include some technical engineering
+maps and cross sections of flood depths at different points along a river or coast. FIS are
+typically conducted and updated county by county. Once published, FIS remain effective for
+decades. The currently effective FIS in several western Massachusetts counties were
+published in the 1980s. Estimates of the 100-year and 500-year flood flow in FIS reports are
+based on variable periods of record. For example, the FIS for Deerfield, MA uses Deerfield
+River streamflow records which begin in 1914 at one gage and 1941 at a second gage; the
+study does not reflect any streamflow data or flood events occurring after 1980, when the
+study was published. Flood flow estimates in the Essex County FIS, revised 2025, are based
+on 14-84 year records from several stream gages for which records exit. Streamflow records
+used in the study begin at points between 1931 through 2001; flood events and stream gage
+data collected after 2015 were not considered.
+These graphics, tables, and charts may be consulted by technical experts to derive forcing
+scenarios for coastal storm surge and/or riverine flood modeling and mapping. Technical
+experts may also use the FIS to develop an understanding of coastal or riverine flood risk at
+a particular point in space.
+vii. FEMA: National Flood Hazard Layer
+The National Flood Hazard Layer (NFHL) is a geospatial database containing maps of flood
+hazard areas identified through FEMA FIS and Letters of Map Change (LOMC). The maps
+delineate areas exposed to a 1% annual chance (100-year flood) and 0.2% annual chance
+(500-year flood) coastal or river flood, as well as several technical/regulatory zones within
+these categories. The floods are mapped using estimates of the chance of flooding based on
+past sea levels and precipitation and streamflow patterns. However, they do not account for
+sea level rise or trends in precipitation or streamflow and do not account for future climate
+change influence on sea levels, precipitation, and streamflow. The products do not map
+Page 8
+
+DRAFT Flood Risk Mapping Resource Assessment August 2025
+and Recommendations: A Report to the Massachusetts Legislature
+flooding on small streams. The maps also do not represent pluvial (urban or stormwater)
+flooding that is caused by high rates of precipitation away from streams and rivers.
+Haz
+Figure 5: National Flood Hazard Layer detail; Boston Harbor
+FEMA updates the NFHL continuously as new FIS studies and updates are completed. A
+cohesive version of the NFHL for Massachusetts is hosted at MassGIS and updated upon
+request; typically several years apart.
+The FEMA National Flood Hazard Layer is an important digital spatial data resource that
+maps two levels of riverine or coastal storm surge flood risk in a way that is broadly
+accessible. While the primary use case for this dataset is flood insurance regulatory
+information and support, the dataset is also used broadly for understanding areas exposed
+to river and storm surge flood risk.
+viii. FEMA: Non-Regulatory Products
+FEMA has initiated an effort to publish additional flood map datasets as non-regulatory
+products that are not used in insurance determinations. These products include mapped
+flood depth and flood velocity digital spatial datasets based on modeling. Through the Future
+of Flood Risk Data Initiative, FEMA may continue to expand these offerings with additional
+spatial coverage and additional types of mapped flood data and mapped flood scenarios
+provided as raster and network datasets.
+These products include maps of riverine and coastal storm surge flood extent and depth for
+a variety of forcing scenarios. Some products may also map the chance of flooding over
+Page 9
+
+DRAFT Flood Risk Mapping Resource Assessment August 2025
+and Recommendations: A Report to the Massachusetts Legislature
+space. The products are under development, though none have been developed for
+Massachusetts at this time.
+B. State-Produced Resources
+i. EEA: MyCoast King Tide and Coastal Storm Reports
+In 2009, the Massachusetts Office of Coastal Zone Management (CZM) standardized real-
+time reporting of moderate to major coastal storm damages with the development of an
+online form and database for the Massachusetts Rapid Response Coastal Storm Damage
+Assessment Team. In 2013-2014, the MyCoast platform was launched with mobile
+applications to more broadly collect photos and document flooding and other impacts from
+coastal storms and King Tides (or higher than normal tides). The crowd-sourced database
+includes locations and water levels of impacts. MyCoast data on damages to infrastructure,
+homes, businesses, and natural resources is used to inform emergency response and
+recovery, weather warnings and forecasts, scientific studies and modeling (e.g., storm surge
+and wave overtopping of seawalls), and resilience planning and projects. While MyCoast has
+over 1,500 registered users along the Massachusetts coast, additional coverage is needed
+to support and validate mapping of riverine flooding, pluvial (urban or stormwater) flooding,
+tidal river flooding, and coastal compound flooding. The MyCoast platform does not contain
+any information on storm and flood impacts outside of the coastal region.
+Figure 6: MyCoast Massachusetts mapped coastal storm reports with detail popup from January 13, 2024
+impassable flooding of Summer Street and water flow around/under buildings in Lynn, MA.
+Page 10
+
+DRAFT Flood Risk Mapping Resource Assessment August 2025
+and Recommendations: A Report to the Massachusetts Legislature
+Reports of flooding in the database may be used to support the development and validation
+of coastal storm surge flood models which map coastal storm surge flood risk, riverine flood
+models which map riverine flood risk in coastal areas, and stormwater models which map
+pluvial flood risk in coastal areas. The flood reports in the database may also be used to
+support the development and validation of flood models that represent interactions
+between each type of flooding (“compound flooding”) which map compound flood risk in
+coastal areas.
+ii.Statewide Flooding and Environmental Justice Vulnerability Assessment
+This project involves collecting existing spatial flood risk information from a variety of
+sources, including the Massachusetts Coast Flood Risk Model (MC-FRM), FEMA flood maps,
+and local stormwater modeling studies and knowledge, and engaging with municipalities
+that contain state-designated Environmental Justice (EJ) neighborhoods to characterize past
+flooding, understand flood issues and potential flood mitigation strategies in those
+communities through a community-driven framework.
+Figure 7: Flood Map Viewer produced by Statewide Flooding and Environmental Justice Vulnerability Assessment.
+Detail: Boston Harbor communities; FEMA National Flood Hazard layer and community-identified flood-prone areas
+shown. Viewer also allows users to view Massachusetts Coast Flood Risk Model (MC-FRM) modeled flooding.
+Page 11
+
+DRAFT Flood Risk Mapping Resource Assessment August 2025
+and Recommendations: A Report to the Massachusetts Legislature
+This project involved collecting modeled, documented, and crowd-sourced areas prone to
+flooding into a GIS dataset which is framed in a web map product. The dataset combines
+existing modeled coastal flooding, riverine flooding, and pluvial flooding extents created
+through a variety of modeling studies such as FEMA flood maps, MC-FRM products, and
+local/regional hydrologic and hydraulic model studies. Documented flood-prone areas
+produced for municipal Hazard Mitigation Plans, compiled by municipal committees that
+typically include emergency services, public works, and/or city or town engineers are also
+included. Lastly, the data products include the results of a map-based survey distributed to
+participating communities to further identify locations known for flooding.
+These data products are useful for understanding vulnerabilities to flooding at the local level,
+where flooding may occur in the future as identified through the localized studies
+incorporated, and for identifying and prioritizing areas for flood mitigation. The data products
+are also useful supporting resources for flood modelling projects that seek to expand upon
+the types of flooding and scenarios depicted in FEMA flood maps (FEMA maps display
+modeled riverine and coastal flood areas based on historically based static estimates of
+flood probability). Documented areas of past flooding collected through this project,
+especially areas of stormwater flooding, can be used to calibrate and validate hydrologic
+and hydraulic flood models which are used to generate flood maps, especially those
+mapping future flood conditions and stormwater flooding away from rivers, streams, and
+coastal water bodies. The mapped flood areas collected through this project will be used in
+several ongoing state flood modelling projects.
+iii.EEA: Temperature and Precipitation Projections
+In the Climate and Hydrologic Risk Project, EEA collaborated with researchers at USGS, Tufts
+University, and Cornell University to develop resources to help EEA better understand
+evolving hydrologic risks under future climate conditions. Phase 1 of this project developed
+temperature and precipitation projections at a Massachusetts watershed scale.
+Page 12
+
+DRAFT Flood Risk Mapping Resource Assessment August 2025
+and Recommendations: A Report to the Massachusetts Legislature
+The projections are based on Coupled Model Intercomparison Project (CMIP) 5 climate
+modeling experiments. Projections based on the greenhouse gas Representative
+Concentration Pathway (RCP) 8.5 are posted publicly; projected statistics for RCP 4.5 are
+available upon request. They cover four future decades and include temperature and
+precipitation statistics representing average conditions as well as how both high and low
+extremes (cold and extreme heat; drought and heavy precipitation) may change in the future.
+The projected statistics are applicable to a wide variety of climate adaptation applications.
+Figure 9: Image showing Climate Change Projections Dashboard projected precipitation statistics for Arlington in 2050.
+Figure 8: Estimated annual chance of September 11, 2023 Leominster and North Attleborough precipitation amounts
+based on NOAA Atlas 14 precipitation frequency relationships and Climate-Hydrologic Risk Phase 1 projected
+precipitation design storms for future decades.
+Page 13
+
+DRAFT Flood Risk Mapping Resource Assessment August 2025
+and Recommendations: A Report to the Massachusetts Legislature
+The projected precipitation design storms are a key input to mapping future precipitation-
+driven flooding, including both riverine and pluvial flooding. These projected values may also
+be used to map compound riverine/storm surge flood scenarios and/or stormwater/coastal
+storm surge flood scenarios.
+iv.EEA: Dam Inundation Mapping
+Massachusetts Dam Safety Regulations, promulgated by the Massachusetts Department of
+Conservation and Recreation (DCR) Office of Dam Safety, require owners of Significant and
+High Hazard Dams to prepare Emergency Action Plans (EAPs). The Office of Dam Safety has
+jurisdiction over dams which are not federally owned. “High Hazard Dams” are dams for
+which dam failure or mis-operation would likely cause loss of life. “Significant Hazard Dams”
+are dams for which dam failure or mis-operation would likely not cause loss of life, but could
+cause economic losses, disrupt lifeline facilities, cause environmental damage, or other
+important impacts. EAPs must contain dam failure inundation maps, which identify areas
+downstream that could be impacted by flooding in the event of a dam failure under different
+scenarios.
+The High Hazard Potential Dam (HHPD) EAP is required to provide both a “Sunny Day” and
+“Wet Weather” Scenario inundation mapping. The term “Sunny Day” scenario represents
+failure or mis-operation impacts when the dam is storing a normal amount of water (“normal
+pool”) and there is no streamflow at the dam at the time of failure or mis-operation. The term
+“Wet Weather” scenario refers to conditions in which dam failure or mis-operation occurs
+during the dam’s design peak streamflow with correlating streamflow downstream of the
+dam. The Significant Hazard Potential Dam (SHPD) EAP inundation mapping is a result of a
+“Max Pool” Scenario, where the dam is storing the maximum amount of water (filled to the
+top of the embankment) and allowed to fail, with no streamflow downstream of the dam prior
+to the dam’s failure or mis-operation. These inundation maps are available in the PDF or
+paper EAP documents and are available to emergency managers and MEMA. They are not
+posted publicly, though members of the general public can access EAPs via public
+information request.
+The Office of Dam Safety is in the process of digitizing EAP inundation maps into digital
+spatial datasets.
+v.MassDOT: Flood Risk Assessment
+MassDOT has an ongoing project (also sometimes referenced as the Climate Adaptation and
+Vulnerability Assessment (CAVA)) that includes modeling projected riverine flooding to
+quantify risks to a range of critical transportation assets and support identification and
+prioritization of capital resiliency investments. The project involves modeling streamflow
+and flow statistics for all Strahler order 2 + rivers and streams in the state, and modeling the
+hydraulics (flow dynamics, flood velocity, and flood inundation) at regular intervals along the
+stream network and in the immediate vicinity of each asset in the project. The modeling uses
+Page 14
+
+DRAFT Flood Risk Mapping Resource Assessment August 2025
+and Recommendations: A Report to the Massachusetts Legislature
+climate change inputs recommended by the Federal Highway Administration, that are based
+on the 50th percentile of the RCP 8.5 ensemble and the 90th percentile of the RCP 4.5
+ensemble, to model future riverine flooding outcomes under a range of future decades and
+design storms. The project is complete for three watersheds comprising approximately 10%
+of the state and is proceeding for the remainder of the state.
+Products from the project include:
+• Estimates of future flood flows for all Strahler order 2+ streams for a range of time
+horizons and return periods
+• Maps of riverine flood depth, flood extent, flood elevation, and erosion hazard along
+Strahler order 2+ streams for a range of time horizons and return periods
+• Quantification of transportation asset exposure and risk, and identification of higher-
+risk assets
+• Methodologies for evaluating the cost-effectiveness of resilience solutions and case
+study applications at a range of assets
+vi.MassDOT and EEA: Massachusetts Coast Flood Risk Model Data Products
+The MC-FRM was commissioned by MassDOT and developed by the Woods Hole Group
+(WHG) to understand future coastal flood risks to transportation assets under higher future
+sea levels and enhanced coastal storm scenarios. CZM subsequently worked with WHG to
+produce publicly facing data layers, maps, and training materials for broader application and
+coastal risk management. The model was used to create high-resolution flood maps across
+the entire Massachusetts coast that demonstrate (a) annual probabilities of coastal storm
+flooding, and (b) elevations and depths of flooding expected for several specified coastal
+flood return periods under three future time periods and sea level rise combination
+scenarios. The model also produced several outputs related to shorelines and wave action
+for technical users. While focused on sea level rise and storm surge, MC-FRM also
+incorporates freshwater discharge at major estuarine rivers. The model does not currently
+include several other important drivers of coastal flooding which interact with sea level rise
+Figure 10: Map detail from CZM Sea level Rise and Coastal Flooding Viewer depicting annual chance of coastal
+flooding in Boston Harbor communities under a 2050 sea level scenario.
+Pa ge 15
+
+DRAFT Flood Risk Mapping Resource Assessment August 2025
+and Recommendations: A Report to the Massachusetts Legislature
+and storm surge flooding such as stormwater (pluvial) flooding or groundwater changes
+under future sea level.
+Several state web pages and tools feature MC-FRM-based maps which, under several future
+sea level scenarios, include maps representing coastal storm surge flood probability and
+depth of flooding for selected flood risk levels.
+C. Regional and Local Resources
+i.Municipal Governments: Locally Identified Flood Areas
+Municipalities are required to produce local Hazard Mitigation Plans (HMPs) in order to be
+eligible for FEMA funding; the HMPs must be updated every five years. The HMPs must
+include assessments and mapping of a variety of natural hazards that impact or could
+conceivably impact the municipality and prioritize actions to address these hazards. Part of
+Page 16
+
+DRAFT Flood Risk Mapping Resource Assessment August 2025
+and Recommendations: A Report to the Massachusetts Legislature
+the process involves documenting areas known to municipal staff to be flood prone.
+Municipal and community surveys on flood-prone locations are also sometimes issued by
+watershed organizations and other regional entities.
+Maps of flood-prone areas are useful for targeting flood risk management measures; they
+may also be used in calibration of flood models. These HMPs may be posted on municipal
+websites and from the Massachusetts Emergency Management Agency (MEMA) by request.
+Locally identified flood area maps in HMPs are available in paper report or pdf report format.
+Spatial data for use in other mapping or analysis applications may be available by request
+from the HMP producer (typically a private consulting firm, a Regional Planning Agency
+(RPA), or in some cases municipal staff).
+ii.Various Local and Regional Entities: Local and Regional Stormwater Studies
+Several municipalities, coalitions of municipalities, and other regional entities such as
+watershed organizations have been conducting their own flood studies to map river and/or
+stormwater flooding in their area. The studies are conducted with a range of goals, which
+include mapping flooding for planning purposes, understanding how to mitigate flooding,
+and others. The studies use a wide range of modeling methods and model a wide range of
+scenarios, including scenarios based on projected climate change.
+Various geospatial datasets and web maps/tools displaying modeled flooding resulting from
+these studies are available publicly or by request. Some examples include products
+developed by the Charles River Watershed Association, Franklin Regional Council of
+Governments, city of Medford, Mystic River Watershed Association, Neponset River
+Watershed Association, and the Metropolitan Area Planning Council.
+III.Ongoing State Projects and Initiatives
+EEA, in coordination with the Resilient Massachusetts Action Team (RMAT), has conducted
+several initiatives which serve to further assess and characterize the state’s existing flood
+risk mapping resources and the need for additional products. These include the
+development of the 2022 Massachusetts Climate Change Assessment, the 2023
+ResilientMass Plan, and engagement supporting the development of the Climate Resilience
+Design Standards Tool, which allows users to screen proposed projects for exposure to
+mapped climate risks including flooding.
+In addition, EEA is currently conducting four initiatives that, combined with the completed
+initiatives mentioned above, provide the inputs to this Report.
+Page 17
+
+DRAFT Flood Risk Mapping Resource Assessment August 2025
+and Recommendations: A Report to the Massachusetts Legislature
+A. Streamflow Projections and Temperature and Precipitation
+Projections Update
+Summary
+In Phase 2 of the Climate and Hydrologic Risk Project, EEA is updating projected
+temperature, precipitation, and streamflow statistics for Massachusetts. The project relies
+on meteorological and streamflow monitoring data from federal sources, such as the USGS
+stream gage data. Phase 1 of the project developed the projected temperature and
+precipitation statistics that were used in the 2022 MA Climate Change Assessment.
+Phase 2, currently underway, and a first-in-the-nation effort, will update the projected
+temperature and precipitation projections and produce streamflow projections for the first
+time in Massachusetts.
+Phase 2 involves several methodological improvements relative to Phase 1:
+• Phase 2 projections are based on the latest generation of climate model simulations
+from CMIP 6. Phase 1 projected temperature and precipitation statistics were based
+on CMIP 5.
+• Inclusion of additional greenhouse gas concentration scenarios (SSP 5-4.5; SSP
+3-7.0; SSP 5-8.5)
+• Climate model ensemble downscaled to local conditions using improved statistical
+downscaling technique which better accounts for precipitation extremes relative to
+statistical downscaling method available in Phase 1
+• Improved cutting-edge post-processing technique used to generate projected
+statistics, which will account for both thermodynamic changes (change in average
+temperature and impact on extreme precipitation) and dynamic changes to
+Massachusetts climate (accounting for large-scale shifts in weather regimes
+affecting Massachusetts derived from climate model simulations)
+• Improved spatial resolution in the resulting projections
+Relevant Products
+This project will produce updated temperature and precipitation statistics to reflect the most
+recent generation of climate model simulations from CMIP6 and add several new projected
+meteorological and hydrological statistics to the products. These include:
+• Twenty-one new temperature or precipitation statistics
+• Peak streamflow statistics, including the discharge of the 2-, 5-, 10-, 25-, 50-, 100-,
+200-, and 500-year return period flood flows
+• Low flow streamflow statistics, including the 7-day 10-year low flow and the 7-day
+2-year low flow
+Page 18
+
+DRAFT Flood Risk Mapping Resource Assessment August 2025
+and Recommendations: A Report to the Massachusetts Legislature
+When complete, these projected streamflow statistics (e.g. 2050 100-year flood flow, in
+cubic feet per second) may be used to model riverine flooding under projected future
+scenarios. The projected design precipitation values (e.g. 2050 24-hour 100-year
+precipitation depth) can be used as key inputs to riverine and pluvial (urban or stormwater)
+modeling and mapping studies, as well as compound flood modeling and mapping studies.
+Timeline
+The project will conclude mid-2026.
+Figure 11: Modeled Mean Depth to Groundwater
+B. MassDOT Highway Division Flooding and Storm Damage Mapper
+Summary
+MassDOT is developing a GIS-based application for documenting institutional knowledge of
+Highway Division staff on known areas of flooding and storm damage. The data will be used
+as an additional tool for screening during project development, and to inform other resiliency
+efforts within the Division.
+Timeline
+The application is expected to be completed in December 2025.
+Page 19
+
+DRAFT Flood Risk Mapping Resource Assessment August 2025
+and Recommendations: A Report to the Massachusetts Legislature
+C. Groundwater Flooding Risk Assessment and Mapping
+Summary
+With increasing precipitation and sea level rise, groundwater elevations are rising and are
+projected to continue to rise under climate change. Groundwater rise impacts include
+flooding of basements, septic systems, water and wastewater infrastructure, and
+underground utilities; damage to foundations; destabilization of roads; mobilization of
+historical subsurface contamination; and drowning of agricultural lands and forests. DCR
+engaged with the University of Massachusetts at Amherst and developed an initial statewide
+groundwater model to estimate average annual, historical and future groundwater depths
+across the state (except the Islands) based on 70 groundwater monitoring points. The
+Massachusetts projections of future precipitation (derived from the Climate and Hydrologic
+Risk Phase 1 project) were used to define future increases in recharge. Sea level rise
+projections were from the same data source as the one used for the MC-FRM.
+Relevant Products
+The project will produce maps and GIS layers of (a) depth to water categories across the
+state under historical and potential future recharge and sea level scenarios, and (b) areas
+where the estimated groundwater levels are likely to cause impacts. Impacts under each
+scenario are assessed for different land uses such as farmland and forests, basements and
+subsurface infrastructure based on building footprints, and EJ populations.
+The project will produce maps of estimated groundwater depth categories under current and
+future conditions showing locations of potential flooding. The project’s estimated
+groundwater levels could also serve as key driving inputs to river and pluvial (urban or
+stormwater) modeling and mapping studies. Future phases may incorporate flood location
+insights from the Flooding and Environmental Justice project.
+Timeline
+Products and reports are expected in December 2025.
+Page 20
+
+DRAFT Flood Risk Mapping Resource Assessment August 2025
+and Recommendations: A Report to the Massachusetts Legislature
+D. Riverine and Pluvial Flood Modeling and Mapping
+Summary
+This project is a collaborative effort between EEA and the USGS. The most publicly available
+flood maps, produced by FEMA for the National Flood Insurance Program (NFIP), represent
+riverine and coastal flood areas based on static, unchanging estimates of coastal flood risk.
+Flood maps which reflect trends in flooding, future flooding, and pluvial (urban/stormwater)
+flooding away from rivers and streams are necessary to support comprehensive flood risk
+management and climate adaptation in Massachusetts.
+This project aims to develop methods and standards for flood risk modeling and mapping to
+identify areas vulnerable to current and future flooding across the Commonwealth. The
+project will pilot those methods in several hydrologically diverse locations, refine the
+methods based on findings from the pilot, and in FY 2027 will deploy the methods in some
+parts of the Commonwealth, as feasible within project budget and based on findings from
+the pilot phase.
+The project’s direction is heavily informed by a User Advisory Group and a Technical Advisory
+Group. The User Advisory Group is representative of the likely user audience for flood map
+products, such as representatives from multiple state agencies, nonprofit organizations,
+regional entities, and private engineering consultants. The Technical Advisory Group is
+composed of flood modelling and flood mapping experts from diverse backgrounds,
+including federal agencies such as USGS, FEMA, and the U.S. Army Corps of Engineers
+(USACE); state agencies, academia, private research and development, and private
+engineering consultants. The project will incorporate and map flooding caused by the
+projected peak flow statistics and projections developed through the Climate and
+Hydrologic Risk Project, Phase 2. Flood location insights from the Flooding and
+Environmental Justice project and any other documented past flood location mapping will
+be used to validate modelling conducted in this project.
+Relevant Products
+A key outcome of this project is insights from engaging with a broad range of flood map users
+at the local and regional level around needs for projected river and stormwater flood maps
+and data. The project will produce tiered modeling standards, each tier requiring
+increasingly detailed levels of data inputs, for riverine and pluvial flooding, guidelines on
+selecting a modeling standard tier, and riverine and pluvial flood maps across key
+watersheds in the state.
+Timeline
+The project launched in June 2024 and will end in mid-2027.
+Page 21
+
+DRAFT Flood Risk Mapping Resource Assessment August 2025
+and Recommendations: A Report to the Massachusetts Legislature
+E. Planning and Coordination: Coastal Flooding Strategy
+Summary
+To facilitate planning and coordination along the coastal zone, the ResilientCoasts Initiative
+was launched by EEA’s Coastal Zone Management Office in November 2023 to develop a
+comprehensive framework for coastal resilience. This effort is mapping vulnerability and risk
+across the coast, identifying Coastal Resilience Districts, providing guidance on place-
+based coastal resilience measures, and recommendations for coastwide strategies.
+ResilientCoasts relies on the MC-FRM, which is a dynamic model developed for the
+Commonwealth to project impacts of coastal flooding accounting for sea level rise this
+century. Data products used in ResilientCoasts Phase I include the probability of flooding in
+each year (present day, 2030, 2050, and 2070) and water depths associated with the 1%
+(100-year), 0.5% (200-year), and 0.1% (1000-year) annual exceedance probability levels.
+Relevant Products
+The project involves broad engagement, which will identify (1) existing flood risk mapping
+resources and (2) the need for additional resources. Related work involves development of
+additional geospatial data on future mean high-water shorelines, which could be used to
+map future inundation under higher sea levels.
+Timeline
+The ResilientCoasts Draft Plan was released in May 2025 for public review and comment.
+The plan will be finalized and released in the Fall of 2025. All final data layers associated with
+the plan will be made publicly available via an online map viewer. Additional MC-FRM
+products to support place-based coastal resilience measures including future mean high-
+water shorelines are being developed and are expected to be available Fall 2025.
+F. Planning and Coordination: Floodplain Framework Development
+Summary
+This interagency coordination initiative led by Massachusetts Water Resources
+Commission’s floodplain management staff brings together staff across state agencies and
+executive offices who are involved in floodplain planning and development, flood risk
+management, flood recovery, and flood response for all types of flooding. The project
+synthesized state entity knowledge, practice, needs, and goals for floodplain management
+Page 22
+
+DRAFT Flood Risk Mapping Resource Assessment August 2025
+and Recommendations: A Report to the Massachusetts Legislature
+and in the coming years seeks to operationalize an inter-agency framework around
+floodplain management.
+Relevant Products
+This effort will generate a report that outlines potential coordination and management
+strategies and include examination of existing resources, regulations, and policies. Over the
+next year, the project will also define roles and responsibilities for the numerous actions
+required to steward floodplains in general and will include floodplain restoration priorities as
+well as flood mitigation priorities.
+Timeline
+The project was launched in 2024. Phase I concluded in FY25; Phase II will begin in 2026.
+IV. Assessment of Needs/Feasibility of Developing New
+Flood Risk Mapping Resources and Recommendations
+As outlined above, over the past five years the state has made several investments in studies
+and projects that have resulted in a better understanding and characterization of
+precipitation and floods in Massachusetts. The products that have been generated are being
+used in state-, regional- and municipal-level planning. Several past and ongoing initiatives at
+EEA have assessed the need for additional flood information resources or are in the process
+of doing so. However, more of such efforts are needed to fully characterize floods and
+develop tools and resources at more local scales to help with planning, design, and
+development of mitigation strategies to deal with floods.
+This section provides an overview of possible additional risk assessment, modeling, and
+mapping resources that could aid in the understanding and mitigation of coastal, riverine,
+pluvial, and groundwater flooding and their combined effects.
+A. Consolidated Database of Past Flood Locations; Development of
+an Online Reporting Tool for Crowd-Sourcing Real-Time Flood
+Locations
+Needs
+Cataloguing location and extent of flooding at the local scale as it occurs and characterizing
+the extent of impacts and losses helps to inform the state’s understanding of flood risk and
+Page 23
+
+DRAFT Flood Risk Mapping Resource Assessment August 2025
+and Recommendations: A Report to the Massachusetts Legislature
+impacts. Records of past flooding are important resources for calibrating and validating
+flood models, especially models which map stormwater (pluvial) flooding that occurs away
+from rivers and streams. Currently, the MyCoast King Tide and Coastal Storm Reporter tool
+addresses this need in the Commonwealth’s coastal areas and the MassDOT App targets
+flooding which occurs at the agency’s infrastructure, but there is no statewide tool for
+collecting flood impact reports as they occur and no comprehensive statewide database of
+past flood locations. Flood reports in the tool/database could be used to support disaster
+assistance requests, identify priorities for flood mitigation and minimization, and support
+flood modeling studies.
+Conversations on this need and potential next steps have begun among EEA staff; however,
+no funding has yet been identified or project scoped.
+Recommendations
+1. Develop a statewide online flood reporting tool
+2. Collect and standardize locally identified flood area digital GIS data from municipal
+Hazard Mitigation Plans and enhanced by any other local lived experience; post this GIS
+resource on state web platforms such as MassGIS
+B. Statewide Riverine Flood Mapping Products
+Needs
+Across the Commonwealth there is a need for uniform and complete riverine flood maps
+statewide. In addition to uniform coverage and quality statewide which is necessary for
+policy and planning purposes, it is important to many applications of riverine flood mapping
+that riverine flood maps are up to date, cover rivers and streams of smaller drainage area,
+and include a wide range of flood return periods and climate change scenarios. These needs
+have been identified through the development of a MEPA resiliency policy, the ongoing
+development of guidance for siting clean energy infrastructure and housing, 2022 MA
+Climate Change Assessment, the 2023 ResilientMass plan, the development and periodic
+re-assessment of the Climate Resilience Design Standards tool, and through other
+initiatives. The needs have been further defined and clarified through initial engagement for
+the Riverine and Pluvial Flood Mapping project.
+FEMA flood hazard areas map the 100- and 500-year flood areas based on past estimates of
+flood risk. The 100-year flood area and FEMA 100-year flood elevations are the basis of many
+existing regulations, including local floodplain ordinances and elevation requirements in
+building code. FEMA provides Flood Insurance Rate Maps (FIRMs), available throughout
+Massachusetts, which can be used to determine whether a site or building is located within
+a flood hazard area. FEMA also provides a FEMA National Flood Hazard Layer (NFHL), which
+maps some of the FEMA flood hazard areas in Massachusetts in a digital format suitable for
+Page 24
+
+DRAFT Flood Risk Mapping Resource Assessment August 2025
+and Recommendations: A Report to the Massachusetts Legislature
+web mapping. Other flood hazard areas can only be identified by consulting location-
+specific FIRMs in paper or pdf format. Approximate digitizations of these paper flood maps
+exist in these areas, but these may not include full flood zone designation detail and are not
+suitable for site-specific determinations. Other areas of the state not yet covered by the
+NFHL are the subject of recent FEMA flood studies which have not yet been approved by the
+community. It is important to expand the National Flood Hazard Layer to cover all of
+Massachusetts so that the impacts of proposed policy based on FEMA flood zone
+designations may be studied and quantified, for local and community planning purposes,
+and for individuals’ awareness of local flood hazard.
+Because FEMA flood hazard areas are the basis of many policies and regulations which seek
+to protect the Commonwealth from flood damage, but FEMA flood hazard areas are based
+on past estimates of flood risk, it is also important to develop flood maps which account for
+future increases in flooding and area in floodplains under climate change. While mapping
+future 100-year flood elevations is important, it is a time-consuming and expensive
+endeavor. In the meantime, existing FEMA 500-year flood areas and elevations could serve
+as a proxy for greater area exposed to the 100-year flood in the future. While the National
+Flood Hazard Layer does not contain 500-year flood elevations, augmenting existing maps
+of 500-year flood areas with elevations from FEMA Flood Insurance Studies would be
+feasible to achieve within a shorter time frame as a temporary proxy and basis of flood
+adaptation.
+Two ongoing projects highlighted above also address part of this need - the ongoing Climate
+and Hydrologic Risk Project Phase II will develop projected design flood discharge; and the
+Riverine and Pluvial flood mapping project which will model how projected design flood
+discharge translates to flood extent (area of floodplains) and depth. However, the project
+does not have sufficient funding to provide statewide riverine flood mapping coverage. Even
+with funding available, achieving uniform statewide coverage would be a lengthy process.
+Recommendations
+1. Extend the Riverine and Pluvial Flood Mapping project to achieve full statewide
+coverage
+2. Support FEMA Flood Insurance Study (FIS) updates, particularly in Hampshire,
+Hampden, Franklin, and Berkshire counties
+3. Sustain, or if possible, expand funding for MassGIS and EOEEA GIS software and
+personnel to ensure timely updates and functioning web map and data services
+4. Develop publicly available resources for flood elevation of FEMA 500-year flood
+areas
+5, Continue funding for river and stream gages statewide. Fund the addition of new river
+and stream gages at key gaps in the monitoring network for better model calibration
+and validation.
+Page 25
+
+DRAFT Flood Risk Mapping Resource Assessment August 2025
+and Recommendations: A Report to the Massachusetts Legislature
+C. Statewide Pluvial (Stormwater) Flood Mapping Products
+Needs
+Stormwater flood maps exist piecemeal statewide as the result of local and regional
+modeling projects; however, coverage is very limited spatially and the modeling methods
+and modeled scenarios vary widely. Pluvial flood data products that map a wide range of
+storm scenarios and return periods, map climate change scenarios, and which are produced
+using a standard set of methods are needed. This need for pluvial flooding was identified
+through the 2022 MA Climate Change Assessment and 2023 ResilientMass plan, the
+development and periodic reassessment of the Climate Resilience Design Standards tool
+(used for screening projects for climate risks and making initial climate-informed design
+recommendations), in the Floodplain Framework effort, and other initiatives. The needs
+were further refined and clarified through initial engagement for the Riverine and Pluvial
+Flood Mapping project.
+The ability to provide statewide pluvial flood mapping products is contingent on several
+ongoing products, including (1) the ongoing Climate and Hydrologic Risk Project Phase II,
+which will develop projected design precipitation events, and (2) the Riverine and Pluvial
+Flood Mapping project, which will establish a standard for pluvial flood mapping and develop
+pluvial flood maps in several locations within the Commonwealth. However, the project
+does not have sufficient funding to provide statewide pluvial flood mapping coverage, and
+the lack of detailed digitized stormwater infrastructure information statewide limits the
+ability to map flood risk accounting for this infrastructure.
+Recommendations
+1. Support the development of municipal stormwater infrastructure data through a
+grant program, potentially as part of an existing related program. These data are key
+inputs for pluvial flood modeling which require information on stormwater
+infrastructure location, elevation, shape, and size. Municipalities rarely have these
+data available (i.e., they mostly only have location data) in an electronic/digitized
+form.
+2. Extend the Riverine and Pluvial Flood Mapping project to achieve greater statewide
+coverage of pluvial flooding. We also recommend providing the modeling standards
+produced through the project as part of state solicitation materials for grants that
+fund flood studies so that all such flood studies are compatible and can be integrated
+into statewide flooding platform produced through the Riverine and Pluvial Flood
+Mapping project
+Page 26
+
+DRAFT Flood Risk Mapping Resource Assessment August 2025
+and Recommendations: A Report to the Massachusetts Legislature
+D. Coastal Flood Mapping Products
+Needs
+The ResilientCoasts Initiative and other statewide initiatives, such as MassDEP’s wetlands
+regulations update process, identified several needs regarding coastal flood mapping
+resources:
+• Additional technical analysis to improve and update MC-FRM with additional data
+and information
+• Incorporation of coastal water conduit and infrastructure in the MC-FRM to better
+reflect the hydraulics and extent of coastal flooding in future coastal flood maps
+• Regularly update MC-FRM so that it may be more suitable as a basis for coastal
+regulations
+• Mapping of compound flood risk that can be incorporated into later phases of
+ResilientCoasts and used to update municipal and regional flood risk2
+Recommendations
+1. Conduct additional technical analysis to improve and update the MC-FRM with additional
+data and information. Update the MC-FRM with additional water infrastructure
+information and future coastal flooding.
+E. Statewide Groundwater Flood Mapping Products
+Needs
+Initial results from the Statewide Groundwater Flooding Risk Assessment and Mapping
+project established that modeling at the statewide scale with a static groundwater model
+that estimates average annual levels yields too much uncertainty to provide design
+appropriate estimates of current and future groundwater levels. There is a need for
+statewide, groundwater flood mapping products that are of sufficient temporal and spatial
+resolution to inform siting, assess impacts, and develop adaptation policy and design given
+the extensive potential impacts of groundwater rise on subsurface infrastructure (utilities,
+septic systems, basements, foundations), historical contaminant mobilization potential and
+loss of arable lands and forests.
+2 Referenced below under “Compound Flooding” needs.
+Page 27
+
+DRAFT Flood Risk Mapping Resource Assessment August 2025
+and Recommendations: A Report to the Massachusetts Legislature
+Recommendations
+1. Enhance the statewide model from static to transient to allow for the estimation of high
+groundwater levels rather than only average annual levels. This model and its results will
+provide a near-term product with statewide coverage that can guide adaptation planning
+or be downloaded and further refined by local entities to estimate groundwater levels with
+sufficient accuracy for adaptation design
+2. Conduct high temporal and spatial resolution modeling to determine appropriate
+regional scale for models that will produce groundwater level estimates of sufficient
+accuracy to support adaptation design
+3. Build out coverage of the state using high resolution modeling to provide future
+groundwater level estimates accurate enough for adaptation design.
+4. Publish all groundwater elevation maps and guidance on their use in flood adaptation to
+the ResilientMass Maps and Data Center in user-friendly web tools. Publish all models as
+downloadable files for site-specific use.
+5. Continue full funding for groundwater monitoring wells and expand the groundwater
+monitoring network with sites at current gaps.
+F. Statewide Compound Flood Modeling
+Needs
+Flood maps representing areas at risk of flooding caused by compound riverine and coastal
+flood events are needed for flood risk management in coastal areas. This need was identified
+through the Riverine and Pluvial Flood Mapping Project, which will account for interactions
+between riverine and pluvial (urban or stormwater) flooding and coastal water levels through
+a simplified methodology, as well as through the ResilientCoasts initiative modeling.
+The need is being partially addressed by the Riverine and Pluvial flood mapping project;
+however, (1) that project does not have sufficient funding to provide statewide riverine flood
+mapping coverage, and (2) the project is taking a simplified approach to modeling the
+interaction between river and stormwater flooding and high coastal water level, and more
+detailed modelling of compound flood processes may be needed to better support decision-
+making.
+Recommendations
+1. Further clarify the need for compound flood map resources, if any, beyond those to
+be produced through the Riverine and Pluvial Flood Mapping project through
+initiatives such as the ResilientCoasts Strategy and ResilientFloodplains initiative.
+Page 28
+
+DRAFT Flood Risk Mapping Resource Assessment August 2025
+and Recommendations: A Report to the Massachusetts Legislature
+2. Ground-truth the compound flood maps developed through the Riverine and Pluvial
+Flood Mapping project relative to documented past compound flooding through the
+MyCoast coastal storm impacts database, the Flooding and Environmental Justice
+project, and any other sources of information on past flooding.
+3. In future phases of the Massachusetts Coast Flood Risk Model (MC-FRM)
+development, assess opportunities to incorporate more robust representation of
+compound flooding processes and develop detailed cost estimates for doing so in
+future model and map updates.
+G. Statewide River Corridor Mapping
+Needs
+Studies and maps depicting areas where rivers could migrate to in the future given existing
+fluvial geomorphologic trends are needed. This need was identified through the Riverine and
+Pluvial Flood Mapping project; however, work to address this need is not within the scope of
+that project. Maps showing where river corridors could shift given natural processes, and
+increased precipitation causing erosion, sediment transport, etc. are important resources
+for local and regional land use planning.
+Recommendations
+1. Review river corridor mapping methods applied in other New England states and
+refine methodology for Massachusetts’ needs
+2. Develop the maps depicting the migratory path and extent of the changing river
+corridors over time
+3. Establish a pathway toward incorporating river corridor migration areas in state,
+regional, and local land use planning
+H. Statewide Flooding and Environmental Justice Vulnerability
+Assessment
+Needs
+The Statewide Flooding and Environmental Justice Vulnerability Assessment Project, that
+concluded June 30, 2025, established an approach for engaging with environmental justice
+communities, built collaborative networks, and began building a statewide crowd-sourced
+flood map database. The Project identified the following main needs:
+(1) Continue community engagement in the three pilot communities that are part of the
+current study. Add additional pilot communities with high flood vulnerabilities.
+Page 29
+
+DRAFT Flood Risk Mapping Resource Assessment August 2025
+and Recommendations: A Report to the Massachusetts Legislature
+(2) Collaborate with local colleges and universities to leverage existing engagement and
+flood assessment tools, thereby fostering academic partnerships and expanding
+direct community support.
+(3) Expand the approach (that is currently focused in EJ areas, which are primarily urban
+and suburban areas) to rural communities vulnerable to flooding. Collect existing
+flood maps and community knowledge of flood-prone areas and develop mitigation
+designs tailored to the unique challenges and characteristics of rural environments3.
+Recommendations
+1. The project should continue to build upon the successful foundational work over the
+past two years, emphasizing deeper community engagement, the specific needs of
+rural communities, project implementation, and knowledge transfer. Future work
+should include additional pilot communities, characterizing flood vulnerabilities in
+rural communities, and engaging with local institutions.
+I. Vulnerability Assessment of the Agricultural Sector to Flooding
+Needs
+The agricultural sector has been impacted by precipitation-driven flooding throughout
+Massachusetts’ history and during recent events such as Hurricane Irene and the floods of
+July 2023. It can be desirable to locate crop lands near rivers, as floodplains such as but not
+limited to the Connecticut River Valley contain fertile soil and topographically favorable land
+for farming. However, the vulnerability of farms in these areas to floods increases as the
+Northeast US faces more frequent and severe intense precipitation.
+Recommendations
+1. Engage the agricultural sector in ongoing flood vulnerability assessment and
+planning efforts as well as flood map resource development projects to ensure that
+policy, executive actions, and new data products reflect the needs of the agricultural
+sector to address flooding.
+2. Further clarify the need for flood map resources in the agricultural sector through
+state planning initiatives,
+3 Documentation of flood-prone locations in rural areas would support ongoing flood modelling and mapping
+initiatives including updates to the MC-FRM and riverine and pluvial flood mapping.
+Page 30
+
+DRAFT Flood Risk Mapping Resource Assessment August 2025
+and Recommendations: A Report to the Massachusetts Legislature
+Conclusions
+Over the last 10 years Massachusetts has taken significant steps to understand and
+characterize floods and strengthen floodplain management in response to changing
+precipitation patterns and increased flood risks. High-intensity, short-duration storm events
+are now among the most pressing natural hazards facing the Commonwealth—an issue
+highlighted in the ResilientMass Plan. Recognizing this, state agencies have been prioritizing
+projects and programs and have been coming together to align flood-related policies, data,
+and planning efforts.
+This report provides a summary of existing and available data, maps and products related to
+precipitation, streamflow and flooding that are readily available to state agencies and the
+public. The report also provides a summary of several ongoing studies and projects that are
+developing cutting-edge and state-of-the-art methods and products as building blocks that
+showcase existing and future riverine, pluvial (urban), and groundwater flooding. EEA and
+MassDOT have invested significant resources through dedicated staff time and their capital
+and operating budgets, along with some federal support to develop these products. We have
+made noted strides and progress and have developed mapping resources and tools for
+better planning and management of floods across the Commonwealth.
+However, it will take further coordination among state agencies and a combination of funding
+sources in the future to meet the needs and fully realize our vision for Massachusetts
+floodplains - to be healthy, resilient and functionally beneficial for the natural environment
+and all living beings, with no damages to the built environment or the people who are
+impacted by flooding. As we continue to implement the studies highlighted in Section III and
+initiate new projects and studies outlined in Section IV we will look to existing authorizations
+and authorities at EEA. This would include authorization outlined in the Mass Ready Act filed
+by Governor Healey in June 2025, development and implementation of the Resilient Mass
+Plan, implementation of ResilientCoasts, and the other broad authority that Massachusetts
+Water Resources Commission at other programs at EEA currently have related to flood
+management and flood loss prevention. We would also look to future capital, operating
+budgets as well as seek opportunities and resources at the federal level to guide floodplain
+management, and resilience efforts in Massachusetts.
+Page 31
+
+DRAFT Flood Risk Mapping Resource Assessment August 2025
+and Recommendations: A Report to the Massachusetts Legislature
+Appendix A – Bill S.2967, An Act Promoting a Clean Energy
+Grid, Advancing Equity and Protecting Ratepayers – Section
+125
+SECTION 125. The secretary of energy and environmental affairs shall review existing 2949
+flood risk mapping resources and assess the need for and feasibility of creating additional
+flood 2950 risk mapping resources to identify areas vulnerable to current and future flooding
+across the 2951 commonwealth. 2952
+The secretary shall develop recommendations, including any legislation or funding 2953
+necessary, to support any additional required flood risk mapping resources and shall submit
+its 2954 recommendations to the joint committee on environment and natural resources,
+the climate chief, 2955 the house and senate committees on ways and means and the clerks
+of the senate and house of 2956 representatives not later than 6 months after the effective
+date of this act. The recommendations 2957 shall also be made available to the public on
+the website of the executive office of energy and 2958 environmental affairs
+Page 32
+
+[DELETED:   ]
+[DELETED:    S M G R P P A o N o D N F R M C C S S S S S S V]
+[DELETED:    S A A P a C E G A E a P v e t e v ( c n i i.  t ( c a r o e fl r m r ( c a o t n f a f o c a fl r m t i a o v a t C a ( d r i a l o f n t b 1 r t i o a a c fl h p t p d c a r m TC o M L P R “ C B P t]
+[DELETED:    r a p b f e s e l a r a w a p e a n g s a w A ( t U S A C o E ( t S G S ( t N O a A s r a u d a t f r d l e r g e a n o s a g T fl i r r t s c o a U m t m s a c l n c w l t s I a N p m s l]
+[DELETED:    d a u f u t i s l a t v.U H M N H W M a m a t f I a a o t s p c h m d a fl e t w i r d m b a p t h b]
+[DELETED:    w h w a u t a f d a u f o s a w fl f m a m T a a t b o s s c c i a p fl fl a d O f t t s p a f w d a c i t o T M D L ( f p w b o t W P A ( i o t N D E ( p w d d o d a r o t a u t v s i a r o s i T s t g m o r p ( 1 c p c s s U G M L B M T]
+[DELETED:   .N N A 1 V 1 w c n s i p d ( o p t i i b l a c o o E o t d o p w a e a t c o e p w a p d a p f r t a f f t a c.U m a d o a k l i t U S T d.U m a d o d n i b f a s s T d i c u i c w o]
+[DELETED:   .F F I S ( d r o fl s c b F fl m F c b c i b c t F M T c e F i s w M c w.F]
+[DELETED:    A t l o r o c s s fl r i a w t i b W t p u c f t d i fl i r.  h i a t p a fl m d a n]
+[DELETED:    T p a u d t n h b d f T I 2 t M p w l w m b a n r i u t i e r a 6 M M m c s r w d p f J 1 2]
+[DELETED:    t d a v o fl m t r i p i c e s fl r i f a v o u fl i a p fl m s i t]
+[DELETED:    h a h m s D fl a fl m o i t f a i t t l s t o fl a s d i F fl m ( m d h p D a o p fl c t t p h fl m w a u t g fl m e t a C U t d r t h E b u]
+[DELETED:    p a b o C M I P ( 5 c e P b o t g g R u r T c f f d a i t a]
+[DELETED:    p t m o t g p c a E v p A ( t i m p r fl t r t a r o c t a s i a  ]
+[DELETED:    t 50 p o t R 8 e a t 90 p o t R 4ht b r p u t f t p a s l r c t u W f o s l r a s s M a]
+[DELETED:    s s fl s a s ( fl o g c f F f t H m b u e fi y T H m a a m o a v o n h t i o c]
+[DELETED:    p i d a k t m s t b fl p t H p ( a p c fi a R P A m c o m a o r e s a s a a p o b r S e i p b t C R W A F R C o c o M M R W A N R m r a t n f a p T i t o t 2 M C C A t 2 S T w u t p p f e t]
+[DELETED:   .S P 2 o t C a H R P E i u p g d P 1 o t p d t p t a 2 c u a a fi e w u t p o a g g c s ( 5 S c p t u t g p a i o e p a d c t c ( f l s i w r]
+[DELETED:    c t p s ( 2 1 fl fl i f p s m b u t m r fl u p f T p d p v ( 2 2 1..M]
+[DELETED:   .G t c t r u c c G r i i o b s s w a w i a u d t f d o r m o t s ( t I b o 7 g m p T P 1 p w u t d f i i r S l r c s l o p fl T p e l c a s a k d i t r a p ( o]
+[DELETED:   .R a v t c a f fl a t C T w p t m i s h d l r t s a r f m s a n o e a p e c T T A G i o fl m a fl m e f d b f a a U F a t U A C o E s a a p r a d a p c T p w i a m fl c b t p fl s a p d t t C a R P P 2 F l i f t F a d T p w p t m s e t r a m s t a r a p fl m a k]
+[DELETED:   .P t c i C R D p g o p c r m a r f c s r o t M w i a d m d f t t p i o fl a s l r p w b m p a v a o m v A M.P i c i l b M W R o w a i i fl p a d fl r fl r a fl r f a t o fl T p]
+[DELETED:    i t c y s t o a i f a e w g a r t o p c a m A o N o D N p t h r i a b u a c o d s H m o s e a n t f c fl a t a r a m l s t h w p d a.C]
+[DELETED:    R o p fl a i r f c a v w o a t a i b t i n s t f D C a s l i fl a d G d f m.S I a t u c q s w i n f b i t t d o a M r p t o o g f s c e i a h 2 M o t C R D S t a t o r l fl o e r i c F p F I R M ( a t]
+[DELETED:    m O fl h a c o b i b c l I i i t e t N F H L t c a o s t t i o p p b o F fl z 1 fl e i i i i a t a e 5 fl a w e f F F I S w b a w a s t f a a p a b o fl m E t R a P F M p t a f s S F F I S ( u p i H S D p a r f fl e o F 5 fl C]
+[DELETED:   .S fl m e p s a t r o l a r m t 2 M C C A a 2 R p t i t F F e a o i T n f r a c t i f t R a P a t p p fl m p i o s fl m i s l w t C H p l o d d s i i s l t S t d o m s i d t a f p fl m w r i o s E s fl p p t t a P F]
+[DELETED:   .C u p i s n r c fl m u M s i m b m s a a b c o c fl r t c b i i l p ok  C a i U t M w a w i.S r f t S G F R A a M e a a l y t m u t p d e o c a f g l T i a n f]
+[DELETED:    E C h t a s r m t d a s f m t w p g l e o s B o c o t s u h r m t p f P C f f f g m w a e t g.S c a ( t p i t a s a t m t F p t t R a P F M p t]
+[DELETED:    G I f p o t M C F R M ( a o t i m r r o.S R D t m d t m p a e o t c r E a p t i r c m a i s.S)C]
+[DELETED:   )C a t t f a p a e)Es. T c p a k t F w.V a s h b i b p fl t t E t a s i o fl v a a F]
+[DELETED:    t l 1 y M h t s s t u a fl a s fl m i r t c n t m p n h f t C i n s a p a h d m r t f i t f t m t n a f r o v f M a l b w n d t t b e o t p w a R C a o p a E c h r t fl a fl l p w a l t f c o]
+[DELETED:    s s d r i a l o f 2]

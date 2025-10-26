@@ -1,0 +1,3174 @@
+Title: Executive Office of Energy and Environmental Affairs
+Official Title: Executive Office of Energy and Environmental Affairs
+Number of Sections: 11
+Source: versions - Bill Text
+Media Type: application/pdf
+Strikethrough Detection: 33 sections found
+
+================================================================================
+
+Section 1:
+Reporting Year 2023
+Toxics Use Reduction
+Information Release
+Commonwealth of Massachusetts
+Department of Environmental Protection
+Developed in collaboration with
+Toxics Use Reduction Institute
+Office of Technical Assistance and Technology
+January 2025
+Table of Contents
+Executive Summary .......................................................................... 1
+I. Introduction ............................................................................... 3
+II. Key TURA Terms ...................................................................... 4
+III. 2023 Toxics Use Reduction Progress ....................................... 5
+IV. 2023 TURA Chemical Data ..................................................... 12
+V. 2023 Chemicals of Particular Interest ..................................... 17
+VI. 2023 Significant Industrial Sectors .......................................... 25
+VII. 2023 Major TURA Facilities .................................................... 28
+Appendix A - 2000 Core Group Progress ........................................ 32
+Executive Summary
+In 1989, the Toxics Use Reduction Act (TURA) (Chapter 21I of the Massachusetts General Laws) was enacted, to protect
+public health and the environment by promoting reduction in the use of toxic chemicals. TURA established reporting and
+planning requirements that encourage facilities to use toxic chemicals (hereinafter also referred to as chemicals, toxics, or
+toxic substances) only when necessary and to waste as little as possible in the production process. TURA has been
+successful. Massachusetts manufacturers and other businesses subject to TURA have dramatically reduced their reliance
+on toxic chemicals making Massachusetts a national leader in toxics use reduction. Through toxics use reduction,
+Massachusetts businesses have saved money while reducing pollution released to the environment, chemical transportation
+risks, workplace hazards, and toxics in products and waste.
+Four hundred thirty (430) facilities reported using 128 different chemicals in 2023. In total (including data submitted as
+trade secret data – as defined on page 4), from 1990 to 2023 (with exception of transfers off-site, which is from 1991), the
+following reductions were observed:
+• Chemical Use - from 1.2 billion to 564 million pounds
+• Byproduct Generation - from 127 to 63 million pounds
+• Shipped in Product - from 433 to 238 million pounds
+• On-Site Releases - from 21 to 1.9 million pounds
+• Transfers Off-Site - from 46 to 32 million pounds
+As shown below, between 2007 and 2023 when adjusted for the reported 54% increase in production, 2007 Core Group
+(as defined on page 4) facilities reduced:
+• toxic chemical use by 69% (Styrolution is explained on page 9)
+• toxic byproducts by 52%
+• toxics shipped in product by 54%
+• on-site releases of toxics to the environment by 83%
+• transfers of toxics off-site for further waste management by 28%.
+Production Adjusted
+Total Use 69% 
+1,000
+s
+d
+n 800
+u
+o
+P 600
+f o PA Total Use
+s 400
+n
+o PA Total Use/No Styrolution
+illiM 200
+0
+7 8 9 0 1 2 3 4 5 6 7 8 9 0 1 2 3
+0 0 0 1 1 1 1 1 1 1 1 1 1 2 2 2 2
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2
+Production Adjusted Production Adjusted
+83% 
+Byproduct 52%  On-Site Releases
+8
+s
+s d
+d 80 n
+n u
+u o 6
+o 60 P
+P
+f o
+s
+40
+f
+o s
+n
+4
+n o
+o illiM 20 illiM 2
+-
+-
+7 9 1 3 5 7 9 1 3
+0 0 2 0 0 2 1 0 2 1 0 2 1 0 2 1 0 2 1 0 2 2 0 2 2 0 2 7 0 0
+2
+8 0 0
+2
+9 0 0
+2
+0 1 0
+2
+1 1 0
+2
+2 1 0
+2
+3 1 0
+2
+4 1 0
+2
+5 1 0
+2
+6 1 0
+2
+7 1 0
+2
+8 1 0
+2
+9 1 0
+2
+0 2 0
+2
+1 2 0
+2
+2 2 0
+2
+3 2 0
+2
+1
+This report includes the following six sections:
+
+Section 2:
+Section I: Introduction.
+
+Section 3:
+Section II: Key TURA Terms.
+
+Section 4:
+Section III: 2023 Toxics Use Reduction Progress analyzes changes in reported chemical use and byproduct that can
+be attributed to the adoption of toxics use reduction by TURA filers, and associated reductions in
+pollution.
+
+Section 5:
+Section IV: 2023 Chemical Data summarizes the reported information on chemical use in calendar year 2023
+including detailed information on the top twenty chemicals used, generated as byproduct, shipped in
+product, released on-site as air or water pollution onsite, and shipped off-site for treatment and disposal.
+
+Section 6:
+Section V: 2023 Chemicals of Particular Concern presents current and historical information on particularly toxic
+chemicals, on chemicals that promote asthma, and on carcinogens.
+
+Section 7:
+Section VI: 2023 Significant Industrial Sectors describes the relative contributions of different industrial sectors to
+chemical use, waste, and release.
+
+Section 8:
+Section VII: 2023 Major TURA Facilities presents the top 20 facilities for use, byproduct generation, shipped in
+product, released to the environment, and shipped offsite for treatment and disposal.
+This 2023 Toxics Use Reduction Information Release contains chemical information useful to the public, government, and
+industry. However, because the data in this report is collected only from facilities within certain industrial sectors that have ten
+or more full-time employees, and use certain chemicals above established reporting thresholds, this report does not provide a
+complete picture of the use and release of all toxic chemicals in Massachusetts.
+Downloadable data extracts, for reporting years 1990 through 2023, can be found at MassDEP Toxics Use Reduction Act
+(TURA) Data & Results | Mass.gov. The data extracts include all reported TURA data, except for trade secret data, in an Excel
+format.
+2
+I. Introduction
+The annual TURA information release is required under MGL Chapter 21I, Section 3(H): “The department annually
+shall compile, analyze and summarize the reports required by section 10, to the extent available, and shall submit a
+report to the council on the agency's findings regarding progress in toxics use reduction and emissions reduction in the
+commonwealth.” This report describes toxic chemical use in Massachusetts in 2023 and progress in toxics use
+reduction (TUR) under the Toxics Use Reduction Act (TURA). TURA was enacted in 1989 to reduce the risks to the
+public, workers, and the environment from exposure to toxic chemicals. Rather than taking the then traditional
+“command and control” approach to pollution control and worker health and safety, TURA created a process to
+encourage Massachusetts facilities to reduce the quantity of toxics used and wasted in their production processes.
+TURA requires Large Quantity Toxics Users (LQTUs, hereinafter referred to as filers) to submit annual reports to the
+Massachusetts Department of Environmental Protection (MassDEP). These reports detail the quantity of the listed
+chemicals the facilities used, shipped in or as product, generated as byproduct (waste -- neither shipped in product nor
+converted to another chemical during the production process), release to the environment as pollution, and shipped
+off-site for waste treatment and disposal. Facilities are filers if they meet the following criteria:
+• the facilities fall within Manufacturing Standard Industrial Classification (SIC) codes (20-39 inclusive) and those
+in SIC codes 10-14, 40, 44-51, 72, 73, 75 and 76, or the corresponding NAICS codes,
+• have ten or more full-time employee equivalents, and
+• use listed toxic substances at or above reporting thresholds.
+Filers are also required to pay an annual fee based on the number of chemicals used and the number of workers
+employed and must develop biennial TUR plans. TUR Plans identify techniques that the facility could adopt to
+reduce the use and waste of toxic chemicals in their production processes and evaluate which of these TUR
+techniques would save the facility money if implemented. Although facilities are not required to implement
+identified TUR techniques, many do. The plans are not submitted to MassDEP for review and approval. Instead,
+they must be approved by a MassDEP-certified toxics use reduction planner (TURP); however, MassDEP audits
+several of these plans annually. After several toxics use reduction planning efforts, facilities have the option of
+developing reduction plans for energy use, water use, solid waste disposal or use of other chemicals instead of the
+traditional TUR plan.
+TURA also promotes toxics use reduction through two agencies that provide toxics use reduction education and
+assistance: The Office of Technical Assistance (OTA) provides free, confidential, technical assistance to facilities
+seeking to reduce the use of toxics. The Toxics Use Reduction Institute (TURI) located at UMass Lowell provides
+toxics use reduction education, training, and library services; supports research on cleaner materials and processes;
+provides toxics use reduction grants for businesses, industries, and communities; and operates a laboratory for testing
+non-toxic or less-toxic cleaning alternatives.
+The work of MassDEP, OTA, and TURI is supported through fees paid by the filers and coordinated by the Toxics
+Use Reduction Administrative Council (Council). The Council is a governing body consisting of the Secretaries of
+Energy and Environmental Affairs, Economic Development, and Public Safety, the Commissioners of MassDEP and
+the Department of Public Health, and the Director of Labor and Workforce Development, and chaired by the Secretary
+of Energy and Environmental Affairs.
+The Massachusetts Department of Environmental Protection Toxics Use Reduction Program website is:
+www.mass.gov/dep/toxics/toxicsus.htm.
+3
+II. Key TURA Terms
+TURA – Massachusetts Toxics Use Reduction Act of 1989 (MGL c. 21I).
+TRI – federal EPA Toxics Release Inventory.
+TRADE SECRET DATA– the information identified as confidential by TURA filers and not determined to be otherwise by the Commissioner of MassDEP. To protect
+confidentiality claims by TURA filers, all trade secret data in this information release are presented in aggregated form. Aggregated data do not include the names and amounts of
+chemicals subject to claims of confidentiality.
+2007 CORE GROUP -- – includes all industry categories and chemicals that were subject to TURA reporting in 2007 and remained subject to reporting in the current reporting year
+at the same reporting threshold. The 2007 Core Group is used to measure progress from 2007, the first reporting year since the 2006 TURA Amendments became effective. The
+2007 Core Group does not include trade secret quantities.
+2000 CORE GROUP -- – includes all industry categories and chemicals that were subject to TURA reporting in 2000 and remained subject to reporting in the current reporting year
+at the same reporting threshold. The 2000 Core Group is used to measure progress from 2000 and does not include trade secret quantities.
+The terms and definitions below have been arranged in order of inputs and outputs. Chemicals that are used by facilities are manufactured, processed, or otherwise used. As a result
+of using these chemicals, a facility has outputs that can include a product that is created for sale, or a waste (“byproduct” as defined by TURA). The calculation of use and waste of
+chemicals is known as “mass balance”. Generally, the inputs equal the outputs, but there are some circumstances in which there is an imbalance between inputs and outputs. These
+are most often the result of 1) chemicals being recycled on-site; 2) the product being held in inventory; 3) chemicals being consumed or transformed into another chemical during the
+production process; or 4) the chemical is a metal in a compound, and as a result use is calculated differently than byproduct. For metal compounds, use is calculated as the total
+amount of the compound while byproduct is calculated as only the amount of the parent metal in the compound.
+Inputs Outputs
+TOTAL USE – the total quantity in pounds of TURA chemicals reported as PRODUCT – a product, a family of products, an intermediate product,
+manufactured, processed, and otherwise used. family of intermediate products, or a desired result or a family of results.
+“Product” also means a byproduct that is used as a raw material without
+MANUFACTURE – TURA defines “manufacture”, in part, as: “to produce, prepare, treatment.
+import or compound a toxic or hazardous substance”. SHIPPED IN PRODUCT – the quantity in pounds of the chemical that
+leaves the facility as product.
+PROCESS – TURA defines “process”, in part, as: “the preparation of a toxic or BYPRODUCT – all non-product outputs of reportable substances
+hazardous substance, after its manufacture, for distribution in commerce”. generated by a production unit prior to handling, treatment, and release.
+ON-SITE RELEASES – chemicals released to the air, land, surface, or
+OTHERWISE USE – “Otherwise use” is defined in the TURA regulations (310 CMR
+groundwater at the facility.
+
+Section 9:
+50.10), in part, as “any use of a toxic substance that is not covered by the terms
+TRANSFERS OFF-SITE – chemicals shipped off-site to a wastewater
+“manufacture” or “process” and includes use of a toxic substance contained in a mixture
+treatment or waste management, or recycling facility.
+or trade name product”.
+4
+III. 2023 Toxics Use Reduction Progress
+To protect the environment, public, and workers from the adverse effects of toxic chemicals, TURA
+established processes that encourage facilities to implement TUR techniques that result in:
+1) the use of toxic chemicals only when necessary, and
+2) the smallest possible amount of waste generated.
+The TURA program has been a resounding success. TURA’s initial goal of a 50% reduction in the quantity
+of toxic chemicals generated as byproduct was met in the first decade of the program, and the TURA
+program has continued to make progress in toxics use reduction in the ensuing years. This section of the
+report describes the trends in chemical use by filers.
+Trends in the Numbers of Filers and Reported Chemical Use, Byproduct, On-site Releases, and
+Transfers Off-Site for Treatment or Disposal
+As shown in Figures 1 and 2 below, the number of different TURA-listed chemicals used in the
+Commonwealth at reported levels, the number of facilities using those chemicals, and the total amount of
+those chemicals used, generated as byproduct, released to the environment, and shipped off-site for
+treatment and disposal has declined in the thirty-three years since 1990.
+As shown in Figure 1, 128 of the over 1,500 TURA listed substances were reported in 2023. The number of
+filers rose from 686 in 1990 to 728 in 1991 and 1992, gradually declined, and then rose again to 713 in
+2001, largely due to the promulgation of a lower reporting threshold for persistent bioaccumulative toxic
+(PBT) chemicals (see Section IV, 2023 TURA Chemical Data). The number of filers has decreased from
+454 in 2022 to 430 in 2023. Regulated facilities submit one report for each reportable substance. The
+number of individual substance reports submitted has followed a similar trend, decreasing from a high of
+2,666 in 1993, to 1,467 in 2023, consistent with the decline in the number of TURA filers.
+These reported amounts are influenced by changes in regulatory requirements. For example, the number of
+individual substances reported reached a high of 202 in 1996 due to an expansion in the chemical list, and
+the number of TURA filers increased to a high of 713 in 2001, due to a drop in the reporting threshold for
+certain chemicals. The number of chemical reports dropped by approximately 25% in 2007 when the
+TURA reporting threshold was raised for certain manufactured and processed chemicals to match the EPA
+TRI threshold. Individual chemical reports have since declined as Massachusetts businesses reported using
+fewer chemicals.
+Filers Entering and Leaving the TURA Reporting Universe
+From 2022 to 2023, 31 facilities left, and 11 facilities entered the TURA reporting universe. The reasons
+for 31 facilities not reporting in 2023 were:
+• 10 closed
+• 18 reduced use below the reporting threshold
+• 1 reduced staffing below the FTE threshold
+• 2 are under enforcement for failure to report
+As shown in Figure 2, chemical use decreased from 1.2 billion pounds in 1990 to 564 million pounds in
+
+Section 10:
+2023. Byproduct generation decreased from 127 million pounds in 1990 to 63 million pounds in 2023.
+5
+Figure 1
+# of TURA Filers, Individual Chemical Reports, and Different Chemicals Reported (1990-2023)
+(Including Trade Secret Data)
+Number of Chemicals Reported Number of Filers Number of Individual Form S Reports
+26
+3000 46
+2500 6 2 1 ,2 7 9 3 ,2 6 ,2 6 ,2 4 2 5 ,2 3 8 3 ,2 0 2 3 ,2 5 4 2 ,2 1 8 2 ,2 5 2 2
+,2
+0 0 5 ,2 4 9 5 ,2 4 7 4 ,2 9 4 4 ,2 7 6 3
+,2
+7 9
+2
+,2
+2000
+8
+2 0
+3 8 4 1 1 7
+1
+1
+5
+0
+5
+0
+0
+0
+0
+0
+0 0 0 9 9 1 3 3 1 1 9 9 1
+6 8 6
+7 4 1 2 9 9 1
+8 2 7
+5 6 1 3 9 9 1
+8 2 7
+3 8 1 4 9 9 1
+5 9
+6
+2 8 1 5 9 9 1
+5
+5
+6 9 9 1
+1
+8 5 6 9 9 1 2 0 2 7 5 5 7 9 9 1 4 9 1 4 3 5 8 9 9 1 0 9 1 6 3 5 9 9 9 1 0 9 1 6 1 5 0 0 0 2 4 9 1 4 9 5 1 0 0 2 1 9 1 3 1 7 2 0 0 2 2 9 1 2 8 6 3 0 0 2 4 9 1 0 6 6 4 0 0 2 1 8 1 9 3 6 5 0 0 2 8 7 1 2 2 6 6 0 0 2 6 5 1 1 7 5 7 0 0 2 0 5 1
+8 ,1
+5 4 5 8 0 0 2 6 4 1
+7 7 ,1
+6 3 5 9 0 0 2 5 4 1
+2 0 7 ,1
+1 1 5 0 1 0 2 4 4 1
+6 8 ,1
+9 9 4 1 1 0 2 0 4 1
+3 4 7 ,1
+2 9 4 2 1 0 2 0 4 1
+2 9 ,1
+9 9 4 3 1 0 2 5 4 1
+,2
+3 9 4 4 1 0 2 6 3 1
+3 6 7
+,1
+9 8 4 5 1 0 2 0 3 1
+0 0 ,2
+8 7 4 6 1 0 2 5 2 1
+6 3 9 ,1
+7 7 4 7 1 0 2
+6
+5 6 ,1
+1 3 1 5 7 4 8 1 0 2
+9 2
+8
+,1
+1 3 1 5 6 4 9 1 0 2
+3 2 6 ,1
+9 2 1 7 6 4 0 2 0 2
+7 7 5
+,1
+8 2 1 3 5 4 1 2 0 2
+7 8 6 ,1
+1 3 1 4 4 4
+9
+1
+5 ,1 2 2 0 2 4 3 1 4 5 4
+0
+7
+5 ,1 3 2 0 8 2 1 0 3 4 7 6 4 ,1
+2
+6
+Figure 2
+Raw Reported Data on the Pounds of Total Use, Generated as Byproduct, Shipped in or as Product,
+Released On-Site and Transferred Off-Site for Treatment or Disposal
+Reporting Years 1990-2023 (includes trade secret data)
+1,600
+1,400
+1,200
+s
+d
+n
+u 1,000
+o
+P
+f
+o
+s
+800
+n
+o
+illiM
+600
+400
+200
+0
+0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9 0 1 2 3
+9 9 9 9 9 9 9 9 9 9 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 1 1 1 1 1 2 2 2 2
+9 9 9 9 9 9 9 9 9 9 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1 1 1 1 1 1 1 1 1 1 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2
+Total Use Byproduct Shipped On-Site Releases Transfers Off-Site
+7
+Measuring Progress in Toxics Use Reduction: Adjusting the Reported Data for Consistent Year to Year
+Comparisons:
+While the raw reported data presents an overall picture of toxic chemical use and waste in the Commonwealth, it
+cannot be used to track progress in toxics use reduction. Because the types of facilities and the list of chemicals and
+chemical reporting thresholds change over time, progress in toxics use reduction is best measured by using a
+consistent set of chemicals and industries – a core group – subject to reporting. Without the use of a core group,
+changes in chemical use, byproducts, releases and shipments for treatment and disposal could be due to changes in
+the reporting requirements.
+In past iterations of this report, two core groups were discussed: 2000 Core Group and 2007 Core Group. Although
+information and progress towards chemical reductions are still significant for the 2000 Core group, the following
+discussion will focus on the 2007 Core Group because it currently covers 96% of the total 397 million pounds of
+toxic chemicals reported in 2023 (excluding trade secret data). The “2007 Core Group” is made up of chemicals and
+industrial categories that were subject to reporting in 2007 and that remain subject to reporting, at the same reporting
+thresholds in 2023. The 2007 Core Group covered 100% of the reported data in 2007. Discussion on the “2000
+Core Group” Progress is presented in Appendix A.
+Raw reported data also need to be adjusted to account for changes in production levels. Because chemical use and
+byproduct generation generally increase as more products are produced, it is possible for a facility to report
+increases in use and byproduct while simultaneously implementing toxics use reduction. Filers are required to
+report the ratio of their production levels in the reporting year to their production levels in the prior year. The
+reported production ratios are used to normalize the data to eliminate the effects of changes in chemical use and
+waste that are due solely to changes in the amount of product produced. The following example illustrates how data
+are adjusted to reflect changes in production.
+ADJUSTING RAW DATA FOR YEAR-TO-YEAR CHANGES IN PRODUCTION
+• In year 1, a facility produces 1,000 machine parts, and generates 100 lbs. of byproduct.
+• In year 2, the facility produces 10% fewer machine parts (900). Therefore, the production
+ratio is 0.90. However, the facility only generates 80 lbs. of byproduct.
+• The production adjusted byproduct for year 2 is 80 lbs/0.90 = 89 lbs.
+• The production adjusted percent change from year 1 to year 2 is [100-89]/100 = 0.11, or an
+11% reduction, while its actual byproduct reduction is 20%.
+Progress in Toxics Use Reduction: 2007 Core Group
+The 2007 Core Group includes all industry categories and chemicals that were subject to TURA reporting in 2007
+and remained subject to reporting in 2023 at the same reporting threshold. The 2007 Core Group is used to measure
+progress from 2007, the first reporting year after the 2006 TURA Amendments became effective. (The 2007 Core
+Group excludes trade secret chemicals and chemicals designated as higher hazard substances (HHS) that were filed
+under the lower 1,000-pound threshold after 2007. It also excludes N-Propyl Bromide, which was first listed in 2010
+and designated as a HHS in 2016, and chemicals added through EPA TRI after 2007, such as Nonylphenol
+Ethoxylates.) Table 1 and Figures 3 and 4 below summarize TURA data from 2007 to 2023, excluding trade secret
+data.
+2007 Core Group Progress: Adjusting for Production
+Table 1 below summarizes TURA data from 2007 to 2023, showing reported and production adjusted quantities. For
+the 2007 Core Group, the activity index shows an increase in production of 54 percent from 2007 to 2023. As shown
+below in Table 1 and Figure 3, when adjusted for production, as of 2023, the 2007 Core Group facilities have reduced:
+• toxic chemical use by 69%
+• toxic byproducts by 52%
+• toxics shipped in product by 54%
+• on-site releases of toxics to the environment by 83%
+• transfers of toxics off-site for further waste management by 28%.
+8
+Table 1
+2007 CORE GROUP DATA: 2007 - 2023 TREND SUMMARY
+(Quantities are in millions of pounds and do not include trade secret quantities.
+Shaded columns show quantities adjusted by cumulative production ratio)
+Production Ratio
+Year Total Use Byproduct Shipped in On-Site Releases Transfers Off-Site
+Product Year to Cumulative
+Year from 2007
+2007 792.07 792.07 75.44 75.44 270.58 270.58 6.20 6.20 24.93 24.93 1
+2008 774.30 730.47 75.76 71.47 255.91 241.42 5.25 4.95 27.62 26.06 1.06 1.06
+2009 708.85 655.62 66.79 61.78 243.14 224.88 4.41 4.08 25.64 23.72 1.02 1.08
+2010 753.99 639.79 74.45 63.18 251.14 213.10 4.30 3.65 29.28 24.84 1.09 1.18
+2011 741.50 635.54 67.37 57.74 241.05 206.60 3.51 3.00 24.73 21.20 0.99 1.17
+2012 692.67 612.05 66.71 58.95 237.55 209.90 3.16 2.79 24.15 21.34 0.97 1.13
+2013 704.21 581.54 66.33 54.78 263.38 217.50 3.00 2.47 25.67 21.20 1.07 1.21
+2014 616.68 559.62 66.85 60.66 246.32 223.53 3.00 2.72 25.78 23.40 0.91* 1.10
+2015 456.68 418.61 64.27 58.91 222.87 204.30 3.55 3.26 27.26 24.99 0.99 1.09
+2016 453.85 368.16 65.74 53.33 226.94 184.09 3.12 2.53 31.02 25.16 1.13 1.23
+2017 468.63 351.99 73.13 54.93 244.13 183.36 3.04 2.29 30.22 22.70 1.08 1.33
+2018 468.28 341.48 68.19 49.72 246.25 179.57 2.43 1.77 31.22 22.77 1.03 1.37
+2019 466.23 330.08 64.58 45.72 236.75 167.62 2.35 1.66 29.62 20.97 1.03 1.41
+2020 416.90 301.18 61.10 44.14 216.90 156.70 2.19 1.58 25.94 18.74 0.98 1.38
+2021 440.77 300.40 65.03 44.32 230.36 157.00 2.19 1.49 30.26 20.62 1.06 1.47
+2022 430.59 293.47 64.20 43.76 224.31 152.88 1.94 1.32 30.31 20.66 1.00 1.47
+2023 382.48 248.27 55.68 36.14 194.51 126.26 1.65 1.07 27.34 17.75 1.05 1.54
+Percent
+Change 52% 69% 25% 52% 28% 54% 73% 83% 9% 28% 54%
+2007-2023
+Reduction
+Reduction Reduction Reduction Reduction Reduction Reduction Reduction Increase Reduction Increase
+________________________
+* Styrolution, which used over a quarter of the total reported use (excluding trade secret data) in 2007, ceased operations in
+Massachusetts in 2014.
+2007 Core Group Progress without Adjusting for Production
+The actual quantities reported by the 2007 Core Group over the period 2007 to 2023 are shown in Figure 4. These
+quantities have not been adjusted for changes in production. From 2007 to 2023, Core Group facilities:
+• reduced toxic chemical use by 52% (from 792 million to 382 million pounds between 2007 and 2023)
+• reduced toxic byproducts by 25% (from 75 million to 56 million pounds between 2007 and 2023)
+• reduced toxics shipped in product by 28% (from 271 million to 195 million pounds between 2007 and
+2023)
+• reduced on-site releases of toxics to the environment by 73% (from 6 million to 1.7 million pounds
+between 2007 and 2023)
+• increased transfers of toxics off-site for further waste management by 9% (from 25 to 27 million
+pounds between 2007 and 2023).
+9
+Figure 3 – 2007 Core Group Toxics Use Reduction Progress 2007-2023
+Production Adjusted
+(Excludes Trade Secret Data)
+Production Adjusted
+Total Use 69% 
+1,000
+s
+d
+n 800
+u
+o
+P 600
+f o PA Total Use
+s 400
+n
+o PA Total Use/No Styrolution
+illiM 200
+0
+7 8 9 0 1 2 3 4 5 6 7 8 9 0 1 2 3
+0 0 0 1 1 1 1 1 1 1 1 1 1 2 2 2 2
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2
+Production Adjusted Production Adjusted Shipped
+Byproduct 52%  300 54% 
+s d n 80 s d n 250
+u o P 60 u o P 200
+f o f o 150
+s n 40 s n 100
+o o
+illiM 20 illiM 50
+- 0
+7 9 1 3 5 7 9 1 3 7 9 1 3 5 7 9 1 3
+0 0 1 1 1 1 1 2 2 0 0 1 1 1 1 1 2 2
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2
+Production Adjusted Production Adjusted
+On-Site Releases Transfers Off-Site 28% 
+83% 
+s 8
+d
+n s 30
+u d
+o 6 n 25
+P u
+f o 20
+o P
+s n 4 f o 15
+o illiM
+2
+s n
+o
+illiM
+1
+0
+5
+0
+-
+7 9 1 3 5 7 9 1 3
+7 9 1 3 5 7 9 1 3 0 0 1 1 1 1 1 2 2
+0 0 1 1 1 1 1 2 2 0 0 0 0 0 0 0 0 0
+0
+2
+0
+2
+0
+2
+0
+2
+0
+2
+0
+2
+0
+2
+0
+2
+0
+2
+2 2 2 2 2 2 2 2 2
+10
+Figure 4 – 2007 Core Group Toxics Use Reduction Progress 2007-2023
+Not Production Adjusted
+(Excludes Trade Secret Data)
+Total Use
+52% 
+900
+s 800
+d
+n
+u 700
+o
+P
+f 600
+o
+s n 500 PA Total Use
+o
+illiM
+400
+PA Total Use/No Styrolution
+300
+200
+100
+-
+7 8 9 0 1 2 3 4 5 6 7 8 9 0 1 2 3
+0 0 0 1 1 1 1 1 1 1 1 1 1 2 2 2 2
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2
+Byproduct 25%  Shipped in Product 28% 
+80 300
+70
+s d 250
+s d 60 n u
+n o 200
+u 50 P
+o f
+P
+f o
+40 o
+s n
+150
+s
+l
+n
+liM
+o
+i 2
+3
+0
+0 o illiM 1
+5
+0
+0
+0
+10
+0 0
+7 9 1 3 5 7 9 1 3 7 9 1 3 5 7 9 1 3
+0 0 1 1 1 1 1 2 2 0 0 1 1 1 1 1 2 2
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2
+On-Site Releases
+73%  Transfers Off-Site 9% 
+7
+35
+s d n 6 s d n 30
+u 5 u
+o P o P 25
+f o 4 f o 20
+s n o 3 s n o 15
+illiM 2 illiM
+10
+1
+5
+- 0
+7 0 0 2 9 0 0 2 1 1 0 2 3 1 0 2 5 1 0 2 7 1 0 2 9 1 0 2 1 2 0 2 3 2 0 2 7 0 0 2 9 0 0 2 1 1 0 2 3 1 0 2 5 1 0 2 7 1 0 2 9 1 0 2 1 2 0 2 3 2 0 2
+11
+IV. 2023 TURA Chemical Data
+Table 2
+All Reported Chemical Data 2023
+(Rounded to millions of pounds)
+(Includes Trade Secret Data)
+TOTAL USE 564,000,000
+SHIPPED IN PRODUCT 238,000,000 42% of total chemical use
+GENERATED AS BYPRODUCT
+63,000,000 11% of total chemical use
+(total waste prior to treatment or disposal)
+ON-SITE RELEASES 0.3% of total chemical use
+1,900,000
+(to air, water or land disposal) 3% of total byproduct
+TRANSFERS OFF-SITE
+6% of total chemical use
+(to a wastewater treatment plant, recycling or waste 32,000,000
+51% of total byproduct
+management facility for treatment or disposal)
+Trade Secret
+Under certain circumstances facilities have the right to claim that the amount of chemical used and generated as
+byproduct is a trade secret. Provided that the regulatory standards for making such a claim are met and the
+Commissioner has not determined that the information is not a trade secret, MassDEP may not share that
+information. In 2023, eight facilities made trade secret claims on a combined total of:
+• 167 million pounds of chemical use
+• 4 million pounds of byproduct generation
+• 39 million pounds shipped in product.
+Chemical Use by Use Category
+TURA requires that facilities report chemical use in one of three chemical use categories: manufactured, processed,
+and otherwise used, identified by the Federal Toxics Release Inventory (TRI) program. Figure 5 below shows the
+proportion of 2023 chemical use for the three categories:
+• Chemicals manufactured accounted for 14% of total chemical use.
+• Chemicals processed accounted for 70% of total chemical use.
+• Chemicals otherwise used accounted for 16% of total chemical use.
+Figure 5
+2023 Total Use by Category
+(564 Million Pounds)
+(includes trade secret data)
+Otherwise Used
+16% Manufactured
+14%
+Processed
+70%
+12
+Top 20 Chemicals
+In 2023, filers reported using 128 out of the over 1,500 TURA-listed substances in amounts above the reporting
+threshold. The data was analyzed by chemical to identify the top 20 chemicals in each of the following amounts:
+used, generated as byproduct, shipped in product, released on-site as pollution, and shipped off-site for treatment or
+disposal.
+Chemical Use
+As shown in Table 3 below, the top 20 chemicals used in 2023 accounted for 84% (333 million pounds) of the total
+use reported (trade secret data was excluded to protect confidentiality claims). The top four chemicals, Sodium
+Hydroxide (14% of total use, 149 facilities, 55 million pounds), Methanol (12% of total use, 25 facilities, 49 million
+pounds), Hydrochloric Acid (11% of total use, 38 facilities, 42 million pounds), and Sodium Hypochlorite (10% of
+total use, 32 facilities, 38 million pounds), and accounted for almost half of the total reported use (excluding trade
+secret data) in the state.
+Tables 4 and 5 show the top 20 chemicals for the other reporting categories. As with use, the top 20 chemicals
+represent a significant proportion of the total amount reported (Table 2). The top 20 chemicals comprised:
+• 87% of the total reported byproducts (including trade secret data)
+• 90% of the total reported shipped in product (excluding trade secret data)
+• 94% of the total on-site releases (including trade secret data)
+• 91% of the total off-site transfers (including trade secret data).
+Hydrochloric Acid was the second top chemical for on-site releases, accounting for 14% of the statewide total of on-
+site releases (270,000 pounds). Ninety-seven (97) percent of hydrochloric acid releases were from municipal waste
+combustors.
+The Nitrate Compounds chemical category was the top chemical for transfers offsite, accounting for 17% of the
+statewide total transfers off-site (almost 5.5 million pounds). Nitrate compounds were primarily coincidentally
+manufactured during neutralization of nitric acid in wastewater treatment and were discharged to Publicly Owned
+Wastewater Treatment Plants. Ninety-six (96) percent of total transfers off-site of lead, the fourth chemical on the
+list, was attributed to five municipal waste combustors that transferred lead in ash to off-site lined landfills.
+13
+Table 3 – 2023 Top 20 Chemicals: Total Use
+These quantities do not include Trade Secret Data
+Chemical Name (CAS #) CAS # Total Use (Lbs.)
+Sodium Hydroxide 1310732 55,038,812
+Methanol 67561 49,029,691
+Hydrochloric Acid 7647010 42,270,859
+Sodium Hypochlorite 7681529 38,149,797
+Sulfuric Acid 7664939 18,247,278
+Potassium Hydroxide 1310583 15,971,592
+Acetone 67641 12,129,658
+Toluene 108883 11,476,253
+Ammonia 7664417 11,299,189
+Nitrate Compounds 1090 10,390,892
+Zinc Compounds 1039 9,407,071
+Phosphoric Acid 7664382 9,370,739
+Ethyl Acetate 141786 7,608,568
+Methyl Ethyl Ketone 78933 7,486,079
+Diisocyanates 1050 7,480,845
+Nitric Acid 7697372 6,420,971
+Methyl Methacrylate 80626 5,823,917
+Ferric Chloride 7705080 5,361,289
+Epichlorohydrin 106898 5,164,077
+Toluene Diisocyanate 26471625 5,024,068
+NOTE: Bolded chemicals are on the Top 20 Chemicals for Total Use, Byproduct Generation, Shipped in Product, On-Site
+Releases, and Transfers Off-Site.
+Butyraldehyde, Formaldehyde, Sodium Bisulfite, and Vinyl Acetate would appear in the Top 20 Chemicals Total Use list if trade
+secret quantities were included.
+14
+Table 4 – 2023 Top 20 Chemicals:
+Byproduct Generation and Shipped in Product
+Byproduct Generation Shipped in Product
+These quantities include These quantities do not include
+Trade Secret Data Trade Secret Data
+Byproduct Shipped in
+Chemical Name CAS # Generation Chemical Name CAS # Product
+(Lbs.) (Lbs.)
+Sodium Hydroxide 1310732 7,385,346 Methanol 67561 45,428,470
+Ethyl Acetate 141786 6,844,713 Sodium Hypochlorite 7681529 35,491,463
+Nitrate Compounds 1090 6,323,621 Sodium Hydroxide 1310732 17,667,945
+Acetone 67641 4,900,113 Potassium Hydroxide 1310583 14,398,223
+Sulfuric Acid 7664939 4,488,617 Phosphoric Acid 7664382 7,751,909
+Methanol 67561 4,129,555 Toluene 108883 7,319,924
+Toluene 108883 4,039,476 Sulfuric Acid 7664939 7,045,528
+Lead 7439921 2,402,045 Acetone 67641 6,976,397
+Methyl Ethyl Ketone 78933 2,318,327 Zinc Compounds 1039 5,308,190
+Ethylene Glycol 107211 1,857,029 Methyl Ethyl Ketone 78933 5,091,187
+1-Methyl-2-Pyrrolidone 872504 1,831,813 Ferric Chloride 7705080 4,763,524
+Formaldehyde 50000 1,741,145 Glycol Ethers 1022 3,719,788
+Acetonitrile 75058 1,105,975 Methyl Methacrylate 80626 3,719,727
+Dimethylformamide 68122 1,070,253 Certain PFAS NOL 1300 3,371,693
+Hydrochloric Acid 7647010 1,012,739 Antimony Compounds 1000 2,225,022
+Aluminum Sulfate 10043013 991,936 Ethyl Acetate 141786 1,883,890
+Dichloromethane 75092 722,555 Diisocyanates 1050 1,603,218
+Nitric Acid 7697372 596,447 Nitrate Compounds 1090 1,544,778
+Potassium Hydroxide 1310583 578,762 Styrene Monomer 100425 1,414,002
+Zinc Compounds 1039 539,553 Copper 7440508 1,382,640
+NOTE: Bolded chemicals are on the Top 20 Chemicals for Total Use, Byproduct Generation, Shipped in Product, On-Site Releases, and
+Transfers Off-Site.
+Sodium Bisulfite and Copper Compounds would appear in the Top 20 Chemicals Shipped in Product list if trade secret quantities were included.
+15
+Table 5 – 2023 Top 20 Chemicals:
+Reported On-Site Releases and Transfers Off-Site
+On-Site Releases Transfers Off-Site
+These quantities include These quantities include
+Trade Secret Data Trade Secret Data
+Chemical Name (CAS #) On-Site Chemical Name (CAS #) Transfers
+Releases Off-Site (Lbs.)
+(Lbs.)
+Acetone 67641 481,837 Nitrate Compounds 1090 5,437,945
+Hydrochloric Acid 7647010 269,922 Acetone 67641 4,074,732
+Toluene 108883 179,221 Methanol 67561 2,749,755
+Ammonia 7664417 178,780 Lead 7439921 2,421,000
+Ethyl Acetate 141786 167,777 Toluene 108883 1,842,791
+Formaldehyde 50000 71,895 1-Methyl-2-Pyrrolidone 872504 1,689,838
+Methanol 67561 64,887 Ethylene Glycol 107211 1,635,699
+Methyl Ethyl Ketone 78933 54,696 Formaldehyde 50000 1,602,666
+Glycol Ethers 1022 45,262 Methyl Ethyl Ketone 78933 1,318,766
+Butyl Acetate-T 540885 33,772 Acetonitrile 75058 1,103,524
+Xylene Mixed Isomer 1330207 31,529 Zinc Compounds 1039 923,600
+Hexane (N-Hexane) 110543 30,301 Sodium Hydroxide 1310732 777,602
+Styrene Monomer 100425 29,456 Dichloromethane 75092 691,913
+Trichloroethylene 79016 27,978 Ethyl Acetate 141786 549,627
+Dichloromethane 75092 27,968 Furan, Tetrahydro- 109999 520,862
+Butyraldehyde 123728 24,898 Butyraldehyde 123728 489,364
+N Propyl Bromide 106945 19,195 Diethyl Hexyl Phthalate 117817 401,769
+1-Methyl-2-Pyrrolidone 872504 18,736 Ferric Chloride 7705080 311,532
+Butylacetate 123864 16,644 Lead Compounds 1026 294,103
+Phenol 108952 10,024 Dimethyl Formamide 68122 291,865
+NOTE: Bolded chemicals are on the Top 20 Chemicals for Total Use, Byproduct Generation, Shipped in Product, On-Site Releases,
+and Transfers Off-Site.
+16
+V. 2023 Chemicals of Particular Interest
+Certain toxic chemicals are of particular concern because of their higher potential to harm the environment or public
+health. These include:
+• Chemicals classified as persistent bioaccumulative toxic (PBT) chemicals by the U.S. Environmental
+Protection Agency (EPA) under the Toxics Release Inventory (TRI) Program
+• Chemicals designated as Higher Hazard by the TURA Administrative Council
+• Chemicals known to promote asthma (Asthmagens)
+• Carcinogens
+Trends in reported data for each of these groups of substances are discussed below.
+Persistent Bioaccumulative Toxic (PBT) Chemicals
+PBTs are highly toxic, remain in the environment for long periods of time, are not readily destroyed, and build up or
+accumulate in body tissue. As a result, relatively small releases of PBT chemicals can pose health and
+environmental threats and, therefore, the use and release of these chemicals, even in relatively small amounts,
+warrants public reporting as well as toxics use reduction efforts. Because of these concerns, the threshold for PBTs
+was lowered by USEPA from 25,000 pounds if the substance is manufactured or processed, and 10,000 pounds if
+the substance is otherwise used, to between 0.1 grams and 100 pounds, depending on the chemical, for all uses. The
+threshold was lowered for all PBTs, as of reporting year 2000, except for lead and lead compounds (starting
+reporting year 2001).
+Table 6 below shows the 2023 reported data and the number of filers for each PBT (excluding trade secret data).
+Nine PBTs are reported in Massachusetts. Five of these (dioxin, polycyclic aromatic compounds, benzoperylene,
+mercury and mercury compounds) are chiefly associated with combustion at resource recovery facilities, power
+plants, and the manufacture of concrete and asphalt paving.
+Table 7 below shows each PBT’s chemical use since the year before it was designated as a PBT. The chemical use
+increased from zero to hundreds of pounds when the PBT designation occurred. The pounds of these combustion
+related chemicals increased again in 2003 when the municipal waste combustors were required to report. Despite
+being used primarily to produce power, facilities did eliminate some of these chemicals when they switched from
+coal and oil to natural gas, and the majority showed that they were using less of the chemical or generating less
+byproduct per unit of product since the substance was designated as a PBT. However, reporting dropped
+substantially in 2007 when amendments to the Act exempted facilities that burned fuel for their own use from
+reporting on chemicals in the fuel or coincidentally manufactured during combustion.
+The use of lead and lead compounds stems from a combination of combustion, waste management, paving asphalt
+manufacture, and traditional manufacturing. Lowering the reporting threshold to 100 pounds in 2001 resulted in an
+increase in the number of facilities reporting lead from 15 in reporting year 2000, to 152 in 2001, and an increase in
+the number of facilities reporting lead compounds from 33 in 2000, to 129 in 2001. However, in 2023 the number
+of lead and lead compounds filers had decreased to 62 and 41, respectively.
+17
+Table 6
+2023 Persistent Bioaccumulative Toxic (PBT) Chemicals Summary
+(Excludes Trade Secret Data)
+Threshold
+(lbs or # Filers Shipped in On-Site Transfers
+Substance Use Byproduct
+grams for in 2023 Product Releases Off-Site
+dioxin)
+Benzo[ghi]-perylene 10 18 3,066 1,360 1,268 0 1,295
+Dioxin and Dioxin
+
+Section 11:
+0.1 Gr 5 739 739 0 10 730
+Compounds
+2,892,47
+Lead 100 62 2,402,045 477,771 195 2,421,000
+7
+Lead Compounds 100 41 395,433 293,284 95,519 1,425 292,361
+Mercury 10 13 7,560 3,649 4,785 21 3,627
+Mercury Compounds 10 1 959 1 1,470 0 1
+Polychlorinated
+10 1 2,884 2,844 0 0 2,844
+Biphenyls
+Polycyclic Aromatic
+100 21 147,303 48,554 58,197 49 47,155
+Compounds
+Tetrabromo-Bisphenol A 10 1 1,713 130 1,712 0 1
+18
+Table 7
+Pounds of PBTs Reported Use and Number of Facilities Reporting 2000 – 2023 (Excludes Trade Secret Data)
+Dioxin and Mercury Poly- Polycyclic
+Benzo[ghi]- Mercury Tetrabromo-
+Dioxin Compounds Chlorinated Aromatic Lead Lead Compounds
+perylene (7439976) bisphenol A
+Compounds (1028) Biphenyls Compounds (7439921) (1026)
+(191242) (79947)
+(1060) (1336363) (1040)
+Lbs Use # Grams Use # Lbs Use # Lbs Use # Lbs Use # Lbs Use # Lbs Use # Lbs Use # Lbs Use #
+1999 0 0 0 0 0 0 0 0 0 37,539,261 6 0 0
+2000 146,531 120 12 8 4,973 11 90,009 6 118,160 2 14,171,986 158 332 1 1,261,842 15 9,855,146 33
+2001 180,326 127 12 8 9,315 13 676 5 83,890 2 13,849,697 151 115 1 1,284,199 152 7,290,727 129
+2002 123,429 122 13 8 5,922 13 1,765 5 64,981 2 11,148,250 149 19,057 1 912,922 143 5,146,270 114
+2003 125,099 119 11,827 17 11,476 20 1,212 6 37,325 2 11,486,388 136 152 1 3,394,134 140 5,982,308 117
+2004 128,874 114 3,033 16 12,629 20 966 7 46,879 2 11,796,370 133 0 0 3,651,671 109 5,279,027 126
+2005 128,809 109 6,696 17 10,444 22 1,031 6 21,741 2 11,128,163 127 0 0 3,763,242 114 3,689,910 126
+2006 49,376 27 761 15 13,351 19 1,011 6 22,042 2 3,735,104 31 0 0 4,811,219 102 2,279,105 111
+2007 49,412 28 1,155 13 13,733 19 1,101 5 110,303 3 5,051,904 29 0 0 4,172,982 90 1,406,092 104
+2008 33,393 25 1,523 13 12,231 20 3,421 6 156,170 3 3,275,212 30 0 0 3,799,929 90 1,241,717 93
+2009 12,403 24 1,951 11 10,515 17 1,610 5 42,757 3 1,168,637 28 4,596 1 4,130,556 73 971,451 84
+2010 4,275 21 1,980 9 11,434 16 1,161 4 71,091 2 382,534 26 4,875 2 3,208,423 75 736,262 73
+2011 3,177 23 2,811 9 15,826 17 1,307 5 72,654 2 283,498 27 7,235 3 3,080,576 75 569,666 66
+2012 2,712 23 2,650 9 7,795 16 157 2 83,372 2 206,532 26 7,242 3 3,289,441 79 654,024 63
+2013 4,832 22 1,847 9 6,619 17 639 4 126,857 3 523,396 26 5,881 2 3,531,726 76 754,176 61
+2014 10,570 21 1,841 10 4,451 17 653 3 88,354 2 1,055,061 24 3,015 2 3,653,822 69 835,041 55
+2015 10,692 21 1,762 8 6,867 17 1,000 2 59,887 1 1,398,282 24 4,466 2 3,427,441 62 956,565 53
+2016 7,318 21 2,094 8 8,479 16 1,365 2 45,621 1 576,833 23 3,418 2 3,213,445 65 730,746 54
+2017 5,229 21 2,012 8 8,392 18 703 2 39,383 1 347,984 23 2,760 2 3,180,955 66 709,078 47
+2018 6,597 20 1,622 7 7,627 14 694 1 31,933 1 478,357 23 179 1 3,344,065 61 578,872 48
+2019 3,304 19 2,571 7 8,261 16 590 1 11,999 1 177,093 22 239 1 3,065,771 61 486,038 43
+2020 2,326 17 2,114 7 11,447 15 615 1 22,356 2 82,518 18 337 1 2,959,713 67 308,947 41
+2021 2,982 19 1,144 7 7,577 14 575 1 9,093 1 144,268 20 1,841 2 2,641,404 65 289,957 42
+2022 6,966 17 1,547 5 6,645 13 871 1 2,138 1 506,417 20 3,421 1 2,764,490 65 224,239 42
+2023 3,066 18 739 5 7,560 13 959 1 2,884 1 147,303 21 1,713 1 2,892,477 62 395,433 41
+NOTE: The numbers below the dark lines indicate the first year that these chemicals were designated as PBTs and the reporting threshold was lowered. 57
+19
+Higher Hazard Substances (HHS)
+Other higher hazard chemicals, beyond PBTs covered above, are also reported under TURA. The 2006 amendments
+to TURA directed the Council to categorize the TURA list of chemicals into higher or lower hazard substances, or to
+leave them uncategorized and lower the reporting threshold for higher hazard substances (HHS) to 1,000 pounds for
+all uses. Table 8 below shows the pounds of each HHS reported and the number of facilities reporting it from the
+year before it was designated as a HHS to 2023.
+The data showed a similar trend for trichloroethylene and tetrachloroethylene as that seen with PBTs - an initial
+increase in the number of facilities reporting since these chemicals were designated as HHS in 2008 and 2009. The
+increases, respectively, were from 9 in 2007 to 27 in 2008 reporting trichloroethylene, and 4 in 2008 to 23 in 2009
+reporting tetrachloroethylene. However, in 2023 the number of trichloroethylene and tetrachloroethylene filers
+decreased to 6 and 2, respectively.
+Table 9 below shows the fourteen HHS chemicals reported in 2023, including the number of filers, byproduct
+generation, shipped in product, on-site releases, and transfers off-site.
+20
+Table 8
+Higher Hazard Substances (HHS): Total Pounds of Use (Non-Trade Secret Data)
+and # Filers Before and After HHS Designation
+Toluene- Toluene- Toluene
+2,4- 2,6- diisocyanate Methylene
+diisocya- diisocya- (mixed Chloride
+nate nate isomers) Hydrogen N- Propyl Dimethyl- Cyanide (Dichloro- Hexavalent Tetrachloro- Cadmium Trichloro-
+NAME fluoride Bromide formamide Compounds methane) Formaldehyde Chromium ethylene Cadmium Compounds ethylene
+CAS 584849 91087 26471625 7664393 106945 68122 1016 75092 50000 1216 127184 7440439 1004 79016
+HHS
+Start
+Year 2017 2017 2017 2016 2016 2016 2016 2014 2012 2012 2009 2008 2008 2008
+NON-TRADE SECRET POUNDS OF USE (Number of facilities)
+184,400 (1) 604,671 (9)
+2007
+2008 230,345 (4) 29,429(5) 167,355(6) 536,073 (27)
+2009 176,186(23) 28,969(4) 145,324(7) 556,457(23)
+2010 151,918 (18) 23,970 (4) 242,702 (7) 294,836 (16)
+2011 4,027,226 (9) * 163,773 (19) 26,878 (4) 180,654 (5) 303,076 (17)
+2012 4,119,146(25) 121,504(16) 89,216(16) 29,805(6) 181,666(5) 354,351(14)
+2013 3,496,421(11) 4,011,427(27) 113,466(16) 110,550(18) 20,447(6) 210,550(6) 176,891(15)
+2014 3,031,438(24) 3,276,305(25) 103,595(15) 164,606(16) 16,655(4) 217,235(6) 262,811(14)
+2015 365,928(6) 30,295(2) 3,518,824(9) 71,695(3) 2,629,094(25) 3,017,674(23) 92,490(14) 320,950(11) 20,312(3) 128,953(6) 243,143(13)
+2016 456,803(1) 114,201(1) 5,669,556(3) 483,633(25) 102,998(23) 3,845,720(13) 118,955(14) 2,628,375(20) 3,157,440(22) 77,657(14) 909,566(12) 17,707(3) 155,687(6) 239,983(15)
+2017 510,809(1) 127,702(1) 5,392,008(5) 238,065(28) 94,100(23) 3,871,715(12) 142,450(15) 2,781,125(20) 3,070,622(23) 89,696(14) 346,348(12) 16,991(3) 153,463(5) 224,882(13)
+2018 403,297(1) 100,824(1) 5,126,282(4) 209,972(24) 95,527(20) 3,616,365(13) 146,777(14) 2,500,120(18) 3,370,832(23) 77,103(13) 73,318(9) 20,162(4) 142,058(7) 274,876(13)
+2019 511,236(2) 97,970(1) 4,317,010(4) 289,620(22) 69,631(18) 3,705,786(14) 134,095(15) 1,683,395(18) 2,793,325(23) 72,283(13) 71,100(7) 19,403(3) 119,549(5) 172,080(11)
+2020 339,901(2) 70,322(1) 9,989,005(6) 199,116(24) 58,588(17) 3,442,733(13) 116,042(15) 1,397,901(16) 2,036,787(23) 77,695(14) 33,747(4) 22,215(3) 100,364(4) 187,576(13)
+2021 313,968(2) 59,374(1) 9,601,878(5) 215,886(23) 62,671(15) 3,553,791(12) 126,786(16) 1,901,471(14) 2,331,245(22) 62,170(16) 13,937(4) 17,652(3) 123,966(4) 114,885(13)
+2022 122,437(1) 30,609(1) 6,862,252(4) 307,139(22) 53,372(15) 3,348,500(12) 85,723(15) 1,693,452(13) 2,311,435(23) 56,530(14) 3,828(2) 14,817(3) 122,776(4) 88,724(11)
+2023 144,197(1) 36,049(1) 5,024,068(3) 359,392(19) 51,251(15) 2,479,488(10) 93,182(15) 1,385,813(14) 1,862,980(22) 55,705(13) 6,078(2) 19,453(2) 91,097(3) 56,058(6)
+*Note: When hexavalent chromium was designated high hazard, the existing chromium compounds category was broken into two categories: hexavalent chromium and non-hexavalent chromium. As
+a result, there is no data for hexavalent chromium prior to 2012.
+21
+Table 9
+2023 Higher Hazard Substances (HHS) Summary
+(Excludes Trade Secret Data)
+Substance and # Filers Shipped in On-Site Transfers Off-
+Use Byproduct
+Year Designated as HHS in 2023 Product Releases Site
+Cadmium/2008 2 9,453 13,415 11,124 0 3,415
+Cadmium Compounds/2008 3 91,097 8,205 10,824 8 8,203
+Trichloroethylene/2008 6 56,058 46,302 11,481 27,978 7,651
+Tetrachloroethylene/2009 2 6,078 2,103 4,562 2,101 2
+Formaldehyde/2012 22 1,862,980 369,676 61,741 71,019 232,134
+Hexavalent Chromium
+13 55,705 27,528 21,531 121 18,217
+Compounds/2012
+Methylene Chloride/
+14 1,385,813 722,555 574,666 27,968 691,913
+Dichloromethane/2014
+Cyanide Compounds/2016 15 93,182 69,968 2,737 3,649 27,450
+Dimethylformamide/2016 10 2,479,488 1,070,253 1,355,980 8,640 291,865
+Hydrogen Fluoride/2016 19 359,392 159,847 71,369 2,164 19,119
+N-Propyl Bromide/2016 15 51,251 44,494 6,405 19,195 20,993
+Toluene-2,4-
+1 144,197 4,114 0 1 4,113
+diisocyanate/2017
+Toluene-2,6-
+1 36,049 97 0 0 0
+diisocyanate/2017
+Toluene diisocyanate (mixed
+4 5,024,068 251 0 82 0
+isomers)/2017
+Asthmagens
+In 2009, the Lowell Center for Sustainable Production (LCSP) published Asthma-Related Chemicals in Massachusetts:
+an Analysis of Toxics Use Reduction Data (available on TURI’s website www.turi.org). The purpose of this project
+was to understand the extent to which chemicals that can cause the initial onset of asthma or trigger subsequent asthma
+attacks are being used by Massachusetts industries who report under the TURA program (using 1990 to 2005 data).
+The report identified 335 chemicals that can cause or exacerbate asthma where 68 are reportable under TURA and of
+which 41 have been reported at some point during the program’s history.
+The TURA program has begun working to better understand the uses of these chemicals in relation to potential
+exposures and toxics use reduction opportunities. Table 10 below summarizes 2023 data on some of the chemicals
+identified in the LCSP report that were reported under TURA. In 2023, 16 chemicals identified as asthmagens by the
+Association of Occupational and Environmental Clinics (AOEC) were reported under TURA. In 2023, Sulfuric Acid
+was again reported as having the largest usage while Formaldehyde was again reported as having the largest amount of
+on-site releases.
+22
+Table 10
+Asthma-Related Toxics
+(in pounds)
+(Excludes Trade Secret Data)
+Chemical Name (Number of Facilities) Use On-Site Releases
+Acetic Acid (16) 1,160,980 2,212
+Chlorine (2) 166,135 9
+Chromium (2) 118,557 0
+Diethanolamine(1) 46,644 0
+Ethylene Oxide (1) 142,777 53
+Formaldehyde (22) 1,862,980 71,019
+Hydrazine (1) 92,906 0
+Maleic Anhydride (1) 470,428 3,814
+Methylenebisphenyl (2) 884,635 0
+Methyl Methacrylate (4) 5,823,917 3,179
+Nickel (3) 316,403 42
+Nickel Compounds (3) 280,821 672
+Phthalic Anhydride (1) 309,129 209
+Styrene Monomer (6) 2,579,320 29,456
+Sulfuric Acid (89) 18,247,278 4,861
+Toluene Diisocyanate (5)* 5,204,314 82
+* Toluene Diisocyanate includes CAS numbers 91087, 584849, and 26471625.
+Carcinogens
+Several TURA chemicals are identified as Group 1 carcinogens (i.e., carcinogenic to humans) by the International
+Agency for Research on Cancer (IARC). In 2023, eight IARC Group 1 carcinogens were reported under TURA (see
+Table 11). The largest amount of use was reported for Formaldehyde. Formaldehyde was also reported as having the
+largest amount of releases and these releases were reported by the most facilities. Releases were primarily air releases;
+however, there were also releases to water and land.
+23
+Table 11
+IARC Group 1 Carcinogens
+(in pounds unless otherwise noted)
+(Excludes Trade Secret Data)
+Chemical Name (Number of Facilities) Use On-Site Releases
+Cadmium (2) 19,453 0
+Dioxin (5)* 739 9.734
+Ethylene Oxide (1) 142,777 53
+Formaldehyde (22) 1,862,980 71,019
+Hexavalent Chromium Compounds (13) 55,705 121
+Polychlorinated Biphenyls (1) 2,884 0
+Nickel Compounds (3) 280,821 672
+Trichloroethylene (6) 56,057 27,978
+* 2,3,7,8-Tetrachlorodibenzo-para-dioxin are the agents specifically listed as Group 1 by IARC (in grams).
+24
+VI. 2023 Significant Industrial Sectors
+Under TURA, facilities in the Manufacturing Standard Industrial Classification (SIC) codes 20-39 inclusive and those
+in SIC codes 10-14, 40, 44-51, 72, 73, 75 and 76, or the corresponding NAICS code must report their chemical use if
+they meet or exceed certain thresholds. Figures 6 through 9 present, by sector, the 2023 numbers of facilities reporting,
+reported amount of use, byproduct, and releases on-site by industrial sector.
+The charts demonstrate that the chemical manufacturing sector dominates chemical use in the Commonwealth. This
+sector had the greatest percentage of filers at 19% (Figure 6). The chemical manufacturing sector also had the greatest
+percentage of chemical use at 60% (Figure 7), the largest percentage of byproduct at 46% (Figure 8), and the largest
+percentage of on-site releases at 22%, with the paper manufacturing and waste management and remediation services
+sectors at 17% and 12%, respectively (Figure 9). The chemical manufacturing sector is a diverse group of industries
+and includes facilities that “manufacture” chemicals according to the TURA definition as well as facilities that
+“process” chemicals to formulate adhesives, paints, pharmaceuticals, and plastic materials and resins. The chemical
+manufacturing sector is broken into further sectors in Figure 7.
+Chemical distributors at (Figure 7) 22% were the second largest contributor to use but had virtually no impact on
+byproduct and releases. Waste management and remediation services, paper manufacturing, and fabricated metal
+processors were other sectors with substantial contributions to byproduct and releases. The paper manufacturing sector,
+which accounted for 3% of total statewide use (Figure 7), accounted for 14% of total byproduct generated (Figure 8).
+Likewise, waste management and remediation services, which accounted for 4% of total statewide use (Figure 7),
+accounted for 12% of total on-site releases (Figure 9).
+Figure 6 –2023 Number of Facilities by Industrial Sector
+Total Number of Facilities = 430
+(Includes Trade Secret Data)
+Beverage and Tobacco
+Other Chemical Manufacturing
+Machinery Manufacturing Product Manufacturing 61 80
+7 6 14% 19%
+2% 1%
+Plastics and Rubber Products
+Manufacturing
+8
+2%
+Waste Management and
+Remediation Services
+8
+Fabricated Metal Product
+2%
+Manufacturing
+Chemical Distributors
+57
+9
+13%
+2%
+Personal and Laundry
+Services
+9
+2%
+Petroleum and Coal Products
+Manufacturing
+10
+2%
+Electrical Equipment, Appliance, Nonmetallic Mineral Product
+and Component Manufacturing Manufacturing
+11 36
+3% 8%
+Primary Metal Manufacturing
+13 Miscellaneous Manufacturing Computer and Electronic
+3% 14 Product Manufacturing
+Textile Mills 3% Food Manufacturing Utilities Paper Manufacturing 29
+13 16 16 27 7%
+3% 4% 4% 6%
+25
+Figure 7 – All Reported Data: 2023 Chemical Use by Industrial Sector
+Total Use = 564,000,000 Pounds
+(Includes Trade Secret Data)
+Computer and Electronic
+Product Manufacturing
+1% Other
+Miscellaneous 6%
+Basic Chemical
+Manufacturing
+Manufacturing
+2%
+17%
+Fabricated
+Metal Product
+Manufacturing
+2%
+Paper
+Manufacturing Other Chemical
+3% Product and
+Preparation
+Manufacturing
+Waste Chemical Resin, Synthetic 13%
+Management Manufacturing Rubber, and Artificial
+and 60% Synthetic Fibers and
+Remediation Filaments
+Services Manufacturing
+4% 20%
+Soap, Cleaning Compound, and
+Toilet Preparation
+Chemical Distributors Paint, Coating, and Adhesive Manufacturing
+Manufacturing
+22% 5%
+4%
+26
+Figure 8 – All Reported Data: 2023 Byproduct Generation by Industrial Sector
+Total Byproduct = 63,000,000 Pounds
+(Includes Trade Secret Data)
+Computer and Electronic Other
+Machinery Manufacturing Product Manufacturing 8%
+3% 2%
+Food Manufacturing
+3%
+Plastics and Rubber Chemical Manufacturing
+Products Manufacturing 46%
+4%
+Textile Mills
+4%
+Miscellaneous
+Manufacturing
+5%
+Waste Management and
+Remediation Services
+5%
+Fabricated Metal Product
+Manufacturing
+Paper Manufacturing
+6%
+14%
+Figure 9 – All Reported Data: 2023 On-Site Releases by Industrial Sector
+Total On-Site Releases = 1,900,000 Pounds
+(Includes Trade Secret Data)
+Other
+11%
+Chemical Manufacturing
+Computer and Electronic
+22%
+Product Manufacturing
+4%
+Textile Mills
+4%
+Fabricated Metal Product
+Manufacturing
+10% Paper Manufacturing
+17%
+Utilities
+10%
+Miscellaneous Waste Management and
+Manufacturing Remediation Services
+10% 12%
+27
+VII. 2023 Major TURA Facilities
+Tables 12 through 14 show the 20 facilities that report the highest quantities of reported chemical used, generated as
+byproduct, shipped in or as product, released on-site, and transferred off-site.
+• Table 12 lists the 20 facilities that reported the largest total quantity of TURA chemicals used. These 20
+facilities used 426 million pounds, or 75% of total statewide use.
+• Table 13 lists the 20 facilities that generated the largest reported quantity of byproduct generated and shipped
+in product. These facilities generated 37 million pounds of byproduct or 59% of the statewide total. The 20
+facilities with the largest quantity shipped in product, shipped 212 million pounds in product, or 89% of the
+statewide total.
+• Table 14 lists the 20 facilities that reported the largest quantity of on-site releases and the 20 facilities that had
+the largest quantity of transfers off-site. These facilities released 1.1 million pounds, or 59% of total releases
+statewide. Four of the Top 20 on-site releases were municipal waste combustors (MWCs), which reported over
+252,000 pounds of Hydrochloric Acid, that was coincidentally manufactured during combustion. The 20
+facilities with the largest reported quantity of transfers off-site transferred 23 million pounds, or 71% of the
+total statewide transfers off-site.
+28
+Table 12
+2023 Top 20 Facilities: Reported Total Use
+(Includes trade secret data)
+Facility Name Town Total Use (Lbs.)
+Holland Company Inc Adams 85,850,930
+Borden and Remington Corp Fall River 58,755,521
+Solutia Inc Springfield 58,119,613
+Astro Chemicals Inc Springfield 39,752,567
+Highline Warren LLC Leominster 34,402,382
+Prefere Melamines LLC Springfield 29,183,214
+Rousselot Peabody Inc Peabody 22,801,817
+James Austin Co Ludlow 16,356,328
+Roberts Chemical Co Inc Attleboro 11,376,958
+Semass Partnership Rochester 10,949,623
+Univar Solutions USA LLC Tewksbury 8,457,440
+Webco Chemical Corp Dudley 6,546,853
+Holcim Solutions and Products US
+Rockland 6,246,332
+LLC
+Solenis LLC Chicopee 5,846,309
+Synthomer Inc Fitchburg 5,682,747
+Metalor Technologies USA Attleboro 5,546,595
+Future Foam Mansfield 5,391,991
+ISP Freetown Fine Chemicals Inc Assonet 4,909,207
+Covestro LLC Wilmington 4,801,090
+Wheelabrator Millbury Inc Millbury 4,708,980
+29
+Table 13
+2023 Top 20 Facilities: Reported Byproduct And Shipped In Product
+(Includes Trade Secret Data)
+Byproduct Shipped In Product
+Byproduct Shipped In
+Facility Name Town Generation Facility Name Town Product
+(Lbs.) (Lbs.)
+Solutia Inc Springfield 5,800,135 Astro Chemicals Inc Springfield 35,574,771
+Borden and Remington
+Rousselot Peabody Inc Peabody 4,639,096 Fall River 34,827,785
+Corp
+3M Company Rockland 4,306,926 Highline Warren LLC Leominster 34,389,944
+Thermo Fisher Scientific Bedford 2,734,549 Holland Company Inc Adams 26,156,000
+Prefere Melamines LLC Springfield 2,600,434 James Austin Co Ludlow 16,213,544
+Flexcon Company Inc Spencer 1,989,505 Roberts Chemical Co Inc Attleboro 11,376,958
+Covestro LLC Wilmington 1,648,819 Solutia Inc Springfield 9,354,854
+Univar Solutions USA
+Munters Corp Amesbury 1,558,524 Tewksbury 8,440,029
+LLC
+Waters Corporation Taunton 1,219,149 Webco Chemical Corp Dudley 6,535,648
+Holcim Solutions and
+Veranova LP Devens 1,196,400 Rockland 5,855,634
+Products US LLC
+ISP Freetown Fine
+Nitto Denko Avecia Inc Milford 1,145,213 Assonet 4,046,681
+Chemicals Inc
+Nissha Metallizing ITW Performance
+Franklin 1,128,048 Danvers 3,825,582
+Solutions Ltd Polymers
+Kovalus Separation Alpha Chemical Services
+Wilmington 1,109,628 Stoughton 2,739,964
+Solutions Inc Inc
+Metalor Technologies USA Attleboro 1,066,357 Kidde Fenwal Inc Ashland 2,424,796
+Semass Partnership Rochester 925,380 Advance Coatings Co Westminster 2,133,116
+Cedars Mediterranean Callahan Chemical
+Haverhill 844,274 Walpole 2,034,157
+Foods Inc Company LLC
+Trelleborg Monson Monson 791,766 Bostik Inc Middleton 1,849,812
+Mexichem Specialty
+Barrday Corporation Millbury 788,749 Leominster 1,447,984
+Compounds Inc
+Nyacol Nano
+Bostik Inc Middleton 779,576 Ashland 1,325,341
+Technologies Inc.
+Ideal Tape Company Lowell 764,706 Tricab USA Inc Worcester 1,256,829
+30
+Table 14
+2023 Top 20 Facilities: Reported On-Site Releases and Transfers Off-Site
+(Includes Trade Secret Data)
+On-Site Releases Transfers Off-Site
+On-Site Transfers
+Facility Name Releases Facility Name Town Off-Site
+(Lbs.) (Lbs.)
+Ideal Tape Company Lowell 132,596 Solutia Inc Springfield 4,718,172
+Callaway Golf Ball Operations Inc Chicopee 128,976 Thermo Fisher Scientific Bedford 2,663,343
+Semass Partnership Rochester 100,103 Prefere Melamines LLC Springfield 2,100,795
+Solutia Inc Springfield 73,923 Covestro LLC Wilmington 1,620,510
+Nissha Metallizing Solutions Ltd Franklin 68,247 Waters Corporation Taunton 1,194,508
+Wheelabrator Millbury Inc Millbury 67,898 Veranova LP Devens 1,190,469
+Covanta Haverhill Inc Haverhill 60,935 Nitto Denko Avecia Inc Milford 1,133,957
+Kovalus Separation
+Jain Americas Inc Nucedar Mills Chicopee 60,142 Wilmington 1,078,812
+Solutions Inc
+Flexcon Industries Randolph 55,996 Semass Partnership Rochester 825,277
+Nylco Division Worthen Industries
+Clinton 38,783 Bostik Inc Middleton 748,427
+Inc
+Hazen Paper Co Holyoke 38,116 Thermo Fisher Scientific Chelmsford 725,815
+Holcim Solutions and Products US
+Rockland 36,308 Rousselot Peabody Inc Peabody 674,999
+LLC
+Smith and Wesson Inc Springfield 35,530 Ideal Tape Company Lowell 632,111
+North Clean Harbors of
+Central Metal Finishing Inc 35,292 Braintree 583,352
+Andover Braintree Inc
+Callaway Golf Ball
+3M Company Rockland 35,027 Chicopee 532,981
+Operations Inc
+Raytheon Company Andover 34,172 Veranova LP North Andover 529,463
+Indian
+Masspower LLC 33,303 Genzyme Corporation Framingham 476,530
+Orchard
+Bostik Inc Middleton 31,151 Entegris Inc Bedford 460,724
+Blackstone Power Generation LLC Blackstone 29,539 Wheelabrator Saugus Inc Saugus 452,843
+Murphys Waste Oil
+Fore River Energy Center Weymouth 28,429 Woburn 434,570
+Services Inc
+31
+Appendix A - 2000 Core Group Progress
+The “2000 Core Group” includes all industry categories and chemicals that were subject to TURA reporting in 2000
+and remained subject to reporting in 2023 at the same reporting threshold. The 2000 Core Group is used to measure
+progress from 2000. The 2000 Core Group currently covers 86% of the total 397 million pounds of toxic chemicals
+reported in 2023 (excluding trade secret data).
+Progress in Toxics Use Reduction: 2000 Core Group
+The 2000 Core Group includes all industry categories and chemicals that were subject to TURA reporting in 2000 and
+remained subject to reporting in 2023 at the same reporting threshold. The 2000 Core Group is used to measure
+progress from 2000 and provides a longer history of TURA chemical use, byproduct, and releases than the 2007 Core
+Group. Table A-1 and Figures A-1 and A-2 below summarize 2000 Core Group TURA data from 2000 to 2023,
+excluding trade secret data. In addition to the filers excluded from the 2007 Core Group, the 2000 Core Group excludes
+reports discontinued when the TURA reporting threshold was lowered for certain manufactured and processed
+chemicals to match the EPA TRI threshold for lead and lead compounds reports, due to the lowered 2001 PBT
+thresholds.
+2000 Core Group Progress: Adjusting for Production
+Table A-1 below summarizes TURA data from 2000 to 2023, showing reported and production adjusted quantities. For
+the 2000 Core Group, the activity index shows an increase in production of 51 percent from 2000 to 2023. As shown
+below in Table A-1 and Figure A-1, when adjusted for production, as of 2023, the 2000 Core Group facilities have
+reduced:
+• toxic chemical use by 78%
+• toxic byproducts by 73%
+• toxics shipped in product by 65%
+• on-site releases of toxics to the environment by 91%
+• transfers of toxics off-site for further waste management by 57%.
+2000 Core Group Progress without Adjusting for Production
+The actual quantities reported by the 2000 Core Group over the period 2000 to 2023 are shown in Figure A-2. These
+quantities have not been adjusted for changes in production. From 2000 to 2023, Core Group facilities:
+• reduced toxic chemical use by 67% (from 1,038 million to 342 million pounds between 2000 and 2023)
+• reduced toxic byproducts by 59% (from 116 million to 48 million pounds between 2000 and 2023)
+• reduced toxics shipped in product by 47% (from 359 million to 191 million pounds between 2000 and
+2023)
+• reduced on-site releases of toxics to the environment by 87% (from 11 million to 1.4 million pounds
+between 2000 and 2023)
+• reduced transfers of toxics off-site for further waste management by 34% (from 27 to 18 million pounds
+between 2000 and 2023).
+32
+Table A-1
+2000 CORE GROUP DATA: 2000 - 2023 TREND SUMMARY
+(Quantities are in millions of pounds and do not include trade secret quantities.
+Shaded columns show quantities adjusted by cumulative production ratio)
+Production Ratio
+Year Total Use Byproduct Shipped in On-Site Releases Transfers Off-Site
+Product Year to Cumulative
+Year from 2000
+2000 1038.40 1038.40 115.50 115.50 358.80 358.80 10.70 10.70 26.90 26.90
+2001 955.40 955.40 96.80 96.80 315.30 315.30 8.70 8.70 21.30 21.30 1.00 1.00
+2002 871.70 908.02 89.30 93.02 283.90 295.73 7.70 8.02 20.10 20.94 0.96 0.96
+2003 910.40 948.33 83.70 87.19 289.40 301.46 7.10 7.40 19.30 20.10 1.00 0.96
+2004 849.10 842.36 86.80 86.11 295.50 293.15 6.80 6.75 19.50 19.35 1.05 1.01
+2005 819.00 804.46 73.40 72.10 327.00 321.19 6.80 6.68 16.10 15.81 1.01 1.02
+2006 789.20 759.98 70.90 68.28 276.50 266.26 5.90 5.68 15.20 14.64 1.02 1.04
+2007 744.30 738.91 64.40 63.93 267.90 265.96 5.20 5.16 15.60 15.49 0.97 1.01
+2008 704.30 659.63 61.80 57.88 253.30 237.23 4.30 4.03 14.70 13.77 1.06 1.07
+2009 663.20 603.04 56.00 50.92 241.10 219.23 3.50 3.18 17.40 15.82 1.03 1.10
+2010 705.40 588.45 65.20 54.39 238.20 198.71 3.40 2.84 19.30 16.10 1.09 1.20
+2011 682.80 581.22 58.10 49.46 235.50 200.47 2.80 2.38 14.30 12.17 0.98 1.17
+2012 633.80 561.99 57.40 50.90 230.80 204.65 2.50 2.22 12.90 11.44 0.96 1.13
+2013 649.10 532.93 56.80 46.63 256.40 210.51 2.30 1.89 14.90 12.23 1.08 1.22
+2014 560.10 510.95 56.70 51.72 239.20 218.21 2.30 2.10 14.60 13.32 0.90 1.10
+2015 399.60 368.22 53.90 49.67 215.00 198.11 2.80 2.58 16.00 14.74 0.99 1.09
+2016 397.70 321.46 55.20 44.62 217.20 175.56 2.30 1.86 18.80 15.20 1.14 1.24
+2017 413.60 309.55 62.20 46.55 234.00 175.13 2.20 1.65 18.40 13.77 1.08 1.34
+2018 419.80 305.04 57.70 41.93 243.44 176.89 1.70 1.24 19.90 14.46 1.03 1.38
+2019 415.00 289.95 55.30 38.64 231.90 162.02 1.50 1.05 19.80 13.83 1.04 1.43
+2020 369.70 263.57 53.10 37.86 211.20 150.57 1.30 0.93 17.60 12.55 0.98 1.40
+2021 389.43 261.92 56.06 37.71 223.86 150.56 1.53 1.03 20.63 13.88 1.06 1.49
+2022 381.35 264.42 55.94 38.79 217.18 150.59 1.46 1.01 21.33 14.79 0.97 1.44
+2023 341.92 225.79 47.91 31.64 191.23 126.28 1.40 0.92 17.67 11.67 1.05 1.51
+Percent 51%
+Change 67% 78% 59% 73% 47% 65% 87% 91% 34% 57% Increase
+2000-2023
+__________________________
+* Styrolution, which used over a quarter of the total reported use (excluding trade secret data) in 2000, ceased operations in
+Massachusetts in 2014.
+33
+Figure A-1 - 2000 Core Group Toxics Use Reduction Progress 2000-2023
+Production Adjusted
+(Excludes Trade Secret Data)
+Production Adjusted
+78% 
+Total Use
+1200
+s
+d 1000
+n
+u
+o 800
+P
+f o 600
+s
+n 400
+o
+illiM
+200
+0
+012345678901234567890123
+000000000011111111112222
+000000000000000000000000
+222222222222222222222222
+Production Adjusted Production Adjusted
+Byproduct Shipped in Product 65% 
+73% 
+140 400
+s 350
+s d 120 d n u 300
+n u 100 o P 250
+o P 80 f o 200
+f o s n 150
+s n
+o
+illiM 4
+6
+0
+0 o illiM 1
+5
+0
+0
+0
+0
+20
+0 2 4 6 8 0 2 4 6 8 0 2
+0 0 0 0 0 1 1 1 1 1 2 2
+0 0 2 0 2 0 2 0 2 0 2 0 2 0 2 0 2 0 2 0 2 0 2 0 2
+0 0 2 0 4 0 6 0 8 0 0 1 2 1 4 1 6 1 8 1 0 2 2 2 Year
+0 0 0 0 0 0 0 0 0 0 0 0
+2 2 2 2 2 2 2 2 2 2 2 2
+Production Adjusted
+Production Adjusted
+Transfers Off-Site
+On-Site Releases
+91% 
+12 30 57% 
+10 25
+s
+s d
+d n
+n u 8 u o 20
+o P
+f o 6 f o 15
+s n s n
+o illiM 4 o illiM 10
+2 5
+0 0
+0 2 4 6 8 0 2 4 6 8 0 2 0 2 4 6 8 0 2 4 6 8 0 2
+0 0 0 0 0 1 1 1 1 1 2 2 0 0 0 0 0 1 1 1 1 1 2 2
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2
+34
+Figure A-2 - 2000 Core Group Toxics Use Reduction Progress 2000-2023
+Not Production Adjusted
+(Excludes Trade Secret Data)
+Total Use
+1200
+67% 
+1000
+s
+d
+n 800
+u
+o
+P
+f o 600
+s
+n
+o
+illiM 400
+200
+0
+0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9 0 1 2 3
+0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 1 1 1 1 1 2 2 2 2
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2
+Byproduct Shipped in Product
+59% 
+140 47% 
+400
+s d 120 s d 350
+n u 100 n u 300
+o P 80 o P 250
+f o f o 200
+s n 60 s n 150
+o illiM
+2
+4
+0
+0 o illiM 1
+5
+0
+0
+0
+0 0
+0 2 4 6 8 0 2 4 6 8 0 2 0 2 4 6 8 0 2 4 6 8 0 2
+0 0 0 0 0 1 1 1 1 1 2 2 0 0 0 0 0 1 1 1 1 1 2 2
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2
+On Site Releases Transfers Off-Site
+34% 
+12 87%  30.00
+10 25.00
+s s
+d d
+n n
+u 8 u 20.00
+o o
+P P
+f o 6 f o 15.00
+s s
+n n
+o 4 o 10.00
+illiM illiM
+2 5.00
+0 0.00
+0 2 4 6 8 0 2 4 6 8 0 2 0 2 4 6 8 0 2 4 6 8 0 2
+0 0 0 0 0 1 1 1 1 1 2 2 0 0 0 0 0 1 1 1 1 1 2 2
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2
+35
+Massachusetts Department of Environmental Protection
+100 Cambridge Street
+Suite 900
+Boston, MA 02114
+Commonwealth of Massachusetts
+Maura T. Healey, Governor
+Executive Office of Energy and Environmental Affairs
+Rebecca L. Tepper, Secretary
+Department of Environmental Protection
+Bonnie Heiple, Commissioner
+36
+[DELETED: .I.K.2.2.2.2.2]
+[DELETED: CBSOT(ttot22222222222222000000000000000011111111122289012345689012222222000000011112913591222222222222222000000000000000001111111111222890123456789012]
+[DELETED:      2 2 2 2 2]
+[DELETED:  Ithu T w]
+[DELETED:  K U – t t q i p o T c r a]
+[DELETED:  2) ) 1112]
+[DELETED: dNsN]
+[DELETED: 11111111122222222222222222222222999999999000000000000000000000009999999990000000000111111111122212345678901234567890123456789012eBtSdOsT]
+[DELETED: IITTtttot]
+[DELETED: rrrri B O T C f 7 7 7 7 2 2 6 6 2 2 1   7 7 7 7 2 2 5 4 2 2 1 1  7 6 6 6 2 2 4 4 2 2 1 1  7 6 7 6 2 2 4 3 2 2 1 1  7 6 6 5 2 2 3 3 2 2 0 1  6 6 6 5 2 2 3 2 2 2 0 1  7 5 6 5 2 2 3 2 2 2 1 1  5 6 6 2 2 3 2 2 2  11 4 4 6 5 2 2 3 3 2 2 0 1  4 3 6 5 2 1 3 2 3 2 1 1  4 3 7 5 2 1 3 2 3 2 1 1  4 3 6 4 2 1 2 1 3 2 1 1  4 3 6 4 2 1 2 1 2 2 1 1  4 3 6 4 2 1 2 1 2 1 0 1  4 3 6 4 2 1 2 1 3 2 1 1 4 2 6 4 2 1 1 1 3 2 1 1 3 2 5 3 1 1 1 1 2 1 1 1  5 6 2 5 2 5 7 8 9 2  5 R R R R R R R I R  I]
+[DELETED: 2222222222222000000000000000111111112228901245678012-2222222222222222000000000000000001111122001111129135791379135791 P222220000001111913572222222000000001111129135791  ]
+[DELETED: 22222222222222000000000000000011111111112289012345678901010322222222222222220000000000000000011111220011111291357913791357912222222000000001111129135791222222000000011112935791    ]
+[DELETED: .2 5  2 4 1 0 3 3143CCC]
+[DELETED: 8999]
+[DELETED:  Te125 l614 d704 e793 d791 e131 e611 e131 a771 s101 s199 d729 e167 e737 s107 d726 e865 e705 n185 e255 ]
+[DELETED:  S    aT C G C C P S ( 1 7 M 6 4 1 6 S 7 3 1 6 S 1 1 6 4 P 1 1 7 4 P 7 7 6 4 T 1 7 1 4 S 7 7 7 2 A 6 6 7 2 Z 1 5 1 1 M 7 5 8 1 F 7 4 5 1 G 1 3 7 1 M 8 3 6 1 C 1 3 7 1 A 1 2 1 9 E 1 1 7 7 D 1 1 7 5 N 1 1 1 5 S 1 1 1 5 C 7 1]
+[DELETED:  T    aT ( O C ( TR  O 6 4 1 5 7 2 6 4 1 1 6 2 7 1 7 2 1 1 1 1 5 7 8 1 6 6 1 1 7 5 5 1 1 4 7 1 5 3 7 1 1 3 1 9 1 3 1 7 1 2 7 6 7 2 1 5 7 2 1 5 1 2 1 4 1 1 1 4 8 1 7 3 1 1 1 2 1 1 6 2]
+[DELETED: .2CCCC]
+[DELETED:  U B # O T i R O 1 1 3 1 1 0 1 5 7 7 0 1 7 1 6 2 4 1 2 1 4 3 2 9 1 2 1 1 7 3 4 2 3 1 1 9 1 1 0 1 1 2 2 0 0 2 2 1 4 5 4 4 1 1 1 1 1 0 1]
+[DELETED: -M T ( b  ( M P-P C C A L L ( B C ( (  ( ( # G # L # L # L # L # L # L # L # 0 0 0 0  0 0 0 0 3 6 0 0     1 1 8 4 1 9 6 1 2 1 1 3 1 1 1 9 3 1 1 8 9 1 6 5 8 2 1 1 1 1 1 1 7 1 1 1 8 5 1 1 5 6 2 1 1 1 1 9 1 5 1 1 1 1 1 2 1 6 3 2 1 1 1 1 3 1 5 1 1 3 1 1 2 9 7 4 2 1 1 0 0 3 1 5 1 1 6 1 1 2 1 6 2 2 1 1 0 0 3 1 3 1 2 7 1 1 1 1 6 2 2 3 3 0 0 4 1 2 1 2 1 1 1 1 1 5 1 3 5 2 0 0 4 9 1 1 2 1 1 1 2 3 6 1 3 3 3 0 0 3 9 1 9 2 1 1 1 1 1 5 4 3 1 2 4 1 4 7 9 8 2 1 9 1 1 1 4 7 2 3 2 4 2 3 7 7 7 2 2 9 1 1 1 5 7 2 2 2 7 3 3 7 5 6 2 2 9 7 1 1 2 8 2 2 2 7 3 3 7 6 6 2 1 9 6 1 6 4 1 3 5 2 5 2 3 7 7 6 2 1 1 4 1 6 3 8 2 1 2 3 2 3 6 8 5 2 1 8 6 1 1 2 5 1 1 2 4 2 3 6 9 5 2 2 8 8 1 1 2 4 1 5 2 3 2 3 6 7 5 2 2 8 8 1 7 2 3 1 3 2 2 2 3 6 7 4 2 1 7 7 1 6 1 3 1 4 2 1 1 3 6 5 4 1 2 7 8 1 5 1 1 1 1 2 2 1 3 6 4 4  1 2 7 1 1 6 1 2 2 8 1 3 1 2 6 3 4 1 1 7 7 1 5 1 9 1 1 2 1 2 2 6 2 4  1 1 5 6 1 8 1 2 1 5 2 3 1 2 6 2 4  1 7 5 7 1 9 1 2 1 1 2 1 1 2 6 3 4             ]
+[DELETED:  f B f C m F C e C C e-T-T  2 d M -d-( C  n i H N D-C (-H T-C T 5 9 2 1 6 1 7 5 1 1 7 1 7         2 2 2 2 2 2 2 2 2 2 2 2 2 2        1 6      2 1 5      2 1 5      2 2 2 *    1 2 1 3  4 1 8 2 1 3   4 1 1 2 2 1   3 1 1 1 2 2  3 3 7 2 3 9 3 2 1 2 1 5 4 1 3 1 2 3 7 9 1 1 2 1 5 2 9 3 1 2 3 8 3 1 1 2 1 5 2 9 3 1 2 3 7 7 2 1 2 9 4 2 6 3 1 1 2 7 7 1 1 1 7 9 1 5 3 1 1 2 7 3 2 1 1 5 9 2 6 3 1 1 2 6 1 1 1 1 3 6 3 5 3 8 1 2 5 3 1 1 8 3 5 3 5 2 9 1 1 5 6 1 9 5]
+[DELETED:  # O T i R S B 2 9 1 1 0 3 3 9 8 1 8 8 6 5 4 1 2 7 2 6 2 4 2 2 2 1 3 6 7 2 5 2 2 1 1 1 7 5 2 6 1 9 6 2 3 2 1 2 1 1 8 2 1 3 1 7 2 1 1 5 4 6 1 2 1 4 0 1 4 3 9 0 0 0 5 2 0 8 0]
+[DELETED:  U O 2 0 0 5 7 0 3 3 4 6 2 2 4 8]
+[DELETED:  U O 0 9 5 7 1 0 6 2]
+[DELETED: .2sFgUsP316162%4%4%6]
+[DELETED: .2TTT]
+[DELETED:  T TcAs8 pFr5 cSd5 cSd3 CLr3 CSd2 cPy2 oLw1 cAo1 pRr1 CTy8 pDy6 d6CCe5 cFg5 AAo5 mMd5 cAt4 CWn4 cMy4 ]
+[DELETED:       S T G F T P S   S 5 S 3 P 4 F 3 R 4 L 3 B 2 A 2 S 2 L 1 S 1 A 1 W 1 S 9 A 1 T 8 T 1 D 6 D 1 R 5 M 1 A 4 I P 1 D 3 A I 1 S 2 1 A 2 R 9 W 2 C C 8 W 2 M 7 M 1 M 7 L 1 M 7 A 1 L 7 W 1]
+[DELETED:  T  R F T O T ( L 1 S 4 C 1 B 2 R 1 S 2 S 7 W 1 F 6 T 1 M 6 D 1 H 6 M 1 C 6 W 1 R 5 R 8 3 M 7 H 3 C 7 3 P 6 S 3 L 6 3 B 5 C B R 3 C 5 A 3 N 5 3 F 4 M 3 B 4 B 2 S 4 W 2 W 4]
+[DELETED: tttotrrrrr]
+[DELETED:  B O T C f 1 1 1 1 3 3 1 1 2 2     9 9 9 9 3 3 8 8 2 2 1 1 8 9 8 9 2 2 7 8 2 2 0 0 9 9 8 8 2 3 7 7 1 2 1 0 8 8 8 8 2 2 6 6 1 1 1 1 8 8 7 7 3 3 6 6 1 1 1 1 7 7 7 6 2 2 5 5 1 1 1 1 7 7 6 6 2 2 5 5 1 1 0 1 7 6 6 5 2 2 4 4 1 1 1 1 6 6 5 5 2 2 3 3 1 1 1 1 7 5 6 5 2 1 3 2 1 1 1 1 6 5 5 4 2 2 2 2 1 1 0 1 6 5 5 5 2 2 2 2 1 1 0 1 6 5 5 4 2 2 2 1 1 1 1 1 5 5 5 5 2 2 2 2 1 1 0 1 3 3 5 4 2 1 2 2 1 1 0 1 3 3 5 4 2 1 2 1 1 1 1 1 4 3 6 4 2 1 2 1 1 1 1 1 4 3 5 4 2 1 1 1 1 1 1 1 4 2 5 3 2 1 1 1 1 1 1 1 3 2 5 3 2 1 1 0 1 1 0 1 3 2 5 3 2 1 1 1 2 1 1 1 2 5 3 2 1 1 1 2 1 0 1 2 4 3 1 1 1 0 1 1 1 1  6 7 5 7 4 6 8 9 3 5           ]
+[DELETED: 220001742222222222222222220000000000000000000000000111111111222345689012356789022222222222000000000000001111122468024680222222222200000000000000111112246802468022222222000000000001111246804680222222222000000000000011112246804680     ]
+[DELETED: 2222222222222222222220000000000000000000000000000011111111112221234568901234567890122222222220000000000000111122468046802222222222000000000000001111122468024680222222222200000000000000111112246802468022222222000000000001111146802468     ]
+
+
+================================================================================
+
+Raw Text:
+Reporting Year 2023
+Toxics Use Reduction
+Information Release
+Commonwealth of Massachusetts
+Executive Office of Energy and Environmental Affairs
+Department of Environmental Protection
+Developed in collaboration with
+Toxics Use Reduction Institute
+Office of Technical Assistance and Technology
+January 2025
+
+Table of Contents
+Executive Summary .......................................................................... 1
+I. Introduction ............................................................................... 3
+II. Key TURA Terms ...................................................................... 4
+III. 2023 Toxics Use Reduction Progress ....................................... 5
+IV. 2023 TURA Chemical Data ..................................................... 12
+V. 2023 Chemicals of Particular Interest ..................................... 17
+VI. 2023 Significant Industrial Sectors .......................................... 25
+VII. 2023 Major TURA Facilities .................................................... 28
+Appendix A - 2000 Core Group Progress ........................................ 32
+
+Executive Summary
+In 1989, the Toxics Use Reduction Act (TURA) (Chapter 21I of the Massachusetts General Laws) was enacted, to protect
+public health and the environment by promoting reduction in the use of toxic chemicals. TURA established reporting and
+planning requirements that encourage facilities to use toxic chemicals (hereinafter also referred to as chemicals, toxics, or
+toxic substances) only when necessary and to waste as little as possible in the production process. TURA has been
+successful. Massachusetts manufacturers and other businesses subject to TURA have dramatically reduced their reliance
+on toxic chemicals making Massachusetts a national leader in toxics use reduction. Through toxics use reduction,
+Massachusetts businesses have saved money while reducing pollution released to the environment, chemical transportation
+risks, workplace hazards, and toxics in products and waste.
+Four hundred thirty (430) facilities reported using 128 different chemicals in 2023. In total (including data submitted as
+trade secret data – as defined on page 4), from 1990 to 2023 (with exception of transfers off-site, which is from 1991), the
+following reductions were observed:
+• Chemical Use - from 1.2 billion to 564 million pounds
+• Byproduct Generation - from 127 to 63 million pounds
+• Shipped in Product - from 433 to 238 million pounds
+• On-Site Releases - from 21 to 1.9 million pounds
+• Transfers Off-Site - from 46 to 32 million pounds
+As shown below, between 2007 and 2023 when adjusted for the reported 54% increase in production, 2007 Core Group
+(as defined on page 4) facilities reduced:
+• toxic chemical use by 69% (Styrolution is explained on page 9)
+• toxic byproducts by 52%
+• toxics shipped in product by 54%
+• on-site releases of toxics to the environment by 83%
+• transfers of toxics off-site for further waste management by 28%.
+Production Adjusted
+Total Use 69% 
+1,000
+s
+d
+n 800
+u
+o
+P 600
+f o PA Total Use
+s 400
+n
+o PA Total Use/No Styrolution
+illiM 200
+0
+7 8 9 0 1 2 3 4 5 6 7 8 9 0 1 2 3
+0 0 0 1 1 1 1 1 1 1 1 1 1 2 2 2 2
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2
+Production Adjusted Production Adjusted
+83% 
+Byproduct 52%  On-Site Releases
+8
+s
+s d
+d 80 n
+n u
+u o 6
+o 60 P
+P
+f o
+s
+40
+f
+o s
+n
+4
+n o
+o illiM 20 illiM 2
+-
+-
+7 9 1 3 5 7 9 1 3
+0 0 2 0 0 2 1 0 2 1 0 2 1 0 2 1 0 2 1 0 2 2 0 2 2 0 2 7 0 0
+2
+8 0 0
+2
+9 0 0
+2
+0 1 0
+2
+1 1 0
+2
+2 1 0
+2
+3 1 0
+2
+4 1 0
+2
+5 1 0
+2
+6 1 0
+2
+7 1 0
+2
+8 1 0
+2
+9 1 0
+2
+0 2 0
+2
+1 2 0
+2
+2 2 0
+2
+3 2 0
+2
+1
+
+This report includes the following six sections:
+Section I: Introduction.
+Section II: Key TURA Terms.
+Section III: 2023 Toxics Use Reduction Progress analyzes changes in reported chemical use and byproduct that can
+be attributed to the adoption of toxics use reduction by TURA filers, and associated reductions in
+pollution.
+Section IV: 2023 Chemical Data summarizes the reported information on chemical use in calendar year 2023
+including detailed information on the top twenty chemicals used, generated as byproduct, shipped in
+product, released on-site as air or water pollution onsite, and shipped off-site for treatment and disposal.
+Section V: 2023 Chemicals of Particular Concern presents current and historical information on particularly toxic
+chemicals, on chemicals that promote asthma, and on carcinogens.
+Section VI: 2023 Significant Industrial Sectors describes the relative contributions of different industrial sectors to
+chemical use, waste, and release.
+Section VII: 2023 Major TURA Facilities presents the top 20 facilities for use, byproduct generation, shipped in
+product, released to the environment, and shipped offsite for treatment and disposal.
+This 2023 Toxics Use Reduction Information Release contains chemical information useful to the public, government, and
+industry. However, because the data in this report is collected only from facilities within certain industrial sectors that have ten
+or more full-time employees, and use certain chemicals above established reporting thresholds, this report does not provide a
+complete picture of the use and release of all toxic chemicals in Massachusetts.
+Downloadable data extracts, for reporting years 1990 through 2023, can be found at MassDEP Toxics Use Reduction Act
+(TURA) Data & Results | Mass.gov. The data extracts include all reported TURA data, except for trade secret data, in an Excel
+format.
+2
+
+I. Introduction
+The annual TURA information release is required under MGL Chapter 21I, Section 3(H): “The department annually
+shall compile, analyze and summarize the reports required by section 10, to the extent available, and shall submit a
+report to the council on the agency's findings regarding progress in toxics use reduction and emissions reduction in the
+commonwealth.” This report describes toxic chemical use in Massachusetts in 2023 and progress in toxics use
+reduction (TUR) under the Toxics Use Reduction Act (TURA). TURA was enacted in 1989 to reduce the risks to the
+public, workers, and the environment from exposure to toxic chemicals. Rather than taking the then traditional
+“command and control” approach to pollution control and worker health and safety, TURA created a process to
+encourage Massachusetts facilities to reduce the quantity of toxics used and wasted in their production processes.
+TURA requires Large Quantity Toxics Users (LQTUs, hereinafter referred to as filers) to submit annual reports to the
+Massachusetts Department of Environmental Protection (MassDEP). These reports detail the quantity of the listed
+chemicals the facilities used, shipped in or as product, generated as byproduct (waste -- neither shipped in product nor
+converted to another chemical during the production process), release to the environment as pollution, and shipped
+off-site for waste treatment and disposal. Facilities are filers if they meet the following criteria:
+• the facilities fall within Manufacturing Standard Industrial Classification (SIC) codes (20-39 inclusive) and those
+in SIC codes 10-14, 40, 44-51, 72, 73, 75 and 76, or the corresponding NAICS codes,
+• have ten or more full-time employee equivalents, and
+• use listed toxic substances at or above reporting thresholds.
+Filers are also required to pay an annual fee based on the number of chemicals used and the number of workers
+employed and must develop biennial TUR plans. TUR Plans identify techniques that the facility could adopt to
+reduce the use and waste of toxic chemicals in their production processes and evaluate which of these TUR
+techniques would save the facility money if implemented. Although facilities are not required to implement
+identified TUR techniques, many do. The plans are not submitted to MassDEP for review and approval. Instead,
+they must be approved by a MassDEP-certified toxics use reduction planner (TURP); however, MassDEP audits
+several of these plans annually. After several toxics use reduction planning efforts, facilities have the option of
+developing reduction plans for energy use, water use, solid waste disposal or use of other chemicals instead of the
+traditional TUR plan.
+TURA also promotes toxics use reduction through two agencies that provide toxics use reduction education and
+assistance: The Office of Technical Assistance (OTA) provides free, confidential, technical assistance to facilities
+seeking to reduce the use of toxics. The Toxics Use Reduction Institute (TURI) located at UMass Lowell provides
+toxics use reduction education, training, and library services; supports research on cleaner materials and processes;
+provides toxics use reduction grants for businesses, industries, and communities; and operates a laboratory for testing
+non-toxic or less-toxic cleaning alternatives.
+The work of MassDEP, OTA, and TURI is supported through fees paid by the filers and coordinated by the Toxics
+Use Reduction Administrative Council (Council). The Council is a governing body consisting of the Secretaries of
+Energy and Environmental Affairs, Economic Development, and Public Safety, the Commissioners of MassDEP and
+the Department of Public Health, and the Director of Labor and Workforce Development, and chaired by the Secretary
+of Energy and Environmental Affairs.
+The Massachusetts Department of Environmental Protection Toxics Use Reduction Program website is:
+www.mass.gov/dep/toxics/toxicsus.htm.
+3
+
+II. Key TURA Terms
+TURA – Massachusetts Toxics Use Reduction Act of 1989 (MGL c. 21I).
+TRI – federal EPA Toxics Release Inventory.
+TRADE SECRET DATA– the information identified as confidential by TURA filers and not determined to be otherwise by the Commissioner of MassDEP. To protect
+confidentiality claims by TURA filers, all trade secret data in this information release are presented in aggregated form. Aggregated data do not include the names and amounts of
+chemicals subject to claims of confidentiality.
+2007 CORE GROUP -- – includes all industry categories and chemicals that were subject to TURA reporting in 2007 and remained subject to reporting in the current reporting year
+at the same reporting threshold. The 2007 Core Group is used to measure progress from 2007, the first reporting year since the 2006 TURA Amendments became effective. The
+2007 Core Group does not include trade secret quantities.
+2000 CORE GROUP -- – includes all industry categories and chemicals that were subject to TURA reporting in 2000 and remained subject to reporting in the current reporting year
+at the same reporting threshold. The 2000 Core Group is used to measure progress from 2000 and does not include trade secret quantities.
+The terms and definitions below have been arranged in order of inputs and outputs. Chemicals that are used by facilities are manufactured, processed, or otherwise used. As a result
+of using these chemicals, a facility has outputs that can include a product that is created for sale, or a waste (“byproduct” as defined by TURA). The calculation of use and waste of
+chemicals is known as “mass balance”. Generally, the inputs equal the outputs, but there are some circumstances in which there is an imbalance between inputs and outputs. These
+are most often the result of 1) chemicals being recycled on-site; 2) the product being held in inventory; 3) chemicals being consumed or transformed into another chemical during the
+production process; or 4) the chemical is a metal in a compound, and as a result use is calculated differently than byproduct. For metal compounds, use is calculated as the total
+amount of the compound while byproduct is calculated as only the amount of the parent metal in the compound.
+Inputs Outputs
+TOTAL USE – the total quantity in pounds of TURA chemicals reported as PRODUCT – a product, a family of products, an intermediate product,
+manufactured, processed, and otherwise used. family of intermediate products, or a desired result or a family of results.
+“Product” also means a byproduct that is used as a raw material without
+MANUFACTURE – TURA defines “manufacture”, in part, as: “to produce, prepare, treatment.
+import or compound a toxic or hazardous substance”. SHIPPED IN PRODUCT – the quantity in pounds of the chemical that
+leaves the facility as product.
+PROCESS – TURA defines “process”, in part, as: “the preparation of a toxic or BYPRODUCT – all non-product outputs of reportable substances
+hazardous substance, after its manufacture, for distribution in commerce”. generated by a production unit prior to handling, treatment, and release.
+ON-SITE RELEASES – chemicals released to the air, land, surface, or
+OTHERWISE USE – “Otherwise use” is defined in the TURA regulations (310 CMR
+groundwater at the facility.
+50.10), in part, as “any use of a toxic substance that is not covered by the terms
+TRANSFERS OFF-SITE – chemicals shipped off-site to a wastewater
+“manufacture” or “process” and includes use of a toxic substance contained in a mixture
+treatment or waste management, or recycling facility.
+or trade name product”.
+4
+
+III. 2023 Toxics Use Reduction Progress
+To protect the environment, public, and workers from the adverse effects of toxic chemicals, TURA
+established processes that encourage facilities to implement TUR techniques that result in:
+1) the use of toxic chemicals only when necessary, and
+2) the smallest possible amount of waste generated.
+The TURA program has been a resounding success. TURA’s initial goal of a 50% reduction in the quantity
+of toxic chemicals generated as byproduct was met in the first decade of the program, and the TURA
+program has continued to make progress in toxics use reduction in the ensuing years. This section of the
+report describes the trends in chemical use by filers.
+Trends in the Numbers of Filers and Reported Chemical Use, Byproduct, On-site Releases, and
+Transfers Off-Site for Treatment or Disposal
+As shown in Figures 1 and 2 below, the number of different TURA-listed chemicals used in the
+Commonwealth at reported levels, the number of facilities using those chemicals, and the total amount of
+those chemicals used, generated as byproduct, released to the environment, and shipped off-site for
+treatment and disposal has declined in the thirty-three years since 1990.
+As shown in Figure 1, 128 of the over 1,500 TURA listed substances were reported in 2023. The number of
+filers rose from 686 in 1990 to 728 in 1991 and 1992, gradually declined, and then rose again to 713 in
+2001, largely due to the promulgation of a lower reporting threshold for persistent bioaccumulative toxic
+(PBT) chemicals (see Section IV, 2023 TURA Chemical Data). The number of filers has decreased from
+454 in 2022 to 430 in 2023. Regulated facilities submit one report for each reportable substance. The
+number of individual substance reports submitted has followed a similar trend, decreasing from a high of
+2,666 in 1993, to 1,467 in 2023, consistent with the decline in the number of TURA filers.
+These reported amounts are influenced by changes in regulatory requirements. For example, the number of
+individual substances reported reached a high of 202 in 1996 due to an expansion in the chemical list, and
+the number of TURA filers increased to a high of 713 in 2001, due to a drop in the reporting threshold for
+certain chemicals. The number of chemical reports dropped by approximately 25% in 2007 when the
+TURA reporting threshold was raised for certain manufactured and processed chemicals to match the EPA
+TRI threshold. Individual chemical reports have since declined as Massachusetts businesses reported using
+fewer chemicals.
+Filers Entering and Leaving the TURA Reporting Universe
+From 2022 to 2023, 31 facilities left, and 11 facilities entered the TURA reporting universe. The reasons
+for 31 facilities not reporting in 2023 were:
+• 10 closed
+• 18 reduced use below the reporting threshold
+• 1 reduced staffing below the FTE threshold
+• 2 are under enforcement for failure to report
+As shown in Figure 2, chemical use decreased from 1.2 billion pounds in 1990 to 564 million pounds in
+2023. Byproduct generation decreased from 127 million pounds in 1990 to 63 million pounds in 2023.
+5
+
+Figure 1
+# of TURA Filers, Individual Chemical Reports, and Different Chemicals Reported (1990-2023)
+(Including Trade Secret Data)
+Number of Chemicals Reported Number of Filers Number of Individual Form S Reports
+26
+3000 46
+2500 6 2 1 ,2 7 9 3 ,2 6 ,2 6 ,2 4 2 5 ,2 3 8 3 ,2 0 2 3 ,2 5 4 2 ,2 1 8 2 ,2 5 2 2
+,2
+0 0 5 ,2 4 9 5 ,2 4 7 4 ,2 9 4 4 ,2 7 6 3
+,2
+7 9
+2
+,2
+2000
+8
+2 0
+3 8 4 1 1 7
+1
+1
+5
+0
+5
+0
+0
+0
+0
+0
+0 0 0 9 9 1 3 3 1 1 9 9 1
+6 8 6
+7 4 1 2 9 9 1
+8 2 7
+5 6 1 3 9 9 1
+8 2 7
+3 8 1 4 9 9 1
+5 9
+6
+2 8 1 5 9 9 1
+5
+5
+6 9 9 1
+1
+8 5 6 9 9 1 2 0 2 7 5 5 7 9 9 1 4 9 1 4 3 5 8 9 9 1 0 9 1 6 3 5 9 9 9 1 0 9 1 6 1 5 0 0 0 2 4 9 1 4 9 5 1 0 0 2 1 9 1 3 1 7 2 0 0 2 2 9 1 2 8 6 3 0 0 2 4 9 1 0 6 6 4 0 0 2 1 8 1 9 3 6 5 0 0 2 8 7 1 2 2 6 6 0 0 2 6 5 1 1 7 5 7 0 0 2 0 5 1
+8 ,1
+5 4 5 8 0 0 2 6 4 1
+7 7 ,1
+6 3 5 9 0 0 2 5 4 1
+2 0 7 ,1
+1 1 5 0 1 0 2 4 4 1
+6 8 ,1
+9 9 4 1 1 0 2 0 4 1
+3 4 7 ,1
+2 9 4 2 1 0 2 0 4 1
+2 9 ,1
+9 9 4 3 1 0 2 5 4 1
+,2
+3 9 4 4 1 0 2 6 3 1
+3 6 7
+,1
+9 8 4 5 1 0 2 0 3 1
+0 0 ,2
+8 7 4 6 1 0 2 5 2 1
+6 3 9 ,1
+7 7 4 7 1 0 2
+6
+5 6 ,1
+1 3 1 5 7 4 8 1 0 2
+9 2
+8
+,1
+1 3 1 5 6 4 9 1 0 2
+3 2 6 ,1
+9 2 1 7 6 4 0 2 0 2
+7 7 5
+,1
+8 2 1 3 5 4 1 2 0 2
+7 8 6 ,1
+1 3 1 4 4 4
+9
+1
+5 ,1 2 2 0 2 4 3 1 4 5 4
+0
+7
+5 ,1 3 2 0 8 2 1 0 3 4 7 6 4 ,1
+2
+6
+
+Figure 2
+Raw Reported Data on the Pounds of Total Use, Generated as Byproduct, Shipped in or as Product,
+Released On-Site and Transferred Off-Site for Treatment or Disposal
+Reporting Years 1990-2023 (includes trade secret data)
+1,600
+1,400
+1,200
+s
+d
+n
+u 1,000
+o
+P
+f
+o
+s
+800
+n
+o
+illiM
+600
+400
+200
+0
+0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9 0 1 2 3
+9 9 9 9 9 9 9 9 9 9 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 1 1 1 1 1 2 2 2 2
+9 9 9 9 9 9 9 9 9 9 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1 1 1 1 1 1 1 1 1 1 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2
+Total Use Byproduct Shipped On-Site Releases Transfers Off-Site
+7
+
+Measuring Progress in Toxics Use Reduction: Adjusting the Reported Data for Consistent Year to Year
+Comparisons:
+While the raw reported data presents an overall picture of toxic chemical use and waste in the Commonwealth, it
+cannot be used to track progress in toxics use reduction. Because the types of facilities and the list of chemicals and
+chemical reporting thresholds change over time, progress in toxics use reduction is best measured by using a
+consistent set of chemicals and industries – a core group – subject to reporting. Without the use of a core group,
+changes in chemical use, byproducts, releases and shipments for treatment and disposal could be due to changes in
+the reporting requirements.
+In past iterations of this report, two core groups were discussed: 2000 Core Group and 2007 Core Group. Although
+information and progress towards chemical reductions are still significant for the 2000 Core group, the following
+discussion will focus on the 2007 Core Group because it currently covers 96% of the total 397 million pounds of
+toxic chemicals reported in 2023 (excluding trade secret data). The “2007 Core Group” is made up of chemicals and
+industrial categories that were subject to reporting in 2007 and that remain subject to reporting, at the same reporting
+thresholds in 2023. The 2007 Core Group covered 100% of the reported data in 2007. Discussion on the “2000
+Core Group” Progress is presented in Appendix A.
+Raw reported data also need to be adjusted to account for changes in production levels. Because chemical use and
+byproduct generation generally increase as more products are produced, it is possible for a facility to report
+increases in use and byproduct while simultaneously implementing toxics use reduction. Filers are required to
+report the ratio of their production levels in the reporting year to their production levels in the prior year. The
+reported production ratios are used to normalize the data to eliminate the effects of changes in chemical use and
+waste that are due solely to changes in the amount of product produced. The following example illustrates how data
+are adjusted to reflect changes in production.
+ADJUSTING RAW DATA FOR YEAR-TO-YEAR CHANGES IN PRODUCTION
+• In year 1, a facility produces 1,000 machine parts, and generates 100 lbs. of byproduct.
+• In year 2, the facility produces 10% fewer machine parts (900). Therefore, the production
+ratio is 0.90. However, the facility only generates 80 lbs. of byproduct.
+• The production adjusted byproduct for year 2 is 80 lbs/0.90 = 89 lbs.
+• The production adjusted percent change from year 1 to year 2 is [100-89]/100 = 0.11, or an
+11% reduction, while its actual byproduct reduction is 20%.
+Progress in Toxics Use Reduction: 2007 Core Group
+The 2007 Core Group includes all industry categories and chemicals that were subject to TURA reporting in 2007
+and remained subject to reporting in 2023 at the same reporting threshold. The 2007 Core Group is used to measure
+progress from 2007, the first reporting year after the 2006 TURA Amendments became effective. (The 2007 Core
+Group excludes trade secret chemicals and chemicals designated as higher hazard substances (HHS) that were filed
+under the lower 1,000-pound threshold after 2007. It also excludes N-Propyl Bromide, which was first listed in 2010
+and designated as a HHS in 2016, and chemicals added through EPA TRI after 2007, such as Nonylphenol
+Ethoxylates.) Table 1 and Figures 3 and 4 below summarize TURA data from 2007 to 2023, excluding trade secret
+data.
+2007 Core Group Progress: Adjusting for Production
+Table 1 below summarizes TURA data from 2007 to 2023, showing reported and production adjusted quantities. For
+the 2007 Core Group, the activity index shows an increase in production of 54 percent from 2007 to 2023. As shown
+below in Table 1 and Figure 3, when adjusted for production, as of 2023, the 2007 Core Group facilities have reduced:
+• toxic chemical use by 69%
+• toxic byproducts by 52%
+• toxics shipped in product by 54%
+• on-site releases of toxics to the environment by 83%
+• transfers of toxics off-site for further waste management by 28%.
+8
+
+Table 1
+2007 CORE GROUP DATA: 2007 - 2023 TREND SUMMARY
+(Quantities are in millions of pounds and do not include trade secret quantities.
+Shaded columns show quantities adjusted by cumulative production ratio)
+Production Ratio
+Year Total Use Byproduct Shipped in On-Site Releases Transfers Off-Site
+Product Year to Cumulative
+Year from 2007
+2007 792.07 792.07 75.44 75.44 270.58 270.58 6.20 6.20 24.93 24.93 1
+2008 774.30 730.47 75.76 71.47 255.91 241.42 5.25 4.95 27.62 26.06 1.06 1.06
+2009 708.85 655.62 66.79 61.78 243.14 224.88 4.41 4.08 25.64 23.72 1.02 1.08
+2010 753.99 639.79 74.45 63.18 251.14 213.10 4.30 3.65 29.28 24.84 1.09 1.18
+2011 741.50 635.54 67.37 57.74 241.05 206.60 3.51 3.00 24.73 21.20 0.99 1.17
+2012 692.67 612.05 66.71 58.95 237.55 209.90 3.16 2.79 24.15 21.34 0.97 1.13
+2013 704.21 581.54 66.33 54.78 263.38 217.50 3.00 2.47 25.67 21.20 1.07 1.21
+2014 616.68 559.62 66.85 60.66 246.32 223.53 3.00 2.72 25.78 23.40 0.91* 1.10
+2015 456.68 418.61 64.27 58.91 222.87 204.30 3.55 3.26 27.26 24.99 0.99 1.09
+2016 453.85 368.16 65.74 53.33 226.94 184.09 3.12 2.53 31.02 25.16 1.13 1.23
+2017 468.63 351.99 73.13 54.93 244.13 183.36 3.04 2.29 30.22 22.70 1.08 1.33
+2018 468.28 341.48 68.19 49.72 246.25 179.57 2.43 1.77 31.22 22.77 1.03 1.37
+2019 466.23 330.08 64.58 45.72 236.75 167.62 2.35 1.66 29.62 20.97 1.03 1.41
+2020 416.90 301.18 61.10 44.14 216.90 156.70 2.19 1.58 25.94 18.74 0.98 1.38
+2021 440.77 300.40 65.03 44.32 230.36 157.00 2.19 1.49 30.26 20.62 1.06 1.47
+2022 430.59 293.47 64.20 43.76 224.31 152.88 1.94 1.32 30.31 20.66 1.00 1.47
+2023 382.48 248.27 55.68 36.14 194.51 126.26 1.65 1.07 27.34 17.75 1.05 1.54
+Percent
+Change 52% 69% 25% 52% 28% 54% 73% 83% 9% 28% 54%
+2007-2023
+Reduction
+Reduction Reduction Reduction Reduction Reduction Reduction Reduction Increase Reduction Increase
+________________________
+* Styrolution, which used over a quarter of the total reported use (excluding trade secret data) in 2007, ceased operations in
+Massachusetts in 2014.
+2007 Core Group Progress without Adjusting for Production
+The actual quantities reported by the 2007 Core Group over the period 2007 to 2023 are shown in Figure 4. These
+quantities have not been adjusted for changes in production. From 2007 to 2023, Core Group facilities:
+• reduced toxic chemical use by 52% (from 792 million to 382 million pounds between 2007 and 2023)
+• reduced toxic byproducts by 25% (from 75 million to 56 million pounds between 2007 and 2023)
+• reduced toxics shipped in product by 28% (from 271 million to 195 million pounds between 2007 and
+2023)
+• reduced on-site releases of toxics to the environment by 73% (from 6 million to 1.7 million pounds
+between 2007 and 2023)
+• increased transfers of toxics off-site for further waste management by 9% (from 25 to 27 million
+pounds between 2007 and 2023).
+9
+
+Figure 3 – 2007 Core Group Toxics Use Reduction Progress 2007-2023
+Production Adjusted
+(Excludes Trade Secret Data)
+Production Adjusted
+Total Use 69% 
+1,000
+s
+d
+n 800
+u
+o
+P 600
+f o PA Total Use
+s 400
+n
+o PA Total Use/No Styrolution
+illiM 200
+0
+7 8 9 0 1 2 3 4 5 6 7 8 9 0 1 2 3
+0 0 0 1 1 1 1 1 1 1 1 1 1 2 2 2 2
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2
+Production Adjusted Production Adjusted Shipped
+Byproduct 52%  300 54% 
+s d n 80 s d n 250
+u o P 60 u o P 200
+f o f o 150
+s n 40 s n 100
+o o
+illiM 20 illiM 50
+- 0
+7 9 1 3 5 7 9 1 3 7 9 1 3 5 7 9 1 3
+0 0 1 1 1 1 1 2 2 0 0 1 1 1 1 1 2 2
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2
+Production Adjusted Production Adjusted
+On-Site Releases Transfers Off-Site 28% 
+83% 
+s 8
+d
+n s 30
+u d
+o 6 n 25
+P u
+f o 20
+o P
+s n 4 f o 15
+o illiM
+2
+s n
+o
+illiM
+1
+0
+5
+0
+-
+7 9 1 3 5 7 9 1 3
+7 9 1 3 5 7 9 1 3 0 0 1 1 1 1 1 2 2
+0 0 1 1 1 1 1 2 2 0 0 0 0 0 0 0 0 0
+0
+2
+0
+2
+0
+2
+0
+2
+0
+2
+0
+2
+0
+2
+0
+2
+0
+2
+2 2 2 2 2 2 2 2 2
+10
+
+Figure 4 – 2007 Core Group Toxics Use Reduction Progress 2007-2023
+Not Production Adjusted
+(Excludes Trade Secret Data)
+Total Use
+52% 
+900
+s 800
+d
+n
+u 700
+o
+P
+f 600
+o
+s n 500 PA Total Use
+o
+illiM
+400
+PA Total Use/No Styrolution
+300
+200
+100
+-
+7 8 9 0 1 2 3 4 5 6 7 8 9 0 1 2 3
+0 0 0 1 1 1 1 1 1 1 1 1 1 2 2 2 2
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2
+Byproduct 25%  Shipped in Product 28% 
+80 300
+70
+s d 250
+s d 60 n u
+n o 200
+u 50 P
+o f
+P
+f o
+40 o
+s n
+150
+s
+l
+n
+liM
+o
+i 2
+3
+0
+0 o illiM 1
+5
+0
+0
+0
+10
+0 0
+7 9 1 3 5 7 9 1 3 7 9 1 3 5 7 9 1 3
+0 0 1 1 1 1 1 2 2 0 0 1 1 1 1 1 2 2
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2
+On-Site Releases
+73%  Transfers Off-Site 9% 
+7
+35
+s d n 6 s d n 30
+u 5 u
+o P o P 25
+f o 4 f o 20
+s n o 3 s n o 15
+illiM 2 illiM
+10
+1
+5
+- 0
+7 0 0 2 9 0 0 2 1 1 0 2 3 1 0 2 5 1 0 2 7 1 0 2 9 1 0 2 1 2 0 2 3 2 0 2 7 0 0 2 9 0 0 2 1 1 0 2 3 1 0 2 5 1 0 2 7 1 0 2 9 1 0 2 1 2 0 2 3 2 0 2
+11
+
+IV. 2023 TURA Chemical Data
+Table 2
+All Reported Chemical Data 2023
+(Rounded to millions of pounds)
+(Includes Trade Secret Data)
+TOTAL USE 564,000,000
+SHIPPED IN PRODUCT 238,000,000 42% of total chemical use
+GENERATED AS BYPRODUCT
+63,000,000 11% of total chemical use
+(total waste prior to treatment or disposal)
+ON-SITE RELEASES 0.3% of total chemical use
+1,900,000
+(to air, water or land disposal) 3% of total byproduct
+TRANSFERS OFF-SITE
+6% of total chemical use
+(to a wastewater treatment plant, recycling or waste 32,000,000
+51% of total byproduct
+management facility for treatment or disposal)
+Trade Secret
+Under certain circumstances facilities have the right to claim that the amount of chemical used and generated as
+byproduct is a trade secret. Provided that the regulatory standards for making such a claim are met and the
+Commissioner has not determined that the information is not a trade secret, MassDEP may not share that
+information. In 2023, eight facilities made trade secret claims on a combined total of:
+• 167 million pounds of chemical use
+• 4 million pounds of byproduct generation
+• 39 million pounds shipped in product.
+Chemical Use by Use Category
+TURA requires that facilities report chemical use in one of three chemical use categories: manufactured, processed,
+and otherwise used, identified by the Federal Toxics Release Inventory (TRI) program. Figure 5 below shows the
+proportion of 2023 chemical use for the three categories:
+• Chemicals manufactured accounted for 14% of total chemical use.
+• Chemicals processed accounted for 70% of total chemical use.
+• Chemicals otherwise used accounted for 16% of total chemical use.
+Figure 5
+2023 Total Use by Category
+(564 Million Pounds)
+(includes trade secret data)
+Otherwise Used
+16% Manufactured
+14%
+Processed
+70%
+12
+
+Top 20 Chemicals
+In 2023, filers reported using 128 out of the over 1,500 TURA-listed substances in amounts above the reporting
+threshold. The data was analyzed by chemical to identify the top 20 chemicals in each of the following amounts:
+used, generated as byproduct, shipped in product, released on-site as pollution, and shipped off-site for treatment or
+disposal.
+Chemical Use
+As shown in Table 3 below, the top 20 chemicals used in 2023 accounted for 84% (333 million pounds) of the total
+use reported (trade secret data was excluded to protect confidentiality claims). The top four chemicals, Sodium
+Hydroxide (14% of total use, 149 facilities, 55 million pounds), Methanol (12% of total use, 25 facilities, 49 million
+pounds), Hydrochloric Acid (11% of total use, 38 facilities, 42 million pounds), and Sodium Hypochlorite (10% of
+total use, 32 facilities, 38 million pounds), and accounted for almost half of the total reported use (excluding trade
+secret data) in the state.
+Tables 4 and 5 show the top 20 chemicals for the other reporting categories. As with use, the top 20 chemicals
+represent a significant proportion of the total amount reported (Table 2). The top 20 chemicals comprised:
+• 87% of the total reported byproducts (including trade secret data)
+• 90% of the total reported shipped in product (excluding trade secret data)
+• 94% of the total on-site releases (including trade secret data)
+• 91% of the total off-site transfers (including trade secret data).
+Hydrochloric Acid was the second top chemical for on-site releases, accounting for 14% of the statewide total of on-
+site releases (270,000 pounds). Ninety-seven (97) percent of hydrochloric acid releases were from municipal waste
+combustors.
+The Nitrate Compounds chemical category was the top chemical for transfers offsite, accounting for 17% of the
+statewide total transfers off-site (almost 5.5 million pounds). Nitrate compounds were primarily coincidentally
+manufactured during neutralization of nitric acid in wastewater treatment and were discharged to Publicly Owned
+Wastewater Treatment Plants. Ninety-six (96) percent of total transfers off-site of lead, the fourth chemical on the
+list, was attributed to five municipal waste combustors that transferred lead in ash to off-site lined landfills.
+13
+
+Table 3 – 2023 Top 20 Chemicals: Total Use
+These quantities do not include Trade Secret Data
+Chemical Name (CAS #) CAS # Total Use (Lbs.)
+Sodium Hydroxide 1310732 55,038,812
+Methanol 67561 49,029,691
+Hydrochloric Acid 7647010 42,270,859
+Sodium Hypochlorite 7681529 38,149,797
+Sulfuric Acid 7664939 18,247,278
+Potassium Hydroxide 1310583 15,971,592
+Acetone 67641 12,129,658
+Toluene 108883 11,476,253
+Ammonia 7664417 11,299,189
+Nitrate Compounds 1090 10,390,892
+Zinc Compounds 1039 9,407,071
+Phosphoric Acid 7664382 9,370,739
+Ethyl Acetate 141786 7,608,568
+Methyl Ethyl Ketone 78933 7,486,079
+Diisocyanates 1050 7,480,845
+Nitric Acid 7697372 6,420,971
+Methyl Methacrylate 80626 5,823,917
+Ferric Chloride 7705080 5,361,289
+Epichlorohydrin 106898 5,164,077
+Toluene Diisocyanate 26471625 5,024,068
+NOTE: Bolded chemicals are on the Top 20 Chemicals for Total Use, Byproduct Generation, Shipped in Product, On-Site
+Releases, and Transfers Off-Site.
+Butyraldehyde, Formaldehyde, Sodium Bisulfite, and Vinyl Acetate would appear in the Top 20 Chemicals Total Use list if trade
+secret quantities were included.
+14
+
+Table 4 – 2023 Top 20 Chemicals:
+Byproduct Generation and Shipped in Product
+Byproduct Generation Shipped in Product
+These quantities include These quantities do not include
+Trade Secret Data Trade Secret Data
+Byproduct Shipped in
+Chemical Name CAS # Generation Chemical Name CAS # Product
+(Lbs.) (Lbs.)
+Sodium Hydroxide 1310732 7,385,346 Methanol 67561 45,428,470
+Ethyl Acetate 141786 6,844,713 Sodium Hypochlorite 7681529 35,491,463
+Nitrate Compounds 1090 6,323,621 Sodium Hydroxide 1310732 17,667,945
+Acetone 67641 4,900,113 Potassium Hydroxide 1310583 14,398,223
+Sulfuric Acid 7664939 4,488,617 Phosphoric Acid 7664382 7,751,909
+Methanol 67561 4,129,555 Toluene 108883 7,319,924
+Toluene 108883 4,039,476 Sulfuric Acid 7664939 7,045,528
+Lead 7439921 2,402,045 Acetone 67641 6,976,397
+Methyl Ethyl Ketone 78933 2,318,327 Zinc Compounds 1039 5,308,190
+Ethylene Glycol 107211 1,857,029 Methyl Ethyl Ketone 78933 5,091,187
+1-Methyl-2-Pyrrolidone 872504 1,831,813 Ferric Chloride 7705080 4,763,524
+Formaldehyde 50000 1,741,145 Glycol Ethers 1022 3,719,788
+Acetonitrile 75058 1,105,975 Methyl Methacrylate 80626 3,719,727
+Dimethylformamide 68122 1,070,253 Certain PFAS NOL 1300 3,371,693
+Hydrochloric Acid 7647010 1,012,739 Antimony Compounds 1000 2,225,022
+Aluminum Sulfate 10043013 991,936 Ethyl Acetate 141786 1,883,890
+Dichloromethane 75092 722,555 Diisocyanates 1050 1,603,218
+Nitric Acid 7697372 596,447 Nitrate Compounds 1090 1,544,778
+Potassium Hydroxide 1310583 578,762 Styrene Monomer 100425 1,414,002
+Zinc Compounds 1039 539,553 Copper 7440508 1,382,640
+NOTE: Bolded chemicals are on the Top 20 Chemicals for Total Use, Byproduct Generation, Shipped in Product, On-Site Releases, and
+Transfers Off-Site.
+Sodium Bisulfite and Copper Compounds would appear in the Top 20 Chemicals Shipped in Product list if trade secret quantities were included.
+15
+
+Table 5 – 2023 Top 20 Chemicals:
+Reported On-Site Releases and Transfers Off-Site
+On-Site Releases Transfers Off-Site
+These quantities include These quantities include
+Trade Secret Data Trade Secret Data
+Chemical Name (CAS #) On-Site Chemical Name (CAS #) Transfers
+Releases Off-Site (Lbs.)
+(Lbs.)
+Acetone 67641 481,837 Nitrate Compounds 1090 5,437,945
+Hydrochloric Acid 7647010 269,922 Acetone 67641 4,074,732
+Toluene 108883 179,221 Methanol 67561 2,749,755
+Ammonia 7664417 178,780 Lead 7439921 2,421,000
+Ethyl Acetate 141786 167,777 Toluene 108883 1,842,791
+Formaldehyde 50000 71,895 1-Methyl-2-Pyrrolidone 872504 1,689,838
+Methanol 67561 64,887 Ethylene Glycol 107211 1,635,699
+Methyl Ethyl Ketone 78933 54,696 Formaldehyde 50000 1,602,666
+Glycol Ethers 1022 45,262 Methyl Ethyl Ketone 78933 1,318,766
+Butyl Acetate-T 540885 33,772 Acetonitrile 75058 1,103,524
+Xylene Mixed Isomer 1330207 31,529 Zinc Compounds 1039 923,600
+Hexane (N-Hexane) 110543 30,301 Sodium Hydroxide 1310732 777,602
+Styrene Monomer 100425 29,456 Dichloromethane 75092 691,913
+Trichloroethylene 79016 27,978 Ethyl Acetate 141786 549,627
+Dichloromethane 75092 27,968 Furan, Tetrahydro- 109999 520,862
+Butyraldehyde 123728 24,898 Butyraldehyde 123728 489,364
+N Propyl Bromide 106945 19,195 Diethyl Hexyl Phthalate 117817 401,769
+1-Methyl-2-Pyrrolidone 872504 18,736 Ferric Chloride 7705080 311,532
+Butylacetate 123864 16,644 Lead Compounds 1026 294,103
+Phenol 108952 10,024 Dimethyl Formamide 68122 291,865
+NOTE: Bolded chemicals are on the Top 20 Chemicals for Total Use, Byproduct Generation, Shipped in Product, On-Site Releases,
+and Transfers Off-Site.
+16
+
+V. 2023 Chemicals of Particular Interest
+Certain toxic chemicals are of particular concern because of their higher potential to harm the environment or public
+health. These include:
+• Chemicals classified as persistent bioaccumulative toxic (PBT) chemicals by the U.S. Environmental
+Protection Agency (EPA) under the Toxics Release Inventory (TRI) Program
+• Chemicals designated as Higher Hazard by the TURA Administrative Council
+• Chemicals known to promote asthma (Asthmagens)
+• Carcinogens
+Trends in reported data for each of these groups of substances are discussed below.
+Persistent Bioaccumulative Toxic (PBT) Chemicals
+PBTs are highly toxic, remain in the environment for long periods of time, are not readily destroyed, and build up or
+accumulate in body tissue. As a result, relatively small releases of PBT chemicals can pose health and
+environmental threats and, therefore, the use and release of these chemicals, even in relatively small amounts,
+warrants public reporting as well as toxics use reduction efforts. Because of these concerns, the threshold for PBTs
+was lowered by USEPA from 25,000 pounds if the substance is manufactured or processed, and 10,000 pounds if
+the substance is otherwise used, to between 0.1 grams and 100 pounds, depending on the chemical, for all uses. The
+threshold was lowered for all PBTs, as of reporting year 2000, except for lead and lead compounds (starting
+reporting year 2001).
+Table 6 below shows the 2023 reported data and the number of filers for each PBT (excluding trade secret data).
+Nine PBTs are reported in Massachusetts. Five of these (dioxin, polycyclic aromatic compounds, benzoperylene,
+mercury and mercury compounds) are chiefly associated with combustion at resource recovery facilities, power
+plants, and the manufacture of concrete and asphalt paving.
+Table 7 below shows each PBT’s chemical use since the year before it was designated as a PBT. The chemical use
+increased from zero to hundreds of pounds when the PBT designation occurred. The pounds of these combustion
+related chemicals increased again in 2003 when the municipal waste combustors were required to report. Despite
+being used primarily to produce power, facilities did eliminate some of these chemicals when they switched from
+coal and oil to natural gas, and the majority showed that they were using less of the chemical or generating less
+byproduct per unit of product since the substance was designated as a PBT. However, reporting dropped
+substantially in 2007 when amendments to the Act exempted facilities that burned fuel for their own use from
+reporting on chemicals in the fuel or coincidentally manufactured during combustion.
+The use of lead and lead compounds stems from a combination of combustion, waste management, paving asphalt
+manufacture, and traditional manufacturing. Lowering the reporting threshold to 100 pounds in 2001 resulted in an
+increase in the number of facilities reporting lead from 15 in reporting year 2000, to 152 in 2001, and an increase in
+the number of facilities reporting lead compounds from 33 in 2000, to 129 in 2001. However, in 2023 the number
+of lead and lead compounds filers had decreased to 62 and 41, respectively.
+17
+
+Table 6
+2023 Persistent Bioaccumulative Toxic (PBT) Chemicals Summary
+(Excludes Trade Secret Data)
+Threshold
+(lbs or # Filers Shipped in On-Site Transfers
+Substance Use Byproduct
+grams for in 2023 Product Releases Off-Site
+dioxin)
+Benzo[ghi]-perylene 10 18 3,066 1,360 1,268 0 1,295
+Dioxin and Dioxin
+0.1 Gr 5 739 739 0 10 730
+Compounds
+2,892,47
+Lead 100 62 2,402,045 477,771 195 2,421,000
+7
+Lead Compounds 100 41 395,433 293,284 95,519 1,425 292,361
+Mercury 10 13 7,560 3,649 4,785 21 3,627
+Mercury Compounds 10 1 959 1 1,470 0 1
+Polychlorinated
+10 1 2,884 2,844 0 0 2,844
+Biphenyls
+Polycyclic Aromatic
+100 21 147,303 48,554 58,197 49 47,155
+Compounds
+Tetrabromo-Bisphenol A 10 1 1,713 130 1,712 0 1
+18
+
+Table 7
+Pounds of PBTs Reported Use and Number of Facilities Reporting 2000 – 2023 (Excludes Trade Secret Data)
+Dioxin and Mercury Poly- Polycyclic
+Benzo[ghi]- Mercury Tetrabromo-
+Dioxin Compounds Chlorinated Aromatic Lead Lead Compounds
+perylene (7439976) bisphenol A
+Compounds (1028) Biphenyls Compounds (7439921) (1026)
+(191242) (79947)
+(1060) (1336363) (1040)
+Lbs Use # Grams Use # Lbs Use # Lbs Use # Lbs Use # Lbs Use # Lbs Use # Lbs Use # Lbs Use #
+1999 0 0 0 0 0 0 0 0 0 37,539,261 6 0 0
+2000 146,531 120 12 8 4,973 11 90,009 6 118,160 2 14,171,986 158 332 1 1,261,842 15 9,855,146 33
+2001 180,326 127 12 8 9,315 13 676 5 83,890 2 13,849,697 151 115 1 1,284,199 152 7,290,727 129
+2002 123,429 122 13 8 5,922 13 1,765 5 64,981 2 11,148,250 149 19,057 1 912,922 143 5,146,270 114
+2003 125,099 119 11,827 17 11,476 20 1,212 6 37,325 2 11,486,388 136 152 1 3,394,134 140 5,982,308 117
+2004 128,874 114 3,033 16 12,629 20 966 7 46,879 2 11,796,370 133 0 0 3,651,671 109 5,279,027 126
+2005 128,809 109 6,696 17 10,444 22 1,031 6 21,741 2 11,128,163 127 0 0 3,763,242 114 3,689,910 126
+2006 49,376 27 761 15 13,351 19 1,011 6 22,042 2 3,735,104 31 0 0 4,811,219 102 2,279,105 111
+2007 49,412 28 1,155 13 13,733 19 1,101 5 110,303 3 5,051,904 29 0 0 4,172,982 90 1,406,092 104
+2008 33,393 25 1,523 13 12,231 20 3,421 6 156,170 3 3,275,212 30 0 0 3,799,929 90 1,241,717 93
+2009 12,403 24 1,951 11 10,515 17 1,610 5 42,757 3 1,168,637 28 4,596 1 4,130,556 73 971,451 84
+2010 4,275 21 1,980 9 11,434 16 1,161 4 71,091 2 382,534 26 4,875 2 3,208,423 75 736,262 73
+2011 3,177 23 2,811 9 15,826 17 1,307 5 72,654 2 283,498 27 7,235 3 3,080,576 75 569,666 66
+2012 2,712 23 2,650 9 7,795 16 157 2 83,372 2 206,532 26 7,242 3 3,289,441 79 654,024 63
+2013 4,832 22 1,847 9 6,619 17 639 4 126,857 3 523,396 26 5,881 2 3,531,726 76 754,176 61
+2014 10,570 21 1,841 10 4,451 17 653 3 88,354 2 1,055,061 24 3,015 2 3,653,822 69 835,041 55
+2015 10,692 21 1,762 8 6,867 17 1,000 2 59,887 1 1,398,282 24 4,466 2 3,427,441 62 956,565 53
+2016 7,318 21 2,094 8 8,479 16 1,365 2 45,621 1 576,833 23 3,418 2 3,213,445 65 730,746 54
+2017 5,229 21 2,012 8 8,392 18 703 2 39,383 1 347,984 23 2,760 2 3,180,955 66 709,078 47
+2018 6,597 20 1,622 7 7,627 14 694 1 31,933 1 478,357 23 179 1 3,344,065 61 578,872 48
+2019 3,304 19 2,571 7 8,261 16 590 1 11,999 1 177,093 22 239 1 3,065,771 61 486,038 43
+2020 2,326 17 2,114 7 11,447 15 615 1 22,356 2 82,518 18 337 1 2,959,713 67 308,947 41
+2021 2,982 19 1,144 7 7,577 14 575 1 9,093 1 144,268 20 1,841 2 2,641,404 65 289,957 42
+2022 6,966 17 1,547 5 6,645 13 871 1 2,138 1 506,417 20 3,421 1 2,764,490 65 224,239 42
+2023 3,066 18 739 5 7,560 13 959 1 2,884 1 147,303 21 1,713 1 2,892,477 62 395,433 41
+NOTE: The numbers below the dark lines indicate the first year that these chemicals were designated as PBTs and the reporting threshold was lowered. 57
+19
+
+Higher Hazard Substances (HHS)
+Other higher hazard chemicals, beyond PBTs covered above, are also reported under TURA. The 2006 amendments
+to TURA directed the Council to categorize the TURA list of chemicals into higher or lower hazard substances, or to
+leave them uncategorized and lower the reporting threshold for higher hazard substances (HHS) to 1,000 pounds for
+all uses. Table 8 below shows the pounds of each HHS reported and the number of facilities reporting it from the
+year before it was designated as a HHS to 2023.
+The data showed a similar trend for trichloroethylene and tetrachloroethylene as that seen with PBTs - an initial
+increase in the number of facilities reporting since these chemicals were designated as HHS in 2008 and 2009. The
+increases, respectively, were from 9 in 2007 to 27 in 2008 reporting trichloroethylene, and 4 in 2008 to 23 in 2009
+reporting tetrachloroethylene. However, in 2023 the number of trichloroethylene and tetrachloroethylene filers
+decreased to 6 and 2, respectively.
+Table 9 below shows the fourteen HHS chemicals reported in 2023, including the number of filers, byproduct
+generation, shipped in product, on-site releases, and transfers off-site.
+20
+
+Table 8
+Higher Hazard Substances (HHS): Total Pounds of Use (Non-Trade Secret Data)
+and # Filers Before and After HHS Designation
+Toluene- Toluene- Toluene
+2,4- 2,6- diisocyanate Methylene
+diisocya- diisocya- (mixed Chloride
+nate nate isomers) Hydrogen N- Propyl Dimethyl- Cyanide (Dichloro- Hexavalent Tetrachloro- Cadmium Trichloro-
+NAME fluoride Bromide formamide Compounds methane) Formaldehyde Chromium ethylene Cadmium Compounds ethylene
+CAS 584849 91087 26471625 7664393 106945 68122 1016 75092 50000 1216 127184 7440439 1004 79016
+HHS
+Start
+Year 2017 2017 2017 2016 2016 2016 2016 2014 2012 2012 2009 2008 2008 2008
+NON-TRADE SECRET POUNDS OF USE (Number of facilities)
+184,400 (1) 604,671 (9)
+2007
+2008 230,345 (4) 29,429(5) 167,355(6) 536,073 (27)
+2009 176,186(23) 28,969(4) 145,324(7) 556,457(23)
+2010 151,918 (18) 23,970 (4) 242,702 (7) 294,836 (16)
+2011 4,027,226 (9) * 163,773 (19) 26,878 (4) 180,654 (5) 303,076 (17)
+2012 4,119,146(25) 121,504(16) 89,216(16) 29,805(6) 181,666(5) 354,351(14)
+2013 3,496,421(11) 4,011,427(27) 113,466(16) 110,550(18) 20,447(6) 210,550(6) 176,891(15)
+2014 3,031,438(24) 3,276,305(25) 103,595(15) 164,606(16) 16,655(4) 217,235(6) 262,811(14)
+2015 365,928(6) 30,295(2) 3,518,824(9) 71,695(3) 2,629,094(25) 3,017,674(23) 92,490(14) 320,950(11) 20,312(3) 128,953(6) 243,143(13)
+2016 456,803(1) 114,201(1) 5,669,556(3) 483,633(25) 102,998(23) 3,845,720(13) 118,955(14) 2,628,375(20) 3,157,440(22) 77,657(14) 909,566(12) 17,707(3) 155,687(6) 239,983(15)
+2017 510,809(1) 127,702(1) 5,392,008(5) 238,065(28) 94,100(23) 3,871,715(12) 142,450(15) 2,781,125(20) 3,070,622(23) 89,696(14) 346,348(12) 16,991(3) 153,463(5) 224,882(13)
+2018 403,297(1) 100,824(1) 5,126,282(4) 209,972(24) 95,527(20) 3,616,365(13) 146,777(14) 2,500,120(18) 3,370,832(23) 77,103(13) 73,318(9) 20,162(4) 142,058(7) 274,876(13)
+2019 511,236(2) 97,970(1) 4,317,010(4) 289,620(22) 69,631(18) 3,705,786(14) 134,095(15) 1,683,395(18) 2,793,325(23) 72,283(13) 71,100(7) 19,403(3) 119,549(5) 172,080(11)
+2020 339,901(2) 70,322(1) 9,989,005(6) 199,116(24) 58,588(17) 3,442,733(13) 116,042(15) 1,397,901(16) 2,036,787(23) 77,695(14) 33,747(4) 22,215(3) 100,364(4) 187,576(13)
+2021 313,968(2) 59,374(1) 9,601,878(5) 215,886(23) 62,671(15) 3,553,791(12) 126,786(16) 1,901,471(14) 2,331,245(22) 62,170(16) 13,937(4) 17,652(3) 123,966(4) 114,885(13)
+2022 122,437(1) 30,609(1) 6,862,252(4) 307,139(22) 53,372(15) 3,348,500(12) 85,723(15) 1,693,452(13) 2,311,435(23) 56,530(14) 3,828(2) 14,817(3) 122,776(4) 88,724(11)
+2023 144,197(1) 36,049(1) 5,024,068(3) 359,392(19) 51,251(15) 2,479,488(10) 93,182(15) 1,385,813(14) 1,862,980(22) 55,705(13) 6,078(2) 19,453(2) 91,097(3) 56,058(6)
+*Note: When hexavalent chromium was designated high hazard, the existing chromium compounds category was broken into two categories: hexavalent chromium and non-hexavalent chromium. As
+a result, there is no data for hexavalent chromium prior to 2012.
+21
+
+Table 9
+2023 Higher Hazard Substances (HHS) Summary
+(Excludes Trade Secret Data)
+Substance and # Filers Shipped in On-Site Transfers Off-
+Use Byproduct
+Year Designated as HHS in 2023 Product Releases Site
+Cadmium/2008 2 9,453 13,415 11,124 0 3,415
+Cadmium Compounds/2008 3 91,097 8,205 10,824 8 8,203
+Trichloroethylene/2008 6 56,058 46,302 11,481 27,978 7,651
+Tetrachloroethylene/2009 2 6,078 2,103 4,562 2,101 2
+Formaldehyde/2012 22 1,862,980 369,676 61,741 71,019 232,134
+Hexavalent Chromium
+13 55,705 27,528 21,531 121 18,217
+Compounds/2012
+Methylene Chloride/
+14 1,385,813 722,555 574,666 27,968 691,913
+Dichloromethane/2014
+Cyanide Compounds/2016 15 93,182 69,968 2,737 3,649 27,450
+Dimethylformamide/2016 10 2,479,488 1,070,253 1,355,980 8,640 291,865
+Hydrogen Fluoride/2016 19 359,392 159,847 71,369 2,164 19,119
+N-Propyl Bromide/2016 15 51,251 44,494 6,405 19,195 20,993
+Toluene-2,4-
+1 144,197 4,114 0 1 4,113
+diisocyanate/2017
+Toluene-2,6-
+1 36,049 97 0 0 0
+diisocyanate/2017
+Toluene diisocyanate (mixed
+4 5,024,068 251 0 82 0
+isomers)/2017
+Asthmagens
+In 2009, the Lowell Center for Sustainable Production (LCSP) published Asthma-Related Chemicals in Massachusetts:
+an Analysis of Toxics Use Reduction Data (available on TURI’s website www.turi.org). The purpose of this project
+was to understand the extent to which chemicals that can cause the initial onset of asthma or trigger subsequent asthma
+attacks are being used by Massachusetts industries who report under the TURA program (using 1990 to 2005 data).
+The report identified 335 chemicals that can cause or exacerbate asthma where 68 are reportable under TURA and of
+which 41 have been reported at some point during the program’s history.
+The TURA program has begun working to better understand the uses of these chemicals in relation to potential
+exposures and toxics use reduction opportunities. Table 10 below summarizes 2023 data on some of the chemicals
+identified in the LCSP report that were reported under TURA. In 2023, 16 chemicals identified as asthmagens by the
+Association of Occupational and Environmental Clinics (AOEC) were reported under TURA. In 2023, Sulfuric Acid
+was again reported as having the largest usage while Formaldehyde was again reported as having the largest amount of
+on-site releases.
+22
+
+Table 10
+Asthma-Related Toxics
+(in pounds)
+(Excludes Trade Secret Data)
+Chemical Name (Number of Facilities) Use On-Site Releases
+Acetic Acid (16) 1,160,980 2,212
+Chlorine (2) 166,135 9
+Chromium (2) 118,557 0
+Diethanolamine(1) 46,644 0
+Ethylene Oxide (1) 142,777 53
+Formaldehyde (22) 1,862,980 71,019
+Hydrazine (1) 92,906 0
+Maleic Anhydride (1) 470,428 3,814
+Methylenebisphenyl (2) 884,635 0
+Methyl Methacrylate (4) 5,823,917 3,179
+Nickel (3) 316,403 42
+Nickel Compounds (3) 280,821 672
+Phthalic Anhydride (1) 309,129 209
+Styrene Monomer (6) 2,579,320 29,456
+Sulfuric Acid (89) 18,247,278 4,861
+Toluene Diisocyanate (5)* 5,204,314 82
+* Toluene Diisocyanate includes CAS numbers 91087, 584849, and 26471625.
+Carcinogens
+Several TURA chemicals are identified as Group 1 carcinogens (i.e., carcinogenic to humans) by the International
+Agency for Research on Cancer (IARC). In 2023, eight IARC Group 1 carcinogens were reported under TURA (see
+Table 11). The largest amount of use was reported for Formaldehyde. Formaldehyde was also reported as having the
+largest amount of releases and these releases were reported by the most facilities. Releases were primarily air releases;
+however, there were also releases to water and land.
+23
+
+Table 11
+IARC Group 1 Carcinogens
+(in pounds unless otherwise noted)
+(Excludes Trade Secret Data)
+Chemical Name (Number of Facilities) Use On-Site Releases
+Cadmium (2) 19,453 0
+Dioxin (5)* 739 9.734
+Ethylene Oxide (1) 142,777 53
+Formaldehyde (22) 1,862,980 71,019
+Hexavalent Chromium Compounds (13) 55,705 121
+Polychlorinated Biphenyls (1) 2,884 0
+Nickel Compounds (3) 280,821 672
+Trichloroethylene (6) 56,057 27,978
+* 2,3,7,8-Tetrachlorodibenzo-para-dioxin are the agents specifically listed as Group 1 by IARC (in grams).
+24
+
+VI. 2023 Significant Industrial Sectors
+Under TURA, facilities in the Manufacturing Standard Industrial Classification (SIC) codes 20-39 inclusive and those
+in SIC codes 10-14, 40, 44-51, 72, 73, 75 and 76, or the corresponding NAICS code must report their chemical use if
+they meet or exceed certain thresholds. Figures 6 through 9 present, by sector, the 2023 numbers of facilities reporting,
+reported amount of use, byproduct, and releases on-site by industrial sector.
+The charts demonstrate that the chemical manufacturing sector dominates chemical use in the Commonwealth. This
+sector had the greatest percentage of filers at 19% (Figure 6). The chemical manufacturing sector also had the greatest
+percentage of chemical use at 60% (Figure 7), the largest percentage of byproduct at 46% (Figure 8), and the largest
+percentage of on-site releases at 22%, with the paper manufacturing and waste management and remediation services
+sectors at 17% and 12%, respectively (Figure 9). The chemical manufacturing sector is a diverse group of industries
+and includes facilities that “manufacture” chemicals according to the TURA definition as well as facilities that
+“process” chemicals to formulate adhesives, paints, pharmaceuticals, and plastic materials and resins. The chemical
+manufacturing sector is broken into further sectors in Figure 7.
+Chemical distributors at (Figure 7) 22% were the second largest contributor to use but had virtually no impact on
+byproduct and releases. Waste management and remediation services, paper manufacturing, and fabricated metal
+processors were other sectors with substantial contributions to byproduct and releases. The paper manufacturing sector,
+which accounted for 3% of total statewide use (Figure 7), accounted for 14% of total byproduct generated (Figure 8).
+Likewise, waste management and remediation services, which accounted for 4% of total statewide use (Figure 7),
+accounted for 12% of total on-site releases (Figure 9).
+Figure 6 –2023 Number of Facilities by Industrial Sector
+Total Number of Facilities = 430
+(Includes Trade Secret Data)
+Beverage and Tobacco
+Other Chemical Manufacturing
+Machinery Manufacturing Product Manufacturing 61 80
+7 6 14% 19%
+2% 1%
+Plastics and Rubber Products
+Manufacturing
+8
+2%
+Waste Management and
+Remediation Services
+8
+Fabricated Metal Product
+2%
+Manufacturing
+Chemical Distributors
+57
+9
+13%
+2%
+Personal and Laundry
+Services
+9
+2%
+Petroleum and Coal Products
+Manufacturing
+10
+2%
+Electrical Equipment, Appliance, Nonmetallic Mineral Product
+and Component Manufacturing Manufacturing
+11 36
+3% 8%
+Primary Metal Manufacturing
+13 Miscellaneous Manufacturing Computer and Electronic
+3% 14 Product Manufacturing
+Textile Mills 3% Food Manufacturing Utilities Paper Manufacturing 29
+13 16 16 27 7%
+3% 4% 4% 6%
+25
+
+Figure 7 – All Reported Data: 2023 Chemical Use by Industrial Sector
+Total Use = 564,000,000 Pounds
+(Includes Trade Secret Data)
+Computer and Electronic
+Product Manufacturing
+1% Other
+Miscellaneous 6%
+Basic Chemical
+Manufacturing
+Manufacturing
+2%
+17%
+Fabricated
+Metal Product
+Manufacturing
+2%
+Paper
+Manufacturing Other Chemical
+3% Product and
+Preparation
+Manufacturing
+Waste Chemical Resin, Synthetic 13%
+Management Manufacturing Rubber, and Artificial
+and 60% Synthetic Fibers and
+Remediation Filaments
+Services Manufacturing
+4% 20%
+Soap, Cleaning Compound, and
+Toilet Preparation
+Chemical Distributors Paint, Coating, and Adhesive Manufacturing
+Manufacturing
+22% 5%
+4%
+26
+
+Figure 8 – All Reported Data: 2023 Byproduct Generation by Industrial Sector
+Total Byproduct = 63,000,000 Pounds
+(Includes Trade Secret Data)
+Computer and Electronic Other
+Machinery Manufacturing Product Manufacturing 8%
+3% 2%
+Food Manufacturing
+3%
+Plastics and Rubber Chemical Manufacturing
+Products Manufacturing 46%
+4%
+Textile Mills
+4%
+Miscellaneous
+Manufacturing
+5%
+Waste Management and
+Remediation Services
+5%
+Fabricated Metal Product
+Manufacturing
+Paper Manufacturing
+6%
+14%
+Figure 9 – All Reported Data: 2023 On-Site Releases by Industrial Sector
+Total On-Site Releases = 1,900,000 Pounds
+(Includes Trade Secret Data)
+Other
+11%
+Chemical Manufacturing
+Computer and Electronic
+22%
+Product Manufacturing
+4%
+Textile Mills
+4%
+Fabricated Metal Product
+Manufacturing
+10% Paper Manufacturing
+17%
+Utilities
+10%
+Miscellaneous Waste Management and
+Manufacturing Remediation Services
+10% 12%
+27
+
+VII. 2023 Major TURA Facilities
+Tables 12 through 14 show the 20 facilities that report the highest quantities of reported chemical used, generated as
+byproduct, shipped in or as product, released on-site, and transferred off-site.
+• Table 12 lists the 20 facilities that reported the largest total quantity of TURA chemicals used. These 20
+facilities used 426 million pounds, or 75% of total statewide use.
+• Table 13 lists the 20 facilities that generated the largest reported quantity of byproduct generated and shipped
+in product. These facilities generated 37 million pounds of byproduct or 59% of the statewide total. The 20
+facilities with the largest quantity shipped in product, shipped 212 million pounds in product, or 89% of the
+statewide total.
+• Table 14 lists the 20 facilities that reported the largest quantity of on-site releases and the 20 facilities that had
+the largest quantity of transfers off-site. These facilities released 1.1 million pounds, or 59% of total releases
+statewide. Four of the Top 20 on-site releases were municipal waste combustors (MWCs), which reported over
+252,000 pounds of Hydrochloric Acid, that was coincidentally manufactured during combustion. The 20
+facilities with the largest reported quantity of transfers off-site transferred 23 million pounds, or 71% of the
+total statewide transfers off-site.
+28
+
+Table 12
+2023 Top 20 Facilities: Reported Total Use
+(Includes trade secret data)
+Facility Name Town Total Use (Lbs.)
+Holland Company Inc Adams 85,850,930
+Borden and Remington Corp Fall River 58,755,521
+Solutia Inc Springfield 58,119,613
+Astro Chemicals Inc Springfield 39,752,567
+Highline Warren LLC Leominster 34,402,382
+Prefere Melamines LLC Springfield 29,183,214
+Rousselot Peabody Inc Peabody 22,801,817
+James Austin Co Ludlow 16,356,328
+Roberts Chemical Co Inc Attleboro 11,376,958
+Semass Partnership Rochester 10,949,623
+Univar Solutions USA LLC Tewksbury 8,457,440
+Webco Chemical Corp Dudley 6,546,853
+Holcim Solutions and Products US
+Rockland 6,246,332
+LLC
+Solenis LLC Chicopee 5,846,309
+Synthomer Inc Fitchburg 5,682,747
+Metalor Technologies USA Attleboro 5,546,595
+Future Foam Mansfield 5,391,991
+ISP Freetown Fine Chemicals Inc Assonet 4,909,207
+Covestro LLC Wilmington 4,801,090
+Wheelabrator Millbury Inc Millbury 4,708,980
+29
+
+Table 13
+2023 Top 20 Facilities: Reported Byproduct And Shipped In Product
+(Includes Trade Secret Data)
+Byproduct Shipped In Product
+Byproduct Shipped In
+Facility Name Town Generation Facility Name Town Product
+(Lbs.) (Lbs.)
+Solutia Inc Springfield 5,800,135 Astro Chemicals Inc Springfield 35,574,771
+Borden and Remington
+Rousselot Peabody Inc Peabody 4,639,096 Fall River 34,827,785
+Corp
+3M Company Rockland 4,306,926 Highline Warren LLC Leominster 34,389,944
+Thermo Fisher Scientific Bedford 2,734,549 Holland Company Inc Adams 26,156,000
+Prefere Melamines LLC Springfield 2,600,434 James Austin Co Ludlow 16,213,544
+Flexcon Company Inc Spencer 1,989,505 Roberts Chemical Co Inc Attleboro 11,376,958
+Covestro LLC Wilmington 1,648,819 Solutia Inc Springfield 9,354,854
+Univar Solutions USA
+Munters Corp Amesbury 1,558,524 Tewksbury 8,440,029
+LLC
+Waters Corporation Taunton 1,219,149 Webco Chemical Corp Dudley 6,535,648
+Holcim Solutions and
+Veranova LP Devens 1,196,400 Rockland 5,855,634
+Products US LLC
+ISP Freetown Fine
+Nitto Denko Avecia Inc Milford 1,145,213 Assonet 4,046,681
+Chemicals Inc
+Nissha Metallizing ITW Performance
+Franklin 1,128,048 Danvers 3,825,582
+Solutions Ltd Polymers
+Kovalus Separation Alpha Chemical Services
+Wilmington 1,109,628 Stoughton 2,739,964
+Solutions Inc Inc
+Metalor Technologies USA Attleboro 1,066,357 Kidde Fenwal Inc Ashland 2,424,796
+Semass Partnership Rochester 925,380 Advance Coatings Co Westminster 2,133,116
+Cedars Mediterranean Callahan Chemical
+Haverhill 844,274 Walpole 2,034,157
+Foods Inc Company LLC
+Trelleborg Monson Monson 791,766 Bostik Inc Middleton 1,849,812
+Mexichem Specialty
+Barrday Corporation Millbury 788,749 Leominster 1,447,984
+Compounds Inc
+Nyacol Nano
+Bostik Inc Middleton 779,576 Ashland 1,325,341
+Technologies Inc.
+Ideal Tape Company Lowell 764,706 Tricab USA Inc Worcester 1,256,829
+30
+
+Table 14
+2023 Top 20 Facilities: Reported On-Site Releases and Transfers Off-Site
+(Includes Trade Secret Data)
+On-Site Releases Transfers Off-Site
+On-Site Transfers
+Facility Name Releases Facility Name Town Off-Site
+(Lbs.) (Lbs.)
+Ideal Tape Company Lowell 132,596 Solutia Inc Springfield 4,718,172
+Callaway Golf Ball Operations Inc Chicopee 128,976 Thermo Fisher Scientific Bedford 2,663,343
+Semass Partnership Rochester 100,103 Prefere Melamines LLC Springfield 2,100,795
+Solutia Inc Springfield 73,923 Covestro LLC Wilmington 1,620,510
+Nissha Metallizing Solutions Ltd Franklin 68,247 Waters Corporation Taunton 1,194,508
+Wheelabrator Millbury Inc Millbury 67,898 Veranova LP Devens 1,190,469
+Covanta Haverhill Inc Haverhill 60,935 Nitto Denko Avecia Inc Milford 1,133,957
+Kovalus Separation
+Jain Americas Inc Nucedar Mills Chicopee 60,142 Wilmington 1,078,812
+Solutions Inc
+Flexcon Industries Randolph 55,996 Semass Partnership Rochester 825,277
+Nylco Division Worthen Industries
+Clinton 38,783 Bostik Inc Middleton 748,427
+Inc
+Hazen Paper Co Holyoke 38,116 Thermo Fisher Scientific Chelmsford 725,815
+Holcim Solutions and Products US
+Rockland 36,308 Rousselot Peabody Inc Peabody 674,999
+LLC
+Smith and Wesson Inc Springfield 35,530 Ideal Tape Company Lowell 632,111
+North Clean Harbors of
+Central Metal Finishing Inc 35,292 Braintree 583,352
+Andover Braintree Inc
+Callaway Golf Ball
+3M Company Rockland 35,027 Chicopee 532,981
+Operations Inc
+Raytheon Company Andover 34,172 Veranova LP North Andover 529,463
+Indian
+Masspower LLC 33,303 Genzyme Corporation Framingham 476,530
+Orchard
+Bostik Inc Middleton 31,151 Entegris Inc Bedford 460,724
+Blackstone Power Generation LLC Blackstone 29,539 Wheelabrator Saugus Inc Saugus 452,843
+Murphys Waste Oil
+Fore River Energy Center Weymouth 28,429 Woburn 434,570
+Services Inc
+31
+
+Appendix A - 2000 Core Group Progress
+The “2000 Core Group” includes all industry categories and chemicals that were subject to TURA reporting in 2000
+and remained subject to reporting in 2023 at the same reporting threshold. The 2000 Core Group is used to measure
+progress from 2000. The 2000 Core Group currently covers 86% of the total 397 million pounds of toxic chemicals
+reported in 2023 (excluding trade secret data).
+Progress in Toxics Use Reduction: 2000 Core Group
+The 2000 Core Group includes all industry categories and chemicals that were subject to TURA reporting in 2000 and
+remained subject to reporting in 2023 at the same reporting threshold. The 2000 Core Group is used to measure
+progress from 2000 and provides a longer history of TURA chemical use, byproduct, and releases than the 2007 Core
+Group. Table A-1 and Figures A-1 and A-2 below summarize 2000 Core Group TURA data from 2000 to 2023,
+excluding trade secret data. In addition to the filers excluded from the 2007 Core Group, the 2000 Core Group excludes
+reports discontinued when the TURA reporting threshold was lowered for certain manufactured and processed
+chemicals to match the EPA TRI threshold for lead and lead compounds reports, due to the lowered 2001 PBT
+thresholds.
+2000 Core Group Progress: Adjusting for Production
+Table A-1 below summarizes TURA data from 2000 to 2023, showing reported and production adjusted quantities. For
+the 2000 Core Group, the activity index shows an increase in production of 51 percent from 2000 to 2023. As shown
+below in Table A-1 and Figure A-1, when adjusted for production, as of 2023, the 2000 Core Group facilities have
+reduced:
+• toxic chemical use by 78%
+• toxic byproducts by 73%
+• toxics shipped in product by 65%
+• on-site releases of toxics to the environment by 91%
+• transfers of toxics off-site for further waste management by 57%.
+2000 Core Group Progress without Adjusting for Production
+The actual quantities reported by the 2000 Core Group over the period 2000 to 2023 are shown in Figure A-2. These
+quantities have not been adjusted for changes in production. From 2000 to 2023, Core Group facilities:
+• reduced toxic chemical use by 67% (from 1,038 million to 342 million pounds between 2000 and 2023)
+• reduced toxic byproducts by 59% (from 116 million to 48 million pounds between 2000 and 2023)
+• reduced toxics shipped in product by 47% (from 359 million to 191 million pounds between 2000 and
+2023)
+• reduced on-site releases of toxics to the environment by 87% (from 11 million to 1.4 million pounds
+between 2000 and 2023)
+• reduced transfers of toxics off-site for further waste management by 34% (from 27 to 18 million pounds
+between 2000 and 2023).
+32
+
+Table A-1
+2000 CORE GROUP DATA: 2000 - 2023 TREND SUMMARY
+(Quantities are in millions of pounds and do not include trade secret quantities.
+Shaded columns show quantities adjusted by cumulative production ratio)
+Production Ratio
+Year Total Use Byproduct Shipped in On-Site Releases Transfers Off-Site
+Product Year to Cumulative
+Year from 2000
+2000 1038.40 1038.40 115.50 115.50 358.80 358.80 10.70 10.70 26.90 26.90
+2001 955.40 955.40 96.80 96.80 315.30 315.30 8.70 8.70 21.30 21.30 1.00 1.00
+2002 871.70 908.02 89.30 93.02 283.90 295.73 7.70 8.02 20.10 20.94 0.96 0.96
+2003 910.40 948.33 83.70 87.19 289.40 301.46 7.10 7.40 19.30 20.10 1.00 0.96
+2004 849.10 842.36 86.80 86.11 295.50 293.15 6.80 6.75 19.50 19.35 1.05 1.01
+2005 819.00 804.46 73.40 72.10 327.00 321.19 6.80 6.68 16.10 15.81 1.01 1.02
+2006 789.20 759.98 70.90 68.28 276.50 266.26 5.90 5.68 15.20 14.64 1.02 1.04
+2007 744.30 738.91 64.40 63.93 267.90 265.96 5.20 5.16 15.60 15.49 0.97 1.01
+2008 704.30 659.63 61.80 57.88 253.30 237.23 4.30 4.03 14.70 13.77 1.06 1.07
+2009 663.20 603.04 56.00 50.92 241.10 219.23 3.50 3.18 17.40 15.82 1.03 1.10
+2010 705.40 588.45 65.20 54.39 238.20 198.71 3.40 2.84 19.30 16.10 1.09 1.20
+2011 682.80 581.22 58.10 49.46 235.50 200.47 2.80 2.38 14.30 12.17 0.98 1.17
+2012 633.80 561.99 57.40 50.90 230.80 204.65 2.50 2.22 12.90 11.44 0.96 1.13
+2013 649.10 532.93 56.80 46.63 256.40 210.51 2.30 1.89 14.90 12.23 1.08 1.22
+2014 560.10 510.95 56.70 51.72 239.20 218.21 2.30 2.10 14.60 13.32 0.90 1.10
+2015 399.60 368.22 53.90 49.67 215.00 198.11 2.80 2.58 16.00 14.74 0.99 1.09
+2016 397.70 321.46 55.20 44.62 217.20 175.56 2.30 1.86 18.80 15.20 1.14 1.24
+2017 413.60 309.55 62.20 46.55 234.00 175.13 2.20 1.65 18.40 13.77 1.08 1.34
+2018 419.80 305.04 57.70 41.93 243.44 176.89 1.70 1.24 19.90 14.46 1.03 1.38
+2019 415.00 289.95 55.30 38.64 231.90 162.02 1.50 1.05 19.80 13.83 1.04 1.43
+2020 369.70 263.57 53.10 37.86 211.20 150.57 1.30 0.93 17.60 12.55 0.98 1.40
+2021 389.43 261.92 56.06 37.71 223.86 150.56 1.53 1.03 20.63 13.88 1.06 1.49
+2022 381.35 264.42 55.94 38.79 217.18 150.59 1.46 1.01 21.33 14.79 0.97 1.44
+2023 341.92 225.79 47.91 31.64 191.23 126.28 1.40 0.92 17.67 11.67 1.05 1.51
+Percent 51%
+Change 67% 78% 59% 73% 47% 65% 87% 91% 34% 57% Increase
+2000-2023
+__________________________
+* Styrolution, which used over a quarter of the total reported use (excluding trade secret data) in 2000, ceased operations in
+Massachusetts in 2014.
+33
+
+Figure A-1 - 2000 Core Group Toxics Use Reduction Progress 2000-2023
+Production Adjusted
+(Excludes Trade Secret Data)
+Production Adjusted
+78% 
+Total Use
+1200
+s
+d 1000
+n
+u
+o 800
+P
+f o 600
+s
+n 400
+o
+illiM
+200
+0
+012345678901234567890123
+000000000011111111112222
+000000000000000000000000
+222222222222222222222222
+Production Adjusted Production Adjusted
+Byproduct Shipped in Product 65% 
+73% 
+140 400
+s 350
+s d 120 d n u 300
+n u 100 o P 250
+o P 80 f o 200
+f o s n 150
+s n
+o
+illiM 4
+6
+0
+0 o illiM 1
+5
+0
+0
+0
+0
+20
+0 2 4 6 8 0 2 4 6 8 0 2
+0 0 0 0 0 1 1 1 1 1 2 2
+0 0 2 0 2 0 2 0 2 0 2 0 2 0 2 0 2 0 2 0 2 0 2 0 2
+0 0 2 0 4 0 6 0 8 0 0 1 2 1 4 1 6 1 8 1 0 2 2 2 Year
+0 0 0 0 0 0 0 0 0 0 0 0
+2 2 2 2 2 2 2 2 2 2 2 2
+Production Adjusted
+Production Adjusted
+Transfers Off-Site
+On-Site Releases
+91% 
+12 30 57% 
+10 25
+s
+s d
+d n
+n u 8 u o 20
+o P
+f o 6 f o 15
+s n s n
+o illiM 4 o illiM 10
+2 5
+0 0
+0 2 4 6 8 0 2 4 6 8 0 2 0 2 4 6 8 0 2 4 6 8 0 2
+0 0 0 0 0 1 1 1 1 1 2 2 0 0 0 0 0 1 1 1 1 1 2 2
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2
+34
+
+Figure A-2 - 2000 Core Group Toxics Use Reduction Progress 2000-2023
+Not Production Adjusted
+(Excludes Trade Secret Data)
+Total Use
+1200
+67% 
+1000
+s
+d
+n 800
+u
+o
+P
+f o 600
+s
+n
+o
+illiM 400
+200
+0
+0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9 0 1 2 3
+0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 1 1 1 1 1 2 2 2 2
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2
+Byproduct Shipped in Product
+59% 
+140 47% 
+400
+s d 120 s d 350
+n u 100 n u 300
+o P 80 o P 250
+f o f o 200
+s n 60 s n 150
+o illiM
+2
+4
+0
+0 o illiM 1
+5
+0
+0
+0
+0 0
+0 2 4 6 8 0 2 4 6 8 0 2 0 2 4 6 8 0 2 4 6 8 0 2
+0 0 0 0 0 1 1 1 1 1 2 2 0 0 0 0 0 1 1 1 1 1 2 2
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2
+On Site Releases Transfers Off-Site
+34% 
+12 87%  30.00
+10 25.00
+s s
+d d
+n n
+u 8 u 20.00
+o o
+P P
+f o 6 f o 15.00
+s s
+n n
+o 4 o 10.00
+illiM illiM
+2 5.00
+0 0.00
+0 2 4 6 8 0 2 4 6 8 0 2 0 2 4 6 8 0 2 4 6 8 0 2
+0 0 0 0 0 1 1 1 1 1 2 2 0 0 0 0 0 1 1 1 1 1 2 2
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2
+35
+
+Massachusetts Department of Environmental Protection
+100 Cambridge Street
+Suite 900
+Boston, MA 02114
+Commonwealth of Massachusetts
+Maura T. Healey, Governor
+Executive Office of Energy and Environmental Affairs
+Rebecca L. Tepper, Secretary
+Department of Environmental Protection
+Bonnie Heiple, Commissioner
+36
+
+[DELETED: .I.K.2.2.2.2.2]
+[DELETED: CBSOT(ttot22222222222222000000000000000011111111122289012345689012222222000000011112913591222222222222222000000000000000001111111111222890123456789012]
+[DELETED:      2 2 2 2 2]
+[DELETED:  Ithu T w]
+[DELETED:  K U – t t q i p o T c r a]
+[DELETED:  2) ) 1112]
+[DELETED: dNsN]
+[DELETED: 11111111122222222222222222222222999999999000000000000000000000009999999990000000000111111111122212345678901234567890123456789012eBtSdOsT]
+[DELETED: IITTtttot]
+[DELETED: rrrri B O T C f 7 7 7 7 2 2 6 6 2 2 1   7 7 7 7 2 2 5 4 2 2 1 1  7 6 6 6 2 2 4 4 2 2 1 1  7 6 7 6 2 2 4 3 2 2 1 1  7 6 6 5 2 2 3 3 2 2 0 1  6 6 6 5 2 2 3 2 2 2 0 1  7 5 6 5 2 2 3 2 2 2 1 1  5 6 6 2 2 3 2 2 2  11 4 4 6 5 2 2 3 3 2 2 0 1  4 3 6 5 2 1 3 2 3 2 1 1  4 3 7 5 2 1 3 2 3 2 1 1  4 3 6 4 2 1 2 1 3 2 1 1  4 3 6 4 2 1 2 1 2 2 1 1  4 3 6 4 2 1 2 1 2 1 0 1  4 3 6 4 2 1 2 1 3 2 1 1 4 2 6 4 2 1 1 1 3 2 1 1 3 2 5 3 1 1 1 1 2 1 1 1  5 6 2 5 2 5 7 8 9 2  5 R R R R R R R I R  I]
+[DELETED: 2222222222222000000000000000111111112228901245678012-2222222222222222000000000000000001111122001111129135791379135791 P222220000001111913572222222000000001111129135791  ]
+[DELETED: 22222222222222000000000000000011111111112289012345678901010322222222222222220000000000000000011111220011111291357913791357912222222000000001111129135791222222000000011112935791    ]
+[DELETED: .2 5  2 4 1 0 3 3143CCC]
+[DELETED: 8999]
+[DELETED:  Te125 l614 d704 e793 d791 e131 e611 e131 a771 s101 s199 d729 e167 e737 s107 d726 e865 e705 n185 e255 ]
+[DELETED:  S    aT C G C C P S ( 1 7 M 6 4 1 6 S 7 3 1 6 S 1 1 6 4 P 1 1 7 4 P 7 7 6 4 T 1 7 1 4 S 7 7 7 2 A 6 6 7 2 Z 1 5 1 1 M 7 5 8 1 F 7 4 5 1 G 1 3 7 1 M 8 3 6 1 C 1 3 7 1 A 1 2 1 9 E 1 1 7 7 D 1 1 7 5 N 1 1 1 5 S 1 1 1 5 C 7 1]
+[DELETED:  T    aT ( O C ( TR  O 6 4 1 5 7 2 6 4 1 1 6 2 7 1 7 2 1 1 1 1 5 7 8 1 6 6 1 1 7 5 5 1 1 4 7 1 5 3 7 1 1 3 1 9 1 3 1 7 1 2 7 6 7 2 1 5 7 2 1 5 1 2 1 4 1 1 1 4 8 1 7 3 1 1 1 2 1 1 6 2]
+[DELETED: .2CCCC]
+[DELETED:  U B # O T i R O 1 1 3 1 1 0 1 5 7 7 0 1 7 1 6 2 4 1 2 1 4 3 2 9 1 2 1 1 7 3 4 2 3 1 1 9 1 1 0 1 1 2 2 0 0 2 2 1 4 5 4 4 1 1 1 1 1 0 1]
+[DELETED: -M T ( b  ( M P-P C C A L L ( B C ( (  ( ( # G # L # L # L # L # L # L # L # 0 0 0 0  0 0 0 0 3 6 0 0     1 1 8 4 1 9 6 1 2 1 1 3 1 1 1 9 3 1 1 8 9 1 6 5 8 2 1 1 1 1 1 1 7 1 1 1 8 5 1 1 5 6 2 1 1 1 1 9 1 5 1 1 1 1 1 2 1 6 3 2 1 1 1 1 3 1 5 1 1 3 1 1 2 9 7 4 2 1 1 0 0 3 1 5 1 1 6 1 1 2 1 6 2 2 1 1 0 0 3 1 3 1 2 7 1 1 1 1 6 2 2 3 3 0 0 4 1 2 1 2 1 1 1 1 1 5 1 3 5 2 0 0 4 9 1 1 2 1 1 1 2 3 6 1 3 3 3 0 0 3 9 1 9 2 1 1 1 1 1 5 4 3 1 2 4 1 4 7 9 8 2 1 9 1 1 1 4 7 2 3 2 4 2 3 7 7 7 2 2 9 1 1 1 5 7 2 2 2 7 3 3 7 5 6 2 2 9 7 1 1 2 8 2 2 2 7 3 3 7 6 6 2 1 9 6 1 6 4 1 3 5 2 5 2 3 7 7 6 2 1 1 4 1 6 3 8 2 1 2 3 2 3 6 8 5 2 1 8 6 1 1 2 5 1 1 2 4 2 3 6 9 5 2 2 8 8 1 1 2 4 1 5 2 3 2 3 6 7 5 2 2 8 8 1 7 2 3 1 3 2 2 2 3 6 7 4 2 1 7 7 1 6 1 3 1 4 2 1 1 3 6 5 4 1 2 7 8 1 5 1 1 1 1 2 2 1 3 6 4 4  1 2 7 1 1 6 1 2 2 8 1 3 1 2 6 3 4 1 1 7 7 1 5 1 9 1 1 2 1 2 2 6 2 4  1 1 5 6 1 8 1 2 1 5 2 3 1 2 6 2 4  1 7 5 7 1 9 1 2 1 1 2 1 1 2 6 3 4             ]
+[DELETED:  f B f C m F C e C C e-T-T  2 d M -d-( C  n i H N D-C (-H T-C T 5 9 2 1 6 1 7 5 1 1 7 1 7         2 2 2 2 2 2 2 2 2 2 2 2 2 2        1 6      2 1 5      2 1 5      2 2 2 *    1 2 1 3  4 1 8 2 1 3   4 1 1 2 2 1   3 1 1 1 2 2  3 3 7 2 3 9 3 2 1 2 1 5 4 1 3 1 2 3 7 9 1 1 2 1 5 2 9 3 1 2 3 8 3 1 1 2 1 5 2 9 3 1 2 3 7 7 2 1 2 9 4 2 6 3 1 1 2 7 7 1 1 1 7 9 1 5 3 1 1 2 7 3 2 1 1 5 9 2 6 3 1 1 2 6 1 1 1 1 3 6 3 5 3 8 1 2 5 3 1 1 8 3 5 3 5 2 9 1 1 5 6 1 9 5]
+[DELETED:  # O T i R S B 2 9 1 1 0 3 3 9 8 1 8 8 6 5 4 1 2 7 2 6 2 4 2 2 2 1 3 6 7 2 5 2 2 1 1 1 7 5 2 6 1 9 6 2 3 2 1 2 1 1 8 2 1 3 1 7 2 1 1 5 4 6 1 2 1 4 0 1 4 3 9 0 0 0 5 2 0 8 0]
+[DELETED:  U O 2 0 0 5 7 0 3 3 4 6 2 2 4 8]
+[DELETED:  U O 0 9 5 7 1 0 6 2]
+[DELETED: .2sFgUsP316162%4%4%6]
+[DELETED: .2TTT]
+[DELETED:  T TcAs8 pFr5 cSd5 cSd3 CLr3 CSd2 cPy2 oLw1 cAo1 pRr1 CTy8 pDy6 d6CCe5 cFg5 AAo5 mMd5 cAt4 CWn4 cMy4 ]
+[DELETED:       S T G F T P S   S 5 S 3 P 4 F 3 R 4 L 3 B 2 A 2 S 2 L 1 S 1 A 1 W 1 S 9 A 1 T 8 T 1 D 6 D 1 R 5 M 1 A 4 I P 1 D 3 A I 1 S 2 1 A 2 R 9 W 2 C C 8 W 2 M 7 M 1 M 7 L 1 M 7 A 1 L 7 W 1]
+[DELETED:  T  R F T O T ( L 1 S 4 C 1 B 2 R 1 S 2 S 7 W 1 F 6 T 1 M 6 D 1 H 6 M 1 C 6 W 1 R 5 R 8 3 M 7 H 3 C 7 3 P 6 S 3 L 6 3 B 5 C B R 3 C 5 A 3 N 5 3 F 4 M 3 B 4 B 2 S 4 W 2 W 4]
+[DELETED: tttotrrrrr]
+[DELETED:  B O T C f 1 1 1 1 3 3 1 1 2 2     9 9 9 9 3 3 8 8 2 2 1 1 8 9 8 9 2 2 7 8 2 2 0 0 9 9 8 8 2 3 7 7 1 2 1 0 8 8 8 8 2 2 6 6 1 1 1 1 8 8 7 7 3 3 6 6 1 1 1 1 7 7 7 6 2 2 5 5 1 1 1 1 7 7 6 6 2 2 5 5 1 1 0 1 7 6 6 5 2 2 4 4 1 1 1 1 6 6 5 5 2 2 3 3 1 1 1 1 7 5 6 5 2 1 3 2 1 1 1 1 6 5 5 4 2 2 2 2 1 1 0 1 6 5 5 5 2 2 2 2 1 1 0 1 6 5 5 4 2 2 2 1 1 1 1 1 5 5 5 5 2 2 2 2 1 1 0 1 3 3 5 4 2 1 2 2 1 1 0 1 3 3 5 4 2 1 2 1 1 1 1 1 4 3 6 4 2 1 2 1 1 1 1 1 4 3 5 4 2 1 1 1 1 1 1 1 4 2 5 3 2 1 1 1 1 1 1 1 3 2 5 3 2 1 1 0 1 1 0 1 3 2 5 3 2 1 1 1 2 1 1 1 2 5 3 2 1 1 1 2 1 0 1 2 4 3 1 1 1 0 1 1 1 1  6 7 5 7 4 6 8 9 3 5           ]
+[DELETED: 220001742222222222222222220000000000000000000000000111111111222345689012356789022222222222000000000000001111122468024680222222222200000000000000111112246802468022222222000000000001111246804680222222222000000000000011112246804680     ]
+[DELETED: 2222222222222222222220000000000000000000000000000011111111112221234568901234567890122222222220000000000000111122468046802222222222000000000000001111122468024680222222222200000000000000111112246802468022222222000000000001111146802468     ]

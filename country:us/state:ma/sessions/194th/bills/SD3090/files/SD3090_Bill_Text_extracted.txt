@@ -1,0 +1,1723 @@
+Title: Pursuant to Chapter 313 of the Acts of 2010, please find enclosed a report from the Department
+Official Title: Pursuant to Chapter 313 of the Acts of 2010, please find enclosed a report from the Department
+Number of Sections: 61
+Source: versions - Bill Text
+Media Type: application/pdf
+Strikethrough Detection: 13 sections found
+
+================================================================================
+
+Section 1:
+The Commonwealth of Massachusetts
+Executive Office of Health and Human Services
+Department of Public Health
+250 Washington Street, Boston, MA 02108-4619
+617-624-6000 | mass.gov/dph
+Maura T. Healey Kiame Mahaniah, MD, MBA
+Governor Secretary
+Kimberley Driscoll Robert Goldstein, MD, PhD
+Lieutenant Governor Commissioner
+July 22, 2025
+Timothy Carroll
+House Clerk
+State House Room 145
+Boston, MA 02133
+Michael Hurley
+Senate Clerk
+State House Room 335
+Boston, MA 02133
+Dear Mr. Clerk,
+of Public Health entitled “CY22 – CY23 Summary of Activities related to Screening for
+Postpartum Depression.”
+Sincerely,
+Robert Goldstein, MD, PhD
+Commissioner
+Department of Public Health
+(this page has intentionally been left blank)
+CY22 – CY23 Summary of
+Title
+Activities related to
+Postpartum Depression
+Date
+(this page has intentionally been left blank)
+(this page has intentionally been left blank)
+Legislative Mandate
+The following report is hereby issued pursuant to Chapter 313 of the Acts of 2010 as follows:
+The Department of Public Health “shall issue regulations that require providers and carriers to
+annually submit data on screening for postpartum depression. Following the receipt of data, the
+commissioner of public health shall issue an annual summary of the activities related to
+screening for postpartum depression, including best practices and effective screening tools. The
+department shall annually file the summary with the commissioner of public health and the
+clerks of the house of representatives and the senate not later than June 30; provided, however,
+that the first report is due not later than June 30, 2011.”
+1
+Explanatory Summary
+About one in seven birthing parents in the US experiences depressive symptoms after birth.
+Untreated postpartum depression (PPD) has negative consequences for both infants and
+birthing people. Although PPD is the most common complication of pregnancy and a treatable
+mental health condition, it is under-diagnosed and undertreated. To address this and promote
+the health and well-being of birthing people, children, and family, Chapter 313 of the Acts of
+2010, An Act Relative to Postpartum Depression, was signed into law on August 19, 2010 in
+Massachusetts. Pursuant to this law, a PPD Special Legislative Commission was established, and
+the PPD Regulations (105 CMR 271.000) were promulgated in December 2014 requiring data
+reporting by both carriers and providers for routine clinical appointments in which medical
+services are provided to a person who has given birth within the previous six months.
+To further improve PPD screening data reporting and to investigate the status of perinatal
+mental health and its impacts on birthing people and their children, the Massachusetts
+Department of Public Health (DPH) adopted depressive symptom questions in the Pregnancy
+Risk Assessment Monitoring System (PRAMS) in FY11. To improve PPD screening, engagement,
+referral to treatment, DPH has funded universal PPD screening programs at community health
+centers and home visiting programs serving pregnant and parenting families.
+This report summarizes recent national and state policy levers related to promoting parental
+and infant mental health during the perinatal period as well as data collected from
+Massachusetts PPD screening services.
+Note on Language Used in this Report
+The Massachusetts Department of Public Health recognizes that families come in many
+different forms. A person may become a parent/mother in many ways, including by giving birth,
+adopting a child, or co-parenting a child with someone else. On the other hand, not everyone
+who becomes pregnant is a parent. For example, someone who carries a child as a surrogate
+may not see herself as the child's parent. A non-binary or transgender person who carries a
+child may also not use the term "mother" to describe themselves.
+This report is about experiences related to pregnancy, not about the experiences of all people
+who may be parenting a child or may have recently given birth. For this reason, we use terms
+like "pregnant person" and "birthing people" to talk about people affected by postpartum
+depression. We use the term "second parent" or "support parent" to talk about the people who
+may be supporting the pregnant person, whether that person is a father, a mother who is not
+carrying the child, or another adult who is co-parenting with the pregnant person. When citing
+specific research, we use the term used in the data analysis.
+2
+Introduction
+About one in seven birthing people in the US experienced depressive symptoms after delivery
+in 2018.1 Untreated postpartum depression (PPD) has negative consequences for both children
+and birth parents. Children born to individuals with PPD are more likely to have poor cognitive
+functioning, behavioral inhibition, emotional maladjustment externalizing disorders, or
+psychiatric and medical disorders.2-9 Furthermore, individuals with PPD were more likely to
+have changes in eating habits, more likely to engage in substance use, and more likely to have
+social relationship problems, breastfeeding problems, or persistent depression.10-15 A 2017
+study of births in the United States further estimated that untreated mood and anxiety
+disorders in birth parents cost a total of $14 billion from conception to 5 years
+postpartum, with an average of $31,800 per mother-infant dyad.16
+To promote the health and well-being of birthing parents, children, and families, on August 19,
+2010, Chapter 313 of the Acts of 2010, An Act Relative to Postpartum Depression, was signed
+into law. This legislation has two primary components: (1) establishing a postpartum depression
+(PPD) Legislative Commission and (2) requiring that the Massachusetts Department of Public
+Health (DPH) promote a culture of awareness, de-stigmatization, and screening for postpartum
+depression. Specifically, DPH is charged with:
+▪ Developing standards for effective PPD screening,
+▪ Making recommendations to health plans and health care providers for PPD screening
+data reporting,
+▪ Issuing regulations that require health plans and health care providers to annually
+submit data on screening for postpartum depression; and
+▪ Issuing an annual summary of the activities related to screening for postpartum
+depression including best practices and effective screening tools.
+A legislative requirement outlined in Chapter 313 of the Acts of 2010, An Act Relative to
+Postpartum Depression, is the implementation of PPD Screening Regulations, which requires
+providers to report their PPD screening data through the submission of service codes to the All
+Payors Claims Database (APCD). Due to challenges in accessing the APCD data from the Center
+for Health Information and Analysis (CHIA) and linking it to the birth data from Vital Records,
+there have been considerable delays in meeting this annual reporting component. This report
+provides a summary of activities and PPD screening program data for both calendar years of
+2022 and 2023. However, the most recent data reported as part of the PPD regulations is only
+available from 2021.
+Research has shown that a spectrum of mental health disorders can manifest during pregnancy
+and within one year after the end of the pregnancy. The range of Perinatal Mood and Anxiety
+Disorders (PMADs) beyond PPD include anxiety disorder (20.7%), bipolar-spectrum mood
+episodes (20.1%), obsessive-compulsive disorder (4-11%), posttraumatic stress disorder (PTSD)
+(1-2%), and Postpartum Psychosis (1 in 1,000 postpartum people)17-19. This expanded report
+seeks to explore strategic opportunities to include PMADs in data collection, programming, and
+3
+community engagement efforts to ensure pregnant and postpartum people receive appropriate
+and disorder-specific mental health care, treatment, and support.
+4
+Report Body
+This report is intended to summarize federal, state, and local initiatives working to increase the
+understanding of the prevalence of perinatal mood and anxiety disorder (PMAD), address the
+challenges faced by many families experiencing PMADs, and identify opportunities for policy
+changes that may improve the health and wellbeing of pregnant, birthing, and parenting
+families across the Commonwealth.
+First, a review of federal initiatives is provided, followed by a statewide initiative’s summary
+and then the findings from community-based organizations working directly with families.
+FEDERAL INITIATIVES
+Presidential Administration
+In 2022, the White House Blueprint for Addressing the Maternal Health Crisis was released
+which identifies 60 specific action steps that the federal government will implement over
+several years to reduce maternal mortality and morbidity and reduce the disparities in maternal
+health outcomes in the United States. In addition, the Biden-Harris Administration Highlights
+Strategy to Address the National Mental Health Crisis (2022) fact sheet was subsequently
+released that includes a comprehensive strategy the federal government has undertaken to
+address the mental health crisis coming out of the pandemic and transform the mental health
+service delivery system. DPH has used both reports to develop a crosswalk to organize and
+prioritize activities of the DPH Perinatal Mental Health Team and to identify gaps and/or areas
+of improvement in the provision of perinatal mental health services in Massachusetts.
+National Policy Center for Maternal Mental Health
+In 2023, the Policy Center for Maternal Mental Health released their inaugural annual state
+report cards. Massachusetts received an overall grade of C while the national grade was a D
+and 40 other states and DC received either a D or F grade. The 2023 Report Card grades each
+state in three domains including:
+
+Section 2:
+1. Providers and Programs (MA Grade = C) - Areas for improvement includes:
+▪ Opening one inpatient maternal mental health program
+▪ Establishing a maternal mental health outpatient intensive or partial
+hospitalization program
+▪ State Perinatal Quality Improvement Collaborative has prioritized maternal
+mental health (In 2024, PNQINMA will be adopting the Alliance for Innovation on
+Maternal Health (AIM) Perinatal Mental Health Conditions Safety Bundle)
+
+Section 3:
+2. Screening and Screening Reimbursement (MA Grade = F) - Areas for improvement
+include:
+▪ Top Performer on the “Prenatal Depression Screening” HealthCare Effectiveness
+Data and Information Set (HEDIS) Measure (Among Commercial Insurance or
+Medicaid)
+5
+▪ Top Performer with Commercial Insurance and/or Medicaid on the “Postpartum
+Depression Screening” HEDIS Measure (Among Commercial Insurance or
+Medicaid)
+▪ Medicaid Requires MCOs to Collect the “Prenatal Depression Screening” HEDIS
+Measure
+▪ Medicaid Requires MCOs to Collect the “Postpartum Depression Screening”
+HEDIS Measure
+▪ Obstetric Providers Submit Claims to Private Insurers for Prenatal MMH
+Screening (Among at Least 1% of Prenatal Patients)
+
+Section 4:
+3. Insurance Coverage and Treatment (MA Grade = B) – The one area for improvement
+includes:
+▪ Requires health plans to develop a maternal mental health quality management
+program
+DPH and MassHealth are working collaboratively to make improvements in data collection,
+reporting, and reimbursement under the Screening & Screening Reimbursement domain.
+Link - State Report Cards - Policy Center for Maternal Mental Health
+Two Recently FDA Approved Medications for the treatment of PPD
+FDA has approved two medications for the treatment of postpartum depression -
+Zulresso (IV Drip) and Zuranolone (oral pill). DPH is working with MassHealth and private
+insurers to ensure equitable access to these new treatment modalities. Below is additional
+information on each new treatment and issues for consideration with health plans:
+Zulresso - FDA approves first treatment for post-partum depression | FDA
+▪ This treatment method must be administered in an approved health care setting.
+▪ There are no approved facilities or health care providers in MA for administration.
+▪ The closest approved health care facility for MA patients to access this treatment is the
+Women & Infants Hospital in Providence, Rhode Island.
+▪ Cost - a single 60 Hour IV Drip (2.5 days) currently costs $7-9K for the medication and
+$34,000 or more for treatment/hospital stay
+Zuranolone - FDA Approves First Oral Treatment for Postpartum Depression | FDA
+▪ Once daily pill taken over 14 days
+▪ Cost - $15,900 for 14-day cycle
+STATE INITIATIVES
+Massachusetts Special Commission on Racial Inequities in Maternal Health (2021 – 2022)
+In 2021, the Special Commission on Racial Inequities in Maternal Health was created by a
+legislative act in January 2021. The 28-member body’s charge was to investigate and study
+methods to reduce racial inequities in maternal health. In May 2022, the Racial Inequities in
+Maternal Health Report was released highlighting over 100 recommendations “to improve
+6
+maternal health outcomes and experiences for the historically and currently most vulnerable
+residents in the state of Massachusetts, with a particular attention on racial inequities.”
+Recommendations specific to PMADs include:
+Health Systems:
+▪ Extend monitoring for postpartum mental health care screening and linkage care to
+12 months (beyond even the 4th trimester) because this is what the data show as
+the time frame for increased maternal mortality related to mental health and
+substance use.
+▪ Provide treatment when and where people need it to reduce disparities in access to
+behavioral health services related to transportation, time off from work and
+childcare including maintain broad coverage of telehealth, expand the availability of
+integrated behavioral health services within primary care, and extend hours to
+including weekends, at Community Behavioral Health Centers (CBHCs) and
+behavioral health urgent care
+Insurance Carriers:
+▪ Improve reimbursement for Medicaid/ MassHealth for behavioral health screening
+and services.
+▪ Expand support for co-located interdisciplinary models of care/medical homes for
+families with perinatal SUD (psychiatry, addiction medicine, MFM/CNM OB care,
+Social Work and Peer Support) all in one program (HOPE Program at MGH, Project
+RESPECT at BMC)
+Health Care Providers:
+▪ Increase access to postpartum support groups for Black/POC Mothers and their
+Partners/Spouses
+▪ Support people who give birth with maternal mental health conditions and
+alcohol/substance use disorders
+▪ Increase education regarding trauma, mental health, and substance use disorder
+(SUD) and stigma/bias among DCF staff
+Recommendations from this report were added to the DPH Perinatal Mental Health Team
+crosswalk to inform the work of the team. Current priorities include improvements in data
+collection and perinatal mood and anxiety disorder screening rates including seeking funding to
+implement the Perinatal Mental Health Data Analysis Plan.
+Review of Maternal Health Services, 2023
+In 2023, the Massachusetts Department of Public Health (DPH) conducted a review of access to
+all maternal health services in the Commonwealth and developed a plan to support or improve
+access and quality, where needed. The Maternal Health Services Report included a review of
+prenatal, birthing, postpartum, and reproductive health services. It also included consultation
+and collaboration with providers and community leaders in the area to ensure that access to
+high-quality maternal health services is protected following recent closure of inpatient
+maternity units.
+7
+DPH identified 25 action-oriented recommendations to improve maternal health across the
+state, with a lens of health equity and health outcomes. The recommendations related to
+PMADs include:
+
+Section 5:
+1. DPH will expand and promote existing training to provide support to frontline health
+care providers on screening, assessment, treatment, and referral for maternal
+depression and related behavioral disorders. Training will also focus on the importance
+of maintaining the parent-child dyad.
+
+Section 6:
+2. DPH will continue to work with MassHealth and other payors to promote increased
+uptake of evidence-based programs like Moms Do Care and First Steps Together for
+pregnant members with SUD; services to be covered include peer support, care
+coordination services, doulas, and case management.
+
+Section 7:
+3. EOHHS, in collaboration with DPH and DCF, will update guidance for healthcare
+providers to share best practices and document the establishment of a dual reporting
+system whereby substance exposed newborns with no indication of neglect or abuse
+can be identified for support but not investigated for neglect or abuse.
+
+Section 8:
+4. EOHHS, including MassHealth, DMH, and DPH, will work together to explore the
+establishment and ongoing implementation of Outpatient Intensive or Partial
+Hospitalization Programs and foster development of inpatient behavioral health
+programs where infants are able to board with mom while they are treated.
+DPH has begun exploring opportunities to establish an inpatient psychiatric hospitalization
+program through collaboration with DMH, MassHealth, community advocates, people with
+lived experience, and others and this work will continue in 2024.
+Massachusetts Legislative Bill
+An Act Relative to Birthing Justice in the Commonwealth was introduced in the 2022-2023
+Massachusetts Legislative Session. This bill includes language specific to universal PPD
+screening and the establishment of a statewide system of programs providing universal
+postpartum home visiting services modeled after the Welcome Family Program. As this bill
+moved through the legislative process, it gained significant community support and
+subsequently passed in 2024. DPH will report on implementation of the bill components
+incomponents in the 2024 annual PPD Legislative Report
+PMADs Training
+DPH developed and offers a free three-hour training entitled Perinatal Mental Health: Review
+of the Prevalence, Impact, Interventions, and Resources in the Commonwealth. The session
+provides an overview of perinatal mental health needs, co-morbidities including substance use,
+interpersonal violence and racism, impact on early childhood mental health and development,
+and how MA is addressing these needs. In CY22-CY23, DPH conducted eleven trainings to over
+300 state and national health care providers including social workers, peer support specialists,
+nurses, early intervention specialists, and state employees.
+PPD Regulations - 105 CMR 271.000
+8
+An Act Relative to Postpartum Depression, Chapter 313 of the Acts of 2010 charged DPH to issue
+regulations that require carriers and health care providers to annually submit data on screening
+for PPD. This data reporting is intended to help DPH understand statewide PPD screening
+patterns and outcomes, to improve the detection of this prevalent condition, and ultimately
+facilitate treatment for birthing parents in need of further support and referral.
+The PPD Regulations (105 CMR 271.000) were promulgated in December 2014 and require
+annual reporting by a provider that conducts or oversees screening for PPD, using a validated
+screening tool, during a routine clinical appointment in which medical services are provided to a
+person who has given birth within the previous six months. The regulation also applies to a
+carrier that receives a claim for this PPD screening.
+Providers responsible for adhering to these regulations are obstetrician-gynecologists (OB-
+GYNs), Family Medicine Practitioners, Advanced Practice Nurses (including Nurse Midwives and
+Nurse Practitioners), and Physician Assistants, who practice in a family medicine or OB-GYN
+setting.
+Data collection from providers began in calendar year 2015. Providers may report their PPD
+Screening data to DPH in one of two ways:
+
+Section 9:
+1. Providers can submit an annual written report to DPH by March 1 for the previous
+calendar year using the “Annual PPD Data Reporting Form” available on the DPH web
+page dedicated to PPD.
+
+Section 10:
+2. Alternatively, providers may use the Healthcare Common Procedure Coding System
+(HCPCS) code of S3005 (Performance Measurement, Evaluation of Patient Self-
+Assessment, Depression) with a diagnostic range Z39.2 (Routine Postpartum follow up,
+formerly ICD9 V24 - Screening for Postpartum Depression) and with a modifier as a
+mechanism for reporting PPD screening (see below).
+Modifier for use Modifier for use
+Servicing Provider with a positive PPD with a negative PPD
+screen screen
+OB-GYNs, Family Medicine Practitioners, Advanced
+Practice Nurses including Nurse Midwifes and Nurse U1 U2
+Practitioners, & Physician Assistants
+Depending on the private carrier, the service code is set to pay at $0.00 or at $0.01. Private
+carriers have been accepting this service code from the servicing providers identified above and
+are reporting it directly to the All Payer Claims Database (APCD) at the Massachusetts Center
+for Health Information & Analysis (CHIA), as required under PPD Regulations.
+9
+Effective May 16, 2016, MassHealth began paying perinatal care providers for the
+administration of standardized depression screening during pregnancy and the postpartum
+period utilizing the above HCPCS code.
+PPD Data Collected through Claims Codes & Linkage with APCD
+Background: Chapter 313 of the Acts of 2010, An Act Relative to Postpartum Depression, called
+for submission of data on postpartum depression (PPD) screening to examine the frequency
+and scope of PPD among people who recently gave birth in Massachusetts. PPD defined as
+depression occurring within 12 months after giving birth, includes feelings of sadness,
+hopelessness and anhedonia—the loss of interest in previously pleasurable activities. PPD is an
+important public health issue with profound long-term consequences for birthing people and
+families if left untreated, including impaired parent-infant bonding, delayed social and cognitive
+development in children, and increased risk of maternal suicide and infant death. It is
+recognized that greater than 50% of birthing people with PPD are not identified and thus do not
+seek help from a health care or mental health professional.
+Methodology: The Public Health Data Warehouse (PHD) was initially created via Chapter 55 of
+the Acts of 2015 as amended by Chapter 133 of the Acts of 2016 and furthered by Chapter 111
+
+Section 11:
+Section 237 of the General Laws in 2017. It provides access to timely, linkable, longitudinal data
+from across state and local government agencies to enable analysis of priority population
+health trends. The PHD is a nationally recognized innovation, proven as an effective tool for
+accelerating data analysis and dissemination of actionable information to guide the
+Commonwealth’s response to priority public health issues, including maternal and child health
+disparities, substance use, COVID-19, and the effects of climate change on health. Analyses
+from the PHD are used to inform policies and programs to reduce morbidity and mortality and
+keep residents healthy. All analyses are guided by a health and racial equity frame that
+acknowledges the differential impacts among historically marginalized communities and
+supports the mission of DPH to promote wellness and health equity for all people in the
+Commonwealth.
+To build the PHD, most datasets are linked at the individual level to the All-Payer Claims
+Database (APCD), which serves as the spine for linking individual information across datasets.
+This linkage is accomplished using the following fields: first name, last name, date of birth, sex,
+social security number, and zip code of residence. After each dataset is linked, the personal
+identifiers (except for the zip codes and dates) are dropped to protect privacy. Lastly, event
+dates are masked so that this information is retained for analytic purposes while still
+maintaining the privacy of the data. This linkage process was developed with CHIA support. It is
+only through their work developing the Master Patient Index (which assigns a single unique
+surrogate key to each person, regardless of how many different insurance carriers have
+submitted data about that person) that the development of the APCD spine was possible.
+Results: During the time period of January 2021 through Dec 2021, there are 65,828 unique
+deliveries from birth certificate, of which 46,574 (70.8%) were linked to an APCD claim.
+10
+The numbers of birthing people screened for PPD within 6 months after delivery ranged from
+563 in November 2021 to 707 in June 2021 (Figure 1). During the time period of January 2021
+through December 2021, 7,775 (16.7%) out of 46,574 deliveries were screened for PPD and
+1,349 (17.4%) had a positive screen.
+The proportion of birthing people who were screened for PPD was higher among Asian (21.2%)
+and American Indian or other (19.0%) and compared to 14.9% and 14.7% among Hispanic and
+Black non-Hispanic, respectively. The proportion of PPD screening was higher among deliveries
+with Medicaid compared to other deliveries (17.3% vs. 15.9%). A lower proportion of screening
+was seen among birthing people with lower level of education (no high school degree, 14.9%)
+and the highest percentage of screening was observed among birthing people with associate or
+bachelor’s degrees (16.9%, Table 1).
+When we look at the results of screening, American Indians (23.5%) and Black non-Hispanic
+(22.4%) had higher positive proportion compared to White non-Hispanic (16.4%), Asian (14.1%),
+or other (15.5%). The positive proportion was higher among birthing people who were covered
+by Medicaid than those on private insurance (20.1% vs.13.0%). The positive percentage of
+screening was lower among birthing people with higher education levels (Table 2).
+PPD Screening Data Collected through Written Reports
+For calendar year 2022 and 2023, no written Annual PPD Screening Data Reporting Forms were
+received from medical practices or carriers.
+Pregnancy Risk Assessment Monitoring System (PRAMS)
+Since 2007, DPH has monitored the health of birthing parents and children in the
+Commonwealth with the Massachusetts Pregnancy Risk Assessment Monitoring System
+(PRAMS), an ongoing survey of new birthing parents. The survey asks a set of two questions
+related to the experience of postpartum depression (PPD).
+PRAMS data from 2022 suggest that some Massachusetts birthing parents are more likely to
+report experiencing PPD symptoms than others. Compared to White non-Hispanic birthing
+parents (7.6%), Black non-Hispanic birthing parents (14.7%) and Asian non-Hispanic birthing
+parents (16.9%) were more likely to experience PPD symptoms always or often, although these
+differences were statistically significant only for Asian non-Hispanic birthing parents.
+Statistically higher prevalence of PPD symptoms was observed among birthing parents with a
+high school education (18.4%) compared to birthing parents with a college education (7.7%).
+Those who self-identified as having a disability reported significantly higher PPD symptoms
+compared to those who reported having no disability (26.5% vs 7.2%). Although higher
+prevalence of PPD symptoms was observed among those who had MassHealth compared to
+those with private insurance (12.3% vs 8.6%), those who are not married (12.1%) compared to
+birthing parents who are married (9.1%), and those whose nativity was non-US-born reported
+higher PPD symptoms compared to birthing parents born in the US (12.6 vs 8.8%), these
+differences were not statistically significant.
+11
+The 2022 Massachusetts PRAMS data show significant improvement in screening for PPD during
+the postpartum visit compared to 2021. Overall, in 2022, 93.5% of birthing parents reported
+that their health care providers asked if they were depressed (proxy for PPD screening), a
+statistically significant increase from 88.3% in 2021. For the first time, compared to White non-
+Hispanic birthing parents (92.8%), there were no statistical differences in screening across race
+and Hispanic ethnicity groups, with Hispanic birthing parents at 94.7%, Black non-Hispanic
+birthing parents at 94.8% and Asian non-Hispanic birthing parents at 93.0%. No differences
+were apparent by maternal age or education level, reflecting significant improvement in a
+standardized approach to asking postpartum patients if they were feeling depressed.
+PPD Screening Programs in Community Health Centers
+The Fiscal Year (FY) 2022 and 2023 budget included language requiring DPH to continue PPD
+screening programs at Community Health Centers (CHC) at five sites across the Commonwealth.
+A procurement waiver was granted, and the contracts were re-established. Funding for these
+contracts totaled $360,000 annually, distributed evenly across all five sites. This funding
+allowed these CHCs to continue to employ part time Community Health Workers (CHWs) to
+assist with PPD screening and referral activities. The five CHCs included: Family Health Center in
+Worcester, Holyoke Health Center, North Shore Community Health in Salem, Stanley Street
+Treatment & Resource Inc, (SSTAR) in Fall River, and the Lynn Community Health Center.
+The CHCs are required to submit PPD screening data on a quarterly basis to DPH, inclusive of all
+dates during which services were provided. Coming out of the pandemic, telehealth visits
+continue to be offered with patients responding well to follow up. However, not all patients
+have internet access and therefore, services may also be provided by phone. The following is a
+summary of the data received from all five sites:
+▪ CHCs reported 1,146 (FY22) and 1,958 (FY23) face-to-face encounters (including
+telehealth) with pregnant individuals during clinical visits, with 1,059 (92.4% in FY22)
+and 1,651 (84.3% in FY23) receiving a PPD screen.
+▪ CHCs reported 1,155 (FY22) and 1,171 (FY23) postpartum individuals during clinical visits
+receiving a PPD screen.
+‒ Of the 1,155 postpartum individuals who received a PPD screen in FY22, 26
+(2.3%) scored either a 10, 11 or 12 on the Edinburgh Postnatal Depression Scale
+(EPDS) or 1 – 9 on the Patient Health Questionnaire (PHQ-9), indicating mild
+depressive symptoms and 19 (1.6%) scored either a 13 or above on the EPDS or
+10 or above on the PHQ-9, indicating moderate to severe depressive symptoms.
+‒ Of the 1,171 postpartum individuals who received a PPD screen in FY23, 64
+(5.5%) scored either a 10, 11 or 12 on the EPDS or 1 – 9 on the PHQ-9, indicating
+mild depressive symptoms and 63 (5.4%) scored either a 13 or above on the
+EPDS or 10 or above on the PHQ-9, indicating moderate to severe depressive
+symptoms.
+12
+▪ CHCs reported that their CHW provided 1,636 and 1,928 face-to-face encounters
+(including telehealth visits) with a parent in FY22 and FY23 respectively.
+▪ CHCs reported 5,627 in FY22 and 9,281 in FY23 indirect/collateral contacts, including
+phone calls, made on behalf of the parents serviced by the program, including but not
+limited to: searches for basic need items, calls to providers to determine availability
+versus a wait list for services, and referral screens for eligibility with community-based
+organizations.
+▪ CHCs reported 1,625 (FY22) and 1,781 (FY23) referrals initiated with 1,407 (86.6% in
+FY22) and 1,549 (87.0% in FY23) referrals completed.
+DPH FUNDED COMMUNITY BASED PMAD INTERVENTIONS & SERVICES
+Early Intervention Parenting Partnerships Home Visiting Program
+DPH’s Early Intervention Parenting Partnerships (EIPP) is a home visiting program for expectant
+parents and families with infants who are high need due to practical barriers (e.g., low financial
+resources, housing instability), emotional and/or behavioral health challenges (e.g., depression,
+substance use), or other stressors (e.g., immigration-related stress). The goals of EIPP are to:
+▪ Connect families with local resources;
+▪ Provide and build families’ social support;
+▪ Appropriately engage families in health care systems;
+▪ Provide parenting education;
+▪ Promote positive parent-child attachment and healthy child development; and
+▪ Support families experiencing multiple stressors to prevent child social and emotional
+delays, and link with Early Intervention (EI) services where appropriate.
+EIPP provides home visiting and group services to almost 300 families annually by a maternal-
+child health (MCH) team that includes a MCH nurse, a mental health clinical professional, and a
+community health worker (CHW). Additional supports are provided by a lactation consultant
+and nutritionist as requested by participants. EIPP provides parental and infant health
+assessment and monitoring, health education and guidance, screening and appropriate
+referrals, and linkage with the Women, Infants & Children (WIC) Program and other resources.
+Programmatic performance measures and parental and infant outcomes range from improved
+management of alcohol, tobacco and other drug use, improved parenting skills, improved
+emotional health, increased rates of exclusive breastfeeding, increased attendance at
+postpartum visits, and improved nutrition.
+Data on the 205 EIPP Participants enrolled during CY23 include the following eligibility criteria
+(participants may meet more than one):
+13
+Percent of Participants Eligibility Criteria
+
+Section 12:
+95.5% High level of stress
+
+Section 13:
+67.8% Inadequate food or clothing
+
+Section 14:
+44.8% History of depression including postpartum depression
+
+Section 15:
+18.5% Homelessness or housing instability
+
+Section 16:
+7.3% Current High-Risk Pregnancy
+
+Section 17:
+11.7% Less than a 10th grade education
+
+Section 18:
+3.4% Tobacco use
+
+Section 19:
+4.3% Substance abuse in the home
+
+Section 20:
+1.4% Violence in the home
+At enrollment and at other key stages of program engagement, all EIPP participants receive a
+Comprehensive Health Assessment (CHA) that assesses the social, emotional, and physical well-
+being of the participant and infant in the context of their family. This CHA includes both a Social
+Connectedness screen utilizing a three-question survey and a PPD screen, utilizing the
+Edinburgh Postnatal Depression Scale (EPDS).
+In CY23, 121 participants received the Social Connectedness screening, utilizing a screening tool
+at 2 months postpartum.
+▪ Twenty participants (16.5%) indicated that they felt they were not getting the support
+they needed from others.
+▪ Twenty-five participants (20.6%) indicated that they did not have someone to call when
+they needed someone to care for their baby.
+▪ Eight participants (6.6%) indicated they did not have someone they could count on to
+listen to them when they needed to talk.
+In addition, 67 PPD screens were conducted with EIPP participants at 2 months postpartum.
+▪ Forty-nine participants (73.1%) received a score below 9, indicating that they were not
+experiencing depressive symptoms.
+▪ Four participants (5.9%) received a score between 10 – 12, indicating mild depressive
+symptoms.
+▪ Four participants (5.9%) reported moderate or high depressive symptoms.
+Participants who screen positive for depression are then supported in accessing mental health
+services including counseling, psychiatric treatment, and support groups. In 2023, 16 EIPP
+Participants were referred to mental health counseling services and 13 enrolled in services. In
+addition, 7 EIPP Participants were referred to support group services and6 enrolled. Additional
+barriers to accessing mental health services in a timely manner included language, stigma,
+transportation, and lack of insurance for participants who were undocumented.
+14
+Massachusetts Maternal, Infant and Early Childhood Home Visiting (MA MIECHV) Initiative
+Since the spring of 2010, DPH has been operating the Maternal, Infant, and Early Childhood
+Home Visiting Program (MIECHV), a federally funded program for states, tribes, and territories
+to develop and implement one or more evidence-based maternal, infant, and early childhood
+home visiting model(s). The state’s program is referred to as MA MIECHV.
+In September 2021, DPH was awarded $6.9 million in federal funds in support of MA MIECHV,
+marking the 10th year of funding. MA MIECHV funds evidenced-based home visiting programs,
+including Parents as Teachers and Healthy Families America. MA MIECHV prioritized 18
+communities for services identified through the 2020 Massachusetts MIECHV needs assessment
+(list of communities is in the Appendix). The needs assessment ranked communities based on
+quantitative data indicators in nine domains: (1) socioeconomic status; (2) housing; (3)
+populations of special interest (e.g., teen births, foreign born residents); (4) substance use; (5)
+crime; (6) child unintentional injuries; (7) child maltreatment; (8) adverse perinatal outcomes;
+and (9) child development and health and school outcomes. There are 23 MA MIECHV home
+visiting programs across the 18 communities.
+Depression screening is conducted with all program participants and data are analyzed for
+home visiting programs on a quarterly basis. An annual report to the federal funding agency,
+the Health Resources and Services Administration (HRSA), is submitted every October. Screens
+are conducted within three months of enrollment and are updated in compliance with model
+fidelity respective to each evidence-based home visiting program.
+In Federal FY22 (October 1, 2021 – September 30, 2022), 74% of expected screenings for
+depressive symptoms were completed within three months of enrollment.
+Welcome Family
+The Welcome Family program, funded through MA MIECHV, offers a one-time nurse home visit
+to all birthing parents with newborns and their families, regardless of age, income, or other
+criteria, in five Massachusetts communities. The goal of Welcome Family is to promote optimal
+parental and infant physical and mental well-being and to provide an entry point into a system
+of care for families with newborns. Each visit is conducted within 8 weeks postpartum, lasts
+approximately 90 minutes, and is conducted by a nurse with maternal and child health
+experience. All services are provided at no cost to families. The primary focus of Welcome
+Family is the birthing parent and their newborn, but any caregiver is eligible for a visit, including
+fathers, grandparents, adoptive parents, and foster parents.
+During the visit, the Welcome Family nurse assesses the following six areas. Each area includes
+screening, brief intervention, education, and referrals to services as needed:
+▪ Parental emotional health, including a depression screen
+▪ Parental and infant nutrition, including breastfeeding
+15
+▪ Unmet health needs
+▪ Domestic violence
+▪ Substance use
+▪ Parental and infant clinical assessment
+The nurse also spends time addressing the family’s questions or concerns. Participants receive a
+Welcome Family bag with gifts and information to support parents and baby. In addition,
+participants receive a follow-up phone call to inquire about the outcome of the referrals made
+during the visit and assess the need for any additional referrals.
+Marketing and outreach activities are conducted at the community level to identify and recruit
+mothers with newborns. Relationships are fostered with potential referral sources in the
+community including birth hospitals, OB-GYNs, midwives, pediatricians, and WIC.
+Welcome Family is available to families living or giving birth in five communities: Fall River,
+Boston, Lowell, Holyoke, and Springfield. During 2023, 1,047 PPD depression screens were
+offered during Welcome Family visits. There were 290 (27.7.%) positive PPD screens, of which
+243 (83.8%) received a referral to services. A family may decline a referral, or the nurse may not
+offer a referral if the family is already receiving services. Families who did not receive a referral
+received brief interventions by the Welcome Family nurse.
+“The open dialogue and authenticity of the conversation made me feel comfortable and it
+was a judgment free zone very relaxing and informative.” – Welcome Family participant
+ADDITIONAL ACTIVITIES
+In CY22 and CY23, additional activities were conducted, and products were developed with the
+goal of supporting health care providers and health plans. Activities included:
+
+Section 21:
+1. In partnership with the PPD Legislative Commission subcommittee focused on
+community resources, DPH maintains and updates the web page dedicated to PPD with
+additional resources.
+
+Section 22:
+2. DPH continues to make available free to the public the brochure entitled “Being A
+Mother Is A Hard Job” through the Massachusetts Health Promotion Clearinghouse.
+
+Section 23:
+3. DPH has funded Tufts University from FY20-FY23 to evaluate the effectiveness of EIPP
+with focus on PPD Screening and referral services.
+
+Section 24:
+4. DPH participated in the quarterly PPD Legislative Commission Meetings and the annual
+PPD Awareness Day event at the State House.
+16
+CONCLUSION
+Perinatal Mood and Anxiety Disorders (PMADs) have significant adverse impacts on birthing
+parents, infants, and their families. Access to appropriate and quality treatment and support
+are essential.
+Massachusetts is leading the way in innovative health policies to address postpartum
+depression. The Massachusetts Department of Public Health will continue to work diligently to
+improve the health and wellbeing of all birthing parents and infants across the Commonwealth,
+by prioritizing expanded and comprehensive PMAD data collection and analysis, while also
+promoting early detection and treatment across health sectors.
+However, more work and support are needed to close the gaps in the percentage of birthing
+parents screened for PMADs and successful completion of referrals to timely, high-quality
+supports and treatment.
+17
+References
+
+Section 25:
+1. Bauman, B.L., Ko, J.Y., Cox, S., D’Angelo, D.V., Warner, L., Folger, S., Tevendale, H.D., Coy, K.C., Harrison, L., Barfield, W.D.
+(2020). Vital Signs – Postpartum Depression Symptoms and Provider Discussions about Perinatal Depression. MMWR Morb
+Mortal Wkly Rep; 69: 575–581.
+
+Section 26:
+2. Misri S, Reebye P, Kendrick K, et al. Internalizing behaviors in 4-year-old children exposed in utero to psychotropic
+medications. Am J Psychiatry 2006; 163(6): 1026–1032.
+
+Section 27:
+3. Carter AS, Garrity-Rokous FE, Chazan-Cohen R, et al. Maternal depression and comorbidity: predicting early parenting,
+attachment security, and toddler social-emotional problems and competencies. J Am Acad Child Adolesc Psychiatry 2001;
+40(1): 18–26.
+
+Section 28:
+4. Sohr-Preston SL, Scaramella LV. Implications of timing of maternal depressive symptoms for early cognitive and language
+development. Clin Child Fam Psychol Rev 2006; 9(1): 65–83.
+
+Section 29:
+5. Oberlander TF, Reebye P, Misri S, et al. Externalizing and attentional behaviors in children of depressed mothers treated
+with a selective serotonin reuptake inhibitor antidepressant during pregnancy. Arch Pediatr Adolesc Med 2007; 161(1):
+22–29.
+
+Section 30:
+6. Weissman MM, Pilowsky DJ, Wickramaratne PJ, et al. Remissions in maternal depression and child psychopathology: a
+STAR*D-child report. JAMA 2006; 295(12): 1389–1398.
+
+Section 31:
+7. Hay DF, Pawlby S, Angold A, et al. Pathways to violence in the children of mothers who were depressed postpartum. Dev
+Psychol 2003; 39(6): 1083–1094.
+
+Section 32:
+8. Weissman MM, Wickramaratne P, Nomura Y, et al. Offspring of depressed parents: 20 years later. Am J Psychiatry 2006;
+163(6): 1001–1008.
+
+Section 33:
+9. Society CP. Maternal depression and child development. Paediatr Child Health 2004; 9(8): 575–598.
+
+Section 34:
+10. Xiao RS, Kroll-Desrosiers AR, Goldberg RJ, et al. The impact of sleep, stress, and depression on postpartum weight
+retention: a systematic review. J Psychosom Res 2014; 77(5): 351–358.
+
+Section 35:
+11. Milgrom J, Skouteris H, Worotniuk T, et al. The association between ante- and postnatal depressive symptoms and obesity
+in both mother and child: a systematic review of the literature. Women’s Health Issues 2016; 22(3): e319–e328.
+
+Section 36:
+12. Chapman SLC, Wu L-T. Postpartum substance use and depressive symptoms: a review. Women Health 2013; 53(5): 479–
+
+Section 37:
+503.
+
+Section 38:
+13. Jones E, Coast E. Social relationships and postpartum depression in South Asia: a systematic review. Int J Soc Psychiatry
+2013; 59(7): 690–700.
+
+Section 39:
+14. Dias CC, Figueiredo B. Breastfeeding and depression: a systematic review of the literature. J Affect Disord 2014; 171: 142–
+
+Section 40:
+154.
+
+Section 41:
+15. Vliegen N, Casalin S, Luyten P. The course of postpartum depression: a review of longitudinal studies. Harv Rev Psychiatry
+2016; 22(1): 1–22.
+
+Section 42:
+16. Luca DL, Margiotta C, Staatz C, Garlow E, Christensen A, Zivin K, “Financial Toll of Untreated Perinatal Mood and Anxiety
+Disorders Among 2017 Births in the United States”, American Journal of Public Health 110, no. 6 (June 1, 2020): pp. 888-
+
+Section 43:
+896.
+
+Section 44:
+17. Farr SL, Dietz PM, O’Hara MW, Burley K, Ko JY. (2013) Postpartum anxiety and comorbid depression in a population-based
+sample of women. Journal of Women’s Health, 23(2), 120-128.
+
+Section 45:
+18. Masters GA, Hugunin J, Xu L, Ulbricht CM, Moore Simas TA, Ko JY, Byatt N. Prevalence of bipolar disorder in perinatal
+women: a systematic review and meta-analysis. J Clin Psychiatry 2022;83:21r14045. doi: 10.4088/JCP.21r14045
+
+Section 46:
+19. Fawcett EJ, Fairbrother N, Cox ML, White IR, Fawcett JM. The prevalence of anxiety disorders during pregnancy and the
+postpartum period: a multivariate Bayesian meta-analysis. J Clin Psychiatry 2019;80:18r12527. doi: 10.4088/JCP.18r12527
+
+Section 47:
+20. Wouk K, Stuebe AM, Meltzer-Brody S. Postpartum mental health and breastfeeding practices: an analysis using the 2010–
+2011 Pregnancy Risk Assessment Monitoring System. Matern Child Health J 2016. Epub July 22,
+
+Section 48:
+2016. CrossRefExternal PubMedExternal
+
+Section 49:
+21. Stein A, Gath DH, Bucher J, Bond A, Day A, Cooper PJ. The relationship between post-natal depression and mother-child
+interaction. Br J Psychiatry 1991;158:46–52. CrossRefExternal PubMedExternal
+
+Section 50:
+22. Kingston D, Tough S, Whitfield H. Prenatal and postpartum maternal psychological distress and infant development: a
+systematic review. Child Psychiatry Hum Dev 2012;43:683–714. CrossRefExternal PubMedExternal
+18
+Addendum
+Figure 1. Number of Deliveries Screened for
+Postpartum Depression within 6 Months
+Postpartum by Delivery Date ̶ Massachusetts,
+2021
+5000
+4500
+4000
+3500
+3000
+2 2 0 5 0 0 0 0 2870 2709 3246 3133 3409 3434 3491 3458 3479 3337 3196 3037
+1500
+1000
+500
+589 578 643 656 694 707 682 694 706 651 563 612
+0
+Screened Not Screened
+19
+Table 1. Birthing People’s Characteristics by Status of PPD Screening, Jan 2021 -Dec 2021, MA
+Screened
+No Yes
+N % N %
+Race/Ethnicity ƚ
+White non-Hispanic 19,324 82.2 4,176 17.8
+Black non-Hispanic 4,970 85.3 856 14.7
+Asian/PI non-Hispanic 2,393 78.8 644 21.2
+Hispanic 10,642 85.1 1,859 14.9
+American Indian or Other 362 81.0 85 19.0
+unknown 1,108 87.7 155 12.3
+Insurance ƚ
+Medicaid 22,905 82.7 4,776 17.3
+Other 15894 84.1 2999 15.9
+Education ƚ
+No HS degree 3,915 85.1 686 14.9
+HS degree or GED 7,947 83.4 1,580 16.6
+Associate or Bachelor degree 11,194 83.1 2,284 16.9
+Post graduate 7,258 84.0 1,378 16.0
+Preterm Birth
+No 35,370 83.2 7,146 16.8
+Yes 3,304 84.1 626 15.9
+Plurality
+Singleton 38,144 83.3 7,649 16.7
+Multiple 655 83.9 126 16.1
+Parity ƚ
+1 16,046 83.0 3,294 17.0
+2 13,044 82.8 2,701 17.2
+3+ 9,709 84.5 1,780 15.5
+Married ƚ
+No 22,117 83.3 4,430 16.7
+Yes 290 94.8 16 5.2
+ƚ P<0.01
+20
+Table 2. Birthing People’s Characteristics by Results of PPD Screening, Jan 2021 -Dec 2021, MA
+Screen Results
+Negative Positive
+N % N %
+Race/Ethnicity ƚ
+White non-Hispanic 3,492 83.6 684 16.4
+Black non-Hispanic 664 77.6 192 22.4
+Asian/PI non-Hispanic 553 85.9 91 14.1
+Hispanic 1,521 81.8 338 18.2
+American Indian or Other 65 76.5 20 23.5
+unknown 131 84.5 24 15.5
+Insurance ƚ
+Medicaid 3,817 79.9 959 20.1
+Other 2609 87.0 390 13.0
+Education ƚ
+<HS 547 79.7 139 20.3
+HS/GED 1,234 78.1 346 21.9
+Some College/Associate Degree 1,969 86.2 315 13.8
+Bachelor Degree 1,169 84.8 209 15.2
+Graduate Degrees 1,507 81.6 340 18.4
+Preterm Birth *
+No 5,928 83.0 1,218 17.0
+Yes 496 79.2 130 20.8
+Plurality
+Singleton 6,325 82.7 1,324 17.3
+Multiple 101 80.2 25 19.8
+Parity
+1 563 14.6 3,294 85.4
+2 466 14.7 2,701 85.3
+3 320 15.2 1,780 84.8
+Married ƚ
+No 2,660 79.9 669 20.1
+Yes 3,751 84.7 679 15.3
+*P <0.05
+ƚP<0.01
+21
+Figure 2. Experience of postpartum depression
+(PPD) symptoms in 2022, MA PRAMS
+
+Section 51:
+100.0%
+
+Section 52:
+90.0%
+
+Section 53:
+80.0%
+)
+%
+(
+t
+
+Section 54:
+70.0% 62.3%
+n
+e 60.0%
+c
+r
+e 50.0%
+P
+
+Section 55:
+40.0%
+
+Section 56:
+27.7%
+
+Section 57:
+30.0%
+
+Section 58:
+20.0%
+
+Section 59:
+10.0%
+
+Section 60:
+10.0%
+
+Section 61:
+0.0%
+Often/always Sometimes Rarely/never
+The 18 Massachusetts Home Visiting Initiative Communities in Massachusetts include:
+• Boston
+• Brockton
+• Chelsea
+• Everett
+• Fall River
+• Fitchburg
+• Holyoke
+• Lawrence
+• Lowell
+• Lynn
+• New Bedford
+• North Adams
+• Pittsfield
+• Revere
+• Southbridge
+• Springfield
+• Webster
+• Worcester
+22
+23
+[DELETED:                                 ]
+[DELETED: . . .A).]
+[DELETED: .P.S]
+[DELETED: .I]
+[DELETED: .D.D.E.E]
+[DELETED: .P.A w w M s U U]
+[DELETED:  E H I H H C L0  T S V]
+[DELETED: .I.D.D.D]
+[DELETED: .B.M.C.S.O.W.H.W.S.X.M.C.J.D.V.L.F.M.F.W.S.K]
+[DELETED: 4677̶ dN]
+[DELETED:  S   Y N %   N %    1 8 4 1 4 8 8 1 2 7 6 2 1 8 1 1 3 8 8 1 1 8 1 1    2 8 4 1 1 8 2 1    3 8 6 1 7 8 1 1 1 8 2 1 7 8 1 1   3 8 7 1 3 8 6 1   3 8 7 1 6 8 1 1    1 8 3 1 1 8 2 1 9 8 1 1    2 8 4 1 2 9   1 5]
+[DELETED:  S   P N %   N %    3 8 6 1 6 7 1 2 5 8 9 1 1 8 3 1 6 7 2 2 1 8 2 1    3 7 9 2 2 8 3 1    5 7 1 2 1 7 3 2 1 8 3 1 1 8 2 1 1 8 3 1   5 8 1 1 4 7 1 2   6 8 1 1 1 8 2 1   5 1 3 8 4 1 2 8 3 1 1 8    2 7 6 2 3 8   6 1]
+[DELETED: sSsR]
+
+
+================================================================================
+
+Raw Text:
+The Commonwealth of Massachusetts
+Executive Office of Health and Human Services
+Department of Public Health
+250 Washington Street, Boston, MA 02108-4619
+617-624-6000 | mass.gov/dph
+Maura T. Healey Kiame Mahaniah, MD, MBA
+Governor Secretary
+Kimberley Driscoll Robert Goldstein, MD, PhD
+Lieutenant Governor Commissioner
+July 22, 2025
+Timothy Carroll
+House Clerk
+State House Room 145
+Boston, MA 02133
+Michael Hurley
+Senate Clerk
+State House Room 335
+Boston, MA 02133
+Dear Mr. Clerk,
+Pursuant to Chapter 313 of the Acts of 2010, please find enclosed a report from the Department
+of Public Health entitled “CY22 – CY23 Summary of Activities related to Screening for
+Postpartum Depression.”
+Sincerely,
+Robert Goldstein, MD, PhD
+Commissioner
+Department of Public Health
+
+(this page has intentionally been left blank)
+
+CY22 – CY23 Summary of
+Title
+Activities related to
+Postpartum Depression
+Date
+(this page has intentionally been left blank)
+
+(this page has intentionally been left blank)
+
+Legislative Mandate
+The following report is hereby issued pursuant to Chapter 313 of the Acts of 2010 as follows:
+The Department of Public Health “shall issue regulations that require providers and carriers to
+annually submit data on screening for postpartum depression. Following the receipt of data, the
+commissioner of public health shall issue an annual summary of the activities related to
+screening for postpartum depression, including best practices and effective screening tools. The
+department shall annually file the summary with the commissioner of public health and the
+clerks of the house of representatives and the senate not later than June 30; provided, however,
+that the first report is due not later than June 30, 2011.”
+1
+
+Explanatory Summary
+About one in seven birthing parents in the US experiences depressive symptoms after birth.
+Untreated postpartum depression (PPD) has negative consequences for both infants and
+birthing people. Although PPD is the most common complication of pregnancy and a treatable
+mental health condition, it is under-diagnosed and undertreated. To address this and promote
+the health and well-being of birthing people, children, and family, Chapter 313 of the Acts of
+2010, An Act Relative to Postpartum Depression, was signed into law on August 19, 2010 in
+Massachusetts. Pursuant to this law, a PPD Special Legislative Commission was established, and
+the PPD Regulations (105 CMR 271.000) were promulgated in December 2014 requiring data
+reporting by both carriers and providers for routine clinical appointments in which medical
+services are provided to a person who has given birth within the previous six months.
+To further improve PPD screening data reporting and to investigate the status of perinatal
+mental health and its impacts on birthing people and their children, the Massachusetts
+Department of Public Health (DPH) adopted depressive symptom questions in the Pregnancy
+Risk Assessment Monitoring System (PRAMS) in FY11. To improve PPD screening, engagement,
+referral to treatment, DPH has funded universal PPD screening programs at community health
+centers and home visiting programs serving pregnant and parenting families.
+This report summarizes recent national and state policy levers related to promoting parental
+and infant mental health during the perinatal period as well as data collected from
+Massachusetts PPD screening services.
+Note on Language Used in this Report
+The Massachusetts Department of Public Health recognizes that families come in many
+different forms. A person may become a parent/mother in many ways, including by giving birth,
+adopting a child, or co-parenting a child with someone else. On the other hand, not everyone
+who becomes pregnant is a parent. For example, someone who carries a child as a surrogate
+may not see herself as the child's parent. A non-binary or transgender person who carries a
+child may also not use the term "mother" to describe themselves.
+This report is about experiences related to pregnancy, not about the experiences of all people
+who may be parenting a child or may have recently given birth. For this reason, we use terms
+like "pregnant person" and "birthing people" to talk about people affected by postpartum
+depression. We use the term "second parent" or "support parent" to talk about the people who
+may be supporting the pregnant person, whether that person is a father, a mother who is not
+carrying the child, or another adult who is co-parenting with the pregnant person. When citing
+specific research, we use the term used in the data analysis.
+2
+
+Introduction
+About one in seven birthing people in the US experienced depressive symptoms after delivery
+in 2018.1 Untreated postpartum depression (PPD) has negative consequences for both children
+and birth parents. Children born to individuals with PPD are more likely to have poor cognitive
+functioning, behavioral inhibition, emotional maladjustment externalizing disorders, or
+psychiatric and medical disorders.2-9 Furthermore, individuals with PPD were more likely to
+have changes in eating habits, more likely to engage in substance use, and more likely to have
+social relationship problems, breastfeeding problems, or persistent depression.10-15 A 2017
+study of births in the United States further estimated that untreated mood and anxiety
+disorders in birth parents cost a total of $14 billion from conception to 5 years
+postpartum, with an average of $31,800 per mother-infant dyad.16
+To promote the health and well-being of birthing parents, children, and families, on August 19,
+2010, Chapter 313 of the Acts of 2010, An Act Relative to Postpartum Depression, was signed
+into law. This legislation has two primary components: (1) establishing a postpartum depression
+(PPD) Legislative Commission and (2) requiring that the Massachusetts Department of Public
+Health (DPH) promote a culture of awareness, de-stigmatization, and screening for postpartum
+depression. Specifically, DPH is charged with:
+▪ Developing standards for effective PPD screening,
+▪ Making recommendations to health plans and health care providers for PPD screening
+data reporting,
+▪ Issuing regulations that require health plans and health care providers to annually
+submit data on screening for postpartum depression; and
+▪ Issuing an annual summary of the activities related to screening for postpartum
+depression including best practices and effective screening tools.
+A legislative requirement outlined in Chapter 313 of the Acts of 2010, An Act Relative to
+Postpartum Depression, is the implementation of PPD Screening Regulations, which requires
+providers to report their PPD screening data through the submission of service codes to the All
+Payors Claims Database (APCD). Due to challenges in accessing the APCD data from the Center
+for Health Information and Analysis (CHIA) and linking it to the birth data from Vital Records,
+there have been considerable delays in meeting this annual reporting component. This report
+provides a summary of activities and PPD screening program data for both calendar years of
+2022 and 2023. However, the most recent data reported as part of the PPD regulations is only
+available from 2021.
+Research has shown that a spectrum of mental health disorders can manifest during pregnancy
+and within one year after the end of the pregnancy. The range of Perinatal Mood and Anxiety
+Disorders (PMADs) beyond PPD include anxiety disorder (20.7%), bipolar-spectrum mood
+episodes (20.1%), obsessive-compulsive disorder (4-11%), posttraumatic stress disorder (PTSD)
+(1-2%), and Postpartum Psychosis (1 in 1,000 postpartum people)17-19. This expanded report
+seeks to explore strategic opportunities to include PMADs in data collection, programming, and
+3
+
+community engagement efforts to ensure pregnant and postpartum people receive appropriate
+and disorder-specific mental health care, treatment, and support.
+4
+
+Report Body
+This report is intended to summarize federal, state, and local initiatives working to increase the
+understanding of the prevalence of perinatal mood and anxiety disorder (PMAD), address the
+challenges faced by many families experiencing PMADs, and identify opportunities for policy
+changes that may improve the health and wellbeing of pregnant, birthing, and parenting
+families across the Commonwealth.
+First, a review of federal initiatives is provided, followed by a statewide initiative’s summary
+and then the findings from community-based organizations working directly with families.
+FEDERAL INITIATIVES
+Presidential Administration
+In 2022, the White House Blueprint for Addressing the Maternal Health Crisis was released
+which identifies 60 specific action steps that the federal government will implement over
+several years to reduce maternal mortality and morbidity and reduce the disparities in maternal
+health outcomes in the United States. In addition, the Biden-Harris Administration Highlights
+Strategy to Address the National Mental Health Crisis (2022) fact sheet was subsequently
+released that includes a comprehensive strategy the federal government has undertaken to
+address the mental health crisis coming out of the pandemic and transform the mental health
+service delivery system. DPH has used both reports to develop a crosswalk to organize and
+prioritize activities of the DPH Perinatal Mental Health Team and to identify gaps and/or areas
+of improvement in the provision of perinatal mental health services in Massachusetts.
+National Policy Center for Maternal Mental Health
+In 2023, the Policy Center for Maternal Mental Health released their inaugural annual state
+report cards. Massachusetts received an overall grade of C while the national grade was a D
+and 40 other states and DC received either a D or F grade. The 2023 Report Card grades each
+state in three domains including:
+1. Providers and Programs (MA Grade = C) - Areas for improvement includes:
+▪ Opening one inpatient maternal mental health program
+▪ Establishing a maternal mental health outpatient intensive or partial
+hospitalization program
+▪ State Perinatal Quality Improvement Collaborative has prioritized maternal
+mental health (In 2024, PNQINMA will be adopting the Alliance for Innovation on
+Maternal Health (AIM) Perinatal Mental Health Conditions Safety Bundle)
+2. Screening and Screening Reimbursement (MA Grade = F) - Areas for improvement
+include:
+▪ Top Performer on the “Prenatal Depression Screening” HealthCare Effectiveness
+Data and Information Set (HEDIS) Measure (Among Commercial Insurance or
+Medicaid)
+5
+
+▪ Top Performer with Commercial Insurance and/or Medicaid on the “Postpartum
+Depression Screening” HEDIS Measure (Among Commercial Insurance or
+Medicaid)
+▪ Medicaid Requires MCOs to Collect the “Prenatal Depression Screening” HEDIS
+Measure
+▪ Medicaid Requires MCOs to Collect the “Postpartum Depression Screening”
+HEDIS Measure
+▪ Obstetric Providers Submit Claims to Private Insurers for Prenatal MMH
+Screening (Among at Least 1% of Prenatal Patients)
+3. Insurance Coverage and Treatment (MA Grade = B) – The one area for improvement
+includes:
+▪ Requires health plans to develop a maternal mental health quality management
+program
+DPH and MassHealth are working collaboratively to make improvements in data collection,
+reporting, and reimbursement under the Screening & Screening Reimbursement domain.
+Link - State Report Cards - Policy Center for Maternal Mental Health
+Two Recently FDA Approved Medications for the treatment of PPD
+FDA has approved two medications for the treatment of postpartum depression -
+Zulresso (IV Drip) and Zuranolone (oral pill). DPH is working with MassHealth and private
+insurers to ensure equitable access to these new treatment modalities. Below is additional
+information on each new treatment and issues for consideration with health plans:
+Zulresso - FDA approves first treatment for post-partum depression | FDA
+▪ This treatment method must be administered in an approved health care setting.
+▪ There are no approved facilities or health care providers in MA for administration.
+▪ The closest approved health care facility for MA patients to access this treatment is the
+Women & Infants Hospital in Providence, Rhode Island.
+▪ Cost - a single 60 Hour IV Drip (2.5 days) currently costs $7-9K for the medication and
+$34,000 or more for treatment/hospital stay
+Zuranolone - FDA Approves First Oral Treatment for Postpartum Depression | FDA
+▪ Once daily pill taken over 14 days
+▪ Cost - $15,900 for 14-day cycle
+STATE INITIATIVES
+Massachusetts Special Commission on Racial Inequities in Maternal Health (2021 – 2022)
+In 2021, the Special Commission on Racial Inequities in Maternal Health was created by a
+legislative act in January 2021. The 28-member body’s charge was to investigate and study
+methods to reduce racial inequities in maternal health. In May 2022, the Racial Inequities in
+Maternal Health Report was released highlighting over 100 recommendations “to improve
+6
+
+maternal health outcomes and experiences for the historically and currently most vulnerable
+residents in the state of Massachusetts, with a particular attention on racial inequities.”
+Recommendations specific to PMADs include:
+Health Systems:
+▪ Extend monitoring for postpartum mental health care screening and linkage care to
+12 months (beyond even the 4th trimester) because this is what the data show as
+the time frame for increased maternal mortality related to mental health and
+substance use.
+▪ Provide treatment when and where people need it to reduce disparities in access to
+behavioral health services related to transportation, time off from work and
+childcare including maintain broad coverage of telehealth, expand the availability of
+integrated behavioral health services within primary care, and extend hours to
+including weekends, at Community Behavioral Health Centers (CBHCs) and
+behavioral health urgent care
+Insurance Carriers:
+▪ Improve reimbursement for Medicaid/ MassHealth for behavioral health screening
+and services.
+▪ Expand support for co-located interdisciplinary models of care/medical homes for
+families with perinatal SUD (psychiatry, addiction medicine, MFM/CNM OB care,
+Social Work and Peer Support) all in one program (HOPE Program at MGH, Project
+RESPECT at BMC)
+Health Care Providers:
+▪ Increase access to postpartum support groups for Black/POC Mothers and their
+Partners/Spouses
+▪ Support people who give birth with maternal mental health conditions and
+alcohol/substance use disorders
+▪ Increase education regarding trauma, mental health, and substance use disorder
+(SUD) and stigma/bias among DCF staff
+Recommendations from this report were added to the DPH Perinatal Mental Health Team
+crosswalk to inform the work of the team. Current priorities include improvements in data
+collection and perinatal mood and anxiety disorder screening rates including seeking funding to
+implement the Perinatal Mental Health Data Analysis Plan.
+Review of Maternal Health Services, 2023
+In 2023, the Massachusetts Department of Public Health (DPH) conducted a review of access to
+all maternal health services in the Commonwealth and developed a plan to support or improve
+access and quality, where needed. The Maternal Health Services Report included a review of
+prenatal, birthing, postpartum, and reproductive health services. It also included consultation
+and collaboration with providers and community leaders in the area to ensure that access to
+high-quality maternal health services is protected following recent closure of inpatient
+maternity units.
+7
+
+DPH identified 25 action-oriented recommendations to improve maternal health across the
+state, with a lens of health equity and health outcomes. The recommendations related to
+PMADs include:
+1. DPH will expand and promote existing training to provide support to frontline health
+care providers on screening, assessment, treatment, and referral for maternal
+depression and related behavioral disorders. Training will also focus on the importance
+of maintaining the parent-child dyad.
+2. DPH will continue to work with MassHealth and other payors to promote increased
+uptake of evidence-based programs like Moms Do Care and First Steps Together for
+pregnant members with SUD; services to be covered include peer support, care
+coordination services, doulas, and case management.
+3. EOHHS, in collaboration with DPH and DCF, will update guidance for healthcare
+providers to share best practices and document the establishment of a dual reporting
+system whereby substance exposed newborns with no indication of neglect or abuse
+can be identified for support but not investigated for neglect or abuse.
+4. EOHHS, including MassHealth, DMH, and DPH, will work together to explore the
+establishment and ongoing implementation of Outpatient Intensive or Partial
+Hospitalization Programs and foster development of inpatient behavioral health
+programs where infants are able to board with mom while they are treated.
+DPH has begun exploring opportunities to establish an inpatient psychiatric hospitalization
+program through collaboration with DMH, MassHealth, community advocates, people with
+lived experience, and others and this work will continue in 2024.
+Massachusetts Legislative Bill
+An Act Relative to Birthing Justice in the Commonwealth was introduced in the 2022-2023
+Massachusetts Legislative Session. This bill includes language specific to universal PPD
+screening and the establishment of a statewide system of programs providing universal
+postpartum home visiting services modeled after the Welcome Family Program. As this bill
+moved through the legislative process, it gained significant community support and
+subsequently passed in 2024. DPH will report on implementation of the bill components
+incomponents in the 2024 annual PPD Legislative Report
+PMADs Training
+DPH developed and offers a free three-hour training entitled Perinatal Mental Health: Review
+of the Prevalence, Impact, Interventions, and Resources in the Commonwealth. The session
+provides an overview of perinatal mental health needs, co-morbidities including substance use,
+interpersonal violence and racism, impact on early childhood mental health and development,
+and how MA is addressing these needs. In CY22-CY23, DPH conducted eleven trainings to over
+300 state and national health care providers including social workers, peer support specialists,
+nurses, early intervention specialists, and state employees.
+PPD Regulations - 105 CMR 271.000
+8
+
+An Act Relative to Postpartum Depression, Chapter 313 of the Acts of 2010 charged DPH to issue
+regulations that require carriers and health care providers to annually submit data on screening
+for PPD. This data reporting is intended to help DPH understand statewide PPD screening
+patterns and outcomes, to improve the detection of this prevalent condition, and ultimately
+facilitate treatment for birthing parents in need of further support and referral.
+The PPD Regulations (105 CMR 271.000) were promulgated in December 2014 and require
+annual reporting by a provider that conducts or oversees screening for PPD, using a validated
+screening tool, during a routine clinical appointment in which medical services are provided to a
+person who has given birth within the previous six months. The regulation also applies to a
+carrier that receives a claim for this PPD screening.
+Providers responsible for adhering to these regulations are obstetrician-gynecologists (OB-
+GYNs), Family Medicine Practitioners, Advanced Practice Nurses (including Nurse Midwives and
+Nurse Practitioners), and Physician Assistants, who practice in a family medicine or OB-GYN
+setting.
+Data collection from providers began in calendar year 2015. Providers may report their PPD
+Screening data to DPH in one of two ways:
+1. Providers can submit an annual written report to DPH by March 1 for the previous
+calendar year using the “Annual PPD Data Reporting Form” available on the DPH web
+page dedicated to PPD.
+2. Alternatively, providers may use the Healthcare Common Procedure Coding System
+(HCPCS) code of S3005 (Performance Measurement, Evaluation of Patient Self-
+Assessment, Depression) with a diagnostic range Z39.2 (Routine Postpartum follow up,
+formerly ICD9 V24 - Screening for Postpartum Depression) and with a modifier as a
+mechanism for reporting PPD screening (see below).
+Modifier for use Modifier for use
+Servicing Provider with a positive PPD with a negative PPD
+screen screen
+OB-GYNs, Family Medicine Practitioners, Advanced
+Practice Nurses including Nurse Midwifes and Nurse U1 U2
+Practitioners, & Physician Assistants
+Depending on the private carrier, the service code is set to pay at $0.00 or at $0.01. Private
+carriers have been accepting this service code from the servicing providers identified above and
+are reporting it directly to the All Payer Claims Database (APCD) at the Massachusetts Center
+for Health Information & Analysis (CHIA), as required under PPD Regulations.
+9
+
+Effective May 16, 2016, MassHealth began paying perinatal care providers for the
+administration of standardized depression screening during pregnancy and the postpartum
+period utilizing the above HCPCS code.
+PPD Data Collected through Claims Codes & Linkage with APCD
+Background: Chapter 313 of the Acts of 2010, An Act Relative to Postpartum Depression, called
+for submission of data on postpartum depression (PPD) screening to examine the frequency
+and scope of PPD among people who recently gave birth in Massachusetts. PPD defined as
+depression occurring within 12 months after giving birth, includes feelings of sadness,
+hopelessness and anhedonia—the loss of interest in previously pleasurable activities. PPD is an
+important public health issue with profound long-term consequences for birthing people and
+families if left untreated, including impaired parent-infant bonding, delayed social and cognitive
+development in children, and increased risk of maternal suicide and infant death. It is
+recognized that greater than 50% of birthing people with PPD are not identified and thus do not
+seek help from a health care or mental health professional.
+Methodology: The Public Health Data Warehouse (PHD) was initially created via Chapter 55 of
+the Acts of 2015 as amended by Chapter 133 of the Acts of 2016 and furthered by Chapter 111
+Section 237 of the General Laws in 2017. It provides access to timely, linkable, longitudinal data
+from across state and local government agencies to enable analysis of priority population
+health trends. The PHD is a nationally recognized innovation, proven as an effective tool for
+accelerating data analysis and dissemination of actionable information to guide the
+Commonwealth’s response to priority public health issues, including maternal and child health
+disparities, substance use, COVID-19, and the effects of climate change on health. Analyses
+from the PHD are used to inform policies and programs to reduce morbidity and mortality and
+keep residents healthy. All analyses are guided by a health and racial equity frame that
+acknowledges the differential impacts among historically marginalized communities and
+supports the mission of DPH to promote wellness and health equity for all people in the
+Commonwealth.
+To build the PHD, most datasets are linked at the individual level to the All-Payer Claims
+Database (APCD), which serves as the spine for linking individual information across datasets.
+This linkage is accomplished using the following fields: first name, last name, date of birth, sex,
+social security number, and zip code of residence. After each dataset is linked, the personal
+identifiers (except for the zip codes and dates) are dropped to protect privacy. Lastly, event
+dates are masked so that this information is retained for analytic purposes while still
+maintaining the privacy of the data. This linkage process was developed with CHIA support. It is
+only through their work developing the Master Patient Index (which assigns a single unique
+surrogate key to each person, regardless of how many different insurance carriers have
+submitted data about that person) that the development of the APCD spine was possible.
+Results: During the time period of January 2021 through Dec 2021, there are 65,828 unique
+deliveries from birth certificate, of which 46,574 (70.8%) were linked to an APCD claim.
+10
+
+The numbers of birthing people screened for PPD within 6 months after delivery ranged from
+563 in November 2021 to 707 in June 2021 (Figure 1). During the time period of January 2021
+through December 2021, 7,775 (16.7%) out of 46,574 deliveries were screened for PPD and
+1,349 (17.4%) had a positive screen.
+The proportion of birthing people who were screened for PPD was higher among Asian (21.2%)
+and American Indian or other (19.0%) and compared to 14.9% and 14.7% among Hispanic and
+Black non-Hispanic, respectively. The proportion of PPD screening was higher among deliveries
+with Medicaid compared to other deliveries (17.3% vs. 15.9%). A lower proportion of screening
+was seen among birthing people with lower level of education (no high school degree, 14.9%)
+and the highest percentage of screening was observed among birthing people with associate or
+bachelor’s degrees (16.9%, Table 1).
+When we look at the results of screening, American Indians (23.5%) and Black non-Hispanic
+(22.4%) had higher positive proportion compared to White non-Hispanic (16.4%), Asian (14.1%),
+or other (15.5%). The positive proportion was higher among birthing people who were covered
+by Medicaid than those on private insurance (20.1% vs.13.0%). The positive percentage of
+screening was lower among birthing people with higher education levels (Table 2).
+PPD Screening Data Collected through Written Reports
+For calendar year 2022 and 2023, no written Annual PPD Screening Data Reporting Forms were
+received from medical practices or carriers.
+Pregnancy Risk Assessment Monitoring System (PRAMS)
+Since 2007, DPH has monitored the health of birthing parents and children in the
+Commonwealth with the Massachusetts Pregnancy Risk Assessment Monitoring System
+(PRAMS), an ongoing survey of new birthing parents. The survey asks a set of two questions
+related to the experience of postpartum depression (PPD).
+PRAMS data from 2022 suggest that some Massachusetts birthing parents are more likely to
+report experiencing PPD symptoms than others. Compared to White non-Hispanic birthing
+parents (7.6%), Black non-Hispanic birthing parents (14.7%) and Asian non-Hispanic birthing
+parents (16.9%) were more likely to experience PPD symptoms always or often, although these
+differences were statistically significant only for Asian non-Hispanic birthing parents.
+Statistically higher prevalence of PPD symptoms was observed among birthing parents with a
+high school education (18.4%) compared to birthing parents with a college education (7.7%).
+Those who self-identified as having a disability reported significantly higher PPD symptoms
+compared to those who reported having no disability (26.5% vs 7.2%). Although higher
+prevalence of PPD symptoms was observed among those who had MassHealth compared to
+those with private insurance (12.3% vs 8.6%), those who are not married (12.1%) compared to
+birthing parents who are married (9.1%), and those whose nativity was non-US-born reported
+higher PPD symptoms compared to birthing parents born in the US (12.6 vs 8.8%), these
+differences were not statistically significant.
+11
+
+The 2022 Massachusetts PRAMS data show significant improvement in screening for PPD during
+the postpartum visit compared to 2021. Overall, in 2022, 93.5% of birthing parents reported
+that their health care providers asked if they were depressed (proxy for PPD screening), a
+statistically significant increase from 88.3% in 2021. For the first time, compared to White non-
+Hispanic birthing parents (92.8%), there were no statistical differences in screening across race
+and Hispanic ethnicity groups, with Hispanic birthing parents at 94.7%, Black non-Hispanic
+birthing parents at 94.8% and Asian non-Hispanic birthing parents at 93.0%. No differences
+were apparent by maternal age or education level, reflecting significant improvement in a
+standardized approach to asking postpartum patients if they were feeling depressed.
+PPD Screening Programs in Community Health Centers
+The Fiscal Year (FY) 2022 and 2023 budget included language requiring DPH to continue PPD
+screening programs at Community Health Centers (CHC) at five sites across the Commonwealth.
+A procurement waiver was granted, and the contracts were re-established. Funding for these
+contracts totaled $360,000 annually, distributed evenly across all five sites. This funding
+allowed these CHCs to continue to employ part time Community Health Workers (CHWs) to
+assist with PPD screening and referral activities. The five CHCs included: Family Health Center in
+Worcester, Holyoke Health Center, North Shore Community Health in Salem, Stanley Street
+Treatment & Resource Inc, (SSTAR) in Fall River, and the Lynn Community Health Center.
+The CHCs are required to submit PPD screening data on a quarterly basis to DPH, inclusive of all
+dates during which services were provided. Coming out of the pandemic, telehealth visits
+continue to be offered with patients responding well to follow up. However, not all patients
+have internet access and therefore, services may also be provided by phone. The following is a
+summary of the data received from all five sites:
+▪ CHCs reported 1,146 (FY22) and 1,958 (FY23) face-to-face encounters (including
+telehealth) with pregnant individuals during clinical visits, with 1,059 (92.4% in FY22)
+and 1,651 (84.3% in FY23) receiving a PPD screen.
+▪ CHCs reported 1,155 (FY22) and 1,171 (FY23) postpartum individuals during clinical visits
+receiving a PPD screen.
+‒ Of the 1,155 postpartum individuals who received a PPD screen in FY22, 26
+(2.3%) scored either a 10, 11 or 12 on the Edinburgh Postnatal Depression Scale
+(EPDS) or 1 – 9 on the Patient Health Questionnaire (PHQ-9), indicating mild
+depressive symptoms and 19 (1.6%) scored either a 13 or above on the EPDS or
+10 or above on the PHQ-9, indicating moderate to severe depressive symptoms.
+‒ Of the 1,171 postpartum individuals who received a PPD screen in FY23, 64
+(5.5%) scored either a 10, 11 or 12 on the EPDS or 1 – 9 on the PHQ-9, indicating
+mild depressive symptoms and 63 (5.4%) scored either a 13 or above on the
+EPDS or 10 or above on the PHQ-9, indicating moderate to severe depressive
+symptoms.
+12
+
+▪ CHCs reported that their CHW provided 1,636 and 1,928 face-to-face encounters
+(including telehealth visits) with a parent in FY22 and FY23 respectively.
+▪ CHCs reported 5,627 in FY22 and 9,281 in FY23 indirect/collateral contacts, including
+phone calls, made on behalf of the parents serviced by the program, including but not
+limited to: searches for basic need items, calls to providers to determine availability
+versus a wait list for services, and referral screens for eligibility with community-based
+organizations.
+▪ CHCs reported 1,625 (FY22) and 1,781 (FY23) referrals initiated with 1,407 (86.6% in
+FY22) and 1,549 (87.0% in FY23) referrals completed.
+DPH FUNDED COMMUNITY BASED PMAD INTERVENTIONS & SERVICES
+Early Intervention Parenting Partnerships Home Visiting Program
+DPH’s Early Intervention Parenting Partnerships (EIPP) is a home visiting program for expectant
+parents and families with infants who are high need due to practical barriers (e.g., low financial
+resources, housing instability), emotional and/or behavioral health challenges (e.g., depression,
+substance use), or other stressors (e.g., immigration-related stress). The goals of EIPP are to:
+▪ Connect families with local resources;
+▪ Provide and build families’ social support;
+▪ Appropriately engage families in health care systems;
+▪ Provide parenting education;
+▪ Promote positive parent-child attachment and healthy child development; and
+▪ Support families experiencing multiple stressors to prevent child social and emotional
+delays, and link with Early Intervention (EI) services where appropriate.
+EIPP provides home visiting and group services to almost 300 families annually by a maternal-
+child health (MCH) team that includes a MCH nurse, a mental health clinical professional, and a
+community health worker (CHW). Additional supports are provided by a lactation consultant
+and nutritionist as requested by participants. EIPP provides parental and infant health
+assessment and monitoring, health education and guidance, screening and appropriate
+referrals, and linkage with the Women, Infants & Children (WIC) Program and other resources.
+Programmatic performance measures and parental and infant outcomes range from improved
+management of alcohol, tobacco and other drug use, improved parenting skills, improved
+emotional health, increased rates of exclusive breastfeeding, increased attendance at
+postpartum visits, and improved nutrition.
+Data on the 205 EIPP Participants enrolled during CY23 include the following eligibility criteria
+(participants may meet more than one):
+13
+
+Percent of Participants Eligibility Criteria
+95.5% High level of stress
+67.8% Inadequate food or clothing
+44.8% History of depression including postpartum depression
+18.5% Homelessness or housing instability
+7.3% Current High-Risk Pregnancy
+11.7% Less than a 10th grade education
+3.4% Tobacco use
+4.3% Substance abuse in the home
+1.4% Violence in the home
+At enrollment and at other key stages of program engagement, all EIPP participants receive a
+Comprehensive Health Assessment (CHA) that assesses the social, emotional, and physical well-
+being of the participant and infant in the context of their family. This CHA includes both a Social
+Connectedness screen utilizing a three-question survey and a PPD screen, utilizing the
+Edinburgh Postnatal Depression Scale (EPDS).
+In CY23, 121 participants received the Social Connectedness screening, utilizing a screening tool
+at 2 months postpartum.
+▪ Twenty participants (16.5%) indicated that they felt they were not getting the support
+they needed from others.
+▪ Twenty-five participants (20.6%) indicated that they did not have someone to call when
+they needed someone to care for their baby.
+▪ Eight participants (6.6%) indicated they did not have someone they could count on to
+listen to them when they needed to talk.
+In addition, 67 PPD screens were conducted with EIPP participants at 2 months postpartum.
+▪ Forty-nine participants (73.1%) received a score below 9, indicating that they were not
+experiencing depressive symptoms.
+▪ Four participants (5.9%) received a score between 10 – 12, indicating mild depressive
+symptoms.
+▪ Four participants (5.9%) reported moderate or high depressive symptoms.
+Participants who screen positive for depression are then supported in accessing mental health
+services including counseling, psychiatric treatment, and support groups. In 2023, 16 EIPP
+Participants were referred to mental health counseling services and 13 enrolled in services. In
+addition, 7 EIPP Participants were referred to support group services and6 enrolled. Additional
+barriers to accessing mental health services in a timely manner included language, stigma,
+transportation, and lack of insurance for participants who were undocumented.
+14
+
+Massachusetts Maternal, Infant and Early Childhood Home Visiting (MA MIECHV) Initiative
+Since the spring of 2010, DPH has been operating the Maternal, Infant, and Early Childhood
+Home Visiting Program (MIECHV), a federally funded program for states, tribes, and territories
+to develop and implement one or more evidence-based maternal, infant, and early childhood
+home visiting model(s). The state’s program is referred to as MA MIECHV.
+In September 2021, DPH was awarded $6.9 million in federal funds in support of MA MIECHV,
+marking the 10th year of funding. MA MIECHV funds evidenced-based home visiting programs,
+including Parents as Teachers and Healthy Families America. MA MIECHV prioritized 18
+communities for services identified through the 2020 Massachusetts MIECHV needs assessment
+(list of communities is in the Appendix). The needs assessment ranked communities based on
+quantitative data indicators in nine domains: (1) socioeconomic status; (2) housing; (3)
+populations of special interest (e.g., teen births, foreign born residents); (4) substance use; (5)
+crime; (6) child unintentional injuries; (7) child maltreatment; (8) adverse perinatal outcomes;
+and (9) child development and health and school outcomes. There are 23 MA MIECHV home
+visiting programs across the 18 communities.
+Depression screening is conducted with all program participants and data are analyzed for
+home visiting programs on a quarterly basis. An annual report to the federal funding agency,
+the Health Resources and Services Administration (HRSA), is submitted every October. Screens
+are conducted within three months of enrollment and are updated in compliance with model
+fidelity respective to each evidence-based home visiting program.
+In Federal FY22 (October 1, 2021 – September 30, 2022), 74% of expected screenings for
+depressive symptoms were completed within three months of enrollment.
+Welcome Family
+The Welcome Family program, funded through MA MIECHV, offers a one-time nurse home visit
+to all birthing parents with newborns and their families, regardless of age, income, or other
+criteria, in five Massachusetts communities. The goal of Welcome Family is to promote optimal
+parental and infant physical and mental well-being and to provide an entry point into a system
+of care for families with newborns. Each visit is conducted within 8 weeks postpartum, lasts
+approximately 90 minutes, and is conducted by a nurse with maternal and child health
+experience. All services are provided at no cost to families. The primary focus of Welcome
+Family is the birthing parent and their newborn, but any caregiver is eligible for a visit, including
+fathers, grandparents, adoptive parents, and foster parents.
+During the visit, the Welcome Family nurse assesses the following six areas. Each area includes
+screening, brief intervention, education, and referrals to services as needed:
+▪ Parental emotional health, including a depression screen
+▪ Parental and infant nutrition, including breastfeeding
+15
+
+▪ Unmet health needs
+▪ Domestic violence
+▪ Substance use
+▪ Parental and infant clinical assessment
+The nurse also spends time addressing the family’s questions or concerns. Participants receive a
+Welcome Family bag with gifts and information to support parents and baby. In addition,
+participants receive a follow-up phone call to inquire about the outcome of the referrals made
+during the visit and assess the need for any additional referrals.
+Marketing and outreach activities are conducted at the community level to identify and recruit
+mothers with newborns. Relationships are fostered with potential referral sources in the
+community including birth hospitals, OB-GYNs, midwives, pediatricians, and WIC.
+Welcome Family is available to families living or giving birth in five communities: Fall River,
+Boston, Lowell, Holyoke, and Springfield. During 2023, 1,047 PPD depression screens were
+offered during Welcome Family visits. There were 290 (27.7.%) positive PPD screens, of which
+243 (83.8%) received a referral to services. A family may decline a referral, or the nurse may not
+offer a referral if the family is already receiving services. Families who did not receive a referral
+received brief interventions by the Welcome Family nurse.
+“The open dialogue and authenticity of the conversation made me feel comfortable and it
+was a judgment free zone very relaxing and informative.” – Welcome Family participant
+ADDITIONAL ACTIVITIES
+In CY22 and CY23, additional activities were conducted, and products were developed with the
+goal of supporting health care providers and health plans. Activities included:
+1. In partnership with the PPD Legislative Commission subcommittee focused on
+community resources, DPH maintains and updates the web page dedicated to PPD with
+additional resources.
+2. DPH continues to make available free to the public the brochure entitled “Being A
+Mother Is A Hard Job” through the Massachusetts Health Promotion Clearinghouse.
+3. DPH has funded Tufts University from FY20-FY23 to evaluate the effectiveness of EIPP
+with focus on PPD Screening and referral services.
+4. DPH participated in the quarterly PPD Legislative Commission Meetings and the annual
+PPD Awareness Day event at the State House.
+16
+
+CONCLUSION
+Perinatal Mood and Anxiety Disorders (PMADs) have significant adverse impacts on birthing
+parents, infants, and their families. Access to appropriate and quality treatment and support
+are essential.
+Massachusetts is leading the way in innovative health policies to address postpartum
+depression. The Massachusetts Department of Public Health will continue to work diligently to
+improve the health and wellbeing of all birthing parents and infants across the Commonwealth,
+by prioritizing expanded and comprehensive PMAD data collection and analysis, while also
+promoting early detection and treatment across health sectors.
+However, more work and support are needed to close the gaps in the percentage of birthing
+parents screened for PMADs and successful completion of referrals to timely, high-quality
+supports and treatment.
+17
+
+References
+1. Bauman, B.L., Ko, J.Y., Cox, S., D’Angelo, D.V., Warner, L., Folger, S., Tevendale, H.D., Coy, K.C., Harrison, L., Barfield, W.D.
+(2020). Vital Signs – Postpartum Depression Symptoms and Provider Discussions about Perinatal Depression. MMWR Morb
+Mortal Wkly Rep; 69: 575–581.
+2. Misri S, Reebye P, Kendrick K, et al. Internalizing behaviors in 4-year-old children exposed in utero to psychotropic
+medications. Am J Psychiatry 2006; 163(6): 1026–1032.
+3. Carter AS, Garrity-Rokous FE, Chazan-Cohen R, et al. Maternal depression and comorbidity: predicting early parenting,
+attachment security, and toddler social-emotional problems and competencies. J Am Acad Child Adolesc Psychiatry 2001;
+40(1): 18–26.
+4. Sohr-Preston SL, Scaramella LV. Implications of timing of maternal depressive symptoms for early cognitive and language
+development. Clin Child Fam Psychol Rev 2006; 9(1): 65–83.
+5. Oberlander TF, Reebye P, Misri S, et al. Externalizing and attentional behaviors in children of depressed mothers treated
+with a selective serotonin reuptake inhibitor antidepressant during pregnancy. Arch Pediatr Adolesc Med 2007; 161(1):
+22–29.
+6. Weissman MM, Pilowsky DJ, Wickramaratne PJ, et al. Remissions in maternal depression and child psychopathology: a
+STAR*D-child report. JAMA 2006; 295(12): 1389–1398.
+7. Hay DF, Pawlby S, Angold A, et al. Pathways to violence in the children of mothers who were depressed postpartum. Dev
+Psychol 2003; 39(6): 1083–1094.
+8. Weissman MM, Wickramaratne P, Nomura Y, et al. Offspring of depressed parents: 20 years later. Am J Psychiatry 2006;
+163(6): 1001–1008.
+9. Society CP. Maternal depression and child development. Paediatr Child Health 2004; 9(8): 575–598.
+10. Xiao RS, Kroll-Desrosiers AR, Goldberg RJ, et al. The impact of sleep, stress, and depression on postpartum weight
+retention: a systematic review. J Psychosom Res 2014; 77(5): 351–358.
+11. Milgrom J, Skouteris H, Worotniuk T, et al. The association between ante- and postnatal depressive symptoms and obesity
+in both mother and child: a systematic review of the literature. Women’s Health Issues 2016; 22(3): e319–e328.
+12. Chapman SLC, Wu L-T. Postpartum substance use and depressive symptoms: a review. Women Health 2013; 53(5): 479–
+503.
+13. Jones E, Coast E. Social relationships and postpartum depression in South Asia: a systematic review. Int J Soc Psychiatry
+2013; 59(7): 690–700.
+14. Dias CC, Figueiredo B. Breastfeeding and depression: a systematic review of the literature. J Affect Disord 2014; 171: 142–
+154.
+15. Vliegen N, Casalin S, Luyten P. The course of postpartum depression: a review of longitudinal studies. Harv Rev Psychiatry
+2016; 22(1): 1–22.
+16. Luca DL, Margiotta C, Staatz C, Garlow E, Christensen A, Zivin K, “Financial Toll of Untreated Perinatal Mood and Anxiety
+Disorders Among 2017 Births in the United States”, American Journal of Public Health 110, no. 6 (June 1, 2020): pp. 888-
+896.
+17. Farr SL, Dietz PM, O’Hara MW, Burley K, Ko JY. (2013) Postpartum anxiety and comorbid depression in a population-based
+sample of women. Journal of Women’s Health, 23(2), 120-128.
+18. Masters GA, Hugunin J, Xu L, Ulbricht CM, Moore Simas TA, Ko JY, Byatt N. Prevalence of bipolar disorder in perinatal
+women: a systematic review and meta-analysis. J Clin Psychiatry 2022;83:21r14045. doi: 10.4088/JCP.21r14045
+19. Fawcett EJ, Fairbrother N, Cox ML, White IR, Fawcett JM. The prevalence of anxiety disorders during pregnancy and the
+postpartum period: a multivariate Bayesian meta-analysis. J Clin Psychiatry 2019;80:18r12527. doi: 10.4088/JCP.18r12527
+20. Wouk K, Stuebe AM, Meltzer-Brody S. Postpartum mental health and breastfeeding practices: an analysis using the 2010–
+2011 Pregnancy Risk Assessment Monitoring System. Matern Child Health J 2016. Epub July 22,
+2016. CrossRefExternal PubMedExternal
+21. Stein A, Gath DH, Bucher J, Bond A, Day A, Cooper PJ. The relationship between post-natal depression and mother-child
+interaction. Br J Psychiatry 1991;158:46–52. CrossRefExternal PubMedExternal
+22. Kingston D, Tough S, Whitfield H. Prenatal and postpartum maternal psychological distress and infant development: a
+systematic review. Child Psychiatry Hum Dev 2012;43:683–714. CrossRefExternal PubMedExternal
+18
+
+Addendum
+Figure 1. Number of Deliveries Screened for
+Postpartum Depression within 6 Months
+Postpartum by Delivery Date ̶ Massachusetts,
+2021
+5000
+4500
+4000
+3500
+3000
+2 2 0 5 0 0 0 0 2870 2709 3246 3133 3409 3434 3491 3458 3479 3337 3196 3037
+1500
+1000
+500
+589 578 643 656 694 707 682 694 706 651 563 612
+0
+Screened Not Screened
+19
+
+Table 1. Birthing People’s Characteristics by Status of PPD Screening, Jan 2021 -Dec 2021, MA
+Screened
+No Yes
+N % N %
+Race/Ethnicity ƚ
+White non-Hispanic 19,324 82.2 4,176 17.8
+Black non-Hispanic 4,970 85.3 856 14.7
+Asian/PI non-Hispanic 2,393 78.8 644 21.2
+Hispanic 10,642 85.1 1,859 14.9
+American Indian or Other 362 81.0 85 19.0
+unknown 1,108 87.7 155 12.3
+Insurance ƚ
+Medicaid 22,905 82.7 4,776 17.3
+Other 15894 84.1 2999 15.9
+Education ƚ
+No HS degree 3,915 85.1 686 14.9
+HS degree or GED 7,947 83.4 1,580 16.6
+Associate or Bachelor degree 11,194 83.1 2,284 16.9
+Post graduate 7,258 84.0 1,378 16.0
+Preterm Birth
+No 35,370 83.2 7,146 16.8
+Yes 3,304 84.1 626 15.9
+Plurality
+Singleton 38,144 83.3 7,649 16.7
+Multiple 655 83.9 126 16.1
+Parity ƚ
+1 16,046 83.0 3,294 17.0
+2 13,044 82.8 2,701 17.2
+3+ 9,709 84.5 1,780 15.5
+Married ƚ
+No 22,117 83.3 4,430 16.7
+Yes 290 94.8 16 5.2
+ƚ P<0.01
+20
+
+Table 2. Birthing People’s Characteristics by Results of PPD Screening, Jan 2021 -Dec 2021, MA
+Screen Results
+Negative Positive
+N % N %
+Race/Ethnicity ƚ
+White non-Hispanic 3,492 83.6 684 16.4
+Black non-Hispanic 664 77.6 192 22.4
+Asian/PI non-Hispanic 553 85.9 91 14.1
+Hispanic 1,521 81.8 338 18.2
+American Indian or Other 65 76.5 20 23.5
+unknown 131 84.5 24 15.5
+Insurance ƚ
+Medicaid 3,817 79.9 959 20.1
+Other 2609 87.0 390 13.0
+Education ƚ
+<HS 547 79.7 139 20.3
+HS/GED 1,234 78.1 346 21.9
+Some College/Associate Degree 1,969 86.2 315 13.8
+Bachelor Degree 1,169 84.8 209 15.2
+Graduate Degrees 1,507 81.6 340 18.4
+Preterm Birth *
+No 5,928 83.0 1,218 17.0
+Yes 496 79.2 130 20.8
+Plurality
+Singleton 6,325 82.7 1,324 17.3
+Multiple 101 80.2 25 19.8
+Parity
+1 563 14.6 3,294 85.4
+2 466 14.7 2,701 85.3
+3 320 15.2 1,780 84.8
+Married ƚ
+No 2,660 79.9 669 20.1
+Yes 3,751 84.7 679 15.3
+*P <0.05
+ƚP<0.01
+21
+
+Figure 2. Experience of postpartum depression
+(PPD) symptoms in 2022, MA PRAMS
+100.0%
+90.0%
+80.0%
+)
+%
+(
+t
+70.0% 62.3%
+n
+e 60.0%
+c
+r
+e 50.0%
+P
+40.0%
+27.7%
+30.0%
+20.0%
+10.0%
+10.0%
+0.0%
+Often/always Sometimes Rarely/never
+The 18 Massachusetts Home Visiting Initiative Communities in Massachusetts include:
+• Boston
+• Brockton
+• Chelsea
+• Everett
+• Fall River
+• Fitchburg
+• Holyoke
+• Lawrence
+• Lowell
+• Lynn
+• New Bedford
+• North Adams
+• Pittsfield
+• Revere
+• Southbridge
+• Springfield
+• Webster
+• Worcester
+22
+
+23
+
+[DELETED:                                 ]
+[DELETED: . . .A).]
+[DELETED: .P.S]
+[DELETED: .I]
+[DELETED: .D.D.E.E]
+[DELETED: .P.A w w M s U U]
+[DELETED:  E H I H H C L0  T S V]
+[DELETED: .I.D.D.D]
+[DELETED: .B.M.C.S.O.W.H.W.S.X.M.C.J.D.V.L.F.M.F.W.S.K]
+[DELETED: 4677̶ dN]
+[DELETED:  S   Y N %   N %    1 8 4 1 4 8 8 1 2 7 6 2 1 8 1 1 3 8 8 1 1 8 1 1    2 8 4 1 1 8 2 1    3 8 6 1 7 8 1 1 1 8 2 1 7 8 1 1   3 8 7 1 3 8 6 1   3 8 7 1 6 8 1 1    1 8 3 1 1 8 2 1 9 8 1 1    2 8 4 1 2 9   1 5]
+[DELETED:  S   P N %   N %    3 8 6 1 6 7 1 2 5 8 9 1 1 8 3 1 6 7 2 2 1 8 2 1    3 7 9 2 2 8 3 1    5 7 1 2 1 7 3 2 1 8 3 1 1 8 2 1 1 8 3 1   5 8 1 1 4 7 1 2   6 8 1 1 1 8 2 1   5 1 3 8 4 1 2 8 3 1 1 8    2 7 6 2 3 8   6 1]
+[DELETED: sSsR]

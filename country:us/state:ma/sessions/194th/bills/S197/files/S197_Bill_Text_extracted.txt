@@ -1,0 +1,582 @@
+Title: To the Honorable Senate and House of Representatives of the Commonwealth of Massachusetts in General
+Official Title: To the Honorable Senate and House of Representatives of the Commonwealth of Massachusetts in General
+Number of Sections: 1
+Source: versions - Bill Text
+Media Type: application/pdf
+Strikethrough Detection: 12 sections found
+
+================================================================================
+
+Section 1:
+SENATE DOCKET, NO. 501 FILED ON: 1/13/2025
+SENATE . . . . . . . . . . . . . . No. 197
+The Commonwealth of Massachusetts
+_________________
+PRESENTED BY:
+Cynthia Stone Creem
+_________________
+Court assembled:
+The undersigned legislators and/or citizens respectfully petition for the adoption of the accompanying bill:
+An Act to protect safety and privacy by stopping the sale of location data.
+_______________
+PETITION OF:
+NAME: DISTRICT/ADDRESS:
+Cynthia Stone Creem Norfolk and Middlesex
+Rebecca L. Rausch Norfolk, Worcester and Middlesex 1/17/2025
+Michael O. Moore Second Worcester 1/23/2025
+Joanne M. Comerford Hampshire, Franklin and Worcester 1/23/2025
+Carmine Lawrence Gentile 13th Middlesex 1/23/2025
+Paul W. Mark Berkshire, Hampden, Franklin and 1/28/2025
+Hampshire
+Jason M. Lewis Fifth Middlesex 1/28/2025
+Bradley H. Jones, Jr. 20th Middlesex 1/28/2025
+John F. Keenan Norfolk and Plymouth 1/29/2025
+Thomas M. Stanley 9th Middlesex 1/29/2025
+Sal N. DiDomenico Middlesex and Suffolk 1/30/2025
+Dylan A. Fernandes Plymouth and Barnstable 2/3/2025
+Jacob R. Oliveira Hampden, Hampshire and Worcester 2/6/2025
+Mike Connolly 26th Middlesex 2/7/2025
+James B. Eldridge Middlesex and Worcester 2/7/2025
+Patrick M. O'Connor First Plymouth and Norfolk 2/10/2025
+Angelo J. Puppolo, Jr. 12th Hampden 2/11/2025
+1 of 2
+Susannah M. Whipps 2nd Franklin 2/12/2025
+Julian Cyr Cape and Islands 2/14/2025
+Marcus S. Vaughn 9th Norfolk 2/18/2025
+Patricia D. Jehlen Second Middlesex 2/19/2025
+Bruce E. Tarr First Essex and Middlesex 2/26/2025
+Brendan P. Crighton Third Essex 2/28/2025
+Adam Gómez Hampden 2/28/2025
+Robyn K. Kennedy First Worcester 3/4/2025
+William J. Driscoll, Jr. Norfolk, Plymouth and Bristol 3/5/2025
+Adam J. Scanlon 14th Bristol 3/11/2025
+Joan B. Lovely Second Essex 3/13/2025
+Mark C. Montigny Second Bristol and Plymouth 3/13/2025
+Liz Miranda Second Suffolk 3/18/2025
+Lydia Edwards Third Suffolk 3/19/2025
+Manny Cruz 7th Essex 3/24/2025
+Nick Collins First Suffolk 3/25/2025
+Pavel M. Payano First Essex 3/28/2025
+Michael J. Barrett Third Middlesex 4/2/2025
+Vanna Howard 17th Middlesex 4/3/2025
+David Henry Argosky LeBoeuf 17th Worcester 4/7/2025
+Margaret R. Scarsdale 1st Middlesex 5/5/2025
+2 of 2
+SENATE DOCKET, NO. 501 FILED ON: 1/13/2025
+SENATE . . . . . . . . . . . . . . No. 197
+By Ms. Creem, a petition (accompanied by bill, Senate, No. 197) of Cynthia Stone Creem,
+Rebecca L. Rausch, Michael O. Moore, Joanne M. Comerford and other members of the General
+Court for legislation to protect reproductive health access, LGBTQ lives, religious liberty, and
+freedom of movement by banning the sale of cell phone location information. Consumer
+Protection and Professional Licensure.
+[SIMILAR MATTER FILED IN PREVIOUS SESSION
+SEE SENATE, NO. 148 OF 2023-2024.]
+The Commonwealth of Massachusetts
+_______________
+In the One Hundred and Ninety-Fourth General Court
+(2025-2026)
+_______________
+An Act to protect safety and privacy by stopping the sale of location data.
+Be it enacted by the Senate and House of Representatives in General Court assembled, and by the authority
+of the same, as follows:
+1 SECTION 1. The General Laws, as appearing in the 2022 Official Edition, are hereby
+2 amended by inserting after chapter 93M the following chapter:
+3 Section 1. Definitions
+4 (a) As used in this chapter, the following words shall, unless the context clearly requires
+5 otherwise, have the following meanings:
+6 (1) “Application”, a software program that runs on the operating system of a device.
+7 (2) “Collect”, to obtain, infer, generate, create, receive, or access an individual’s location
+8 information.
+1 of 10
+9 (3) “Consent”, freely given, specific, informed, unambiguous, opt-in consent. This term
+10 does not include either of the following: (i) agreement secured without first providing to the
+11 individual a clear and conspicuous disclosure of all information material to the provision of
+12 consent, apart from any privacy policy, terms of service, terms of use, general release, user
+13 agreement, or other similar document; or (ii) agreement obtained through the use of a user
+14 interface designed or manipulated with the substantial effect of subverting or impairing user
+15 autonomy, decision making, or choice.
+16 (4) “Covered entity”, any individual, partnership, corporation, limited liability company,
+17 association, or other group, however organized. A covered entity does not include a state or local
+18 government agency, or any court of Massachusetts, a clerk of the court, or a judge or justice
+19 thereof. A covered entity does not include an individual acting in a non-commercial context. A
+20 covered entity includes all agents of the entity.
+21 (5)“ Device”, a mobile telephone, as defined in section 1 of chapter 90 of the general
+22 laws, or any other electronic device that is or may commonly be carried by or on an individual
+23 and is capable of connecting to a cellular, bluetooth, or other wireless network.
+24 (6) “Disclose”, to make location information available to a third party, including but not
+25 limited to by sharing, publishing, releasing, transferring, disseminating, providing access to, or
+26 otherwise communicating such location information orally, in writing, electronically, or by any
+27 other means.
+28 (7) “Individual”, a person located in the Commonwealth of Massachusetts.
+29 (8) “Location information”, information derived from a device or from interactions
+30 between devices, with or without the knowledge of the user and regardless of the technological
+2 of 10
+31 method used, that pertains to or directly or indirectly reveals the present or past geographical
+32 location of an individual or device within the Commonwealth of Massachusetts with sufficient
+33 precision to identify street-level location information within a range of 1,850 feet or less.
+34 Location information includes but is not limited to (i) an internet protocol address capable of
+35 revealing the physical or geographical location of an individual; (ii) Global Positioning System
+36 (GPS) coordinates; and (iii) cell-site location information. This term does not include location
+37 information identifiable or derived solely from the visual content of a legally obtained image,
+38 including the location of the device that captured such image, or publicly posted words.
+39 (9) “Location Privacy Policy”, a description of the policies, practices, and procedures
+40 controlling a covered entity’s collection, processing, management, storage, retention, and
+41 deletion of location information.
+42 (10) “Monetize”, to collect, process, or disclose an individual’s location information for
+43 profit or in exchange for monetary or other consideration. This term includes but is not limited to
+44 selling, renting, trading, or leasing location information.
+45 (11) “Person”, any natural person.
+46 (12) “Permissible purpose”, one of the following purposes: (i) provision of a product,
+47 service, or service feature to the individual to whom the location information pertains when that
+48 individual requested the provision of such product, service, or service feature by subscribing to,
+49 creating an account, or otherwise contracting with a covered entity; (ii) initiation, management,
+50 execution, or completion of a financial or commercial transaction or fulfill an order for specific
+51 products or services requested by an individual, including any associated routine administrative,
+52 operational, and account-servicing activity such as billing, shipping, delivery, storage, and
+3 of 10
+53 accounting; (iii) compliance with an obligation under federal or state law; or (iv) response to an
+54 emergency service agency, an emergency alert, a 911 communication, or any other
+55 communication reporting an imminent threat to human life.
+56 (13) “Process”, to perform any action or set of actions on or with location information,
+57 including but not limited to collecting, accessing, using, storing, retaining, analyzing, creating,
+58 generating, aggregating, altering, correlating, operating on, recording, modifying, organizing,
+59 structuring, disposing of, destroying, de-identifying, or otherwise manipulating location
+60 information. This term does not include disclosing location information.
+61 (14) “Reasonably understandable”, of length and complexity such that an individual with
+62 an eighth-grade reading level, as established by the department of elementary and secondary
+63 education, can read and comprehend.
+64 (15) “Service feature”, a discrete aspect of a service provided by a covered entity,
+65 including but not limited to real-time directions, real-time weather, and identity authentication.
+66 (16) "Service provider”, an individual, partnership, corporation, limited liability
+67 company, association, or other group, however organized, that collects, processes, or transfers
+68 location information for the sole purpose of, and only to the extent that such service provider is,
+69 conducting business activities on behalf of, for the benefit of, at the direction of, and under
+70 contractual agreement with a covered entity.
+71 (17) “Third party”, any covered entity or person other than (i) a covered entity that
+72 collected or processed location information in accordance with this chapter or its service
+73 providers, or (ii) the individual to whom the location information pertains. This term does not
+74 include government entities.
+4 of 10
+75 Section 2. Protection of location information
+76 (a) It shall be unlawful for a covered entity to collect or process an individual’s location
+77 information except for a permissible purpose. Prior to collecting or processing an individual’s
+78 location information for one of those permissible purposes, a covered entity shall provide the
+79 individual with a copy of the Location Privacy Policy and obtain consent from that individual;
+80 provided, however, that this shall not be required when the collection and processing is done in
+81 (1) compliance with an obligation under federal or state law or (2) in response to an emergency
+82 service agency, an emergency alert, a 911 communication, or any other communication reporting
+83 an imminent threat to human life.
+84 (b) If a covered entity collects location information for the provision of multiple
+85 permissible purposes, it shall be mentioned in the Location Privacy Policy and individuals shall
+86 provide discrete consent for each purpose; provided, however, that this shall not be required for
+87 the purpose of collecting and processing location information to comply with an obligation under
+88 federal or state law or to respond to an emergency service agency, an emergency alert, a 911
+89 communication, or any other communication reporting an imminent threat to human life.
+90 (c) A covered entity that directly delivers targeted advertisements as part of its product or
+91 services shall provide individuals with a clear, conspicuous, and simple means to opt out of the
+92 processing of their location information for purposes of selecting and delivering targeted
+93 advertisements.
+94 (d) Consent provided under this section shall expire (1) after one year, (2) when the initial
+95 purpose for processing the information has been satisfied, or (3) when the individual revokes
+96 consent, whichever occurs first, provided that consent may be renewed pursuant to the same
+5 of 10
+97 procedures. Upon expiration of consent, any location information possessed by a covered entity
+98 shall be permanently destroyed.
+99 (e) It shall be unlawful for a covered entity or service provider that lawfully collects and
+100 processes location information to:
+101 (1) collect more precise location information than necessary to carry out the permissible
+102 purpose;
+103 (2) retain location information longer than necessary to carry out the permissible purpose;
+104 (3) sell, rent, trade, or lease location information to third parties; or
+105 (4) derive or infer from location information any data that is not necessary to carry out a
+106 permissible purpose.
+107 (5) disclose, cause to disclose, or assist with or facilitate the disclosure of an individual’s
+108 location information to third parties, unless such disclosure is (i) necessary to carry out the
+109 permissible purpose for which the information was collected, or (ii) requested by the individual
+110 to whom the location data pertains.
+111 (f) It shall be unlawful for a covered entity or service providers to disclose location
+112 information to any federal, state, or local government agency or official unless (1) the agency or
+113 official serves the covered entity or service provider with a valid warrant or establishes the
+114 existence of exigent circumstances that make it impracticable to obtain a warrant, (2) disclosure
+115 is mandated under federal or state law, including in response to a court order or lawfully issued
+116 and properly served subpoena or civil investigative demand under state or federal law, or (3) the
+117 data subject requests such disclosure.
+6 of 10
+118 (g) A covered entity shall maintain and make available to the data subject a Location
+119 Privacy Policy, which shall include, at a minimum, the following:
+120 (1) the permissible purpose for which the covered entity is collecting, processing, or
+121 disclosing any location information;
+122 (2) the type of location information collected, including the precision of the data;
+123 (3) the identities of service providers with which the covered entity contracts with respect
+124 to location data;
+125 (4) any disclosures of location data necessary to carry out a permissible purpose and the
+126 identities of the third parties to whom the location information could be disclosed;
+127 (5) whether the covered entity’s practices include the internal use of location information
+128 for purposes of targeted advertisement;
+129 (6) the data management and data security policies governing location information; and
+130 (7) the retention schedule and guidelines for permanently deleting location information.
+131 (h) A covered entity in lawful possession of location information shall provide notice to
+132 individuals to whom that information pertains of any change to its Location Privacy Policy at
+133 least 20 business days before the change goes into effect, and shall request and obtain consent
+134 before collecting or processing location information in accordance with the new Location
+135 Privacy Policy.
+136 (i) It shall be unlawful for a government entity to monetize location information.
+137 Section 3: Prohibition Against Retaliation
+7 of 10
+138 A covered entity shall not take adverse action against an individual because the
+139 individual exercised or refused to waive any of such individual’s rights under this chapter, unless
+140 location data is essential to the provision of the good, service, or service feature that the
+141 individual requests, and then only to the extent that such data is essential. This prohibition
+142 includes but is not limited to:
+143 (1) refusing to provide a good or service to the individual;
+144 (2) charging different prices or rates for goods or services, including through the use of
+145 discounts or other benefits or imposing penalties; or
+146 (3) providing a different level or quality of goods or services to the individual.
+147 Section 4. Enforcement
+148 (a) A violation of this chapter or a regulation promulgated under this chapter regarding an
+149 individual’s location information constitutes an injury to that individual and shall be deemed an
+150 unfair or deceptive act or practice in the conduct of trade or commerce under chapter 93A.
+151 (b) Any individual alleging a violation of this chapter by a covered entity or service
+152 provider may bring a civil action in the superior court or any court of competent jurisdiction;
+153 provided that, venue in the superior court shall be proper in the county in which the plaintiff
+154 resides or was located at the time of any violation.
+155 (c) An individual protected by this chapter shall not be required, as a condition of service
+156 or otherwise, to file an administrative complaint with the attorney general or to accept mandatory
+157 arbitration of a claim arising under this chapter.
+8 of 10
+158 (d) In a civil action in which the plaintiff prevails, the court may award (1) actual
+159 damages, including damages for emotional distress, or $5,000 per violation, whichever is greater,
+160 (2) punitive damages; and (3) any other relief, including but not limited to an injunction or
+161 declaratory judgment, that the court deems to be appropriate. The court shall consider each
+162 instance in which a covered entity or service provider collects, processes, or discloses location
+163 information in a manner prohibited by this chapter or a regulation promulgated under this chapter
+164 as constituting a separate violation of this chapter or regulation promulgated under this chapter.
+165 In addition to any relief awarded, the court shall award reasonable attorney’s fees and costs to
+166 any prevailing plaintiff.
+167 (e) The attorney general may bring an action pursuant to section 4 of chapter 93A against
+168 a covered entity or service provider to remedy violations of this chapter and for other relief that
+169 may be appropriate.
+170 (f) Any provision of a contract or agreement of any kind, including a covered entity’s
+171 terms of service or policies, including but not limited to the Location Privacy Policy, that
+172 purports to waive or limit in any way an individual’s rights under this chapter, including but not
+173 limited to any right to a remedy or means of enforcement, shall be deemed contrary to state law
+174 and shall be void and unenforceable.
+175 (g) No private or government action brought pursuant to this chapter shall preclude any
+176 other action under this chapter.
+177 Section 5. Implementation
+178 The Attorney General may adopt, amend or repeal rules and regulations for the
+179 implementation, administration, and enforcement of this chapter.
+9 of 10
+180 SECTION 2. Location Information Collected Before Effective Date
+181 Location information collected, processed, and stored prior to the effective date of this
+182 Act shall be subject to subsections 2(e)(3), 2(e)(5), and 2(f) of Chapter 93N.
+183 SECTION 3. Effective Date
+184 This Act shall take effect 1 year after enactment.
+10 of 10
+[DELETED: :D/AEITDmNhNx1eSr1dHr1e1x1kB 1sFx1.2x1nNh1y9x1oMk1sPe2aHr2y2x2eMr2rFk2.1n2]
+[DELETED: s2n2rCs2n9k2nSx2rFx2nTx2zHn2yFr3.Nl3n1l3ySx3ySh3aSk3sTk3z7x3sFk3oFx3tTx4d1x4f1r4e1x5]
+[DELETED: SaS(o((i]
+[DELETED: (0d1i2c3a4i5a6(7a8g9t0c1(2l3a4(5l6o7o8(9(0b]
+[DELETED: 1m2l3p4L5r6(7i8i9(0c1d2(3p4s5(6(7s8i9c0e1p2o]
+[DELETED: 3a4e5c6(7i8g9s0i1(2a3e4(5i6(7c8l9c0c1(2c3p4i]
+[DELETED: 5S6(7i8l9i0p1(2s3a4(5p6p7t8f9c0(1s2p3a4(5p6c]
+[DELETED: 7p8s9(0p1(2p3(4(5(6p7(8l9p0t1(2i3o4e5i6a7d]
+[DELETED: 8(9P0(1d2(3(4t5(6i7(8f9(0(1(2i3l4b5P6(7S]
+[DELETED: 8A9i0l1i2i3(4(5d6(7S8(9i0u1(2p3p4r5(6o7a]
+[DELETED: 8(9d0(1d2i3i4a5I6a7(8a9m0(1t2p3l4a5(6o7S8T9i]
+[DELETED: 0S1L2A3S4T]
+
+
+================================================================================
+
+Raw Text:
+SENATE DOCKET, NO. 501 FILED ON: 1/13/2025
+SENATE . . . . . . . . . . . . . . No. 197
+The Commonwealth of Massachusetts
+_________________
+PRESENTED BY:
+Cynthia Stone Creem
+_________________
+To the Honorable Senate and House of Representatives of the Commonwealth of Massachusetts in General
+Court assembled:
+The undersigned legislators and/or citizens respectfully petition for the adoption of the accompanying bill:
+An Act to protect safety and privacy by stopping the sale of location data.
+_______________
+PETITION OF:
+NAME: DISTRICT/ADDRESS:
+Cynthia Stone Creem Norfolk and Middlesex
+Rebecca L. Rausch Norfolk, Worcester and Middlesex 1/17/2025
+Michael O. Moore Second Worcester 1/23/2025
+Joanne M. Comerford Hampshire, Franklin and Worcester 1/23/2025
+Carmine Lawrence Gentile 13th Middlesex 1/23/2025
+Paul W. Mark Berkshire, Hampden, Franklin and 1/28/2025
+Hampshire
+Jason M. Lewis Fifth Middlesex 1/28/2025
+Bradley H. Jones, Jr. 20th Middlesex 1/28/2025
+John F. Keenan Norfolk and Plymouth 1/29/2025
+Thomas M. Stanley 9th Middlesex 1/29/2025
+Sal N. DiDomenico Middlesex and Suffolk 1/30/2025
+Dylan A. Fernandes Plymouth and Barnstable 2/3/2025
+Jacob R. Oliveira Hampden, Hampshire and Worcester 2/6/2025
+Mike Connolly 26th Middlesex 2/7/2025
+James B. Eldridge Middlesex and Worcester 2/7/2025
+Patrick M. O'Connor First Plymouth and Norfolk 2/10/2025
+Angelo J. Puppolo, Jr. 12th Hampden 2/11/2025
+1 of 2
+
+Susannah M. Whipps 2nd Franklin 2/12/2025
+Julian Cyr Cape and Islands 2/14/2025
+Marcus S. Vaughn 9th Norfolk 2/18/2025
+Patricia D. Jehlen Second Middlesex 2/19/2025
+Bruce E. Tarr First Essex and Middlesex 2/26/2025
+Brendan P. Crighton Third Essex 2/28/2025
+Adam Gómez Hampden 2/28/2025
+Robyn K. Kennedy First Worcester 3/4/2025
+William J. Driscoll, Jr. Norfolk, Plymouth and Bristol 3/5/2025
+Adam J. Scanlon 14th Bristol 3/11/2025
+Joan B. Lovely Second Essex 3/13/2025
+Mark C. Montigny Second Bristol and Plymouth 3/13/2025
+Liz Miranda Second Suffolk 3/18/2025
+Lydia Edwards Third Suffolk 3/19/2025
+Manny Cruz 7th Essex 3/24/2025
+Nick Collins First Suffolk 3/25/2025
+Pavel M. Payano First Essex 3/28/2025
+Michael J. Barrett Third Middlesex 4/2/2025
+Vanna Howard 17th Middlesex 4/3/2025
+David Henry Argosky LeBoeuf 17th Worcester 4/7/2025
+Margaret R. Scarsdale 1st Middlesex 5/5/2025
+2 of 2
+
+SENATE DOCKET, NO. 501 FILED ON: 1/13/2025
+SENATE . . . . . . . . . . . . . . No. 197
+By Ms. Creem, a petition (accompanied by bill, Senate, No. 197) of Cynthia Stone Creem,
+Rebecca L. Rausch, Michael O. Moore, Joanne M. Comerford and other members of the General
+Court for legislation to protect reproductive health access, LGBTQ lives, religious liberty, and
+freedom of movement by banning the sale of cell phone location information. Consumer
+Protection and Professional Licensure.
+[SIMILAR MATTER FILED IN PREVIOUS SESSION
+SEE SENATE, NO. 148 OF 2023-2024.]
+The Commonwealth of Massachusetts
+_______________
+In the One Hundred and Ninety-Fourth General Court
+(2025-2026)
+_______________
+An Act to protect safety and privacy by stopping the sale of location data.
+Be it enacted by the Senate and House of Representatives in General Court assembled, and by the authority
+of the same, as follows:
+1 SECTION 1. The General Laws, as appearing in the 2022 Official Edition, are hereby
+2 amended by inserting after chapter 93M the following chapter:
+3 Section 1. Definitions
+4 (a) As used in this chapter, the following words shall, unless the context clearly requires
+5 otherwise, have the following meanings:
+6 (1) “Application”, a software program that runs on the operating system of a device.
+7 (2) “Collect”, to obtain, infer, generate, create, receive, or access an individual’s location
+8 information.
+1 of 10
+
+9 (3) “Consent”, freely given, specific, informed, unambiguous, opt-in consent. This term
+10 does not include either of the following: (i) agreement secured without first providing to the
+11 individual a clear and conspicuous disclosure of all information material to the provision of
+12 consent, apart from any privacy policy, terms of service, terms of use, general release, user
+13 agreement, or other similar document; or (ii) agreement obtained through the use of a user
+14 interface designed or manipulated with the substantial effect of subverting or impairing user
+15 autonomy, decision making, or choice.
+16 (4) “Covered entity”, any individual, partnership, corporation, limited liability company,
+17 association, or other group, however organized. A covered entity does not include a state or local
+18 government agency, or any court of Massachusetts, a clerk of the court, or a judge or justice
+19 thereof. A covered entity does not include an individual acting in a non-commercial context. A
+20 covered entity includes all agents of the entity.
+21 (5)“ Device”, a mobile telephone, as defined in section 1 of chapter 90 of the general
+22 laws, or any other electronic device that is or may commonly be carried by or on an individual
+23 and is capable of connecting to a cellular, bluetooth, or other wireless network.
+24 (6) “Disclose”, to make location information available to a third party, including but not
+25 limited to by sharing, publishing, releasing, transferring, disseminating, providing access to, or
+26 otherwise communicating such location information orally, in writing, electronically, or by any
+27 other means.
+28 (7) “Individual”, a person located in the Commonwealth of Massachusetts.
+29 (8) “Location information”, information derived from a device or from interactions
+30 between devices, with or without the knowledge of the user and regardless of the technological
+2 of 10
+
+31 method used, that pertains to or directly or indirectly reveals the present or past geographical
+32 location of an individual or device within the Commonwealth of Massachusetts with sufficient
+33 precision to identify street-level location information within a range of 1,850 feet or less.
+34 Location information includes but is not limited to (i) an internet protocol address capable of
+35 revealing the physical or geographical location of an individual; (ii) Global Positioning System
+36 (GPS) coordinates; and (iii) cell-site location information. This term does not include location
+37 information identifiable or derived solely from the visual content of a legally obtained image,
+38 including the location of the device that captured such image, or publicly posted words.
+39 (9) “Location Privacy Policy”, a description of the policies, practices, and procedures
+40 controlling a covered entity’s collection, processing, management, storage, retention, and
+41 deletion of location information.
+42 (10) “Monetize”, to collect, process, or disclose an individual’s location information for
+43 profit or in exchange for monetary or other consideration. This term includes but is not limited to
+44 selling, renting, trading, or leasing location information.
+45 (11) “Person”, any natural person.
+46 (12) “Permissible purpose”, one of the following purposes: (i) provision of a product,
+47 service, or service feature to the individual to whom the location information pertains when that
+48 individual requested the provision of such product, service, or service feature by subscribing to,
+49 creating an account, or otherwise contracting with a covered entity; (ii) initiation, management,
+50 execution, or completion of a financial or commercial transaction or fulfill an order for specific
+51 products or services requested by an individual, including any associated routine administrative,
+52 operational, and account-servicing activity such as billing, shipping, delivery, storage, and
+3 of 10
+
+53 accounting; (iii) compliance with an obligation under federal or state law; or (iv) response to an
+54 emergency service agency, an emergency alert, a 911 communication, or any other
+55 communication reporting an imminent threat to human life.
+56 (13) “Process”, to perform any action or set of actions on or with location information,
+57 including but not limited to collecting, accessing, using, storing, retaining, analyzing, creating,
+58 generating, aggregating, altering, correlating, operating on, recording, modifying, organizing,
+59 structuring, disposing of, destroying, de-identifying, or otherwise manipulating location
+60 information. This term does not include disclosing location information.
+61 (14) “Reasonably understandable”, of length and complexity such that an individual with
+62 an eighth-grade reading level, as established by the department of elementary and secondary
+63 education, can read and comprehend.
+64 (15) “Service feature”, a discrete aspect of a service provided by a covered entity,
+65 including but not limited to real-time directions, real-time weather, and identity authentication.
+66 (16) "Service provider”, an individual, partnership, corporation, limited liability
+67 company, association, or other group, however organized, that collects, processes, or transfers
+68 location information for the sole purpose of, and only to the extent that such service provider is,
+69 conducting business activities on behalf of, for the benefit of, at the direction of, and under
+70 contractual agreement with a covered entity.
+71 (17) “Third party”, any covered entity or person other than (i) a covered entity that
+72 collected or processed location information in accordance with this chapter or its service
+73 providers, or (ii) the individual to whom the location information pertains. This term does not
+74 include government entities.
+4 of 10
+
+75 Section 2. Protection of location information
+76 (a) It shall be unlawful for a covered entity to collect or process an individual’s location
+77 information except for a permissible purpose. Prior to collecting or processing an individual’s
+78 location information for one of those permissible purposes, a covered entity shall provide the
+79 individual with a copy of the Location Privacy Policy and obtain consent from that individual;
+80 provided, however, that this shall not be required when the collection and processing is done in
+81 (1) compliance with an obligation under federal or state law or (2) in response to an emergency
+82 service agency, an emergency alert, a 911 communication, or any other communication reporting
+83 an imminent threat to human life.
+84 (b) If a covered entity collects location information for the provision of multiple
+85 permissible purposes, it shall be mentioned in the Location Privacy Policy and individuals shall
+86 provide discrete consent for each purpose; provided, however, that this shall not be required for
+87 the purpose of collecting and processing location information to comply with an obligation under
+88 federal or state law or to respond to an emergency service agency, an emergency alert, a 911
+89 communication, or any other communication reporting an imminent threat to human life.
+90 (c) A covered entity that directly delivers targeted advertisements as part of its product or
+91 services shall provide individuals with a clear, conspicuous, and simple means to opt out of the
+92 processing of their location information for purposes of selecting and delivering targeted
+93 advertisements.
+94 (d) Consent provided under this section shall expire (1) after one year, (2) when the initial
+95 purpose for processing the information has been satisfied, or (3) when the individual revokes
+96 consent, whichever occurs first, provided that consent may be renewed pursuant to the same
+5 of 10
+
+97 procedures. Upon expiration of consent, any location information possessed by a covered entity
+98 shall be permanently destroyed.
+99 (e) It shall be unlawful for a covered entity or service provider that lawfully collects and
+100 processes location information to:
+101 (1) collect more precise location information than necessary to carry out the permissible
+102 purpose;
+103 (2) retain location information longer than necessary to carry out the permissible purpose;
+104 (3) sell, rent, trade, or lease location information to third parties; or
+105 (4) derive or infer from location information any data that is not necessary to carry out a
+106 permissible purpose.
+107 (5) disclose, cause to disclose, or assist with or facilitate the disclosure of an individual’s
+108 location information to third parties, unless such disclosure is (i) necessary to carry out the
+109 permissible purpose for which the information was collected, or (ii) requested by the individual
+110 to whom the location data pertains.
+111 (f) It shall be unlawful for a covered entity or service providers to disclose location
+112 information to any federal, state, or local government agency or official unless (1) the agency or
+113 official serves the covered entity or service provider with a valid warrant or establishes the
+114 existence of exigent circumstances that make it impracticable to obtain a warrant, (2) disclosure
+115 is mandated under federal or state law, including in response to a court order or lawfully issued
+116 and properly served subpoena or civil investigative demand under state or federal law, or (3) the
+117 data subject requests such disclosure.
+6 of 10
+
+118 (g) A covered entity shall maintain and make available to the data subject a Location
+119 Privacy Policy, which shall include, at a minimum, the following:
+120 (1) the permissible purpose for which the covered entity is collecting, processing, or
+121 disclosing any location information;
+122 (2) the type of location information collected, including the precision of the data;
+123 (3) the identities of service providers with which the covered entity contracts with respect
+124 to location data;
+125 (4) any disclosures of location data necessary to carry out a permissible purpose and the
+126 identities of the third parties to whom the location information could be disclosed;
+127 (5) whether the covered entity’s practices include the internal use of location information
+128 for purposes of targeted advertisement;
+129 (6) the data management and data security policies governing location information; and
+130 (7) the retention schedule and guidelines for permanently deleting location information.
+131 (h) A covered entity in lawful possession of location information shall provide notice to
+132 individuals to whom that information pertains of any change to its Location Privacy Policy at
+133 least 20 business days before the change goes into effect, and shall request and obtain consent
+134 before collecting or processing location information in accordance with the new Location
+135 Privacy Policy.
+136 (i) It shall be unlawful for a government entity to monetize location information.
+137 Section 3: Prohibition Against Retaliation
+7 of 10
+
+138 A covered entity shall not take adverse action against an individual because the
+139 individual exercised or refused to waive any of such individual’s rights under this chapter, unless
+140 location data is essential to the provision of the good, service, or service feature that the
+141 individual requests, and then only to the extent that such data is essential. This prohibition
+142 includes but is not limited to:
+143 (1) refusing to provide a good or service to the individual;
+144 (2) charging different prices or rates for goods or services, including through the use of
+145 discounts or other benefits or imposing penalties; or
+146 (3) providing a different level or quality of goods or services to the individual.
+147 Section 4. Enforcement
+148 (a) A violation of this chapter or a regulation promulgated under this chapter regarding an
+149 individual’s location information constitutes an injury to that individual and shall be deemed an
+150 unfair or deceptive act or practice in the conduct of trade or commerce under chapter 93A.
+151 (b) Any individual alleging a violation of this chapter by a covered entity or service
+152 provider may bring a civil action in the superior court or any court of competent jurisdiction;
+153 provided that, venue in the superior court shall be proper in the county in which the plaintiff
+154 resides or was located at the time of any violation.
+155 (c) An individual protected by this chapter shall not be required, as a condition of service
+156 or otherwise, to file an administrative complaint with the attorney general or to accept mandatory
+157 arbitration of a claim arising under this chapter.
+8 of 10
+
+158 (d) In a civil action in which the plaintiff prevails, the court may award (1) actual
+159 damages, including damages for emotional distress, or $5,000 per violation, whichever is greater,
+160 (2) punitive damages; and (3) any other relief, including but not limited to an injunction or
+161 declaratory judgment, that the court deems to be appropriate. The court shall consider each
+162 instance in which a covered entity or service provider collects, processes, or discloses location
+163 information in a manner prohibited by this chapter or a regulation promulgated under this chapter
+164 as constituting a separate violation of this chapter or regulation promulgated under this chapter.
+165 In addition to any relief awarded, the court shall award reasonable attorney’s fees and costs to
+166 any prevailing plaintiff.
+167 (e) The attorney general may bring an action pursuant to section 4 of chapter 93A against
+168 a covered entity or service provider to remedy violations of this chapter and for other relief that
+169 may be appropriate.
+170 (f) Any provision of a contract or agreement of any kind, including a covered entity’s
+171 terms of service or policies, including but not limited to the Location Privacy Policy, that
+172 purports to waive or limit in any way an individual’s rights under this chapter, including but not
+173 limited to any right to a remedy or means of enforcement, shall be deemed contrary to state law
+174 and shall be void and unenforceable.
+175 (g) No private or government action brought pursuant to this chapter shall preclude any
+176 other action under this chapter.
+177 Section 5. Implementation
+178 The Attorney General may adopt, amend or repeal rules and regulations for the
+179 implementation, administration, and enforcement of this chapter.
+9 of 10
+
+180 SECTION 2. Location Information Collected Before Effective Date
+181 Location information collected, processed, and stored prior to the effective date of this
+182 Act shall be subject to subsections 2(e)(3), 2(e)(5), and 2(f) of Chapter 93N.
+183 SECTION 3. Effective Date
+184 This Act shall take effect 1 year after enactment.
+10 of 10
+
+[DELETED: :D/AEITDmNhNx1eSr1dHr1e1x1kB 1sFx1.2x1nNh1y9x1oMk1sPe2aHr2y2x2eMr2rFk2.1n2]
+[DELETED: s2n2rCs2n9k2nSx2rFx2nTx2zHn2yFr3.Nl3n1l3ySx3ySh3aSk3sTk3z7x3sFk3oFx3tTx4d1x4f1r4e1x5]
+[DELETED: SaS(o((i]
+[DELETED: (0d1i2c3a4i5a6(7a8g9t0c1(2l3a4(5l6o7o8(9(0b]
+[DELETED: 1m2l3p4L5r6(7i8i9(0c1d2(3p4s5(6(7s8i9c0e1p2o]
+[DELETED: 3a4e5c6(7i8g9s0i1(2a3e4(5i6(7c8l9c0c1(2c3p4i]
+[DELETED: 5S6(7i8l9i0p1(2s3a4(5p6p7t8f9c0(1s2p3a4(5p6c]
+[DELETED: 7p8s9(0p1(2p3(4(5(6p7(8l9p0t1(2i3o4e5i6a7d]
+[DELETED: 8(9P0(1d2(3(4t5(6i7(8f9(0(1(2i3l4b5P6(7S]
+[DELETED: 8A9i0l1i2i3(4(5d6(7S8(9i0u1(2p3p4r5(6o7a]
+[DELETED: 8(9d0(1d2i3i4a5I6a7(8a9m0(1t2p3l4a5(6o7S8T9i]
+[DELETED: 0S1L2A3S4T]

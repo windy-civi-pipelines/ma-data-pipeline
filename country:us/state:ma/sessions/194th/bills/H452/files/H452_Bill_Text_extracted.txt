@@ -1,0 +1,492 @@
+Title: To the Honorable Senate and House of Representatives of the Commonwealth of Massachusetts in General
+Official Title: To the Honorable Senate and House of Representatives of the Commonwealth of Massachusetts in General
+Number of Sections: 1
+Source: versions - Bill Text
+Media Type: application/pdf
+Strikethrough Detection: 10 sections found
+
+================================================================================
+
+Section 1:
+HOUSE DOCKET, NO. 397 FILED ON: 1/8/2025
+HOUSE . . . . . . . . . . . . . . . No. 452
+The Commonwealth of Massachusetts
+_________________
+PRESENTED BY:
+Francisco E. Paulino
+_________________
+Court assembled:
+The undersigned legislators and/or citizens respectfully petition for the adoption of the accompanying bill:
+An Act relative to the right to repair for agricultural equipment.
+_______________
+PETITION OF:
+NAME: DISTRICT/ADDRESS: DATE ADDED:
+Francisco E. Paulino 16th Essex 1/8/2025
+Lindsay N. Sabadosa 1st Hampshire 2/6/2025
+Joan B. Lovely Second Essex 3/27/2025
+Leigh Davis 3rd Berkshire 3/28/2025
+Shirley B. Arriaga 8th Hampden 3/28/2025
+Danillo A. Sena 37th Middlesex 4/9/2025
+Justin Thurber 5th Bristol 4/22/2025
+Bud L. Williams 11th Hampden 4/30/2025
+Sally P. Kerans 13th Essex 7/21/2025
+1 of 1
+HOUSE DOCKET, NO. 397 FILED ON: 1/8/2025
+HOUSE . . . . . . . . . . . . . . . No. 452
+By Representative Paulino of Methuen, a petition (accompanied by bill, House, No. 452) of
+Francisco E. Paulino and Lindsay N. Sabadosa relative to the right to repair for agricultural
+equipment. Consumer Protection and Professional Licensure.
+The Commonwealth of Massachusetts
+_______________
+In the One Hundred and Ninety-Fourth General Court
+(2025-2026)
+_______________
+An Act relative to the right to repair for agricultural equipment.
+Be it enacted by the Senate and House of Representatives in General Court assembled, and by the authority
+of the same, as follows:
+1 SECTION 1 . The General Laws are hereby amended by inserting after chapter 93K the
+2 following chapter:-
+3 Chapter 93K½
+4 RIGHT TO REPAIR FOR AGRICULTURAL EQUIPMENT
+5 Section 1 . For the purposes of this section, the following words shall, unless the context
+6 clearly requires otherwise, have the following meanings:-
+7 “Agricultural equipment” or “equipment”, equipment that is primarily designed
+8 for use in a farm or ranch operation including: (i) a tractor, trailer, combine, sprayer, tillage
+9 implement, baler and other equipment used to plant, cultivate or harvest agricultural products or
+10 to ranch; and (ii) attachments to and repair parts for equipment described in clause (i).
+11 Agricultural equipment shall not include: (i) a self-propelled vehicle designed primarily for the
+1 of 9
+12 transportation of individuals or property on a street or highway; (ii) a off-highway vehicle; (iii)
+13 personal watercraft; (iv) a snowmobile; (v) any aircraft used in an agricultural aircraft operation;
+14 or (vi) any equipment designed and used primarily for irrigation purposes.
+15 “Authorized repair provider”, a person that is unaffiliated with a manufacturer other than
+16 through an arrangement with the manufacturer, whether for a definite or an indefinite period, in
+17 which the manufacturer, for the purpose of offering to provide services to an equipment owner
+18 regarding the owner's equipment or a part, grants the person: (i) a license to use a trade name,
+19 service mark or other proprietary identifier; or (ii) authorization under any other arrangement to
+20 act on behalf of the manufacturer. An authorized repair provider shall include a manufacturer
+21 that offers to provide services to an owner of the manufacturer's equipment regarding the owner's
+22 equipment or a part if the manufacturer does not have an arrangement with an unaffiliated
+23 person.
+24 “Data”, transmitted or compiled information, with the consent of the owner, arising from
+25 the operation of an owner's agricultural equipment or its parts.
+26 “Documentation”, a manual, diagram, including a schematic diagram, reporting output,
+27 service code description, security code or password or similar type of guidance or information,
+28 whether in an electronic or tangible format, that a manufacturer provides to an authorized repair
+29 provider to assist the authorized repair provider with services performed on the manufacturer's
+30 equipment or a part.
+31 “Embedded software”, programmable instructions provided on firmware delivered with
+32 an electronic component of equipment or with any part for the purpose of restoring or improving
+33 operation of the equipment or part. Embedded software shall include all relevant patches and
+2 of 9
+34 fixes that the manufacturer makes to equipment or to any part for the purpose of restoring or
+35 improving the equipment or part.
+36 “Embedded software for agricultural equipment”, any programmable instructions
+37 provided on firmware delivered with or loaded to the agricultural equipment, with respect to
+38 agricultural equipment operation. Embedded software for agricultural equipment shall include all
+39 relevant patches and fixes that the manufacturer makes, including, but not limited to, items
+40 described as: basic internal operating system, internal operating system, machine code, assembly
+41 code, root code and microcode.
+42 “Equipment dealer”, any person, partnership, corporation, association or other form of
+43 business enterprise that is primarily engaged in the retail sale of agricultural equipment.
+44 “Fair and reasonable terms and costs”, shall have the following meanings:
+45 (i) with respect to obtaining documentation, parts, embedded software, firmware or tools
+46 from a manufacturer to provide services, fair and reasonable terms and costs shall mean terms
+47 that are equivalent to the most favorable terms that the manufacturer offers to an authorized
+48 repair provider and costs that are no greater than the manufacturer's suggested retail price;
+49 provided that, except as set forth in clause (iv), costs shall be calculated using net costs incurred,
+50 accounting for any discounts, rebates or incentives offered.
+51 (ii) with respect to documentation, fair and reasonable terms and costs shall mean that the
+52 manufacturer provides the documentation, including any relevant updates to the documentation,
+53 at no charge; except that the manufacturer may charge a fee for a printed copy of the
+54 documentation if the amount of the fee covers only the manufacturer's actual cost to prepare and
+55 send the printed copy of the documentation.
+3 of 9
+56 (iii) with respect to tools that are software programs, fair and reasonable terms and costs
+57 shall mean that the manufacturer provides the tools that are software programs: (A) at no charge
+58 and without requiring authorization or internet access or otherwise imposing impediments to
+59 access or use; (B) in the course of effectuating the diagnosis, maintenance or repair and enabling
+60 the full functionality of the equipment or part; and (C) in a manner that does not impair the
+61 efficient and cost-effective performance of the equipment or part.
+62 (iv) with respect to parts for agricultural equipment, fair and reasonable terms and costs
+63 shall mean that, notwithstanding clause (i), parts shall be sold to an owner or an independent
+64 repair provider under equitable terms for access to or receipt of any part pertaining to agricultural
+65 equipment and in a manner that: (A) is fair to both parties in light of any agreed-upon conditions,
+66 the promised quality, and the timeliness of the delivery; or (B) does not discourage or
+67 disincentivize repairs to be made by an owner or an independent repair provider; provided that,
+68 terms shall be considered fair for purposes of this clause if the terms do not impose on an owner
+69 or independent repair provider any: (1) substantial obligation to use, or any restriction on the use
+70 of, a part, embedded software, embedded software for agricultural equipment, firmware or tool,
+71 including a condition that the owner or independent repair provider become an authorized repair
+72 provider of the manufacturer; or (2) requirement that a part, embedded software, embedded
+73 software for agricultural equipment, firmware or tool be registered or paired with or approved by
+74 the manufacturer or an authorized repair provider before the part, embedded software, embedded
+75 software for agricultural equipment, firmware or tool is operational.
+76 “Firmware”, a software program or set of instructions programmed on equipment or a
+77 part to allow the equipment or part to function or communicate with itself or with other computer
+78 hardware.
+4 of 9
+79 “Independent repair provider”, a person in the commonwealth that is: (i) neither a
+80 manufacturer's authorized repair provider nor affiliated with a manufacturer's authorized repair
+81 provider; and (ii) engaged in offering or providing services. An independent repair provider shall
+82 include: (A) an authorized repair provider if the authorized repair provider is offering or
+83 providing services for a manufacturer other than a manufacturer with which the authorized repair
+84 provider has an arrangement; and (B) a manufacturer with respect to offering or providing
+85 services for another manufacturer's equipment or part.
+86 “Original equipment manufacturer” or “manufacturer”, a person doing business in the
+87 commonwealth and engaged in the business of selling, leasing or otherwise supplying new
+88 equipment or parts manufactured by or on behalf of itself to any individual, business or other
+89 entity.
+90 “Owner”, a person that owns equipment or an agent of the owner.
+91 “Part”, a new or used replacement part for equipment that a manufacturer offers for sale
+92 or otherwise makes available for the purpose of providing services.
+93 “Services”, diagnostic, maintenance or repair services performed on equipment or a part.
+94 “Tools”, any software program, hardware implement or other apparatus used for
+95 diagnosis, maintenance or repair of equipment or parts, including software or other mechanism
+96 that provides: (i) programs, or pairs a new part; (ii) calibrates functionality; or (iii) performs any
+97 other function required to return the equipment or part to fully functional condition.
+98 “Trade secret”, the whole or any portion or phase of any scientific or technical
+99 information, design, process, procedure, formula, improvement, confidential business or
+5 of 9
+100 financial information, listing of names, addresses, or telephone numbers, or other information
+101 relating to any business or profession which is secret and of value. To be a trade secret the owner
+102 thereof must have taken measures to prevent the secret from becoming available to persons other
+103 than those selected by the owner to have access thereto for limited purposes.
+104 Section 2 . (a) For the purpose of providing services for equipment in the commonwealth,
+105 an original equipment manufacturer shall, with fair and reasonable terms and costs, make
+106 available to an independent repair provider or owner of the manufacturer's equipment any
+107 documentation, parts, embedded software, embedded software for agricultural equipment,
+108 firmware, tools or, with owner authorization, data that are intended for use with the equipment or
+109 any part, including updates to documentation, parts, embedded software, embedded software for
+110 agricultural equipment, firmware, tools or, with owner authorization, data.
+111 (b) With respect to equipment that contains an electronic security lock or other security
+112 related functions, a manufacturer shall, with fair and reasonable terms and costs, make available
+113 to independent repair providers and owners any documentation, parts, embedded software,
+114 embedded software for agricultural equipment, firmware, tools or, with owner authorization, data
+115 needed to reset the lock or function when disabled in the course of providing services. The
+116 manufacturer may make the documentation, parts, embedded software, embedded software for
+117 agricultural equipment, firmware, tools or, with owner authorization, data available to
+118 independent repair providers and owners through appropriate secure release systems.
+119 (c) Subsections (a) and (b) shall not apply to: (i) a part that is no longer available to the
+120 original equipment manufacturer; and (ii) conduct that would require the manufacturer to divulge
+121 a trade secret; except that a manufacturer shall not refuse to make available to an independent
+6 of 9
+122 repair provider or owner any documentation, part, embedded software, embedded software for
+123 agricultural equipment, firmware, tool or, with owner authorization, data necessary to provide
+124 services on grounds that the documentation, part, embedded software, embedded software for
+125 agricultural equipment, firmware, tool or, with owner authorization, data itself is a trade secret.
+126 (d)(1) A manufacturer may redact documentation to remove trade secrets from the
+127 documentation before providing access to the documentation if the usability of the redacted
+128 documentation for the purpose of providing services is not diminished.
+129 (2) A manufacturer may withhold information regarding a component of, design of,
+130 functionality of, or process of developing a part, embedded software, embedded software for
+131 agricultural equipment, firmware or a tool if the information is a trade secret and the usability of
+132 the part, embedded software, embedded software for agricultural equipment, firmware, or tool
+133 for the purpose of providing services is not diminished.
+134 (e) Neither an original equipment manufacturer nor an equipment dealer is liable for
+135 faulty or otherwise improper repairs provided by independent repair providers or owners,
+136 including faulty or otherwise improper repairs that cause: (i) damage to agricultural equipment
+137 that occurs during such repairs; (ii) any indirect, incidental, special or consequential damages; or
+138 (iii) an inability to use, or a reduced functionality of a piece of agricultural equipment resulting
+139 from the faulty or otherwise improper repair.
+140 (f) A manufacturer that provides data to an independent repair provider in compliance
+141 with this section is neither responsible nor liable to the owner, the independent repair provider or
+142 another party for any action that the independent repair provider or another party takes while
+143 using or relying on the data.
+7 of 9
+144 Section 3. (a) No contract or other arrangement, or renewal of a contract or existing
+145 arrangement, that an agricultural equipment original equipment manufacturer enters into shall:
+146 (i) alter the terms of any contract or other arrangement in force between an original
+147 equipment manufacturer and an authorized repair provider, including the performance or
+148 provision of warranty or recall repair work and any exclusivity or noncompete clause in a
+149 contract;
+150 (ii) authorize an independent repair provider or owner to: (A) make any modification to
+151 agricultural equipment that deactivates a safety notification system, except as necessary to
+152 provide services; (B) access any function of a tool that enables the independent repair provider or
+153 owner to change the settings for a piece of agricultural equipment in a manner that brings the
+154 equipment out of compliance with any applicable federal, state, or local safety or emissions law,
+155 except as necessary to provide services; (C) evade emissions, copyright, trademark or patent
+156 laws; or (D) engage in any other illegal equipment modification activities;
+157 (iii) require a manufacturer to provide an independent repair provider or owner access to
+158 information, other than documentation, that the manufacturer provides to an authorized repair
+159 provider pursuant to a contract or other arrangement with the authorized repair provider; or
+160 (iv) exempt a manufacturer from a products liability claim that is otherwise authorized in
+161 law.
+162 (b)(1) With respect to a contract or other arrangement, or renewal of a contract or existing
+163 arrangement, that an original equipment manufacturer enters into after January 1, 2027 any
+164 contract term, provision, agreement or language in the contract or arrangement that waives,
+8 of 9
+165 avoids, restricts or limits the manufacturer's obligations under this chapter shall be void and
+166 unenforceable.
+167 (2) If an agricultural equipment manufacturer enters into, or is covered under, a
+168 nationwide memorandum of understanding regarding a right to repair agricultural equipment, the
+169 memorandum of understanding governs an owner's right to provide services, or to engage the
+170 services of an independent repair provider, for that manufacturer's brand of agricultural
+171 equipment; except that, if compliance with the memorandum of understanding would deny the
+172 owner any rights afforded to the owner in this chapter, including any rights to documentation,
+173 data, tools or embedded software for agricultural equipment necessary for the diagnosis,
+174 maintenance or repair of the owner's agricultural equipment, the owner is entitled to the
+175 documentation, data, tools or embedded software for agricultural equipment in accordance with
+176 this chapter. An agricultural equipment manufacturer that enters into a memorandum of
+177 understanding is still obligated to meet the requirements established under this chapter.
+178 SECTION 2 . This act shall take effect on January 1, 2027.
+9 of 9
+[DELETED: :D/A:DAEITDSA Do1x1a1e2ySx3s3e3a8n3a3x4r5l4s1n4s1x7]
+[DELETED: SfC Sc “fi0t1A]
+[DELETED: 2t3p4o5“6t7w8r9s0a1t2e3p4“5t6“7s8w9p0e1“2a3o]
+[DELETED: 4f5i6“7p8a9r0d1c2“3b4“5(6f7t8r9p0a1(2m3a4d5s]
+[DELETED: 6(7s8a9a0t1e2(3s4r5e6t7d8t9o0o1i2p3s4t5s6“7p8h]
+[DELETED: 9“0m1p2i3p4p5s6“7c8e9e0“1“2o3“4“5d6t7o8“9i]
+[DELETED: 0f1r2t3t4S5a6a7d8f9a0a1(2r3t4e5n6m7a8i9(0o1a]
+[DELETED: 2r3a4s5a6(7d8d9(0f1a2t3f4(5f6i7t8(9f0(1w2a3u]
+[DELETED: 4S5a6(7e8p9c0(1a2p3o4e5e6l7(8i9p0(1l2(3a4c]
+[DELETED: 5a6u7(8n9m0s1e2o3d4m5d6t7u8S]
+
+
+================================================================================
+
+Raw Text:
+HOUSE DOCKET, NO. 397 FILED ON: 1/8/2025
+HOUSE . . . . . . . . . . . . . . . No. 452
+The Commonwealth of Massachusetts
+_________________
+PRESENTED BY:
+Francisco E. Paulino
+_________________
+To the Honorable Senate and House of Representatives of the Commonwealth of Massachusetts in General
+Court assembled:
+The undersigned legislators and/or citizens respectfully petition for the adoption of the accompanying bill:
+An Act relative to the right to repair for agricultural equipment.
+_______________
+PETITION OF:
+NAME: DISTRICT/ADDRESS: DATE ADDED:
+Francisco E. Paulino 16th Essex 1/8/2025
+Lindsay N. Sabadosa 1st Hampshire 2/6/2025
+Joan B. Lovely Second Essex 3/27/2025
+Leigh Davis 3rd Berkshire 3/28/2025
+Shirley B. Arriaga 8th Hampden 3/28/2025
+Danillo A. Sena 37th Middlesex 4/9/2025
+Justin Thurber 5th Bristol 4/22/2025
+Bud L. Williams 11th Hampden 4/30/2025
+Sally P. Kerans 13th Essex 7/21/2025
+1 of 1
+
+HOUSE DOCKET, NO. 397 FILED ON: 1/8/2025
+HOUSE . . . . . . . . . . . . . . . No. 452
+By Representative Paulino of Methuen, a petition (accompanied by bill, House, No. 452) of
+Francisco E. Paulino and Lindsay N. Sabadosa relative to the right to repair for agricultural
+equipment. Consumer Protection and Professional Licensure.
+The Commonwealth of Massachusetts
+_______________
+In the One Hundred and Ninety-Fourth General Court
+(2025-2026)
+_______________
+An Act relative to the right to repair for agricultural equipment.
+Be it enacted by the Senate and House of Representatives in General Court assembled, and by the authority
+of the same, as follows:
+1 SECTION 1 . The General Laws are hereby amended by inserting after chapter 93K the
+2 following chapter:-
+3 Chapter 93K½
+4 RIGHT TO REPAIR FOR AGRICULTURAL EQUIPMENT
+5 Section 1 . For the purposes of this section, the following words shall, unless the context
+6 clearly requires otherwise, have the following meanings:-
+7 “Agricultural equipment” or “equipment”, equipment that is primarily designed
+8 for use in a farm or ranch operation including: (i) a tractor, trailer, combine, sprayer, tillage
+9 implement, baler and other equipment used to plant, cultivate or harvest agricultural products or
+10 to ranch; and (ii) attachments to and repair parts for equipment described in clause (i).
+11 Agricultural equipment shall not include: (i) a self-propelled vehicle designed primarily for the
+1 of 9
+
+12 transportation of individuals or property on a street or highway; (ii) a off-highway vehicle; (iii)
+13 personal watercraft; (iv) a snowmobile; (v) any aircraft used in an agricultural aircraft operation;
+14 or (vi) any equipment designed and used primarily for irrigation purposes.
+15 “Authorized repair provider”, a person that is unaffiliated with a manufacturer other than
+16 through an arrangement with the manufacturer, whether for a definite or an indefinite period, in
+17 which the manufacturer, for the purpose of offering to provide services to an equipment owner
+18 regarding the owner's equipment or a part, grants the person: (i) a license to use a trade name,
+19 service mark or other proprietary identifier; or (ii) authorization under any other arrangement to
+20 act on behalf of the manufacturer. An authorized repair provider shall include a manufacturer
+21 that offers to provide services to an owner of the manufacturer's equipment regarding the owner's
+22 equipment or a part if the manufacturer does not have an arrangement with an unaffiliated
+23 person.
+24 “Data”, transmitted or compiled information, with the consent of the owner, arising from
+25 the operation of an owner's agricultural equipment or its parts.
+26 “Documentation”, a manual, diagram, including a schematic diagram, reporting output,
+27 service code description, security code or password or similar type of guidance or information,
+28 whether in an electronic or tangible format, that a manufacturer provides to an authorized repair
+29 provider to assist the authorized repair provider with services performed on the manufacturer's
+30 equipment or a part.
+31 “Embedded software”, programmable instructions provided on firmware delivered with
+32 an electronic component of equipment or with any part for the purpose of restoring or improving
+33 operation of the equipment or part. Embedded software shall include all relevant patches and
+2 of 9
+
+34 fixes that the manufacturer makes to equipment or to any part for the purpose of restoring or
+35 improving the equipment or part.
+36 “Embedded software for agricultural equipment”, any programmable instructions
+37 provided on firmware delivered with or loaded to the agricultural equipment, with respect to
+38 agricultural equipment operation. Embedded software for agricultural equipment shall include all
+39 relevant patches and fixes that the manufacturer makes, including, but not limited to, items
+40 described as: basic internal operating system, internal operating system, machine code, assembly
+41 code, root code and microcode.
+42 “Equipment dealer”, any person, partnership, corporation, association or other form of
+43 business enterprise that is primarily engaged in the retail sale of agricultural equipment.
+44 “Fair and reasonable terms and costs”, shall have the following meanings:
+45 (i) with respect to obtaining documentation, parts, embedded software, firmware or tools
+46 from a manufacturer to provide services, fair and reasonable terms and costs shall mean terms
+47 that are equivalent to the most favorable terms that the manufacturer offers to an authorized
+48 repair provider and costs that are no greater than the manufacturer's suggested retail price;
+49 provided that, except as set forth in clause (iv), costs shall be calculated using net costs incurred,
+50 accounting for any discounts, rebates or incentives offered.
+51 (ii) with respect to documentation, fair and reasonable terms and costs shall mean that the
+52 manufacturer provides the documentation, including any relevant updates to the documentation,
+53 at no charge; except that the manufacturer may charge a fee for a printed copy of the
+54 documentation if the amount of the fee covers only the manufacturer's actual cost to prepare and
+55 send the printed copy of the documentation.
+3 of 9
+
+56 (iii) with respect to tools that are software programs, fair and reasonable terms and costs
+57 shall mean that the manufacturer provides the tools that are software programs: (A) at no charge
+58 and without requiring authorization or internet access or otherwise imposing impediments to
+59 access or use; (B) in the course of effectuating the diagnosis, maintenance or repair and enabling
+60 the full functionality of the equipment or part; and (C) in a manner that does not impair the
+61 efficient and cost-effective performance of the equipment or part.
+62 (iv) with respect to parts for agricultural equipment, fair and reasonable terms and costs
+63 shall mean that, notwithstanding clause (i), parts shall be sold to an owner or an independent
+64 repair provider under equitable terms for access to or receipt of any part pertaining to agricultural
+65 equipment and in a manner that: (A) is fair to both parties in light of any agreed-upon conditions,
+66 the promised quality, and the timeliness of the delivery; or (B) does not discourage or
+67 disincentivize repairs to be made by an owner or an independent repair provider; provided that,
+68 terms shall be considered fair for purposes of this clause if the terms do not impose on an owner
+69 or independent repair provider any: (1) substantial obligation to use, or any restriction on the use
+70 of, a part, embedded software, embedded software for agricultural equipment, firmware or tool,
+71 including a condition that the owner or independent repair provider become an authorized repair
+72 provider of the manufacturer; or (2) requirement that a part, embedded software, embedded
+73 software for agricultural equipment, firmware or tool be registered or paired with or approved by
+74 the manufacturer or an authorized repair provider before the part, embedded software, embedded
+75 software for agricultural equipment, firmware or tool is operational.
+76 “Firmware”, a software program or set of instructions programmed on equipment or a
+77 part to allow the equipment or part to function or communicate with itself or with other computer
+78 hardware.
+4 of 9
+
+79 “Independent repair provider”, a person in the commonwealth that is: (i) neither a
+80 manufacturer's authorized repair provider nor affiliated with a manufacturer's authorized repair
+81 provider; and (ii) engaged in offering or providing services. An independent repair provider shall
+82 include: (A) an authorized repair provider if the authorized repair provider is offering or
+83 providing services for a manufacturer other than a manufacturer with which the authorized repair
+84 provider has an arrangement; and (B) a manufacturer with respect to offering or providing
+85 services for another manufacturer's equipment or part.
+86 “Original equipment manufacturer” or “manufacturer”, a person doing business in the
+87 commonwealth and engaged in the business of selling, leasing or otherwise supplying new
+88 equipment or parts manufactured by or on behalf of itself to any individual, business or other
+89 entity.
+90 “Owner”, a person that owns equipment or an agent of the owner.
+91 “Part”, a new or used replacement part for equipment that a manufacturer offers for sale
+92 or otherwise makes available for the purpose of providing services.
+93 “Services”, diagnostic, maintenance or repair services performed on equipment or a part.
+94 “Tools”, any software program, hardware implement or other apparatus used for
+95 diagnosis, maintenance or repair of equipment or parts, including software or other mechanism
+96 that provides: (i) programs, or pairs a new part; (ii) calibrates functionality; or (iii) performs any
+97 other function required to return the equipment or part to fully functional condition.
+98 “Trade secret”, the whole or any portion or phase of any scientific or technical
+99 information, design, process, procedure, formula, improvement, confidential business or
+5 of 9
+
+100 financial information, listing of names, addresses, or telephone numbers, or other information
+101 relating to any business or profession which is secret and of value. To be a trade secret the owner
+102 thereof must have taken measures to prevent the secret from becoming available to persons other
+103 than those selected by the owner to have access thereto for limited purposes.
+104 Section 2 . (a) For the purpose of providing services for equipment in the commonwealth,
+105 an original equipment manufacturer shall, with fair and reasonable terms and costs, make
+106 available to an independent repair provider or owner of the manufacturer's equipment any
+107 documentation, parts, embedded software, embedded software for agricultural equipment,
+108 firmware, tools or, with owner authorization, data that are intended for use with the equipment or
+109 any part, including updates to documentation, parts, embedded software, embedded software for
+110 agricultural equipment, firmware, tools or, with owner authorization, data.
+111 (b) With respect to equipment that contains an electronic security lock or other security
+112 related functions, a manufacturer shall, with fair and reasonable terms and costs, make available
+113 to independent repair providers and owners any documentation, parts, embedded software,
+114 embedded software for agricultural equipment, firmware, tools or, with owner authorization, data
+115 needed to reset the lock or function when disabled in the course of providing services. The
+116 manufacturer may make the documentation, parts, embedded software, embedded software for
+117 agricultural equipment, firmware, tools or, with owner authorization, data available to
+118 independent repair providers and owners through appropriate secure release systems.
+119 (c) Subsections (a) and (b) shall not apply to: (i) a part that is no longer available to the
+120 original equipment manufacturer; and (ii) conduct that would require the manufacturer to divulge
+121 a trade secret; except that a manufacturer shall not refuse to make available to an independent
+6 of 9
+
+122 repair provider or owner any documentation, part, embedded software, embedded software for
+123 agricultural equipment, firmware, tool or, with owner authorization, data necessary to provide
+124 services on grounds that the documentation, part, embedded software, embedded software for
+125 agricultural equipment, firmware, tool or, with owner authorization, data itself is a trade secret.
+126 (d)(1) A manufacturer may redact documentation to remove trade secrets from the
+127 documentation before providing access to the documentation if the usability of the redacted
+128 documentation for the purpose of providing services is not diminished.
+129 (2) A manufacturer may withhold information regarding a component of, design of,
+130 functionality of, or process of developing a part, embedded software, embedded software for
+131 agricultural equipment, firmware or a tool if the information is a trade secret and the usability of
+132 the part, embedded software, embedded software for agricultural equipment, firmware, or tool
+133 for the purpose of providing services is not diminished.
+134 (e) Neither an original equipment manufacturer nor an equipment dealer is liable for
+135 faulty or otherwise improper repairs provided by independent repair providers or owners,
+136 including faulty or otherwise improper repairs that cause: (i) damage to agricultural equipment
+137 that occurs during such repairs; (ii) any indirect, incidental, special or consequential damages; or
+138 (iii) an inability to use, or a reduced functionality of a piece of agricultural equipment resulting
+139 from the faulty or otherwise improper repair.
+140 (f) A manufacturer that provides data to an independent repair provider in compliance
+141 with this section is neither responsible nor liable to the owner, the independent repair provider or
+142 another party for any action that the independent repair provider or another party takes while
+143 using or relying on the data.
+7 of 9
+
+144 Section 3. (a) No contract or other arrangement, or renewal of a contract or existing
+145 arrangement, that an agricultural equipment original equipment manufacturer enters into shall:
+146 (i) alter the terms of any contract or other arrangement in force between an original
+147 equipment manufacturer and an authorized repair provider, including the performance or
+148 provision of warranty or recall repair work and any exclusivity or noncompete clause in a
+149 contract;
+150 (ii) authorize an independent repair provider or owner to: (A) make any modification to
+151 agricultural equipment that deactivates a safety notification system, except as necessary to
+152 provide services; (B) access any function of a tool that enables the independent repair provider or
+153 owner to change the settings for a piece of agricultural equipment in a manner that brings the
+154 equipment out of compliance with any applicable federal, state, or local safety or emissions law,
+155 except as necessary to provide services; (C) evade emissions, copyright, trademark or patent
+156 laws; or (D) engage in any other illegal equipment modification activities;
+157 (iii) require a manufacturer to provide an independent repair provider or owner access to
+158 information, other than documentation, that the manufacturer provides to an authorized repair
+159 provider pursuant to a contract or other arrangement with the authorized repair provider; or
+160 (iv) exempt a manufacturer from a products liability claim that is otherwise authorized in
+161 law.
+162 (b)(1) With respect to a contract or other arrangement, or renewal of a contract or existing
+163 arrangement, that an original equipment manufacturer enters into after January 1, 2027 any
+164 contract term, provision, agreement or language in the contract or arrangement that waives,
+8 of 9
+
+165 avoids, restricts or limits the manufacturer's obligations under this chapter shall be void and
+166 unenforceable.
+167 (2) If an agricultural equipment manufacturer enters into, or is covered under, a
+168 nationwide memorandum of understanding regarding a right to repair agricultural equipment, the
+169 memorandum of understanding governs an owner's right to provide services, or to engage the
+170 services of an independent repair provider, for that manufacturer's brand of agricultural
+171 equipment; except that, if compliance with the memorandum of understanding would deny the
+172 owner any rights afforded to the owner in this chapter, including any rights to documentation,
+173 data, tools or embedded software for agricultural equipment necessary for the diagnosis,
+174 maintenance or repair of the owner's agricultural equipment, the owner is entitled to the
+175 documentation, data, tools or embedded software for agricultural equipment in accordance with
+176 this chapter. An agricultural equipment manufacturer that enters into a memorandum of
+177 understanding is still obligated to meet the requirements established under this chapter.
+178 SECTION 2 . This act shall take effect on January 1, 2027.
+9 of 9
+
+[DELETED: :D/A:DAEITDSA Do1x1a1e2ySx3s3e3a8n3a3x4r5l4s1n4s1x7]
+[DELETED: SfC Sc “fi0t1A]
+[DELETED: 2t3p4o5“6t7w8r9s0a1t2e3p4“5t6“7s8w9p0e1“2a3o]
+[DELETED: 4f5i6“7p8a9r0d1c2“3b4“5(6f7t8r9p0a1(2m3a4d5s]
+[DELETED: 6(7s8a9a0t1e2(3s4r5e6t7d8t9o0o1i2p3s4t5s6“7p8h]
+[DELETED: 9“0m1p2i3p4p5s6“7c8e9e0“1“2o3“4“5d6t7o8“9i]
+[DELETED: 0f1r2t3t4S5a6a7d8f9a0a1(2r3t4e5n6m7a8i9(0o1a]
+[DELETED: 2r3a4s5a6(7d8d9(0f1a2t3f4(5f6i7t8(9f0(1w2a3u]
+[DELETED: 4S5a6(7e8p9c0(1a2p3o4e5e6l7(8i9p0(1l2(3a4c]
+[DELETED: 5a6u7(8n9m0s1e2o3d4m5d6t7u8S]

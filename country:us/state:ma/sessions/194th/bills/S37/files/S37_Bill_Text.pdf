@@ -1,0 +1,602 @@
+SENATE DOCKET, NO. 1909 FILED ON: 1/17/2025
+SENATE . . . . . . . . . . . . . . No. 37
+The Commonwealth of Massachusetts
+_________________
+PRESENTED BY:
+Barry R. Finegold
+_________________
+To the Honorable Senate and House of Representatives of the Commonwealth of Massachusetts in General
+Court assembled:
+The undersigned legislators and/or citizens respectfully petition for the adoption of the accompanying bill:
+An Act promoting economic development with emerging artificial intelligence models and
+safety.
+_______________
+PETITION OF:
+NAME: DISTRICT/ADDRESS:
+Barry R. Finegold Second Essex and Middlesex
+1 of 1
+
+SENATE DOCKET, NO. 1909 FILED ON: 1/17/2025
+SENATE . . . . . . . . . . . . . . No. 37
+By Mr. Finegold, a petition (accompanied by bill, Senate, No. 37) of Barry R. Finegold for
+legislation to promote economic development with emerging artificial intelligence models and
+safety. Advanced Information Technology, the Internet and Cybersecurity.
+The Commonwealth of Massachusetts
+_______________
+In the One Hundred and Ninety-Fourth General Court
+(2025-2026)
+_______________
+An Act promoting economic development with emerging artificial intelligence models and
+safety.
+Be it enacted by the Senate and House of Representatives in General Court assembled, and by the authority
+of the same, as follows:
+1 SECTION 1. Chapter 29 of the General Laws is hereby amended by adding the following
+2 new section:-
+3 Section 2GGGGGG. Artificial Intelligence Innovation Trust Fund
+4 (a) There shall be established and set up on the books of the commonwealth a
+5 separate fund to be known as the Massachusetts Artificial Intelligence Innovation Trust Fund.
+6 The secretary of economic development shall be the trustee of the fund and shall, in consultation
+7 with the executive director of the Massachusetts Technology Park Corporation established
+8 pursuant to chapter 40J, expend money from the fund to: (i) provide grants or other financial
+9 assistance to companies developing or deploying artificial intelligence models in key industry
+10 sectors as enumerated in line 7002-8070 of section 2 of chapter 238 of the Acts of 2024;
+11 provided, however, that the secretary may seek the commitment of matching or other additional
+1 of 24
+
+12 funds from private sources before making an expenditure from the fund; (ii) establishment or
+13 promotion of artificial intelligence entrepreneurship programs, which may include partnerships
+14 with research institutions in the commonwealth or other entrepreneur support organizations; or
+15 (iii) provide grants or other financial assistance for research in artificial intelligence through or in
+16 partnership with the Massachusetts Technology Park Corporation.
+17 (b) There shall be credited to the fund an amount equal to: (i) any appropriations
+18 or other money authorized by the general court and specifically designated to be credited to the
+19 fund; (ii) interest earned on any money in the fund; and (iii) any other grants, premiums, gifts,
+20 reimbursements or other contributions received by the commonwealth from any source for or in
+21 support of the purposes described in subsection (a).
+22 (c) Amounts credited to the fund may be expended without further appropriation.
+23 For the purpose of accommodating timing discrepancies between the receipt of revenues and
+24 related expenditures, the fund may incur expenses, and the comptroller shall certify for payment,
+25 amounts not to exceed the most recent revenue estimate as certified by the secretary of elder
+26 affairs, as reported in the state accounting system. Any money remaining in the fund at the end
+27 of a fiscal year shall not revert to the General Fund and shall be available for expenditure in a
+28 subsequent fiscal year.
+29 SECTION 2. The General Laws are hereby amended by inserting after chapter 93L the
+30 following new chapter:-
+31 CHAPTER 93M. Artificial Intelligence Models
+32 Section 1. As used in this chapter, the following terms shall have the following
+33 meanings unless the context clearly requires otherwise:
+2 of 24
+
+34 "Advanced persistent threat", an adversary with sophisticated levels of expertise
+35 and significant resources that allow it, through the use of multiple different attack vectors
+36 including, but not limited to, cyber, physical or deception, to generate opportunities to achieve
+37 objectives including, but not limited to, (i) establishing or extending its presence within the
+38 information technology infrastructure of an organization for the purpose of exfiltrating
+39 information; (ii) undermining or impeding critical aspects of a mission, program or organization;
+40 or (iii) placing itself in a position to do so in the future.
+41 "Artificial intelligence", an engineered or machine-based system that varies in its
+42 level of autonomy and which may, for explicit or implicit objectives, infer from the input it
+43 receives how to generate outputs that may influence physical or virtual environments
+44 "Artificial intelligence safety incident", an incident that demonstrably increases
+45 the risk of a critical harm occurring by means of:
+46 (i) A covered model or covered model derivative autonomously engaging in
+47 behavior other than at the request of a user;
+48 (ii) Theft, misappropriation, malicious use, inadvertent release, unauthorized
+49 access or escape of the model weights of a covered model or covered model derivative;
+50 (iii) The critical failure of technical or administrative controls, including controls
+51 limiting the ability to modify a covered model or covered model derivative; or
+52 (iv) Unauthorized use of a covered model or covered model derivative to cause or
+53 materially enable critical harm.
+3 of 24
+
+54 "Computing cluster", a set of machines transitively connected by data center
+55 networking of over 100 gigabits per second that has a theoretical maximum computing capacity
+56 of at least 1020 integer or floating-point operations per second and can be used for training
+57 artificial intelligence.
+58 "Covered model", an artificial intelligence model which is: (i) trained using a
+59 quantity of computing power greater than 1026 integer or floating-point operations, the cost of
+60 which exceeds $100,000,000 when calculated using the average market prices of cloud compute
+61 at the start of training as reasonably assessed by the developer; or (ii) created by fine-tuning a
+62 covered model using a quantity of computing power equal to or greater than 3 times 1025 integer
+63 or floating-point operations, the cost of which, as reasonably assessed by the developer, exceeds
+64 $10,000,000 if calculated using the average market price of cloud compute at the start of fine-
+65 tuning; provided, however, that investment thresholds established pursuant to this section shall
+66 be adjusted for inflation annually, not later than January 31, by the growth rate of the inflation
+67 index over the preceding 12 months; and provided further, that the inflation index shall consist of
+68 the per cent change in inflation as measured by the per cent change in the consumer price index
+69 for all urban consumers for the Boston metropolitan area as determined by the bureau of labor
+70 statistics of the United States department of labor.
+71 "Covered model derivative", a copy of a covered model that: (i) is unmodified;
+72 (ii) has been subjected to post-training modifications related to fine-tuning; (iii) has been fine-
+73 tuned using a quantity of computing power not exceeding 3 times 1025 or floating point
+74 operations, the cost of which, as reasonably assessed by the developer, exceeds $10,000,000 if
+75 calculated using the average market price of cloud compute at the start of fine-tuning; or (iv) has
+76 been combined with other software.
+4 of 24
+
+77 "Critical harm", a harm caused or materially enabled by a covered model or
+78 covered model derivative including: (i) the creation or use in a manner that results in mass
+79 casualties of a chemical, biological, radiological or nuclear weapon; (ii) mass casualties or at
+80 least $500,000,000 of damage resulting from cyberattacks on critical infrastructure by a model
+81 conducting, or providing precise instructions for conducting, a cyberattack or series of
+82 cyberattacks on critical infrastructure; (iii) mass casualties or at least $500,000,000 of damage
+83 resulting from an artificial intelligence model engaging in conduct that: (A) acts with limited
+84 human oversight, intervention or supervision; and (B) results in death, great bodily injury,
+85 property damage or property loss, and would, if committed by a human, constitute a crime
+86 specified in any general or special law that requires intent, recklessness or gross negligence, or
+87 the solicitation or aiding and abetting of such a crime; or (iv) other grave harms to public safety
+88 that are of comparable severity to the harms described herein as determined by the attorney
+89 general; provided, however, that "critical harm" shall not include: (i) harms caused or materially
+90 enabled by information that a covered model or covered model derivative outputs if the
+91 information is otherwise reasonably publicly accessible by an ordinary person from sources other
+92 than a covered model or covered model derivative; (ii) harms caused or materially enabled by a
+93 covered model combined with other software, including other models, if the covered model did
+94 not materially contribute to the other software&rsquo;s ability to cause or materially enable the
+95 harm; or (iii) harms that are not caused or materially enabled by the developer&rsquo;s creation,
+96 storage, use or release of a covered model or covered model derivative; provided further, that
+97 monetary harm thresholds established pursuant to this section shall be adjusted for inflation
+98 annually, not later than January 31, by the growth rate of the inflation index over the preceding
+99 12 months; and provided further, that the inflation index shall consist of the per cent change in
+5 of 24
+
+100 inflation as measured by the per cent change in the consumer price index for all urban consumers
+101 for the Boston metropolitan area as determined by the bureau of labor statistics of the United
+102 States department of labor.
+103 "Critical infrastructure", assets, systems and networks, whether physical or
+104 virtual, the incapacitation or destruction of which would have a debilitating effect on physical
+105 security, economic security, public health or safety in the commonwealth.
+106 "Developer", a person that performs the initial training of a covered model by: (i)
+107 training a model using a sufficient quantity of computing power and cost; or (ii) fine-tuning an
+108 existing covered model or covered model derivative using a quantity of computing power and
+109 cost sufficient to qualify as a covered model.
+110 "Fine-tuning", adjusting the model weights of a trained covered model or covered
+111 model derivative by exposing such model to additional data.
+112 "Full shutdown", the cessation of operation of: (i) the training of a covered model;
+113 (ii) a covered model controlled by a developer; and (iii) all covered model derivatives controlled
+114 by a developer.
+115 "Model weight", a numerical parameter in an artificial intelligence model that is
+116 adjusted through training and that helps determine how inputs are transformed into outputs.
+117 "Person", an individual, proprietorship, firm, partnership, joint venture, syndicate,
+118 business trust, company, corporation, limited liability company, association, committee or any
+119 other nongovernmental organization or group of persons acting in concert.
+6 of 24
+
+120 "Post-training modification", modifying the capabilities of a covered model or
+121 covered model derivative by any means including, but not limited to, fine-tuning, providing such
+122 model with access to tools or data, removing safeguards against hazardous misuse or
+123 misbehavior of such model or combining such model with, or integrating such model into, other
+124 software.
+125 "Safety and security protocol", documented technical and organizational protocols
+126 that: (i) are used to manage the risks of developing and operating covered models or covered
+127 model derivatives across their life cycle, including risks posed by causing or enabling or
+128 potentially causing or enabling the creation of covered model derivatives; and (ii) specify that
+129 compliance with such protocols is required in order to train, operate, possess or provide external
+130 access to the developer&rsquo;s covered model or covered model derivatives.
+131 "Secretary", the secretary of technology services and security.
+132 Section 2. (a) Before beginning to train a covered model, a developer shall:
+133 (1) implement reasonable administrative, technical and physical cybersecurity
+134 protections to prevent unauthorized access to, misuse of or unsafe post-training modifications of
+135 the covered model and all covered model derivatives controlled by the developer that are
+136 appropriate in light of the risks associated with the covered model, including from advanced
+137 persistent threats or other sophisticated actors;
+138 (2) implement the capability to promptly enact a full shutdown;
+139 (3) implement a written and separate safety and security protocol that: (A)
+140 specifies protections and procedures that, if successfully implemented, would comply with the
+7 of 24
+
+141 developer&rsquo;s duty to take reasonable care to avoid producing a covered model or covered
+142 model derivative that poses an unreasonable risk of causing or materially enabling a critical
+143 harm; (B) states compliance requirements in an objective manner and with sufficient detail and
+144 specificity to allow the developer or a third party to readily ascertain whether the requirements of
+145 the safety and security protocol have been followed; (C) identifies a testing procedure which
+146 takes safeguards into account as appropriate to reasonably evaluate if a covered model poses a
+147 substantial risk of causing or enabling a critical harm and if any covered model derivatives pose
+148 a substantial risk of causing or enabling a critical harm; (D) describes in detail how the testing
+149 procedure assesses the risks associated with post-training modifications; (E) describes in detail
+150 how the testing procedure addresses the possibility that a covered model or covered model
+151 derivative may be used to make post-training modifications or create another covered model in a
+152 manner that may cause or materially enable a critical harm; (F) describes in detail how the
+153 developer will fulfill their obligations under this chapter; (G) describes in detail how the
+154 developer intends to implement any safeguards and requirements referenced in this section; (H)
+155 describes in detail the conditions under which a developer would enact a full shutdown account
+156 for, as appropriate, the risk that a shutdown of the covered model, or particular covered model
+157 derivatives, may cause disruptions to critical infrastructure; and (I) describes in detail the
+158 procedure by which the safety and security protocol may be modified;
+159 (4) ensure that the safety and security protocol is implemented as written,
+160 including by designating senior personnel to be responsible for ensuring compliance by
+161 employees and contractors working on a covered model or any covered model derivatives
+162 controlled by the developer, monitoring and reporting on implementation;
+8 of 24
+
+163 (5) retain an unredacted copy of the safety and security protocol for not less than
+164 5 years after the covered model is no longer made available for commercial, public or
+165 foreseeably public use,, including records and dates of any updates or revisions;
+166 (6) conduct an annual review of the safety and security protocol to account for
+167 any changes to the capabilities of the covered model and industry best practices and, if
+168 necessary, make modifications to such policy;
+169 (7) conspicuously publish a redacted copy of the safety and security protocol and
+170 transmit a copy of said redacted safety and security protocol to the attorney general; provided,
+171 however, that a redaction in the safety and security protocol may be made only if the redaction is
+172 reasonably necessary to protect public safety, trade secrets as defined in section 2 of chapter 93
+173 or confidential information pursuant to any general, special or federal law; provided further, that
+174 the developer shall grant to the attorney general access to the unredacted safety and security
+175 protocol upon request; provided further, that a safety and security protocol disclosed to the
+176 attorney general shall not be a public record for the purposes of chapter 66; and provided further,
+177 that if the safety and security protocol is materially modified, the developer shall conspicuously
+178 publish and transmit to the attorney general an updated redacted copy of such protocol within 30
+179 days of the modification; and
+180 (8) take reasonable care to implement other appropriate measures to prevent
+181 covered models and covered model derivatives from posing unreasonable risks of causing or
+182 materially enabling critical harms.
+183 (b) Before using a covered model or covered model derivative for a purpose not
+184 exclusively related to the training or reasonable evaluation of the covered model for compliance
+9 of 24
+
+185 with state or federal law or before making a covered model or covered model derivative
+186 available for commercial, public or foreseeably public use, the developer of a covered model
+187 shall:
+188 (i) assess whether the covered model is reasonably capable of causing or
+189 materially enabling a critical harm;
+190 (ii) record, as and when reasonably possible, and retain for not less than 5 years
+191 after the covered model is no longer made available for commercial, public or foreseeably public
+192 use, information on any specific tests and test results used in said assessment which provides
+193 sufficient detail for third parties to replicate the testing procedure;
+194 (iii) take reasonable care to implement appropriate safeguards to prevent the
+195 covered model and covered model derivatives from causing or materially enabling a critical
+196 harm; and
+197 (iv) take reasonable care to ensure, to the extent reasonably possible, that the
+198 covered model&rsquo;s actions and the actions of covered model derivatives, as well as critical
+199 harms resulting from their actions, may be accurately and reliably attributed to such model or
+200 model derivative.
+201 (c) A developer shall not use a covered model or covered model derivative for a
+202 purpose not exclusively related to the training or reasonable evaluation of the covered model for
+203 compliance with state or federal law or make a covered model or a covered model derivative
+204 available for commercial, public or foreseeably public use if there is an unreasonable risk that the
+205 covered model or covered model derivative will cause or materially enable a critical harm.
+10 of 24
+
+206 (d) A developer of a covered model shall annually reevaluate the procedures,
+207 policies, protections, capabilities and safeguards implemented pursuant to this section.
+208 (e)(1) A developer of a covered model shall annually retain a third-party
+209 investigator that conducts investigations consistent with best practices for investigators to
+210 perform an independent investigation of compliance with the requirements of this section;
+211 provided, however, that an investigator shall conduct investigations consistent with regulations
+212 issued by the secretary pursuant to section 7. The investigator shall be granted access to
+213 unredacted materials as necessary to comply with the investigator&rsquo;s obligations contained
+214 herein. The investigator shall produce an investigation report including, but not limited to: (i) a
+215 detailed assessment of the developer&rsquo;s steps to comply with the requirements of this
+216 section; (ii) if applicable, any identified instances of noncompliance with the requirements of this
+217 section and any recommendations for how the developer can improve its policies and processes
+218 for ensuring compliance with the requirements of this section; (iii) a detailed assessment of the
+219 developer&rsquo;s internal controls, including designation and empowerment of senior
+220 personnel responsible for ensuring compliance by the developer and any employees or
+221 contractors thereof; and (iv) the signature of the lead investigator certifying the results contained
+222 within the investigation report; and provided further, that the investigator shall not knowingly
+223 make a material misrepresentation in said report.
+224 (2) The developer shall retain an unredacted copy of the investigation report for
+225 not less than 5 years after the covered model is no longer made available for commercial, public
+226 or foreseeably public use. The developer shall conspicuously publish a redacted copy of the
+227 investigator&rsquo;s report and transmit to the attorney general a redacted copy of the
+228 investigator&rsquo;s report; provided, however, that a reaction in the investigator&rsquo;s report
+11 of 24
+
+229 may be made only if the redaction is reasonably necessary to protect public safety, trade secrets
+230 as defined in section 2 of chapter 93 or confidential information pursuant to state and federal
+231 law; provided further, that the developer shall grant to the attorney general access to the
+232 unredacted investigator&rsquo;s report upon request; and provided further, that an
+233 investigator&rsquo;s report disclosed to the attorney general shall not be a public record for the
+234 purposes of chapter 66.
+235 (f)(1) A developer of a covered model shall annually, until such time that the
+236 covered model and any covered model derivatives controlled by the developer cease to be in or
+237 available for commercial or public use, submit to the attorney general a statement of compliance
+238 signed by the chief technology officer, or a more senior corporate officer, that shall specify or
+239 provide, at a minimum: (i) an assessment of the nature and magnitude of critical harms that the
+240 covered model or covered model derivatives may reasonably cause or materially enable and the
+241 outcome of the assessment required by subsection (b); (ii) an assessment of the risk that
+242 compliance with the safety and security protocol may be insufficient to prevent the covered
+243 model or covered model derivatives from causing or materially enabling critical harms; and (iii)
+244 a description of the process used by the signing officer to verify compliance with the
+245 requirements of this section, including a description of the materials reviewed by the signing
+246 officer, a description of testing or other evaluation performed to support the statement and the
+247 contact information of any third parties relied upon to validate compliance.
+248 (2) A developer shall submit such statement to the attorney general not later than
+249 30 days after using a covered model or covered model derivative for a purpose not exclusively
+250 related to the training or reasonable evaluation of the covered model for compliance with state or
+251 federal law or making a covered model or covered model derivative available for commercial,
+12 of 24
+
+252 public or foreseeably public use; provided, however, that no such initial statement shall be
+253 required for a covered model derivative if the developer submitted a compliant initial statement
+254 and any applicable annual statements for the covered model from which the covered model
+255 derivative is derived.
+256 (g) A developer of a covered model shall report each artificial intelligence safety
+257 incident affecting the covered model or any covered model derivatives controlled by the
+258 developer to the attorney general within 72 hours of the developer learning of the artificial
+259 intelligence safety incident or facts sufficient to establish a reasonable belief that an artificial
+260 intelligence safety incident has occured.
+261 (h) This section shall apply to the development, use or commercial or public
+262 release of a covered model or covered model derivative for any use that is not the subject of a
+263 contract with a federal government entity, even if that covered model or covered model
+264 derivative was developed, trained or used by a federal government entity; provided, however,
+265 that this section shall not apply to a product or service to the extent that compliance would
+266 strictly conflict with the terms of a contract between a federal government entity and the
+267 developer of a covered model.
+268 Section 3. (a) (1) A person that operates a computing cluster shall implement
+269 written policies and procedures to do all of the following when a customer utilizes compute
+270 resources which would be sufficient to train a covered model:
+271 (i) obtain the prospective customer&rsquo;s basic identifying information and
+272 business purpose for utilizing the computing cluster including, but not limited to: (A) the identity
+273 of the prospective customer; (B) the means and source of payment, including any associated
+13 of 24
+
+274 financial institution, credit card number, account number, customer identifier, transaction
+275 identifiers or virtual currency wallet or wallet address identifier; and (C) the email address and
+276 telephone number used to verify the prospective customer&rsquo;s identity;
+277 (ii) assess whether the prospective customer intends to utilize the computing
+278 cluster to train a covered model;
+279 (iii) retain any internet protocol addresses used by the customer for access or
+280 administration and the date and time of each access or administrative action;
+281 (iv) maintain for not less than 7 years, and provide to the attorney general upon
+282 request, appropriate records of actions taken under this section, including policies and procedures
+283 put into effect;
+284 (v) implement the capability to promptly enact a full shutdown of any resources
+285 being used to train or operate a covered model under the customer&rsquo;s control.
+286 (2) If a customer repeatedly utilizes computer resources that would be sufficient
+287 to train a covered model, the operator of the computer cluster shall validate said basic identifying
+288 information and assess whether such customer intends to utilize the computing cluster to train a
+289 covered model prior to each utilization.
+290 (b) A person that operates a computing cluster shall consider industry best
+291 practices and applicable guidance from the National Institute of Standards and Technology,
+292 including the United States Artificial Intelligence Safety Institute, and other reputable standard-
+293 setting organizations.
+14 of 24
+
+294 (c) In complying with the requirements of this section, a person that operates a
+295 computing cluster may impose reasonable requirements on customers to prevent the collection or
+296 retention of personal information that the person operating such computing cluster would not
+297 otherwise collect or retain, including a requirement that a corporate customer submit corporate
+298 contact information rather than information that would identify a specific individual.
+299 Section 4. (a) (1) The attorney general shall have the authority to enforce the
+300 provisions of this chapter. Except as provided in section 5, nothing in this chapter shall be
+301 construed as creating a new private right of action or serving as the basis for a private right of
+302 action that would not otherwise have had a basis under any other law but for the enactment of
+303 this chapter. This chapter neither relieves any party from any duties or obligations imposed nor
+304 alters any independent rights that individuals have under chapter 93A, other state or federal laws,
+305 the Massachusetts Constitution or the United States Constitution.
+306 (2) The attorney general may initiate a civil action in the superior court against an
+307 entity in the name of the commonwealth or as parens patriae on behalf of individuals for a
+308 violation of this chapter. The attorney general may seek:
+309 (i) against a developer of a covered model or covered model derivative for a
+310 violation that causes death or bodily harm to another human, harm to property, theft or
+311 misappropriation of property, or that constitutes an imminent risk or threat to public safety that
+312 occurs on or after January 1, 2026, a civil penalty in an amount not exceeding: (A) for a
+313 first violation, 5 per cent of the cost of the quantity of computing power used to train the covered
+314 model to be calculated using the average market prices of cloud compute at the time of training;;
+15 of 24
+
+315 or (B) for any subsequent violation, 15 percent of the cost of the quantity of computing power
+316 used to train the covered model as calculated herein;;
+317 (ii) against a developer of a covered model or covered model derivative a
+318 violation of section 5, a civil penalty as outlined in section 185 of chapter 149;
+319 (iii) against an investigator for a violation of subsection (e) of section 2, including
+320 an investigator who intentionally or with reckless disregard violates any of such
+321 investigator&rsquo;s responsibilities under said subsection, or for a person that operates a
+322 computing cluster in violation of section 3, a civil penalty in an amount not exceeding: (A)
+323 $25,000 for a first offense; (B) $50,000 for any subsequent violation; and (C) $5,000,000 in the
+324 aggregate for related violations;
+325 (iv) injunctive or declaratory relief;
+326 (v) such monetary or punitive damages as the court may allow;
+327 (vi) attorney&rsquo;s fees and costs; and
+328 (vii) any other relief that the court deems appropriate.
+329 (b) In determining whether a developer exercised reasonable care in the creation,
+330 use or deployment of a covered model or covered model derivative, the attorney general shall
+331 consider:
+332 (i) the quality of such developer&rsquo;s safety and security protocol;
+333 (ii) the extent to which the developer faithfully implemented and followed its
+334 safety and security protocol;
+16 of 24
+
+335 (iii) whether, in quality and implementation, the developer&rsquo;s safety and
+336 security protocol was comparable to those of developers of models trained using a comparable
+337 amount of compute resources;
+338 (iv) the quality and rigor of the developer&rsquo;s investigation, documentation,
+339 evaluation and management of risks of critical harm posed by its model.
+340 (c) (1) A provision within a contract or agreement that seeks to waive, preclude or
+341 burden the enforcement of a liability arising from a violation of this chapter, or to shift such
+342 liability to any person or entity in exchange for their use or access of, or right to use or access, a
+343 developer&rsquo;s product or services, including by means of a contract or adhesion, shall be
+344 deemed to be against public policy and void.
+345 (2) Notwithstanding any corporate formalities, the court shall impose joint and
+346 several liability on affiliated entities for purposes of effectuating the intent of this section to the
+347 maximum extent permitted by law if the court concludes that:
+348 (i) the affiliated entities, in the development of the corporate structure among such
+349 affiliated entities, took steps to purposely and unreasonably limit or avoid liability; and
+350 (ii) as a result of any such steps, the corporate structure of the developer or
+351 affiliated entities would frustrate recovery of penalties, damages, or injunctive relief under this
+352 section.
+353 (d) Penalties collected pursuant to this section by the attorney general shall be
+354 deposited into the General Fund and subject to appropriation.
+17 of 24
+
+355 Section 5. (a) For purposes of this section, the following words shall have the
+356 following meanings unless the context clearly requires otherwise:
+357 "Contractor or subcontractor", a firm, corporation, partnership or association and
+358 its responsible managing officer, as well as any supervisors, managers or officers found by the
+359 attorney general or director to be personally and substantially responsible for the rights and
+360 responsibilities of employees under this chapter.
+361 "Director", the director of the department of labor standards as established under section
+362 1 of chapter 23.
+363 "Employee", any person who performs services for wages or salary under a contract of
+364 employment, express or implied, for an employer, including:
+365 (i) contractors or subcontractors and unpaid advisors involved with assessing,
+366 managing or addressing the risk of critical harm from covered models or covered model
+367 derivatives; and
+368 (ii) corporate officers.
+369 "Public body" shall have the same meaning as ascribed to it in section 185 of
+370 chapter 149.
+371 (b) A developer of a covered model or a contractor or subcontractor of the
+372 developer shall not:
+373 (i) prevent an employee from disclosing information to the attorney general or any
+374 other public body, including through terms and conditions of employment or seeking to enforce
+18 of 24
+
+375 terms and conditions of employment, if the employee has reasonable cause to believe the
+376 information indicates that:
+377 (A) the developer is out of compliance with the requirements of this chapter; or
+378 (B) an artificial intelligence model, including a model that is not a covered model
+379 or a covered model derivative, poses an unreasonable risk of causing or materially enabling
+380 critical harm, even if the employer is not out of compliance with any state or federal law;
+381 (ii) retaliate against an employee for disclosing such information to the attorney
+382 general or any other public body; or
+383 (iii) make false or materially misleading statements related to its safety and
+384 security protocol in any manner that would constitute an unfair or deceptive trade practice under
+385 chapter 93A.
+386 (c) An employee harmed by a violation of this section may petition the court for
+387 appropriate relief as provided in section 185 of chapter 149.
+388 (d) The attorney general or director may publicly release or provide to the
+389 governor any complaint, or a summary of such complaint, filed pursuant to this section if the
+390 attorney general or director concludes that doing so will serve the public interest; provided,
+391 however, that any information that is confidential, otherwise exempt from the provisions of
+392 chapter 66, qualifies as a trade secret under sections 42 to 42G, inclusive, of chapter 93 or is
+393 determined by the attorney general or director to likely pose an unreasonable risk to public safety
+394 if disclosed shall be redacted from the complaint prior to disclosure.
+19 of 24
+
+395 (e) A developer shall provide a clear notice to all employees working on covered
+396 models and covered model derivatives of their rights and responsibilities under this section,
+397 including the rights of employees of contractors and subcontractors to utilize the
+398 developer&rsquo;s internal process for making protected disclosures pursuant to subsection (f).
+399 A developer is presumed to be in compliance with the requirements of this subsection if the
+400 developer:
+401 (i) at all times posts and displays within all workplaces maintained by the
+402 developer a notice to all employees of their rights and responsibilities under this section, ensures
+403 that all new employees receive equivalent notice and ensures that employees who work remotely
+404 periodically receive an equivalent notice; or
+405 (ii) at least annually, provides written notice to all employees of their rights and
+406 responsibilities under this chapter and ensures that such notice is received and acknowledged by
+407 all of those employees.
+408 (f) (1) A developer shall provide a reasonable internal process through which an
+409 employee, contractor, subcontractor or employee of a contractor or subcontractor working on a
+410 covered model or covered model derivative may anonymously disclose information to the
+411 developer if the employee believes, in good faith, that the developer has violated any provision
+412 of this chapter or any other general or special law, has made false or materially misleading
+413 statements related to its safety and security protocol or has failed to disclose known risks to
+414 employees. The developer shall conduct an investigation related to any information disclosed
+415 through such process and provide, at a minimum, a monthly update to the person who made the
+20 of 24
+
+416 disclosure regarding the status of the developer&rsquo;s investigation of the disclosure and the
+417 actions taken by the developer in response to the disclosure.
+418 (2) Any disclosure and response created pursuant to this subsection shall be
+419 maintained for not less than 7 years from the date when the disclosure or response is created.
+420 Each disclosure and response shall be shared with officers and directors of the developer whose
+421 acts or omissions are not implicated by the disclosure or response not less than once per quarter.
+422 In the case of a report or disclosure regarding alleged misconduct by a contractor or
+423 subcontractor, the developer shall notify the officers and directors of the contractor or
+424 subcontractor whose acts or omissions are not implicated by the disclosure or response about the
+425 status of their investigation not less than once per quarter.
+426 (g) This section shall not be construed to limit any rights or obligations of
+427 employees under section 185 of chapter 149 or any other state or federal law.
+428 Section 6. The secretary, in consultation with the secretary of economic
+429 development and the secretary of labor and workforce development, shall file an annual report
+430 not later than January 31 with the joint committee on economic development and emerging
+431 technologies, the joint committee on advanced information technology, the internet and
+432 cybersecurity and the joint committee on labor and workforce development containing: (i)
+433 statistical information on the current workforce population: (A) in the business of the
+434 development of artificial intelligence and (B) in adjacent technology sectors as enumerated in
+435 line 7002-8070 of section 2 of chapter 238 of the Acts of 2024; (ii) any known workforce
+436 shortages in the development or deployment of artificial intelligence; (iii) summary information
+437 related to the efficacy of existing workforce development programs in artificial intelligence and
+21 of 24
+
+438 related sectors, if any; (iv) summary information related to the availability of relevant training
+439 programs available in the commonwealth, including any known gaps in such programs generally
+440 available to members of the public; and (iv) any plans, including recommendations for
+441 legislation, if any, to remedy any such known workforce shortages.
+442 Section 7. The secretary shall promulgate regulations for the implementation,
+443 administration and enforcement of this chapter; provided, however, that the secretary may
+444 convene an advisory board for the purposes of: (i) studying the impact of artificial intelligence
+445 on the commonwealth, including with respect to its employees, constituents, private business and
+446 higher education institutions; (ii) conducting outreach and collecting input from stakeholders and
+447 experts; (iii) studying current and emerging capability for critical harms made possible by
+448 artificial intelligence developed or deployed in the commonwealth; or (iv) advising the secretary,
+449 governor and general court on recommended legislation or regulations related to the growth of
+450 the artificial intelligence industry and prevention of critical harms; provided further, that not less
+451 than annually, the secretary shall: (i) update, by regulation, the initial compute threshold and the
+452 fine-tuning compute threshold that an artificial intelligence model shall meet to be considered a
+453 covered model as defined in section 1 of chapter 93M, taking into account: (A) the quantity of
+454 computing power used to train models that have been identified as being reasonably likely to
+455 cause or materially enable a critical harm; (B) similar thresholds used in federal law, guidance or
+456 regulations for the management of artificial intelligence models with reasonable risks of causing
+457 or enabling critical harms; and (C) input from stakeholders, including academics, industry, the
+458 open-source community and government entities; (ii) update, by regulation, binding investigation
+459 requirements applicable to investigations conducted pursuant to subsection (e) of section 2 of
+460 chapter 93M to ensure the integrity, independence, efficiency and effectiveness of the
+22 of 24
+
+461 investigation process, taking into account: (A) relevant standards or requirements imposed under
+462 federal or state law or through self-regulatory or standards-setting bodies; (B) input from
+463 stakeholders, including academic, industry and government entities, including from the open-
+464 source community; and (C) consistency with guidance issued by the National Institute of
+465 Standards and Technology, including the United States Artificial Intelligence Safety Institute;
+466 and (iii) issue guidance for preventing unreasonable risks of covered models and covered model
+467 derivatives causing or materially enabling critical harms, including, but not limited to, more
+468 specific components of, or requirements under, the duties required under chapter 93M; and
+469 provided further, that any such guidance shall be consistent with guidance issued by the National
+470 Institute of Standards and Technology, including the United States Artificial Intelligence Safety
+471 Institute.
+472 SECTION 3. Section 1 of chapter 93M of the General Laws, as inserted by section 2, is
+473 hereby amended by striking the definition of "Covered model" and inserting in place thereof the
+474 following:-
+475 "Covered model", an artificial intelligence model which is: (i) trained using a
+476 quantity of computing power determined by the secretary pursuant to section 7, the cost of which
+477 exceeds $100,000,000 when calculated using the average market prices of cloud compute at the
+478 start of training as reasonably assessed by the developer; or (ii) created by fine-tuning a covered
+479 model using a quantity of computing power that exceeds a threshold determined by the secretary
+480 pursuant to section 7, the cost of which, as reasonably assessed by the developer, exceeds
+481 $10,000,000 if calculated using the average market price of cloud compute at the start of fine-
+482 tuning; provided, however, that investment thresholds established pursuant to this section shall
+483 be adjusted for inflation annually, not later than January 31, by the growth rate of the inflation
+23 of 24
+
+484 index over the preceding 12 months; and provided further, that the inflation index shall consist of
+485 the per cent change in inflation as measured by the per cent change in the consumer price index
+486 for all urban consumers for the Boston metropolitan area as determined by the bureau of labor
+487 statistics of the United States department of labor.
+488 SECTION 4. Said section 1 of said chapter 93M, as so appearing, is hereby further
+489 amended by striking out, in the definition of "Covered model derivative", clause (iii) and
+490 inserting in place thereof the following clause:-
+491 (iii) has been fine-tuned using a quantity of computing power not exceeding a threshold
+492 determined by the secretary pursuant to section 7, the cost of which, as reasonably assessed by
+493 the developer, exceeds $10,000,000 if calculated using the average market price of cloud
+494 compute at the start of fine-tuning;.
+495 SECTION 5. Subsection (e) of section 2 of said chapter 93M, as so appearing, shall take
+496 effect on January 1, 2026.
+497 SECTION 6. Sections 3 and 4 shall take effect on January 1, 2027.
+24 of 24
+
+[DELETED: :D/AEITDdS]
+[DELETED: Sn  sTwpa0s1p]
+[DELETED: 2f3p4w5(6p7 8o9f0r1s2 3F4r5a6a7o8s9S0f1 2 3m]
+[DELETED: 4 5a6i7o8i9i0o1 2l3r4 5t6 7b8 9a0 1l2 3m]
+[DELETED: 4 5n6o7a8 9q0w1a2c3o4$5t6b7i8t9f0s1 2(3t4o5c6b]
+[DELETED: 7 8c9c0l1c2c3r4h5p6s7t8t9g0e1i2t3c4n5h6s7m8a91]
+[DELETED: 0i1f2S3 4v5s6 7t8e9c0 1m2 3(4b5 6a7 8b9o]
+[DELETED: 0 1c2m3m4s5 6t7m8p9c0a1 2 3 4p5t6a7p8 9 0s]
+[DELETED: 1d2m3h4s5t6t7s8a9p0h1d2m3d4d5d6f7d8p9 0i1e2c]
+[DELETED: 3 455f6 7a8n9 0t1h2r3o4t5p6a7t8p9d0 1c2m3 4e]
+[DELETED: 5w6a7s8 9m0 1a2u3s4 5c6h7 8c9h0m1 2p3c4a5c]
+[DELETED: 6 7p8 9i0p1p2i3u4h5d6s7s8f9d0p1c2w3m4 5n6o7i8i]
+[DELETED: 9m0a1l2u3i4p5 6c7a8s9p0c1o2c3m4a5r6o7c8 930r1f]
+[DELETED: 2p3r4a5d6 7i8d9i0i1 2r3c4d5t6s7d8 9w0r1 2b3o]
+[DELETED: 4f5i6t7 8c9 0a1 2r3p4 5b6 7t8i9c0 1p2i3s]
+[DELETED: 4 5c6r7o8c9 0p1c2a3t4a5t6 7e8v9 0v1m2o3f4m]
+[DELETED: 5o6u7 8v9 0a1i2c3$4a5 6 7 8 9 0u1c2 3 4s]
+[DELETED: 5 6s7a8 9e0 1b2l3d4d5 6s7m8 9a0 1a2s3 4d]
+[DELETED: 5 6f7 8i9a0r1"213"4e5 6m7d8 9 0c1 2d3 4o]
+[DELETED: 5t6i7 8 9o0c1 2g3 4s5c6 7a8 9g0a1h2c3d4i]
+[DELETED: 5 6m7i8d9A0d1 2d3t4p5 6r7a8 9e0c1d2o3s4e5t]
+[DELETED: 6d7a8 9m0E1a2I3s4s5s6 7e8 9d0n1t2c3s4d5l6s7r]
+[DELETED: 8r9p0a1l2 3a4c5o6h7e8a9g0t1t2f3c4c5c6r7o8o9r0c]
+[DELETED: 1i2f3s4s5S6a7d8s9p0I1I2S3h4f5 6q7e8s9m0p1$2t3b]
+[DELETED: 4i5t6f7s8S9a0i1(2d3t4c5S6e7S]

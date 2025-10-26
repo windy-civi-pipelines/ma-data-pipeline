@@ -1,0 +1,2767 @@
+Title: This report provides information on the implementation and impact of virtual schools
+Official Title: This report provides information on the implementation and impact of virtual schools
+Number of Sections: 18
+Source: versions - Bill Text
+Media Type: application/pdf
+Strikethrough Detection: 22 sections found
+
+================================================================================
+
+Section 1:
+Report to the Legislature:
+Commonwealth Virtual Schools – Fiscal Year 2023
+pursuant to G.L. c. 71 §94(p).
+January 2025
+This document was prepared by the Massachusetts Department of Elementary and Secondary
+Education
+Russell D. Johnston, Acting Commissioner
+Board of Elementary and Secondary Education Members
+Ms. Katherine Craven, Chair, Brookline
+Mr. Matt Hills, Vice-Chair, Newton
+Dr. Ericka Fisher, Worcester
+Ms. Ela Hopple Gardiner, Wellesley, Student Member
+Ms. Dálida Rocha, Worcester
+Ms. Farzana Mohamed, Newton
+Mr. Michael Moriarty, Holyoke
+Mr. Paymon Rouhanifard, Brookline
+Ms. Mary Ann Stewart, Lexington
+Dr. Patrick Tutwiler, Secretary of Education, Andover
+Dr. Martin West, Newton
+Russell D. Johnston, Acting Commissioner
+Secretary to the Board
+The Massachusetts Department of Elementary and Secondary Education, an affirmative action
+employer, is committed to ensuring that all of its programs and facilities are accessible to all
+members of the public.
+We do not discriminate on the basis of age, color, disability, national origin, race, religion, sex,
+gender identity, or sexual orientation.
+Inquiries regarding the Department’s compliance with Title IX and other civil rights laws may be
+directed to the Human Resources Director, 135 Santilli Highway, Everett, MA 02149. Phone: 781-
+338-6105.
+© 2024 Massachusetts Department of Elementary and Secondary Education
+Permission is hereby granted to copy any or all parts of this document for non-commercial
+educational purposes. Please credit the “Massachusetts Department of Elementary and
+Secondary Education.”
+This document printed on recycled paper
+Massachusetts Department of Elementary and Secondary Education
+135 Santilli Highway, Everett, MA 02149
+Phone 781-338-3000 TTY: N.E.T. Relay 800-439-2370
+www.doe.mass.edu
+January X, 2025
+Dear Members of the General Court:
+I am pleased to submit this Report to the Legislature: Commonwealth Virtual Schools,
+pursuant to G.L. c. 71, § 94(p).
+A Commonwealth Virtual School (CMVS) is a public school operated by a board of trustees
+whose teachers primarily teach from a remote location using the Internet or other
+computer-based methods and whose students are not required to be located at the
+physical premises of the school. Like a charter school, a virtual school is an autonomous,
+single-school district that operates independently of any existing school district.
+The Board of Elementary and Secondary Education (Board) grants a certificate to the board
+of trustees of a virtual school for not less than three years and not more than five years, as
+determined by the Board. The school and its board then become a state entity, directly
+accountable to the Board and the Department of Elementary and Secondary Education
+(Department). A virtual school may not discriminate in the enrollment of students based on
+race, color, national origin, creed, sex, gender identity, ethnicity, sexual orientation, mental
+or physical disability, age, ancestry, athletic performance, special need, English language
+proficiency, or academic achievement.
+As of 2022-23, the time period covered by this report, the Board has granted two virtual
+school certificates, one to the Greater Commonwealth Virtual School (GCVS) and one to
+the TEC Connections Academy Commonwealth Virtual School (TECCA). Both schools
+enroll students statewide. These schools enrolled a total of 4,095 students as of October 1,
+
+Section 2:
+2022.
+If you have any questions about this report, please contact Director Alison Bagg at 781-338-
+
+Section 3:
+3218.
+Sincerely,
+Russell D. Johnston
+Acting Commissioner of Elementary and Secondary Education
+Table of Contents
+Introduction ..................................................................................................................... 2
+Greater Commonwealth Virtual School ........................................................................... 3
+Fiscal Impact on Sending Districts .................................................................................. 8
+Course Completion and Student Attendance and Participation Rates ............................ 9
+Enrollment Trends, Limits and Waitlists ........................................................................ 12
+Academic Achievement ................................................................................................. 13
+Supervision and Support for Students in Elementary and Middle School ..................... 14
+Support for Online Course Completion.......................................................................... 15
+Professional Development ............................................................................................ 17
+Recommended Changes to the Commonwealth Virtual School Program ..................... 17
+Appendix A: CMVS (G.L. c. 71 §94) .............................................................................. 20
+Appendix B: CMVS Tuition by Sending District, FY23 .................................................. 28
+Appendix C: CMVS Academic Achievement Data ........................................................ 35
+1
+Introduction
+The Department of Elementary and Secondary Education respectfully submits this Report
+to the Legislature: Commonwealth Virtual Schools pursuant to G.L. c. 71 § 94(p):
+“On or before September 1, the commissioner shall prepare a report on the
+implementation and impact of this section, including, but not limited to:(1) the fiscal
+impact on sending districts; (2) any necessary adjustments to tuition rates, including
+whether the amount should vary based on grade or type of school and the
+appropriate mechanism for funding virtual schools; (3) information on course
+completion and student attendance and participation rates; (4) the academic
+achievement of students attending commonwealth virtual schools; (5) the level of
+supervision or support needed for students in elementary and middle school; (6) the
+support necessary or helpful to ensure that students successfully complete online
+courses; (7) the professional development virtual school teachers require; (8) the
+appropriate enrollment limit for a virtual school, if any, including information about
+wait lists; and (9) the need for any changes to the commonwealth virtual school
+program.”
+A Commonwealth Virtual School (CMVS) is a public school operated by a board of trustees
+where Massachusetts licensed teachers primarily teach from a remote location using the
+Internet or other computer-based methods, and where students are not required to be
+located at the physical premises of the school. The statute permits up to ten virtual schools
+to operate in the Commonwealth at any time.
+As of the 2022-2023 school year, the Board of Elementary and Secondary Education
+(Board) had granted two virtual school certificates, one to the Greater Commonwealth
+Virtual School (GCVS) and one to the TEC Connections Academy Commonwealth Virtual
+School (TECCA).1 Both schools enroll students statewide. As of October 1, 2022, these
+schools enrolled a total of 4,095 students including 1,155 from GCVS and 2,940 from
+TECCA for FY23, the period addressed in this report.
+1 GCVS has a three-year certificate to operate from July 1, 2019 through June 30, 2022. TECCA has a five-year
+certificate to operate from July 1, 2017 through June 30, 2022.
+2
+Greater Commonwealth Virtual School
+Greater Commonwealth Virtual School (GCVS), formerly Greenfield Commonwealth Virtual
+School (GCVS), first opened in 2010 as the Massachusetts Virtual Academy of Greenfield
+(MAVA) under the innovation school law (G.L.c.71, § 92). On January 2, 2013, Governor
+Patrick signed into law Chapter 379 of the Acts of 2012, “An Act Establishing
+Commonwealth Virtual Schools” (Act), most of which is codified as G.L. c. 71, § 942. By
+statute, MAVA ceased to exist on July 1, 2013. Section 6 of the Act required the Board of
+Elementary and Secondary Education (Board) to grant a certificate to operate a
+Commonwealth of Massachusetts Virtual School (CMVS) to MAVA upon submission of a
+timely application that addressed the information specified in the statute. GCVS received
+its certificate on June 25, 2013, and began operating as a CMVS on July 1, 2013, serving 750
+students in grades K through 12.
+The school’s board of trustees oversees the executive director, who oversees the school
+administration. The school administration includes the director of business services, the
+director of teaching and learning (also referred to as the principal for grades K through 12),
+the flex program director (to oversee the asynchronous Edgenuity program), the director of
+information technology, the director of special education, the director of instructional
+technology, the director of accountability and support services, and the family engagement
+coordinator. The principal oversees the assistant principal for grades K through 8, the
+assistant principal for grades 9 through 12, and the guidance counselors. The principal and
+assistant principals share oversight of the general education teachers. The director of
+accountability and support services oversees English as a Second Language (ESL) and Title
+I teachers, and the director of special education oversees the special education teachers,
+the support center coordinator, and the school adjustment officer. The family engagement
+coordinator oversees the family engagement liaisons.
+On June 2014, the Board voted to place GCVS on probation for the remainder of the
+school's certificate term (until June 30, 2016) with conditions requiring the school to:
+submit board of trustees minutes to the Department of Elementary and Secondary
+Education (Department); submit a final contract with K12, Inc.; align its curriculum with the
+Massachusetts curriculum frameworks; submit a comprehensive evaluation of its
+academic program; submit an action plan outlining strategies to improve academic
+performance; and demonstrate significant academic improvement by 2015. In February
+2016, the Board renewed the school’s certificate and extended the school’s probationary
+status. The probationary conditions required the school to: limit its maximum enrollment to
+750 students for grades K through 12; submit board of trustees meeting materials; submit
+weekly student enrollment reports; submit projected budgets to meet requirement for
+enrolling at least 5 percent of students from Greenfield; submit a corrective action plan to
+ensure at least 95 percent of students and student groups participated in MCAS; establish
+3
+an escrow account to pay for potential closure; and to demonstrate significant and
+sustained academic improvement by 2017.
+In October 2017, the Board approved an amendment for the school to terminate its
+contract with K12, Inc. and to adopt the Canvas learning management system by
+Instructure, Inc. The school adopted a new curriculum, including EngageNY (grades K
+through 5, English language arts, and mathematics), and Florida Virtual Schools Global
+(FLVS) (grades 6 through 12, all subjects). Then in January 2018, the commissioner
+approved an amendment for the school to amend its mission statement. In March 2018,
+the Board extended the school’s probationary status, maintained the prior probationary
+conditions, and added a new condition related to the provision of services for English
+learners.
+In March 2019, the Board removed the school from probation and renewed the school’s
+certificate with conditions requiring the school to: submit board of trustees meeting
+materials and weekly student enrollment reports; enroll a maximum of 750 students;
+provide the Department with updates on the implementation of its plan for serving English
+learners; submit a comprehensive evaluation of the school’s mathematics, English
+language arts, and science programs by 2019; submit a comprehensive action plan for
+improving academic performance and addressing other areas for improvement by 2019;
+and demonstrate academic success by providing evidence that the school has exhibited
+significant and sustained academic improvement in mathematics, English language arts,
+and science on the statewide assessment for all student subgroups by 2021.
+In June 2019, the GCVS teachers voted to join a union and are now an affiliate of the
+American Federation of Teachers (AFT). GCVS has negotiated the teachers’ contract with
+the AFT. In April 2021, the contract was ratified and signed by all teachers and the GCVS
+Board of Trustees.
+In October 2019, the commissioner approved a number of amendment requests to change
+elements of GCVS’ educational program by adding supports for students (an in-person
+support center for students who struggle to advance in the school’s academic program),
+adopting two new curricula (Accelerate Education for grades K-5 and Edgenuity for a 9-12
+asynchronous program), and offering students dual enrollment at Greenfield Community
+College (GCC).
+In July 2020, the commissioner approved an amendment to change the school’s
+curriculum for grades K through 5 from Accelerate Education to the newly released
+curriculum from FLVS for all subjects for synchronous programs. This change allowed the
+school to implement FLVS across all grades. At that time, the commissioner also approved
+an amendment to increase the school’s maximum enrollment by an additional 250 seats,
+for a new maximum enrollment of 1,000 until the end of the school’s current certificate
+(June 30, 2022). This granting of additional seats was explicitly conditioned on GCVS
+demonstrating that its K-12 curriculum is fully aligned with the Massachusetts curriculum
+4
+frameworks by September 15, 2020. After a second request from GCVS, the maximum
+enrollment was amended again, in September 2020, with an increase of 50 additional
+seats, for a new maximum enrollment of 1,050 until the end of the current certificate.
+In December 2020, the Department conducted an Accountability Review of GCVS and then
+in January 2021, the commissioner approved the school’s request to report on a new
+accountability plan.
+In September 2021, the commissioner approved an amendment to change the school’s
+name from Greenfield Commonwealth Virtual School to Greater Commonwealth Virtual
+School and to change the Learning Management System (LMS) from Canvas to Schoology.
+In February 2022, the commissioner approved the school’s request to increase its
+maximum enrollment by an additional 150 seats, for a new maximum of 1,200 seats, in
+order to meet elevated demand for students who are unable to attend school in person
+because of a medical condition. That same month, the commissioner approved the
+school’s request to amend its enrollment policy to provide the first order enrollment
+preference to students who are unable to attend school in-person because of a medical
+condition.
+The school has implemented leadership changes during the certificate term. In July 2019,
+GCVS created the position for and hired the family engagement coordinator. In August
+2019, a vice principal for grades K through 5 was hired and in 2021 the vice principal’s role
+was expanded to oversee grades K through 8. In September 2019, the asynchronous
+Edgenuity program director was hired. In June 2020 the responsibilities of the director of
+special education and student services position were split into two roles: the director of
+special education and the director of accountability and student services. In August 2020,
+a vice principal for grades 9 through 12 as hired. In December 2020, GCVS hired a new
+director of instructional technology. In August 2021, GCVS hired a new support center
+coordinator.
+Pursuant to CMR 52.11, and in accordance with the Department’s guidelines, on June 30,
+2021, GCVS applied to renew its certificate. The Department conducted a renewal
+inspection on November 22-23, 2021 and the report from this inspection was issued to the
+school in March 2022. At its March 22, 2022, meeting, in accordance with G.L. c. 71, §94,
+and 603 CMR 52.00, the Board renewed the certificate of GCVS for an additional four-year
+period from July 1, 2022 through June 30, 2026 with a maximum enrollment of 1,200
+students. Further, pursuant to 603 CMR 52.12, the Board imposed conditions that the
+school is required to meet as recommended by Commissioner Jeffrey C. Riley in his
+memorandum to the Board dated March 22, 2022
+In November 2022, the commissioner approved an amendment to the school’s
+Accountability Plan for the 2022- 2026 certificate term. December 2022, the commissioner
+approved an amendment request to modify the school’s instructional methodology and
+curriculum to include a semi-autonomous independent learning (SAIL) program for a
+5
+limited number of students in grades 3-5. The school also sought and received approval for
+additional technical changes to its certificate. Upon the school’s successful renewal, the
+school updated and revised a number of policies and procedures requiring amendments to
+the GCVS certificate. In February 2023, the commissioner approved an amendment to the
+board of trustees’ bylaws. In March 2023, the commissioner approved an amendment to
+the schools Expulsion Policy and Complaint Procedures.
+TEC Connections Academy Commonwealth Virtual School
+The Education Cooperative (TEC) as the “founder entity” submitted an application for a
+virtual certificate to the Department of Elementary and Secondary Education (Department)
+in the spring of 2013; on February 25, 2014, the Board of Elementary and Secondary
+Education (Board) approved a 3-year operating certificate for TEC Connections Academy
+Commonwealth Virtual School (TECCA) under the state's virtual school legislation
+(Chapter 379 of the Acts of 2012). TECCA opened on July 1, 2014, serving 1,000 students in
+grades K-12. The school expanded to its original maximum enrollment of 2,000 by the third
+year of its operation.
+The school’s board of trustees oversees the superintendent, who oversees the district
+leadership team. The school district leadership team includes the business manager,
+human resources, executive assistant to administration, director of assessment,
+instruction, and professional development, director and assistant director of counseling
+services, director of special education, assistant director of special education, principal of
+elementary school, principal of middle school, and principal of high school. The
+superintendent and school principals share oversight of the general education teachers.
+The director and assistant director of counseling services share oversight of the school’s
+guidance counselors, family engagement coordinators, social workers, and 504
+coordinators. The director of special education oversees special education teachers.
+In June and August 2014, the commissioner approved two amendment requests allowing
+the school to add three new board members to TECCA’s board of trustees. Then in
+November 2015, the commissioner approved an amendment for the school to amend the
+financial and operational arrangement between TECCA and Connections Education (CE),
+the entity that provides the school with its LMS, curriculum, and additional services as
+specified in the contract.
+In May 2016, the commissioner approved an amendment for the school to amend its board
+of trustees’ bylaws. Then in September 2016, the commissioner approved an amendment
+for the school to amend its contract with CE regarding human resources management.
+In February 2017, the Board renewed the school’s certificate for a five-year term (until June
+20, 2022) with conditions requiring the school to submit a detailed plan for ensuring that
+not less than 95 percent of students participate in the Spring 2017 MCAS tests by March
+6
+2017 and submit a detailed plan for serving students who are English language learners by
+April 2017. TECCA met both conditions by the corresponding deadlines.
+In August 2018, the commissioner approved an amendment to increase the school’s
+maximum enrollment by an additional 300 seats, for a new maximum enrollment of 2,300.
+The Commissioner also approved four additional amendment requests: to amend TECCA’s
+contract with CE, to amend TECCA’s mission statement and add two additional pathways
+(i.e., accelerated, extended programs), and to add a new board member to TECCA’s board
+of trustees.
+In November 2019, the commissioner approved an amendment for the school to amend its
+contract with CE to include accounting (expense reporting, tracking, receivables,
+facilitating accounts payable excluding any payment to CE), audit support, and provision of
+Human Resources support during a time of administrative transition.
+In January 2020, the interim superintendent created the district leadership team including
+new leadership positions of director and assistant director of elementary school, director
+and assistant director of middle and high school, dean of students, 504 coordinator, and
+registrar. In July 2020, the interim superintendent transitioned to TECCA’s new
+superintendent, replacing the former superintendent who had served in the role since July
+
+Section 4:
+2015.
+In August 2020, the commissioner approved the school’s request to increase its maximum
+enrollment by an additional 400 seats, for a new maximum of 2,700 in order to meet
+elevated demand for virtual programming due to the COVID-19 pandemic. The
+commissioner also approved an amendment for the school to amend its contract with CE
+to include partner school leadership and strategic account relationship support.
+In March 2020, TECCA teachers started negotiations to become an affiliate of the
+Massachusetts Teacher’s Association (MTA). In June 2020 MTA was certified at TECCA and
+negotiations for a contract continued until September 2021.
+On January 20-21, 2021, the Department conducted an Accountability Review of TECCA.
+The review team issued ratings in the areas of academic program success, organizational
+viability, and faithfulness to certificate, the guiding principles of virtual school
+accountability. In February 2021, the commissioner approved the school’s requests to
+amend the school’s enrollment policy and to report on a new accountability plan.
+In October 2021, the commissioner approved the school’s request to increase its
+maximum enrollment by an additional 300 seats, for a new maximum of 3,000 in order to
+meet elevated demand for students who are unable to attend to school in-person because
+of the student’s medical condition. That same month, the commissioner approved the
+school’s request to amend its enrollment policy to provide the first order enrollment
+7
+preference to students who are unable to attend school in-person because of the student’s
+medical condition.
+On August 17, 2021, TECCA requested another contract amendment with Connections
+Education. The commissioner approved this amendment on August 23, 2021. The
+amendment removed PSLT Support Services, Pathways programs, and Chromebook
+technology. The fee schedule was adjusted, reducing substitute teacher fees, monthly fees
+for students without PSLT, alternative pricing for staff not using laptops, and increasing
+elective course instruction fees. The school also restructured its leadership team at the
+elementary, middle, and high school to replace the director and assistant directors with an
+elementary school principal, middle school principal, and high school principal.
+Pursuant to CMR 52.11, and in accordance with the Department’s guidelines, on June 9,
+2021, TECCA applied to renew its certificate. The Department conducted a renewal
+inspection on October 9 and November 20, 2021 and the report from this inspection was
+issued to the school on March 2022. At its March 22, 2022 meeting, in accordance with
+G.L. c. 71, §94, and 603 CMR 52.00, the Board renewed the certificate of TECCA for an
+additional four-year period from July 1, 2022 through June 30, 2026 with a maximum
+enrollment of 3,000 students. Further, pursuant to 603 CMR 52.12, the Board imposed
+conditions that the school is required to meet as recommended by Commissioner Jeffrey
+C. Riley in his memorandum to the Board dated March 22, 2022.
+On August 2022, the commissioner approved TECCA’s request to amend the contract
+between TECCA and Connections Education and extend it for an additional year, as the
+governing board worked to renegotiate a new contract. Upon the school’s successful
+renewal, the school updated and revised a number of policies and procedures requiring
+amendments to the TECCA certificate. In February 2023, the commissioner approved an
+amendment to the board of trustees’ Bylaws, Complaint Policy, and Accountability Plan for
+the remainer of its certificate term through 2026. In April 2023, the commissioner approved
+an amendment to the school’s Expulsion Policy.
+Fiscal Impact on SendingDistricts
+The virtual school statute, at G.L. c. 71, § 94(k), funds a CMVS based upon the funding for
+school choice under G.L. c. 76, § 12B: the school district of residence of each student
+enrolled in the CMVS is charged a set tuition, and the Department transfers the funds from
+the district to the CMVS. Tuition is based on full year enrollment and is prorated if a student
+is enrolled in the CMVS for only a portion of the school year.
+8
+The default tuition rate for a student enrolled in a CVMS is the school choice tuition rate of
+$5,000.3 The Board, in consultation with the Operational Services Division (OSD), may
+approve a rate higher than $5,000 in CMVS certificates provided the rate does not exceed
+the state average per pupil foundation budget for students of the same classification and
+grade level. G.L. c. 71, § 94(k); 603 CMR 52.07(1). At its December 7, 2017 meeting, the
+Board voted to amend the certificates of GCVS and TECCA to specify a tuition rate4 of
+$8,265 per pupil, effective for FY19, with $75 per pupil retained by the Department for
+program administration. Additionally, the Board voted to delegate to the Commissioner
+authority to adjust this rate annually for inflation for the remainder of the schools' current
+certificates and amend their certificates accordingly. In March 2022, the Board approved
+certificates for both CMVS that included the higher rate and continued the Commissioner’s
+authority to adjust the tuition rate annually for inflation. The Board-approved CMVS tuition
+rate does not change over the course of a fiscal year.
+In FY23, the state average per pupil foundation budget was $14,2635. In FY23, districts were
+charged $9,259 per full-time pupil enrolled in a CMVS6. In FY23, GCVS and TECCA received
+a per pupil tuition amount of $9,184, which equals the district per-pupil tuition amount,
+less $75 per pupil retained by the Department for program administration, as permitted by
+statute.
+In FY23, the virtual schools received $41,437,450 in tuition payments from 255 districts of
+residence. While enrollment varies from district to district, the following four districts
+accounted for approximately 20 percent of virtual school tuition and enrollment: Boston
+(7.1% percent) Springfield (5.8 percent), Worcester (4.2 percent), New Bedford (2.7
+percent). A summary of FY23 tuition payments is provided in Appendix B.
+Course Completion and Student Attendance and
+Participation Rates
+GCVS and TECCA provide 425 instructional hours in kindergarten, 900 hours in grades 1-8,
+and 990 hours in grades 9-12 in accordance with state regulations.
+Both schools offer flexibility in terms of the time of day when students participate. Teachers
+and “learning coaches” (students’ parents/guardians) take attendance and monitor the
+hours of schoolwork completed. In FY23, GCVS reported an attendance rate of 83.1
+percent and TECCA reported an attendance rate of 86.6 percent.
+3 The tuition for special education students is the cost of providing the special education required by the student.
+G.L. c. 71, § 94(k).
+4 Until December 2017, the CMVS tuition rate remained at $6,700, less $75 per pupil retained by the Department
+(total rate of $6,625 per pupil paid to each CMVS).
+5 https://www.doe.mass.edu/finance/chapter70/profile.xlsx
+6 DOE - GFS - choice22 - All Documents (sharepoint.com)
+9
+While each school’s calendar provides for holidays and vacations during which teachers
+are not available, students may continue to do schoolwork and access the online learning
+management system at any time during the school year. Attendance is based on courses
+completion and not “seat time” – while each school expects all students to complete their
+coursework by the end of a typical semester or school year, students may proceed through
+the curriculum at their own pace.
+Course completion data for GCVS and TECCA are provided in Tables 1 and 2. Because
+many students arrive in school after the beginning of the school year or transferred out of
+the school prior to the end of the school year, course completion data are only reported for
+students enrolled in the schools for a full academic year, as defined in Table 1.
+Table 1: FY23 Course Completion Data, GCVS
+FY23 Course Completion Data
+Greater Commonwealth Virtual School (GCVS)
+Courses Courses
+Courses Courses Courses Courses
+Grade Enrollment Completed Passed
+Attempted Incomplete Completed Passed
+(%) (%)
+k 25 192 0 192 100% 192 100%
+1 37 278 22 256 92% 255 99.6%
+2 38 274 13 261 95% 260 99.6%
+3 44 308 5 303 98% 289 95%
+4 43 319 21 298 93% 293 98%
+5 52 378 16 362 96% 357 98.6%
+6 72 620 52 568 92% 522 92%
+7 69 572 12 560 98% 487 87%
+8 105 885 40 845 95% 752 89%
+9 111 1081 149 932 86% 727 78%
+10 117 1126 88 1038 92% 883 85%
+11 135 1390 135 1255 90% 1055 84%
+12 141 1426 109 1317 92% 1140 86.5%
+Totals: 989 8849 662 8187 94% 7212 92%
+Legend:
+Students enrolled in the CMVS as of October 1 of the prior school year,
+A Enrollment
+excluding transfers out and transfers in after October 1.
+Courses in which the students in Column A were enrolled during the school
+B Courses Attempted
+year (full-year and semester-based courses).
+10
+Courses from which students withdrew, regardless of the grade they earned
+C Courses Incomplete
+in the course at the time of course withdrawal.
+Courses completed by students, regardless of the grade they earned in the
+D Courses Completed
+course.
+E Courses Completed (%) Column D (Courses Completed) ÷ Column B (Courses Attempted)
+F Courses Passed Courses completed by students in which they earned a passing grade.
+G Courses Passed (%) Column F (Courses passed) ÷ Column D (Courses Completed)
+Table 2: FY23 Course Completion Data, TECCA
+FY23 Course Completion Data
+TEC Connections Academy Commonwealth Virtual School (TECCA)
+A. B. C. D. E. F. G.
+Courses
+Grade Enrollmen Courses Courses Courses Courses Courses
+Completed
+t Attempted Incomplete Completed Passed Passed (%)
+(%)
+K 56 621 0 621 100.00% 604
+
+Section 5:
+97.26%
+1 63 692 0 692 100.00% 668
+
+Section 6:
+96.53%
+2 63 688 1 687 99.85% 668
+
+Section 7:
+97.23%
+3 78 845 1 844 99.88% 799
+
+Section 8:
+94.67%
+4 98 1097 4 1093 99.64% 1040
+
+Section 9:
+95.15%
+5 126 1293 8 1285 99.38% 1219
+
+Section 10:
+94.86%
+6 139 1761 4 1757 99.77% 1529
+
+Section 11:
+87.02%
+7 201 2528 9 2519 99.64% 2223
+
+Section 12:
+88.25%
+8 231 3001 6 2995 99.80% 2523
+
+Section 13:
+84.24%
+9 331 4311 40 4271 99.07% 2848
+
+Section 14:
+66.68%
+10 336 4284 43 4241 99.00% 3059
+
+Section 15:
+72.13%
+11 336 4181 44 4137 98.95% 3358
+
+Section 16:
+81.17%
+12 330 4100 70 4030 98.29% 3556
+
+Section 17:
+88.24%
+Totals 2388 29402 230 29172 99.22% 24094 82.59%
+Legend:
+Students enrolled in the CMVS as of October 1 of the prior school year,
+A Enrollment
+excluding transfers out and transfers in after October 1.
+Courses in which the students in Column A were enrolled during the school
+B Courses Attempted
+year (full-year and semester-based courses).
+Courses from which students withdrew, regardless of the grade they earned
+C Courses Incomplete
+in the course at the time of course withdrawal.
+Courses completed by students, regardless of the grade they earned in the
+D Courses Completed
+course.
+11
+E Courses Completed (%) Column D (Courses Completed) ÷ Column B (Courses Attempted)
+F Courses Passed Courses completed by students in which they earned a passing grade.
+G Courses Passed (%) Column F (Courses passed) ÷ Column D (Courses Completed)
+Enrollment Trends, Limits and Waitlists
+The statute caps the total number of full-time students attending virtual schools at two
+percent of the total number of students attending all public schools in the Commonwealth.
+In FY23, 913,735 students attended public schools in the Commonwealth, of which 0.45
+percent, or 4,095 students, were enrolled in a CMVS.
+CMVS Enrollment7
+School Year Statewide Enrollment
+# %
+2013-14 955,739 454 0.05
+2014-15 955,844 1,087 0.11
+2015-16 953,429 1,429 0.15
+2016-17 953,748 1,786 0.19
+2017-18 954,034 2,123 0.22
+2018-19 941,411 2,806 0.30
+2019-20 948,828 2,846 0.30
+2020-21 911,465 3,457 0.38
+2021-22 911,529 3,716 0.41
+2022-23 913,735 4,095 0.45
+As shown in the graph below, GCVS and TECCA enroll higher percentages of low-income
+students, high need students, comparable percentages of students with disabilities, and
+lower percentages of English language learners, and non-native English speakers than
+statewide averages.8
+7 http://www.doe.mass.edu/finance/chapter70/profile.xlsx.
+8 The “high needs” category includes any student identified as economically disadvantaged, English learners, or
+students with disabilities.
+12
+According to the enrollment policies of both schools, eligibility for enrollment in a specific
+grade requires a student to have successfully completed the preceding grade. Each school
+reviews academic documentation to ensure accurate grade level assignments and course
+placements.
+Both TECCA and GCVS reported having greater demand than in past years. Since the
+emergence of COVID-19 and the subsequent closures of brick-and-mortar schools
+statewide, families have sought admission to both CMVSs in unprecedented numbers.
+During the FY23 school year the waitlists for GCVS averaged approximately 167 and TECCA
+averaged approximately 340 students.
+Academic Achievement
+The purpose of the statewide accountability system is to provide clear, actionable
+information about school and district performance. The Department did not issue school,
+district, or state accountability determinations for the 2019-2020 school year due to the
+cancellation of state assessments and school closures related to COVID-19. Additionally,
+the Department did not issue school, district, or state accountability determinations in
+2021; spring 2021 MCAS administration included a partial test for grades 3-8 and some
+grade 3-8 students took the assessment remotely. In 2022, schools administered full MCAS
+assessments in grades 3-8 and 10. The Department published some, but not all, of the
+indicators included in the statewide accountability system.
+A summary of performance data from 2023 for both schools is provided in Appendix C.
+More detailed information related to student performance is included in the Department’s
+Profiles, GCVS can be found at 2023 Accountability Data - Greater Commonwealth Virtual
+13
+District (39010000) (mass.edu) and TECCA can be found at 2023 Accountability Data - TEC
+Connections Academy Commonwealth Virtual School District (39020000) (mass.edu).
+CMVS 2023
+• Federal designation: Requiring Assistance or
+Intervention
+o Reason for classification:
+o Low graduation rate
+GCVS
+o Low participation rate: 11 student groups
+and all students
+• School accountability percentile
+o 20
+• Federal designation: Requiring Assistance or
+Intervention
+o Reason for classification:
+o Low graduation rate
+TECCA
+o Low participation rate: 10 student groups
+and all students
+• School accountability percentile
+o 18
+Supervision and Support for Students in Elementary
+and Middle School
+Much of the responsibility for student learning is placed on the “learning coach,” typically
+the student’s parent/guardian, particularly in the early grades. Learning coaches facilitate
+their student’s progress through daily lessons and help manage the student’s schedule and
+pacing through the online program. Both schools have systems in place for closely
+monitoring student progress on a course-by-course basis. At GCVS and TECCA, guidance
+counselors and family engagement coordinators help learning coaches and students
+adjust to the virtual environment, support students’ nonacademic needs, and create a
+sense of community through face-to-face and virtual activities.
+GCVS reports that at the elementary level (grades K-5), in 2022-23, students received daily
+full class and small group live instruction in core academic subjects. At the middle school
+level (grades 6-8) student received 5 live lessons a week in each core academic subject.
+Art, Music, Physical Education, and Computer electives rotate each quarter and met live
+once per week. GCVS employs Family Engagement Liaisons (FELs) who provide support
+and assistance in addition to the support provided by the classroom teachers. Teachers
+alert the FELs to any individual family concerns who, in turn, work with those families on an
+individual basis to ensure proper support for students at home. As part of the school
+structure, GCVS also uses the following supports: Title I and English as a Second Language
+(ESL) services; Family Engagement; contracts for students with particular needs; Special
+14
+Education supports, in person meet-ups, extra help from teachers, dual enrollment with
+Greenfield Community College, use of GCVS Chromebooks with added security measures.
+TECCA reports that students in the elementary, middle, and high school are supported by
+their homeroom teachers and subject teachers, in addition to the supervision provided by
+the learning coach. Homeroom teachers are responsible for biweekly contact with each of
+their students, and during these calls, the teachers review the student’s overall progress in
+lessons and assignments, often with the learning coach present as well, depending on the
+grade level of the student. Subject teachers monitor student progress on a regular basis
+and analyze student performance on assessments so they can differentiate instruction,
+provide support to students in a small group or 1:1, as well as provide resources to support
+struggling students. In addition, the learning coach, who is often the student’s caretaker,
+facilitates their student’s progress and helps manage the student’s schedule, attendance,
+pacing through the online program, and provides outreach to teachers when help is
+needed. TECCA has additional support staff who also work to support all students to adjust
+to the virtual environment, support students’ both academic and non-academic needs,
+and assist in creating a sense of community through other face-to-face and virtual
+interactions and activities.
+Support for Online Course Completion
+As indicated above, both GCVS and TECCA, a “learning coach,” typically the student’s
+parent/guardian, facilitates student progress through daily lessons, with flexibility in terms
+of pace and scheduling. The schools expect learning coaches to spend three to five hours
+daily supporting students and students to spend five to six hours daily on schoolwork and
+homework. Teachers are expected to manage all facets of the student’s instructional
+experience and engage in regular communication with learning coaches and students via
+email, telephone, and online meetings. Further, both schools arrange face-to-face
+activities, such as field trips, throughout the school year.
+GCVS
+In 2022-23, GCVS supported its students in both the live and asynchronous platforms. All
+live sessions are recorded so that students can access them at any time. Teachers also
+schedule small group and individual intervention sessions as needed throughout the week,
+which may be recorded. Throughout the class, teachers constantly monitor a chat area,
+virtual whiteboard area where both students and teachers can post items, and verbal
+interaction via microphones or headsets. Break-out rooms can be created for individual or
+small groups of students during the live session to allow for differentiated
+instruction/assignments as needed. In terms of the GCVS “flex” (asynchronous) courses
+there are staff dedicated to supporting students in the asynchronous program, ESL staff
+work to monitor and shelter material, and the school provides a summer extension time.
+15
+The school also used ESSER funds to hire over 30 tutors to support students at all grade
+levels and in both the live and async platforms.
+In FY23, there were three full time Title I teachers and one paraprofessional. In addition to
+providing support for students performing below grade level, the high school Title I math
+teacher worked with the math team to develop and run Math Essentials courses, as well as
+an MCAS prep class. GCVS special education teachers support students with IEPs. Two
+English Learner (EL) teachers provided supports to students whose first language is not
+English. All general and special education teachers are either Sheltered English Immersion
+(SEI) endorsed or in the process of obtaining it, which enables them to support ELs in the
+regular classroom. Students who require accommodation under Section 504 have their
+assignments and curriculum modified by classroom teachers, as necessary, although
+many students enrolling with 504 plans found that the District Curriculum Accommodation
+Plan (DCAP) was sufficient to meet their needs. Students are identified for interventions
+and/or services are referred to the Tiered System of Support process, monitored by the
+three assistant principals and the Family Engagement Team.
+TECCA
+For 2022-23, TECCA reported that staff work to ensure families/students are aware of all
+expectations for high-quality online learning outcomes. Once enrolled, all
+students/families receive a welcome call typically within five school days by a homeroom
+teacher to ensure students/families begin the year with personal connection to a teacher,
+set up regular bi-weekly supportive contact for the student, and to begin establishing an
+understanding of the expectations both students and families will need to meet as the year
+progresses.
+TECCA also reports that it has a technical support system available to students and
+families who may be experiencing technical difficulties impeding their access to the school
+and course materials. Students, caretakers, and learning coaches have access to
+technical (hardware, software, and Connexus) support services from both Connections
+Education (TECCA’s contracted partner) personnel and by TECCA faculty and staff.
+Students, caretakers, and learning coaches have access to our extensive technical
+support services via webmail and email 24 hours a day, 7 days a week, and can call into
+the helpdesk.
+Additionally, TECCA has the role of student success coach in the middle and high schools
+to monitor a variety of student metrics, including academic performance, attendance, and
+course completion status. Student success coaches work directly with a group of
+homeroom students and complete a biweekly check in calls/meetings. In addition to
+student success coaches, general education teachers, guidance counselors, social
+workers, special education teachers, and virtual counselors, also monitor and support
+students who may require an additional layer of support and/or service. At the elementary
+level, grade level teachers or special education case managers act as homeroom teachers
+and perform these same responsibilities.
+16
+TECCA also has a family engagement coordinator for students who are struggling to meet
+engagement and attendance expectations. The staff work with both the student and the
+learning coach to create an academic plan in which the student/family sets goals and
+tracks progress toward meeting those goals.
+To support teachers and help to identify any gaps in completion or engagement, the District
+Leadership Team (DLT) met biweekly to review and discuss at-risk students. School leaders
+then used this information in their biweekly touch bases with their individual staff members
+to ensure that all students were receiving the support they needed. The DLT uses metrics to
+plan for upcoming professional development and ensure teachers had the resources and
+tools they needed to best engage students in learning.
+Professional Development
+According to GCVS, teachers met on a regular basis throughout the 2022-2023 school year.
+GCVS continued to hold full faculty meetings and/or team meetings by grade cluster to
+discuss data and share instructional strategies. GCVS created Professional Learning
+Communities (PLSs) to map the core curriculum. GCVS’s instructional leadership team
+met every other week. GCVS created time for special education teachers and general
+education teachers to collaborate multiple times a week.
+GCVS began the 2022-23 school year with four days of Professional Development in which
+the entire staff participates in presentations. Topics included: the evaluation process and
+school goals; co-teaching and inclusive practices; teaching students with IEPs and 504
+plans: review of regulations and processes; and specific technical tools and programs
+used by GCVS. Throughout the year, GCVS also provided content- and department-specific
+learning opportunities, such as training in the new ESL monitoring software.
+TECCA reported multiple professional developmental opportunities for its faculty and staff.
+Professional development topics included: New Staff Orientation, Mentoring and
+Induction; Special Populations Support and Differentiation; Power BI; Center for Behavioral
+Health, Equity and Leadership in Schools (BEHLS) Leadership Learning Team (LLT)
+Leadership Development and Coaching; BEHLS Teacher Leadership Professional
+Development; MCAS and STAR Trainings; Youth Mental Health First Aid; Book Studies;
+Supporting Multilingual Students Across the Content Areas; and Advisory.
+Recommended Changes to the Commonwealth
+Virtual School Program
+In FY20, the Department engaged consultants to help update the Commonwealth Virtual
+School Performance Criteria (Criteria). The Criteria were first developed in 2014 and
+17
+required updates. During the fall of 2019, the Department began a substantial review and
+revision process to update these Criteria to incorporate national best practices and
+standards for virtual school performance. By November 2022, the Department published
+the Criteria, which is in effect during the CMVS’ current certificate terms (2022 through
+2026).
+Pursuant to the virtual school statute, G.L. c. 71, § 94(j), and the CMVS regulations at 603
+CMR 52.11, on March 22, 2202, the Board of Elementary and Secondary Education (Board)
+renewed the certificates for GCVS and TECCA for an additional four years. The
+Commissioner recommended, and the Board also voted to place conditions9 on the
+schools’ certificates to address concerns related to academic performance and
+governance issues.
+Using quantitative and qualitative evidence, the Department evaluated the performance of
+both CMVSs against the statutory requirements for renewal10 and the Commonwealth
+Virtual School Performance Criteria. Based on evidence gathered, neither school was
+found to have fully delivered on the promises of its mission. In determining conditions, the
+Commissioner of Elementary and Secondary Education carefully considered each school’s
+history, each school’s student population, the limited accountability data due to the
+pandemic, and the track record of virtual schools in Massachusetts and nationwide. Key
+considerations follow.
+Focus group interviews with families of CMVS students demonstrate continued demand for
+a virtual option because it benefits students with unique circumstances. Evidence
+provided by families indicates that CMVSs provide a safe educational option for students
+with social and emotional needs, students who experienced bullying in traditional public
+schools, students with chronic medical conditions that make consistent attendance in-
+person difficult, and academically or athletically gifted students who desire more flexible
+programming. As noted in the table below, both GCVS and TECCA enroll students with
+disabilities/504 plans and low-income students at rates above state averages. Additionally,
+both CMVS enroll English learners at rates below state averages.
+Students with Students with Students who are English
+disabilities 504 plans low income learners
+% of GCVS 22.5 7.0 57.7 1.7
+% of TECCA 20.6 9.0 54.0 1.4
+% of State 18.9 5.0 43.8 11.0
+9 Pursuant to 603 CMR 52.12(1), the “Board or Commissioner may impose conditions on a virtual school's
+certificate for violations of law, failure to improve student achievement, failure to comply with the terms of the
+virtual school's certificate, or failure to remain viable.”
+10 “When deciding on certificate renewal, the board shall consider progress made in student academic achievement
+and whether the school has met its obligations and commitments under the certificate.” G.L. c. 71, §94(j).
+18
+Neither school’s results have consistently met academic standards set by the statewide
+accountability system. Despite coordinating testing locations across the state each year,
+both schools have struggled to meet the state assessment participation levels required by
+law, both schools produce results that are well below state averages,11 and both schools
+have been identified as performing in the lowest percentile levels across the state. Results
+of these two virtual schools are similar to the academic results seen in virtual schools
+nationwide.12 Further, the COVID-19 pandemic forced changes to MCAS administrations in
+2020 and 2021; these changes created a lack of academic data making it difficult to assess
+academic progress during the schools’ current certificate term. Renewing the schools’
+certificates with conditions that clearly outline areas for improvement or correction gives
+both schools additional time to demonstrate academic improvement and retains the
+Board’s ability to impose probation should the school’s performance worsen.
+For detailed information on the conditions placed on each certificate see the March 14,
+2022 memorandum from the Commissioner of Elementary and Secondary Education to the
+Board of Elementary and Secondary Education.
+During the 2022-23 school year, both GCVS and TECCA submitted evidence to the
+Department to demonstrate progress towards meeting these conditions. Also, upon
+renewal, the Department worked with both schools to revise and refine key organizational
+policies (e.g. boards of trustees’ bylaws, enrollment policies, accountability plans).
+Establishing and refreshing robust policies and procedures, can help each CMVS achieve
+more efficiency, consistency, and overall effectiveness, laying the groundwork for long-
+term sustainability and success. In addition, the Department continues to collaborate with
+others on a regional and national level to identify the best ways to support high-quality
+virtual educational programs, curriculum, and instructional practices.
+11 Student achievement rates at TECCA in 2021 exceeded or were comparable to state averages; students in grades 3
+through 8 took modified MCAS examinations and virtual testing was allowed.
+12 “Virtual Schools in the U.S. 2021” from the National Education Policy Center can be found at
+https://nepc.colorado.edu/publication/virtual-schools-annual-2021.
+19
+Appendix A: CMVS (G.L. c. 71 §94)
+
+Section 18:
+Section 94. (a) As used in this section the following words shall, unless the context clearly requires otherwise,
+have the following meanings: —
+“Board,” the board of elementary and secondary education.
+“Commissioner”, the commissioner of elementary and secondary education.
+“Commonwealth virtual school”, a public school operated by a board of trustees whose teachers primarily
+teach from a remote location using the internet or other computer-based methods and whose students are
+not required to be located at the physical premises of the school.
+“Certificate”, a certificate of organization issued by the board to a commonwealth virtual school’s board of
+trustees which governs the operations of the commonwealth virtual school.
+“Department”, the department of elementary and secondary education.
+“District” or “school district”, the school department of a city, town, regional school district or county
+agricultural school.
+“Education collaborative,” an association of 2 or more school committees or boards of trustees of charter
+schools established pursuant to section 4E of chapter 40.
+(b) On or before October 1, the board shall issue a request for proposals to establish 1 or more
+commonwealth virtual schools; provided, however, that the board shall not be required to issue a request for
+proposals for any school year for which a certificate is not available to be awarded. The request for proposals
+shall be published on the department’s website. Persons or entities eligible to submit a proposal to establish
+a commonwealth virtual school shall include, but not be limited to: (i) a school district; (ii) 2 or more school
+districts; (iii) an education collaborative; (iv) an institution of higher education; (v) a non-profit entity; (vi) 2 or
+more certified teachers; or (vii) parents. Private and parochial schools and for-profit entities shall not be
+eligible to submit a proposal. A proposal shall be selected from the responses to the request for proposals
+and an applicant awarded a certificate under the procedures adopted by the board. The request for proposals
+shall include, but not be limited to, the following terms and conditions that shall be addressed in each
+response to the request for proposals and, upon selection by the board, shall be incorporated into the
+certificate to operate a commonwealth virtual school:
+(1) the mission, purpose and specialized focus, if any, of the proposed commonwealth virtual school;
+(2) the educational program, instructional methodology and services to be offered to students;
+(3) the organization of the school by ages of students or grades to be taught and an estimate of the total
+enrollment of the commonwealth virtual school;
+(4) the method for and timetable of admission to the commonwealth virtual school;
+(5) the commonwealth virtual school governance and by-laws;
+(6) the proposed school year;
+20
+(7) how the commonwealth virtual school shall administer state required assessment tests;
+(8) a statement of equal educational opportunity which shall state that the commonwealth virtual school shall
+be open to all students, on a space available basis, and shall not discriminate on the basis of race, color,
+national origin, religion, sex, gender identity or sexual orientation;
+(9) a description of any preferences the school shall give for enrollment and how the school shall conduct a
+lottery for admission if applications exceed enrollment capacity;
+(10) the identity of any third party software or curriculum vendors that the school intends to use;
+(11) a proposed arrangement or contract with an organization that shall manage or operate the school,
+including any proposed or agreed upon payments to such organization;
+(12) a demonstration of the applicant’s capacity to support and store all critical student, program and staff
+data for expedient retrieval and analysis in compliance with federal and state laws;
+(13) provisions for cyber safety;
+(14) how the school shall notify each school district in writing of the number and grade levels of students who
+shall be attending the commonwealth virtual school from that district within 10 days of the student registering
+for enrollment in the commonwealth virtual school;
+(15) whether the commonwealth virtual school will offer online courses to students attending other schools;
+(16) the financial plan for the operation of the school;
+(17) the number and qualifications of teachers and administrators to be employed;
+(18) the procedures for evaluation and professional development for teachers and administrators, including
+what training, if any, shall be provided to teachers who have not previously taught online;
+(19) the school’s capacity to address the particular needs of English language learners to learn English and
+learn content matter;
+(20) the school’s plan to conduct outreach to prospective students;
+(21) what supports shall be provided to students to help them complete courses, including the school’s
+strategies for ensuring that an enrolled student shall complete the program and goals regarding course
+completion and student achievement;
+(22) how the school will monitor student progress in order to identify areas of difficulty and assist students
+who need additional attention;
+(23) where relevant, what supports will be provided to help students prepare for college and careers;
+(24) the school’s capacity to support students’ social and emotional growth;
+(25) how the school shall create a community for students who are enrolled in the commonwealth virtual
+school;
+21
+(26) how the commonwealth virtual school applicant shall include activities to engage students;
+(27) what, if any, in person activities, learning or interaction will be provided or offered, including extra-
+curricular activities;
+(28) expectations for age appropriate supervision of students under the age of 14, if applicable;
+(29) a description of where students will access the school’s courses, including whether it is in the home or
+in a location provided and overseen by the commonwealth virtual school applicant;
+(30) methods to assure that all students shall have access to necessary technology and materials;
+(31) what technical support shall be available to students, including whether the commonwealth virtual
+school applicant shall offer an orientation for taking an online course before starting the coursework;
+(32) how the school shall define and monitor student attendance, including how it shall verify that each
+student is participating in classes, how truancy shall be addressed and goals regarding student attendance;
+(33) expectations and goals for communication between teachers and students and how such interaction
+shall be documented;
+(34) how the school shall involve parents and guardians as partners in the education of the children and goals
+for parental and family engagement;
+(35) the school’s capacity to implement the proposal and provide high quality instructional services;
+(36) the school’s capacity to instruct students in the following categories, if the school intends to serve any
+such students: (i) students with physical or other challenges that make it difficult for them to physically attend
+a school; (ii) students with medical needs requiring a home or hospital setting; (iii) students with unusual
+needs requiring a flexible schedule; (iv) students who are over-age for their grade; (v) students who have been
+expelled; (vi) students who have dropped out or are at risk of dropping out; (vii) students who are pregnant or
+have a child; (viii) students with social and emotional challenges that make it difficult for them to physically
+attend a school; (ix) students who feel bullied or cannot attend school because their safety is at risk; (x) gifted
+and talented students; (xi) students who seek academic work not available in their school; (xii) students in
+rural communities; and (xiii) students in institutionalized settings;
+(37) whether the school proposes a mechanism to provide meals to students eligible for free and reduced
+price lunch;
+(38) the student to teacher ratio; and
+(39) whether the school will establish a personalized learning plan for each student, in conjunction with the
+student’s school district of residence.
+(c) The board shall make the final determination on selecting proposals; provided, however, that the board
+shall only grant a certificate to a qualified applicant as determined by the board; provided further, that the
+board shall hold a public hearing on the proposals which shall be attended by at least 1 member of the board.
+Not more than 10 commonwealth virtual schools shall be allowed to operate in the commonwealth at any
+time; provided, however, that a commonwealth virtual school operated by a single school district, under an
+agreement entered into by more than 1 school district or by an education collaborative shall not be counted
+towards this limit if the commonwealth virtual school only enrolls students who reside in the school district,
+22
+in the school districts that signed the agreement or in the school districts that are members of an education
+collaborative. The board may authorize a single board of trustees to manage more than 1 commonwealth
+virtual school; provided, however, that each school is issued its own certificate. Under no circumstances
+shall the total number of full-time students attending commonwealth virtual schools exceed 2 per cent of the
+total number of students attending public schools in the commonwealth. In the case of a commonwealth
+virtual school that is established by a school district, not less than 5 per cent of the students enrolled in the
+commonwealth virtual school shall be from the school district that established the school. In the case of a
+commonwealth virtual school that is established by more than 1 school district or by an education
+collaborative, not less than 5 per cent of the students enrolled in the school shall be from the combined
+enrollment of the districts that established the school or the districts that are members of the education
+collaborative.
+The board shall give preference to proposals that include an educational program or specialized focus that
+appropriately addresses 1 or more of the following: students with physical or other challenges that make it
+difficult for them to physically attend a school; students with medical needs requiring a home or hospital
+setting; students with unusual needs requiring a flexible schedule; students who are over-age for their grade;
+students who have been expelled; students who have dropped out; students at risk of dropping out; students
+who are pregnant or have a child; students with social and emotional challenges that make it difficult for them
+to physically attend a school; students who feel bullied or cannot attend school because the students’ safety
+is at risk; gifted and talented students; students who seek academic work not available in their school;
+students in rural communities; and students in institutionalized settings. The board shall also consider
+whether proposed schools will create or enhance the opportunity for students to attend virtual schools in all
+grades from kindergarten through grade 12.
+(d) A commonwealth virtual school shall operate under a certificate issued by the board and be governed by
+a board of trustees. If a district or education collaborative operates the commonwealth virtual school, then
+the board of trustees shall be appointed by the member school committees of the district or the collaborative
+board. The board of trustees of a commonwealth virtual school, upon being granted a certificate, shall be
+deemed to be a public agent authorized by the commonwealth to supervise and control the commonwealth
+virtual school. A commonwealth virtual school shall be deemed to be a state agency under chapter 268A and
+members of the board of trustees shall be deemed to be public employees under chapter 268B.
+(e) The board of trustees of a commonwealth virtual school shall have all powers necessary or desirable for
+carrying out its virtual program, including, but not limited to, the power to:
+(1) adopt a name and corporate seal; provided, that any name selected shall include the words
+“commonwealth virtual school”;
+(2) acquire real property, from public or private sources, by lease, lease with an option to purchase or by gift,
+for use as a school facility;
+(3) receive and disburse funds for school purposes;
+(4) incur temporary debt in anticipation of receipt of funds; provided that, notwithstanding any general or
+special law to the contrary, the terms of repayment of any commonwealth virtual school’s debt shall not
+exceed the duration of the school’s certificate without the approval of the board;
+(5) solicit and accept grants or gifts for school purposes; and
+(6) determine the school’s curriculum and develop the school’s annual budget.
+23
+(f) A commonwealth virtual school may provide access to its courses in an existing public school building or
+any other suitable location; provided, however, that a commonwealth virtual school shall comply with all
+applicable state and federal health and safety laws and regulations.
+(g) The board may waive requirements that students who attend a commonwealth virtual school, attend
+school for a minimum number of hours or days each school year and may permit students to earn credits by
+demonstrating competency in a grade or subject matter. Students in commonwealth virtual schools shall be
+required to meet the same academic standards, testing and portfolio requirements set by the board for
+students in other public schools.
+To ensure that students are learning and demonstrating their knowledge, each commonwealth virtual school
+shall ensure that students are provided, in each credit-bearing course, multiple synchronous learning
+opportunities with their teachers in which students are required to participate and share their knowledge.
+(h) Commonwealth virtual schools shall comply with chapter 71B; provided, however, that the fiscal
+responsibility for a student with a disability enrolled in or determined to require a private day or residential
+school shall remain with the school district where the student resides. If a commonwealth virtual school
+expects that a student with a disability enrolled in the commonwealth virtual school may be in need of the
+services of a private day or residential school, it shall convene an individualized education program team
+meeting for the student. Notice of the team meeting shall be provided to the special education department of
+the school district in which the child resides at least 5 days in advance. Personnel from the school district in
+which the child resides shall participate in the team meeting concerning future placement of and services for
+the child and shall agree on the needed services for the child.
+(i) No teacher shall be hired by a commonwealth virtual school who is not certified pursuant to section 38G.
+Nothing herein shall preclude such teacher from using digital content which may include, but not be limited
+to, guest lecturers.
+(j) A certificate to operate a commonwealth virtual school granted by the board shall be for not less than 3
+years and not more than 5 years, as determined by the board. The board shall develop procedures and
+guidelines for amending, revoking and renewing a virtual school’s certificate. When deciding on certificate
+renewal, the board shall consider progress made in student academic achievement and whether the school
+has met its obligations and commitments under the certificate.
+(k) The amount of tuition per pupil a school district shall pay for a student residing in the district who is
+enrolled in a commonwealth virtual school shall be the school choice tuition amount, which shall be paid
+through the school choice mechanism; provided, that the department may, in consultation with the
+operational services division, approve alternative tuition amounts proposed by applicants that shall not
+exceed the state average per pupil foundation budget for students of the same classification and grade level;
+provided, further, that the department may authorize additional tuition assessments for services required by
+an individualized education program established pursuant to chapter 71B. If a commonwealth virtual school
+offers online courses to students attending other schools, the commonwealth virtual school shall work with
+the student’s district or school to determine whether the online courses meet said district’s or school’s
+standards and requirements and what the commonwealth virtual school will charge the student’s district or
+school for such online courses.
+The department may retain not more than $75 per pupil for the administration of the commonwealth virtual
+school program.
+24
+The department, in consultation with the department of youth services, shall determine the appropriate
+tuition responsibility for students who are in the custody of the department of corrections, a sheriff or the
+department of youth services.
+Students enrolled in a commonwealth virtual school shall be counted in the foundation enrollment of the
+school district where the student resides.
+(l) The department shall promulgate rules and regulations creating a reporting requirement for a
+commonwealth virtual school’s net asset balance at the end of each fiscal year; provided, however, that the
+report shall include, but not be limited to: (1) the revenue and expenditures for the prior fiscal year with a
+specific accounting of the uses of public and private dollars; (2) compensation and benefits for teachers,
+staff, administrators, executives and members of the board of trustees; (3) the amount of funds paid to a
+management company; (4) the sources of surplus funds, specifically whether the funds are private or public;
+(5) how surplus funds were used in the previous fiscal year; and (6) the planned use of surplus funds in the
+upcoming fiscal year and in future fiscal years. The board may establish limits for excess funds that may be
+retained by commonwealth virtual schools and may require commonwealth virtual schools to return excess
+funds to school districts.
+(m) Each commonwealth virtual school shall submit an annual report, on or before January 1, to the board.
+The school shall make its report available to the public on its website. The annual report shall be in such form
+as may be prescribed by the board and shall include, but not be limited to: (1) a discussion of progress made
+toward the achievement of the goals set forth in the certificate; (2) a list of the programs and courses offered;
+(3) a description and number of the students enrolled in the commonwealth virtual school by grade level, the
+number of students eligible for free and reduced price lunch and the number of students who applied and
+were not admitted; (4) a financial statement describing by appropriate categories the revenue and
+expenditures for the prior fiscal year and a balance sheet describing the commonwealth virtual school’s
+assets, liabilities and fund balances or equities; (5) information regarding and a discussion of student
+attendance and participation; (6) information regarding and a discussion of student-teacher interaction; (7)
+information regarding and a discussion of student performance in the commonwealth virtual school,
+including data from state assessments and a comparison of students’ achievement against the achievement
+of the students in the sending district; (8) a discussion of how many courses were completed and not
+completed; (9) a discussion of how the school created a community for students; (10) what activities were
+included to engage students and how students participated in those activities; (11) a discussion of parental
+involvement; and (12) a discussion of the school’s outreach and recruitment efforts; provided, however, that
+said report shall include input from teachers and administrators at the virtual school and input from
+administrators in a district that has established a virtual school or districts that are members of an education
+collaborative that has established a virtual school.
+(n) Each commonwealth virtual school shall maintain an accurate account of all its activities and all its
+receipts and expenditures and shall annually conduct an independent audit of its accounts. Such audit shall
+be filed annually on or before January 1 with the department and the state auditor and shall be in a form
+prescribed by the state auditor. The state auditor may investigate the budget and finances of commonwealth
+virtual schools and their financial dealings, transactions and relationships and shall have the power to
+examine the records of commonwealth virtual schools and to prescribe methods of accounting and the
+rendering of periodic reports.
+(o) On or before September 1, the commissioner shall furnish a supplemental report on the Massachusetts
+comprehensive assessment system performance results of students served by each commonwealth virtual
+school and on the racial, ethnic and socio-economic make-up of the students served by each commonwealth
+virtual school. The commissioner shall also provide information on the number of students enrolled in each
+commonwealth virtual school who have individualized education programs pursuant to chapter 71B. The
+department shall make such report available to the public on the department’s website.
+25
+(p) On or before September 1, the commissioner shall prepare a report on the implementation and impact of
+this section, including, but not limited to:
+(1) the fiscal impact on sending districts;
+(2) any necessary adjustments to tuition rates, including whether the amount should vary based on grade or
+type of school and the appropriate mechanism for funding virtual schools;
+(3) information on course completion and student attendance and participation rates;
+(4) the academic achievement of students attending commonwealth virtual schools;
+(5) the level of supervision or support needed for students in elementary and middle school;
+(6) the support necessary or helpful to ensure that students successfully complete online courses;
+(7) the professional development virtual schoolteachers require;
+(8) the appropriate enrollment limit for a virtual school, if any, including information about wait lists; and
+(9) the need for any changes to the commonwealth virtual school program.
+The report shall be based partially on information in each commonwealth virtual school’s annual report and
+financial audits. This report shall include input from virtual schoolteachers and administrators. The
+commissioner shall consult with the digital learning advisory council to prepare this report. The
+commissioner shall file the report with the clerks of the house and senate, who shall forward the report to the
+joint committee on education. The department shall make the report available to the public on the
+department’s website.
+(q) The commissioner shall identify and offer information on online courses which are aligned with state
+academic standards that districts may use and shall publish that list on the department’s website. At least 1
+of the online courses listed shall be available at no cost to school districts, provided that such no cost online
+course is aligned with state academic standards. The list shall be reviewed and updated annually. Nothing in
+this subsection shall preclude school districts from using other courses not identified by the commissioner.
+(r) The board may promulgate regulations for implementation and enforcement of this section, provided that
+the regulations may include, but shall not be limited to, a provision indicating the appropriate percentage of
+online academic instruction provided for a school to be considered a commonwealth virtual school pursuant
+to this section. Upon release of the proposed regulations, the board shall file a copy of the regulations with
+the clerks of the house of representatives and the senate, who shall forward the regulations to the joint
+committee on education. Within 30 days of the filing, the committee may hold a public hearing and issue a
+report on the regulations and file the report with the board. The board, pursuant to applicable law, may adopt
+final regulations making revisions to the proposed regulations as it deems appropriate after consideration of
+the report and shall file a copy of the regulations with the chairpersons of the joint committee on education
+and, not earlier than 30 days after the filing, the board shall file the final regulations with the state secretary.
+(s) Nothing in this section shall preclude a student from taking some or all of the student’s classes online
+when such classes are offered or approved by the school the student attends or by an education collaborative
+in which the student’s school district participates.
+26
+This section shall not apply to a virtual school operated by a single school district if the school enrolls only
+students residing in the school district; provided, however, that such district shall submit a summary
+description of the proposed virtual school to the commissioner for review and comment at least 4 months in
+advance of the opening of the virtual school. The commissioner shall then provide written comments on the
+proposal to each district’s school committee.
+(t) A school committee may, by vote, restrict enrollment of its students in commonwealth virtual schools if
+the total enrollment of its students in commonwealth virtual schools exceeds 1 per cent of the total
+enrollment in its district; provided, however, that no student enrolled in a commonwealth virtual school shall
+be compelled to withdraw as a result of that vote.
+27
+Appendix B: CMVS Tuition by Sending District, FY2313
+Sorted by FY23 FTE CMVS enrollment.
+Sending District FTE Tuition
+Boston 290.3 $2,950,679
+Springfield 233.8 2,397,379
+Worcester 169.1 1,735,978
+New Bedford 111.9 1,114,399
+Chicopee 98.2 965,155
+Fall River 94.4 940,028
+Lynn 81.6 796,222
+Lowell 72.9 743,663
+Fitchburg 54.2 555,132
+Holyoke 51.2 545,992
+Taunton 51.9 496,895
+Haverhill 49.7 491,761
+Lawrence 44.6 462,607
+Framingham 46.9 458,855
+Brockton 42.7 422,248
+Saugus 39.3 384,339
+Methuen 38.1 370,282
+Westfield 33.8 348,038
+Plymouth 33.9 343,618
+Shrewsbury 35.4 341,541
+Pittsfield 35.6 340,262
+Randolph 33.4 336,533
+Agawam 31.0 328,631
+Barnstable 32.8 322,451
+Marlborough 31.4 317,924
+Medford 29.8 316,364
+Everett 32.4 316,169
+Quincy 29.8 298,323
+Leominster 28.4 293,913
+Watertown 28.5 274,259
+Wachusett 27.7 266,303
+Dracut 26.3 261,044
+Ludlow 25.8 257,746
+Franklin 26.3 252,120
+13 choice-tuition2023.xlsx (live.com)
+28
+Waltham 24.8 250,107
+Weymouth 24.6 249,241
+North Attleborough 25.5 249,082
+Revere 26.2 249,059
+Dartmouth 26.0 248,866
+Hampden-Wilbraham 24.4 241,966
+Woburn 24.7 239,337
+North Adams 22.4 237,181
+Gardner 22.9 236,786
+Webster 23.6 231,995
+Bridgewater-Raynham 24.4 230,177
+Malden 23.9 223,523
+Freetown-Lakeville 23.1 223,221
+Northampton 22.4 220,520
+Middleborough 20.7 216,520
+Milford 22.4 212,267
+Stoughton 20.6 207,831
+Attleboro 21.1 205,170
+Dudley-Charlton Reg 19.8 203,860
+Billerica 20.8 203,151
+Braintree 19.6 194,128
+Greenfield 20.3 192,936
+Easthampton 17.8 190,857
+Mansfield 18.3 189,405
+Tantasqua 14.6 181,666
+North Middlesex 17.8 178,140
+Norwood 17.0 177,655
+Gloucester 17.3 175,056
+Ashburnham-Westminster 17.8 174,580
+Wareham 16.6 172,166
+Quabbin 15.4 171,779
+Danvers 15.7 168,030
+Foxborough 16.4 168,014
+East Longmeadow 16.7 164,681
+Beverly 16.5 163,840
+Falmouth 14.8 159,703
+Salem 15.9 159,119
+Dennis-Yarmouth 15.4 158,857
+West Springfield 15.7 158,349
+Southbridge 15.4 155,888
+Melrose 16.7 155,881
+Easton 16.5 155,523
+29
+Northbridge 15.3 154,599
+Chelsea 15.3 153,761
+South Hadley 15.9 153,178
+Burlington 15.9 152,549
+Nauset 14.9 149,701
+Central Berkshire 15.9 149,342
+Westborough 15.1 146,537
+King Philip 15.6 145,252
+Triton 15.2 143,881
+Andover 14.0 138,814
+Mashpee 14.2 138,693
+Swansea 14.1 137,593
+Ware 12.0 134,127
+Whitman-Hanson 11.8 132,655
+Sharon 13.7 132,261
+Bellingham 13.9 130,942
+East Bridgewater 12.7 127,695
+Walpole 13.1 126,238
+Tyngsborough 12.5 125,464
+Westport 13.1 125,026
+Tewksbury 12.2 123,241
+Oxford 12.4 122,970
+North Andover 12.4 121,050
+Hudson 12.3 118,500
+Newton 12.7 118,487
+Reading 12.6 118,171
+Grafton 11.6 117,683
+Arlington 11.1 117,676
+Canton 11.3 114,228
+Sandwich 12.2 113,934
+Winchendon 11.3 113,499
+Dighton-Rehoboth 11.9 111,275
+Cambridge 11.2 111,202
+Gill-Montague 10.6 111,171
+Quaboag Regional 11.6 109,909
+Dedham 11.6 109,832
+Abington 11.6 109,332
+Marshfield 11.2 109,138
+Swampscott 10.3 107,260
+Millbury 11.4 106,830
+Northboro-Southboro 10.7 106,574
+Amesbury 11.3 105,800
+30
+Peabody 10.9 104,390
+Uxbridge 10.8 104,373
+Athol-Royalston 9.6 103,363
+Blackstone-Millville 10.2 102,467
+Chelmsford 9.9 100,517
+Leicester 9.8 99,953
+Lexington 10.2 99,865
+Holbrook 10.3 98,361
+Natick 10.3 98,340
+Monomoy Regional School District 9.1 97,854
+Pembroke 9.7 95,854
+Westwood 9.0 94,861
+Wilmington 10.1 93,899
+Ayer Shirley School District 9.3 92,461
+Groton-Dunstable 10.0 91,840
+Lunenburg 8.6 89,303
+Belchertown 9.2 88,505
+Fairhaven 8.7 88,441
+Somerville 9.6 88,074
+Amherst-Pelham 8.7 87,413
+Mount Greylock 7.9 85,325
+Ralph C Mahar 8.5 84,898
+Seekonk 8.4 82,357
+Narragansett 8.9 81,645
+Palmer 8.0 80,976
+Hampshire 8.4 77,329
+Somerset Berkley Regional School District 7.7 76,988
+Wakefield 7.4 76,281
+Bourne 7.8 75,368
+Maynard 7.4 74,462
+Westford 7.4 74,336
+Brookline 6.8 73,666
+Newburyport 7.1 73,195
+Stoneham 7.0 72,837
+Masconomet 6.9 72,197
+Needham 7.4 71,163
+Auburn 7.2 69,580
+Sutton 6.6 69,501
+Norwell 4.4 68,528
+Norton 7.3 67,319
+Douglas 7.2 67,021
+Georgetown 7.2 66,308
+31
+North Reading 7.0 65,339
+Old Rochester 7.0 64,471
+West Bridgewater 6.8 63,943
+Nashoba 6.2 63,613
+Ashland 5.9 63,507
+Milton 6.5 62,440
+Gateway 6.6 62,092
+Longmeadow 6.0 61,415
+Belmont 6.6 61,358
+Marblehead 6.4 60,798
+Acushnet 5.8 60,708
+Rockland 6.3 60,080
+Hamilton-Wenham 5.6 56,791
+Frontier 5.9 56,762
+Kingston 6.2 56,574
+Hopedale 5.0 54,940
+Pentucket 4.9 54,572
+Hoosac Valley Regional 5.3 54,534
+Southwick-Tolland-Granville Regional School
+District 5.6 54,261
+Acton-Boxborough 5.5 54,164
+Holliston 4.9 54,097
+Lynnfield 5.0 51,677
+West Boylston 5.3 50,776
+Pioneer Valley 4.9 48,137
+Silver Lake 5.2 47,757
+Granby 4.8 46,995
+Hingham 4.7 46,874
+Wellesley 4.9 46,494
+Southern Berkshire 4.8 46,343
+Littleton 4.1 45,557
+Amherst 4.8 43,808
+Clinton 4.5 42,940
+Winchester 4.5 41,690
+Mendon-Upton 4.4 40,711
+Millis 4.3 40,273
+Spencer-E Brookfield 4.4 40,226
+North Brookfield 4.0 39,749
+Holland 3.9 37,205
+Berlin-Boylston 4.0 36,920
+Monson 3.9 36,747
+Nantucket 3.9 36,001
+32
+Plainville 3.9 35,909
+Avon 3.0 35,671
+Mohawk Trail 3.4 35,514
+Hadley 3.0 34,746
+Berkshire Hills 3.1 34,220
+Winthrop 3.6 34,093
+Richmond 3.5 31,960
+Hopkinton 3.0 31,719
+Somerset 3.1 30,763
+Hatfield 3.0 30,158
+Erving 3.0 29,403
+Middleton 3.2 28,930
+Orange 3.1 28,838
+Northborough 2.5 28,196
+Rockport 2.8 28,174
+Lincoln 3.0 27,552
+Scituate 2.5 26,581
+Southborough 2.9 26,450
+Lenox 2.8 26,082
+Cohasset 2.8 26,028
+Ipswich 2.4 25,622
+Dover-Sherborn 2.0 25,151
+Medfield 2.5 23,236
+Lee 2.5 22,960
+Medway 2.4 21,767
+Hanover 2.4 21,766
+Savoy 2.0 20,584
+Manchester Essex Regional 1.9 20,467
+Farmington River Reg 2.0 20,032
+Bedford 2.0 19,757
+Concord 2.1 19,470
+Lincoln-Sudbury 2.0 19,360
+Berkley 2.0 18,368
+Harvard 2.0 18,368
+Sudbury 2.0 18,368
+Sunderland 2.0 18,368
+Hull 1.7 15,980
+Carver 1.3 11,664
+Duxbury 1.0 10,249
+Wayland 1.1 10,102
+Petersham 1.1 9,736
+Concord-Carlisle 1.0 9,184
+33
+Marion 1.0 9,184
+New Salem-Wendell 1.0 9,184
+Sturbridge 1.0 9,184
+Worthington 1.0 9,000
+Clarksburg 0.9 8,082
+Wales 0.4 6,645
+Martha's Vineyard 0.5 4,408
+Chesterfield-Goshen 0.3 2,663
+Pelham 0.2 1,469
+Edgartown 0.1 1,102
+Weston 0.1 735
+Wrentham 0.1 459
+Grand 4,146.7 $41,437,450
+34
+Appendix C: CMVS Academic Achievement Data
+The Department did not issue school, district, or state accountability determinations for
+the 2019-2020 school year due to the cancellation of state assessments and school
+closures related to COVID-19. Additionally, the Department did not issue school, district, or
+state accountability determinations in 2021; spring 2021 MCAS administration included a
+partial test for grades 3-8 and some grade 3-8 students took the assessment remotely. All
+Massachusetts schools administered the full MCAS for grades 3-8 and 10 during the spring
+of 2022. Due to prior data disruption, the Department published some, but not all, of the
+data for the statewide accountability system in 2022. The Department published all data
+available for the statewide accountability system in 2023, based on two years of MCAS
+administration (2022 and 2023).
+Next Generation MCAS Tests of Spring 2023 - Percent of Students at Each Achievement Level for GCVS
+Next Generation MCAS Tests of Spring 2023 - Percent of Students at Each Achievement Level for TECCA
+[DELETED: . ]
+[DELETED:  gD]
+[DELETED: . eo3.S.]
+[DELETED:  E C P C C C I C P C ( 2 1 0 1 1 1 1 3 2 2 2 9 2 9 3 2 1 2 9 2 9 4 3 5 3 9 2 9 4 3 2 2 9 2 9 5 3 1 3 9 3 9 7 6 5 5 9 5 9 6 5 1 5 9 4 8 1 8 4 8 9 7 8 1 1 1 9 8 7 7 1 1 8 1 9 8 8 1 1 1 1 9 1 8 1 1 1 1 9 1 8 9 8 6 8 9 7 9 E C]
+[DELETED:  C C C C C C C C B C D E F GnC C C C C A I C P P 5 6 0 6 1 6 6 0 6 1 6 6 1 6 9 7 8 1 8 9 9 1 4 1 9 1 1 8 1 9 1 1 4 1 9 2 2 9 2 9 2 3 6 2 9 3 4 4 4 9 3 4 4 4 9 3 4 4 4 9 3 4 7 4 9 2 2 2 2 9 2 8 E C C C]
+[DELETED:  C C C C C C St % 9 4 0 9 1 0 9 1 0 9 1 0 9 2 0 9 2 0 9 2 0 9 3 0 9 3 0 9 4 0.]
+[DELETED:  2]
+[DELETED: s l S S S E 5 l l 2 7 5 1 2 9 5 1 1 5 4 1]
+[DELETED: , . ]
+[DELETED:  O o b O 1 t b s i a r f p t e 1 o m]
+[DELETED:  v s t i e b m t 1 s d o b a e a a n a c s p t a n s s i t w]
+[DELETED:  e t s a p i e c c m s l C v s s c w c 7 p h t t f t s c m p t t d m i c w t]
+[DELETED:  T d s p r a r c a r r f a n a ( a f s d b a c t r a l a f b o e ( i r a a d o s r a a d o s p i t c v s r s i i f t a a a t v s a i f]
+[DELETED:  a T r s i i f v s a a T s c w t d l a c t p t r T c o e T d s m t r a t t p o t]
+[DELETED:  r i t s d p h t s d s s a s t e o i s i c v s e 1 p c o t t]
+[DELETED: 3 F T 2 $ 2 2 1 1 1 1 9 9 9 9 8 7 7 7 5 5 5 5 5 4 4 4 4 4 4 4 4 4 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 2 3 3 3 2 2 2 2 2 2 2 2 2 2 2 2 2 2]
+[DELETED:  2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 1 2 2 2 1 1 2 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1]
+[DELETED:  1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1]
+[DELETED:  1 1 1 1 9 1 1 1 9 1 9 9 1 9 1 9 1 9 9 9 9 9 9 9 1 9 9 9 1 9 8 8 9 8 8 8 9 8 8 8 7 8 8 8 8 8 8 8 8 8 8 7 7 7 7 7 7 7 7 7 7 7 6 7 7 7 7 7 6 7 7 7 7 6 6 6 4 6 7 6 7 6 7 6]
+[DELETED:  7 6 7 6 6 6 6 6 5 6 6 6 6 6 6 6 6 6 6 6 5 6 6 6 5 5 5 5 6 5 5 5 4 5 5 5 5 5 5 5 4 5 5 5 5 5 4 4 5 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 3 3 3 4 3 3 3 3 3]
+[DELETED:  3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 2 3 2 3 2 2 2 2 2 3 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 1 2 2 2 2 1 2 1 2 1 2 1 2 1 2 1 2 1 1 1 1 1 1 1 1 1 1 9 1 9]
+[DELETED:  1 9 1 9 1 9 1 9 0 8 0 6 0 4 0 2 0 1 0 1 0 7 0 4 4 $]
+
+
+================================================================================
+
+Raw Text:
+Report to the Legislature:
+Commonwealth Virtual Schools – Fiscal Year 2023
+This report provides information on the implementation and impact of virtual schools
+pursuant to G.L. c. 71 §94(p).
+January 2025
+
+This document was prepared by the Massachusetts Department of Elementary and Secondary
+Education
+Russell D. Johnston, Acting Commissioner
+Board of Elementary and Secondary Education Members
+Ms. Katherine Craven, Chair, Brookline
+Mr. Matt Hills, Vice-Chair, Newton
+Dr. Ericka Fisher, Worcester
+Ms. Ela Hopple Gardiner, Wellesley, Student Member
+Ms. Dálida Rocha, Worcester
+Ms. Farzana Mohamed, Newton
+Mr. Michael Moriarty, Holyoke
+Mr. Paymon Rouhanifard, Brookline
+Ms. Mary Ann Stewart, Lexington
+Dr. Patrick Tutwiler, Secretary of Education, Andover
+Dr. Martin West, Newton
+Russell D. Johnston, Acting Commissioner
+Secretary to the Board
+The Massachusetts Department of Elementary and Secondary Education, an affirmative action
+employer, is committed to ensuring that all of its programs and facilities are accessible to all
+members of the public.
+We do not discriminate on the basis of age, color, disability, national origin, race, religion, sex,
+gender identity, or sexual orientation.
+Inquiries regarding the Department’s compliance with Title IX and other civil rights laws may be
+directed to the Human Resources Director, 135 Santilli Highway, Everett, MA 02149. Phone: 781-
+338-6105.
+© 2024 Massachusetts Department of Elementary and Secondary Education
+Permission is hereby granted to copy any or all parts of this document for non-commercial
+educational purposes. Please credit the “Massachusetts Department of Elementary and
+Secondary Education.”
+This document printed on recycled paper
+Massachusetts Department of Elementary and Secondary Education
+135 Santilli Highway, Everett, MA 02149
+Phone 781-338-3000 TTY: N.E.T. Relay 800-439-2370
+www.doe.mass.edu
+
+January X, 2025
+Dear Members of the General Court:
+I am pleased to submit this Report to the Legislature: Commonwealth Virtual Schools,
+pursuant to G.L. c. 71, § 94(p).
+A Commonwealth Virtual School (CMVS) is a public school operated by a board of trustees
+whose teachers primarily teach from a remote location using the Internet or other
+computer-based methods and whose students are not required to be located at the
+physical premises of the school. Like a charter school, a virtual school is an autonomous,
+single-school district that operates independently of any existing school district.
+The Board of Elementary and Secondary Education (Board) grants a certificate to the board
+of trustees of a virtual school for not less than three years and not more than five years, as
+determined by the Board. The school and its board then become a state entity, directly
+accountable to the Board and the Department of Elementary and Secondary Education
+(Department). A virtual school may not discriminate in the enrollment of students based on
+race, color, national origin, creed, sex, gender identity, ethnicity, sexual orientation, mental
+or physical disability, age, ancestry, athletic performance, special need, English language
+proficiency, or academic achievement.
+As of 2022-23, the time period covered by this report, the Board has granted two virtual
+school certificates, one to the Greater Commonwealth Virtual School (GCVS) and one to
+the TEC Connections Academy Commonwealth Virtual School (TECCA). Both schools
+enroll students statewide. These schools enrolled a total of 4,095 students as of October 1,
+2022.
+If you have any questions about this report, please contact Director Alison Bagg at 781-338-
+3218.
+Sincerely,
+Russell D. Johnston
+Acting Commissioner of Elementary and Secondary Education
+
+Table of Contents
+Introduction ..................................................................................................................... 2
+Greater Commonwealth Virtual School ........................................................................... 3
+Fiscal Impact on Sending Districts .................................................................................. 8
+Course Completion and Student Attendance and Participation Rates ............................ 9
+Enrollment Trends, Limits and Waitlists ........................................................................ 12
+Academic Achievement ................................................................................................. 13
+Supervision and Support for Students in Elementary and Middle School ..................... 14
+Support for Online Course Completion.......................................................................... 15
+Professional Development ............................................................................................ 17
+Recommended Changes to the Commonwealth Virtual School Program ..................... 17
+Appendix A: CMVS (G.L. c. 71 §94) .............................................................................. 20
+Appendix B: CMVS Tuition by Sending District, FY23 .................................................. 28
+Appendix C: CMVS Academic Achievement Data ........................................................ 35
+1
+
+Introduction
+The Department of Elementary and Secondary Education respectfully submits this Report
+to the Legislature: Commonwealth Virtual Schools pursuant to G.L. c. 71 § 94(p):
+“On or before September 1, the commissioner shall prepare a report on the
+implementation and impact of this section, including, but not limited to:(1) the fiscal
+impact on sending districts; (2) any necessary adjustments to tuition rates, including
+whether the amount should vary based on grade or type of school and the
+appropriate mechanism for funding virtual schools; (3) information on course
+completion and student attendance and participation rates; (4) the academic
+achievement of students attending commonwealth virtual schools; (5) the level of
+supervision or support needed for students in elementary and middle school; (6) the
+support necessary or helpful to ensure that students successfully complete online
+courses; (7) the professional development virtual school teachers require; (8) the
+appropriate enrollment limit for a virtual school, if any, including information about
+wait lists; and (9) the need for any changes to the commonwealth virtual school
+program.”
+A Commonwealth Virtual School (CMVS) is a public school operated by a board of trustees
+where Massachusetts licensed teachers primarily teach from a remote location using the
+Internet or other computer-based methods, and where students are not required to be
+located at the physical premises of the school. The statute permits up to ten virtual schools
+to operate in the Commonwealth at any time.
+As of the 2022-2023 school year, the Board of Elementary and Secondary Education
+(Board) had granted two virtual school certificates, one to the Greater Commonwealth
+Virtual School (GCVS) and one to the TEC Connections Academy Commonwealth Virtual
+School (TECCA).1 Both schools enroll students statewide. As of October 1, 2022, these
+schools enrolled a total of 4,095 students including 1,155 from GCVS and 2,940 from
+TECCA for FY23, the period addressed in this report.
+1 GCVS has a three-year certificate to operate from July 1, 2019 through June 30, 2022. TECCA has a five-year
+certificate to operate from July 1, 2017 through June 30, 2022.
+2
+
+Greater Commonwealth Virtual School
+Greater Commonwealth Virtual School (GCVS), formerly Greenfield Commonwealth Virtual
+School (GCVS), first opened in 2010 as the Massachusetts Virtual Academy of Greenfield
+(MAVA) under the innovation school law (G.L.c.71, § 92). On January 2, 2013, Governor
+Patrick signed into law Chapter 379 of the Acts of 2012, “An Act Establishing
+Commonwealth Virtual Schools” (Act), most of which is codified as G.L. c. 71, § 942. By
+statute, MAVA ceased to exist on July 1, 2013. Section 6 of the Act required the Board of
+Elementary and Secondary Education (Board) to grant a certificate to operate a
+Commonwealth of Massachusetts Virtual School (CMVS) to MAVA upon submission of a
+timely application that addressed the information specified in the statute. GCVS received
+its certificate on June 25, 2013, and began operating as a CMVS on July 1, 2013, serving 750
+students in grades K through 12.
+The school’s board of trustees oversees the executive director, who oversees the school
+administration. The school administration includes the director of business services, the
+director of teaching and learning (also referred to as the principal for grades K through 12),
+the flex program director (to oversee the asynchronous Edgenuity program), the director of
+information technology, the director of special education, the director of instructional
+technology, the director of accountability and support services, and the family engagement
+coordinator. The principal oversees the assistant principal for grades K through 8, the
+assistant principal for grades 9 through 12, and the guidance counselors. The principal and
+assistant principals share oversight of the general education teachers. The director of
+accountability and support services oversees English as a Second Language (ESL) and Title
+I teachers, and the director of special education oversees the special education teachers,
+the support center coordinator, and the school adjustment officer. The family engagement
+coordinator oversees the family engagement liaisons.
+On June 2014, the Board voted to place GCVS on probation for the remainder of the
+school's certificate term (until June 30, 2016) with conditions requiring the school to:
+submit board of trustees minutes to the Department of Elementary and Secondary
+Education (Department); submit a final contract with K12, Inc.; align its curriculum with the
+Massachusetts curriculum frameworks; submit a comprehensive evaluation of its
+academic program; submit an action plan outlining strategies to improve academic
+performance; and demonstrate significant academic improvement by 2015. In February
+2016, the Board renewed the school’s certificate and extended the school’s probationary
+status. The probationary conditions required the school to: limit its maximum enrollment to
+750 students for grades K through 12; submit board of trustees meeting materials; submit
+weekly student enrollment reports; submit projected budgets to meet requirement for
+enrolling at least 5 percent of students from Greenfield; submit a corrective action plan to
+ensure at least 95 percent of students and student groups participated in MCAS; establish
+3
+
+an escrow account to pay for potential closure; and to demonstrate significant and
+sustained academic improvement by 2017.
+In October 2017, the Board approved an amendment for the school to terminate its
+contract with K12, Inc. and to adopt the Canvas learning management system by
+Instructure, Inc. The school adopted a new curriculum, including EngageNY (grades K
+through 5, English language arts, and mathematics), and Florida Virtual Schools Global
+(FLVS) (grades 6 through 12, all subjects). Then in January 2018, the commissioner
+approved an amendment for the school to amend its mission statement. In March 2018,
+the Board extended the school’s probationary status, maintained the prior probationary
+conditions, and added a new condition related to the provision of services for English
+learners.
+In March 2019, the Board removed the school from probation and renewed the school’s
+certificate with conditions requiring the school to: submit board of trustees meeting
+materials and weekly student enrollment reports; enroll a maximum of 750 students;
+provide the Department with updates on the implementation of its plan for serving English
+learners; submit a comprehensive evaluation of the school’s mathematics, English
+language arts, and science programs by 2019; submit a comprehensive action plan for
+improving academic performance and addressing other areas for improvement by 2019;
+and demonstrate academic success by providing evidence that the school has exhibited
+significant and sustained academic improvement in mathematics, English language arts,
+and science on the statewide assessment for all student subgroups by 2021.
+In June 2019, the GCVS teachers voted to join a union and are now an affiliate of the
+American Federation of Teachers (AFT). GCVS has negotiated the teachers’ contract with
+the AFT. In April 2021, the contract was ratified and signed by all teachers and the GCVS
+Board of Trustees.
+In October 2019, the commissioner approved a number of amendment requests to change
+elements of GCVS’ educational program by adding supports for students (an in-person
+support center for students who struggle to advance in the school’s academic program),
+adopting two new curricula (Accelerate Education for grades K-5 and Edgenuity for a 9-12
+asynchronous program), and offering students dual enrollment at Greenfield Community
+College (GCC).
+In July 2020, the commissioner approved an amendment to change the school’s
+curriculum for grades K through 5 from Accelerate Education to the newly released
+curriculum from FLVS for all subjects for synchronous programs. This change allowed the
+school to implement FLVS across all grades. At that time, the commissioner also approved
+an amendment to increase the school’s maximum enrollment by an additional 250 seats,
+for a new maximum enrollment of 1,000 until the end of the school’s current certificate
+(June 30, 2022). This granting of additional seats was explicitly conditioned on GCVS
+demonstrating that its K-12 curriculum is fully aligned with the Massachusetts curriculum
+4
+
+frameworks by September 15, 2020. After a second request from GCVS, the maximum
+enrollment was amended again, in September 2020, with an increase of 50 additional
+seats, for a new maximum enrollment of 1,050 until the end of the current certificate.
+In December 2020, the Department conducted an Accountability Review of GCVS and then
+in January 2021, the commissioner approved the school’s request to report on a new
+accountability plan.
+In September 2021, the commissioner approved an amendment to change the school’s
+name from Greenfield Commonwealth Virtual School to Greater Commonwealth Virtual
+School and to change the Learning Management System (LMS) from Canvas to Schoology.
+In February 2022, the commissioner approved the school’s request to increase its
+maximum enrollment by an additional 150 seats, for a new maximum of 1,200 seats, in
+order to meet elevated demand for students who are unable to attend school in person
+because of a medical condition. That same month, the commissioner approved the
+school’s request to amend its enrollment policy to provide the first order enrollment
+preference to students who are unable to attend school in-person because of a medical
+condition.
+The school has implemented leadership changes during the certificate term. In July 2019,
+GCVS created the position for and hired the family engagement coordinator. In August
+2019, a vice principal for grades K through 5 was hired and in 2021 the vice principal’s role
+was expanded to oversee grades K through 8. In September 2019, the asynchronous
+Edgenuity program director was hired. In June 2020 the responsibilities of the director of
+special education and student services position were split into two roles: the director of
+special education and the director of accountability and student services. In August 2020,
+a vice principal for grades 9 through 12 as hired. In December 2020, GCVS hired a new
+director of instructional technology. In August 2021, GCVS hired a new support center
+coordinator.
+Pursuant to CMR 52.11, and in accordance with the Department’s guidelines, on June 30,
+2021, GCVS applied to renew its certificate. The Department conducted a renewal
+inspection on November 22-23, 2021 and the report from this inspection was issued to the
+school in March 2022. At its March 22, 2022, meeting, in accordance with G.L. c. 71, §94,
+and 603 CMR 52.00, the Board renewed the certificate of GCVS for an additional four-year
+period from July 1, 2022 through June 30, 2026 with a maximum enrollment of 1,200
+students. Further, pursuant to 603 CMR 52.12, the Board imposed conditions that the
+school is required to meet as recommended by Commissioner Jeffrey C. Riley in his
+memorandum to the Board dated March 22, 2022
+In November 2022, the commissioner approved an amendment to the school’s
+Accountability Plan for the 2022- 2026 certificate term. December 2022, the commissioner
+approved an amendment request to modify the school’s instructional methodology and
+curriculum to include a semi-autonomous independent learning (SAIL) program for a
+5
+
+limited number of students in grades 3-5. The school also sought and received approval for
+additional technical changes to its certificate. Upon the school’s successful renewal, the
+school updated and revised a number of policies and procedures requiring amendments to
+the GCVS certificate. In February 2023, the commissioner approved an amendment to the
+board of trustees’ bylaws. In March 2023, the commissioner approved an amendment to
+the schools Expulsion Policy and Complaint Procedures.
+TEC Connections Academy Commonwealth Virtual School
+The Education Cooperative (TEC) as the “founder entity” submitted an application for a
+virtual certificate to the Department of Elementary and Secondary Education (Department)
+in the spring of 2013; on February 25, 2014, the Board of Elementary and Secondary
+Education (Board) approved a 3-year operating certificate for TEC Connections Academy
+Commonwealth Virtual School (TECCA) under the state's virtual school legislation
+(Chapter 379 of the Acts of 2012). TECCA opened on July 1, 2014, serving 1,000 students in
+grades K-12. The school expanded to its original maximum enrollment of 2,000 by the third
+year of its operation.
+The school’s board of trustees oversees the superintendent, who oversees the district
+leadership team. The school district leadership team includes the business manager,
+human resources, executive assistant to administration, director of assessment,
+instruction, and professional development, director and assistant director of counseling
+services, director of special education, assistant director of special education, principal of
+elementary school, principal of middle school, and principal of high school. The
+superintendent and school principals share oversight of the general education teachers.
+The director and assistant director of counseling services share oversight of the school’s
+guidance counselors, family engagement coordinators, social workers, and 504
+coordinators. The director of special education oversees special education teachers.
+In June and August 2014, the commissioner approved two amendment requests allowing
+the school to add three new board members to TECCA’s board of trustees. Then in
+November 2015, the commissioner approved an amendment for the school to amend the
+financial and operational arrangement between TECCA and Connections Education (CE),
+the entity that provides the school with its LMS, curriculum, and additional services as
+specified in the contract.
+In May 2016, the commissioner approved an amendment for the school to amend its board
+of trustees’ bylaws. Then in September 2016, the commissioner approved an amendment
+for the school to amend its contract with CE regarding human resources management.
+In February 2017, the Board renewed the school’s certificate for a five-year term (until June
+20, 2022) with conditions requiring the school to submit a detailed plan for ensuring that
+not less than 95 percent of students participate in the Spring 2017 MCAS tests by March
+6
+
+2017 and submit a detailed plan for serving students who are English language learners by
+April 2017. TECCA met both conditions by the corresponding deadlines.
+In August 2018, the commissioner approved an amendment to increase the school’s
+maximum enrollment by an additional 300 seats, for a new maximum enrollment of 2,300.
+The Commissioner also approved four additional amendment requests: to amend TECCA’s
+contract with CE, to amend TECCA’s mission statement and add two additional pathways
+(i.e., accelerated, extended programs), and to add a new board member to TECCA’s board
+of trustees.
+In November 2019, the commissioner approved an amendment for the school to amend its
+contract with CE to include accounting (expense reporting, tracking, receivables,
+facilitating accounts payable excluding any payment to CE), audit support, and provision of
+Human Resources support during a time of administrative transition.
+In January 2020, the interim superintendent created the district leadership team including
+new leadership positions of director and assistant director of elementary school, director
+and assistant director of middle and high school, dean of students, 504 coordinator, and
+registrar. In July 2020, the interim superintendent transitioned to TECCA’s new
+superintendent, replacing the former superintendent who had served in the role since July
+2015.
+In August 2020, the commissioner approved the school’s request to increase its maximum
+enrollment by an additional 400 seats, for a new maximum of 2,700 in order to meet
+elevated demand for virtual programming due to the COVID-19 pandemic. The
+commissioner also approved an amendment for the school to amend its contract with CE
+to include partner school leadership and strategic account relationship support.
+In March 2020, TECCA teachers started negotiations to become an affiliate of the
+Massachusetts Teacher’s Association (MTA). In June 2020 MTA was certified at TECCA and
+negotiations for a contract continued until September 2021.
+On January 20-21, 2021, the Department conducted an Accountability Review of TECCA.
+The review team issued ratings in the areas of academic program success, organizational
+viability, and faithfulness to certificate, the guiding principles of virtual school
+accountability. In February 2021, the commissioner approved the school’s requests to
+amend the school’s enrollment policy and to report on a new accountability plan.
+In October 2021, the commissioner approved the school’s request to increase its
+maximum enrollment by an additional 300 seats, for a new maximum of 3,000 in order to
+meet elevated demand for students who are unable to attend to school in-person because
+of the student’s medical condition. That same month, the commissioner approved the
+school’s request to amend its enrollment policy to provide the first order enrollment
+7
+
+preference to students who are unable to attend school in-person because of the student’s
+medical condition.
+On August 17, 2021, TECCA requested another contract amendment with Connections
+Education. The commissioner approved this amendment on August 23, 2021. The
+amendment removed PSLT Support Services, Pathways programs, and Chromebook
+technology. The fee schedule was adjusted, reducing substitute teacher fees, monthly fees
+for students without PSLT, alternative pricing for staff not using laptops, and increasing
+elective course instruction fees. The school also restructured its leadership team at the
+elementary, middle, and high school to replace the director and assistant directors with an
+elementary school principal, middle school principal, and high school principal.
+Pursuant to CMR 52.11, and in accordance with the Department’s guidelines, on June 9,
+2021, TECCA applied to renew its certificate. The Department conducted a renewal
+inspection on October 9 and November 20, 2021 and the report from this inspection was
+issued to the school on March 2022. At its March 22, 2022 meeting, in accordance with
+G.L. c. 71, §94, and 603 CMR 52.00, the Board renewed the certificate of TECCA for an
+additional four-year period from July 1, 2022 through June 30, 2026 with a maximum
+enrollment of 3,000 students. Further, pursuant to 603 CMR 52.12, the Board imposed
+conditions that the school is required to meet as recommended by Commissioner Jeffrey
+C. Riley in his memorandum to the Board dated March 22, 2022.
+On August 2022, the commissioner approved TECCA’s request to amend the contract
+between TECCA and Connections Education and extend it for an additional year, as the
+governing board worked to renegotiate a new contract. Upon the school’s successful
+renewal, the school updated and revised a number of policies and procedures requiring
+amendments to the TECCA certificate. In February 2023, the commissioner approved an
+amendment to the board of trustees’ Bylaws, Complaint Policy, and Accountability Plan for
+the remainer of its certificate term through 2026. In April 2023, the commissioner approved
+an amendment to the school’s Expulsion Policy.
+Fiscal Impact on SendingDistricts
+The virtual school statute, at G.L. c. 71, § 94(k), funds a CMVS based upon the funding for
+school choice under G.L. c. 76, § 12B: the school district of residence of each student
+enrolled in the CMVS is charged a set tuition, and the Department transfers the funds from
+the district to the CMVS. Tuition is based on full year enrollment and is prorated if a student
+is enrolled in the CMVS for only a portion of the school year.
+8
+
+The default tuition rate for a student enrolled in a CVMS is the school choice tuition rate of
+$5,000.3 The Board, in consultation with the Operational Services Division (OSD), may
+approve a rate higher than $5,000 in CMVS certificates provided the rate does not exceed
+the state average per pupil foundation budget for students of the same classification and
+grade level. G.L. c. 71, § 94(k); 603 CMR 52.07(1). At its December 7, 2017 meeting, the
+Board voted to amend the certificates of GCVS and TECCA to specify a tuition rate4 of
+$8,265 per pupil, effective for FY19, with $75 per pupil retained by the Department for
+program administration. Additionally, the Board voted to delegate to the Commissioner
+authority to adjust this rate annually for inflation for the remainder of the schools' current
+certificates and amend their certificates accordingly. In March 2022, the Board approved
+certificates for both CMVS that included the higher rate and continued the Commissioner’s
+authority to adjust the tuition rate annually for inflation. The Board-approved CMVS tuition
+rate does not change over the course of a fiscal year.
+In FY23, the state average per pupil foundation budget was $14,2635. In FY23, districts were
+charged $9,259 per full-time pupil enrolled in a CMVS6. In FY23, GCVS and TECCA received
+a per pupil tuition amount of $9,184, which equals the district per-pupil tuition amount,
+less $75 per pupil retained by the Department for program administration, as permitted by
+statute.
+In FY23, the virtual schools received $41,437,450 in tuition payments from 255 districts of
+residence. While enrollment varies from district to district, the following four districts
+accounted for approximately 20 percent of virtual school tuition and enrollment: Boston
+(7.1% percent) Springfield (5.8 percent), Worcester (4.2 percent), New Bedford (2.7
+percent). A summary of FY23 tuition payments is provided in Appendix B.
+Course Completion and Student Attendance and
+Participation Rates
+GCVS and TECCA provide 425 instructional hours in kindergarten, 900 hours in grades 1-8,
+and 990 hours in grades 9-12 in accordance with state regulations.
+Both schools offer flexibility in terms of the time of day when students participate. Teachers
+and “learning coaches” (students’ parents/guardians) take attendance and monitor the
+hours of schoolwork completed. In FY23, GCVS reported an attendance rate of 83.1
+percent and TECCA reported an attendance rate of 86.6 percent.
+3 The tuition for special education students is the cost of providing the special education required by the student.
+G.L. c. 71, § 94(k).
+4 Until December 2017, the CMVS tuition rate remained at $6,700, less $75 per pupil retained by the Department
+(total rate of $6,625 per pupil paid to each CMVS).
+5 https://www.doe.mass.edu/finance/chapter70/profile.xlsx
+6 DOE - GFS - choice22 - All Documents (sharepoint.com)
+9
+
+While each school’s calendar provides for holidays and vacations during which teachers
+are not available, students may continue to do schoolwork and access the online learning
+management system at any time during the school year. Attendance is based on courses
+completion and not “seat time” – while each school expects all students to complete their
+coursework by the end of a typical semester or school year, students may proceed through
+the curriculum at their own pace.
+Course completion data for GCVS and TECCA are provided in Tables 1 and 2. Because
+many students arrive in school after the beginning of the school year or transferred out of
+the school prior to the end of the school year, course completion data are only reported for
+students enrolled in the schools for a full academic year, as defined in Table 1.
+Table 1: FY23 Course Completion Data, GCVS
+FY23 Course Completion Data
+Greater Commonwealth Virtual School (GCVS)
+Courses Courses
+Courses Courses Courses Courses
+Grade Enrollment Completed Passed
+Attempted Incomplete Completed Passed
+(%) (%)
+k 25 192 0 192 100% 192 100%
+1 37 278 22 256 92% 255 99.6%
+2 38 274 13 261 95% 260 99.6%
+3 44 308 5 303 98% 289 95%
+4 43 319 21 298 93% 293 98%
+5 52 378 16 362 96% 357 98.6%
+6 72 620 52 568 92% 522 92%
+7 69 572 12 560 98% 487 87%
+8 105 885 40 845 95% 752 89%
+9 111 1081 149 932 86% 727 78%
+10 117 1126 88 1038 92% 883 85%
+11 135 1390 135 1255 90% 1055 84%
+12 141 1426 109 1317 92% 1140 86.5%
+Totals: 989 8849 662 8187 94% 7212 92%
+Legend:
+Students enrolled in the CMVS as of October 1 of the prior school year,
+A Enrollment
+excluding transfers out and transfers in after October 1.
+Courses in which the students in Column A were enrolled during the school
+B Courses Attempted
+year (full-year and semester-based courses).
+10
+
+Courses from which students withdrew, regardless of the grade they earned
+C Courses Incomplete
+in the course at the time of course withdrawal.
+Courses completed by students, regardless of the grade they earned in the
+D Courses Completed
+course.
+E Courses Completed (%) Column D (Courses Completed) ÷ Column B (Courses Attempted)
+F Courses Passed Courses completed by students in which they earned a passing grade.
+G Courses Passed (%) Column F (Courses passed) ÷ Column D (Courses Completed)
+Table 2: FY23 Course Completion Data, TECCA
+FY23 Course Completion Data
+TEC Connections Academy Commonwealth Virtual School (TECCA)
+A. B. C. D. E. F. G.
+Courses
+Grade Enrollmen Courses Courses Courses Courses Courses
+Completed
+t Attempted Incomplete Completed Passed Passed (%)
+(%)
+K 56 621 0 621 100.00% 604
+97.26%
+1 63 692 0 692 100.00% 668
+96.53%
+2 63 688 1 687 99.85% 668
+97.23%
+3 78 845 1 844 99.88% 799
+94.67%
+4 98 1097 4 1093 99.64% 1040
+95.15%
+5 126 1293 8 1285 99.38% 1219
+94.86%
+6 139 1761 4 1757 99.77% 1529
+87.02%
+7 201 2528 9 2519 99.64% 2223
+88.25%
+8 231 3001 6 2995 99.80% 2523
+84.24%
+9 331 4311 40 4271 99.07% 2848
+66.68%
+10 336 4284 43 4241 99.00% 3059
+72.13%
+11 336 4181 44 4137 98.95% 3358
+81.17%
+12 330 4100 70 4030 98.29% 3556
+88.24%
+Totals 2388 29402 230 29172 99.22% 24094 82.59%
+Legend:
+Students enrolled in the CMVS as of October 1 of the prior school year,
+A Enrollment
+excluding transfers out and transfers in after October 1.
+Courses in which the students in Column A were enrolled during the school
+B Courses Attempted
+year (full-year and semester-based courses).
+Courses from which students withdrew, regardless of the grade they earned
+C Courses Incomplete
+in the course at the time of course withdrawal.
+Courses completed by students, regardless of the grade they earned in the
+D Courses Completed
+course.
+11
+
+E Courses Completed (%) Column D (Courses Completed) ÷ Column B (Courses Attempted)
+F Courses Passed Courses completed by students in which they earned a passing grade.
+G Courses Passed (%) Column F (Courses passed) ÷ Column D (Courses Completed)
+Enrollment Trends, Limits and Waitlists
+The statute caps the total number of full-time students attending virtual schools at two
+percent of the total number of students attending all public schools in the Commonwealth.
+In FY23, 913,735 students attended public schools in the Commonwealth, of which 0.45
+percent, or 4,095 students, were enrolled in a CMVS.
+CMVS Enrollment7
+School Year Statewide Enrollment
+# %
+2013-14 955,739 454 0.05
+2014-15 955,844 1,087 0.11
+2015-16 953,429 1,429 0.15
+2016-17 953,748 1,786 0.19
+2017-18 954,034 2,123 0.22
+2018-19 941,411 2,806 0.30
+2019-20 948,828 2,846 0.30
+2020-21 911,465 3,457 0.38
+2021-22 911,529 3,716 0.41
+2022-23 913,735 4,095 0.45
+As shown in the graph below, GCVS and TECCA enroll higher percentages of low-income
+students, high need students, comparable percentages of students with disabilities, and
+lower percentages of English language learners, and non-native English speakers than
+statewide averages.8
+7 http://www.doe.mass.edu/finance/chapter70/profile.xlsx.
+8 The “high needs” category includes any student identified as economically disadvantaged, English learners, or
+students with disabilities.
+12
+
+According to the enrollment policies of both schools, eligibility for enrollment in a specific
+grade requires a student to have successfully completed the preceding grade. Each school
+reviews academic documentation to ensure accurate grade level assignments and course
+placements.
+Both TECCA and GCVS reported having greater demand than in past years. Since the
+emergence of COVID-19 and the subsequent closures of brick-and-mortar schools
+statewide, families have sought admission to both CMVSs in unprecedented numbers.
+During the FY23 school year the waitlists for GCVS averaged approximately 167 and TECCA
+averaged approximately 340 students.
+Academic Achievement
+The purpose of the statewide accountability system is to provide clear, actionable
+information about school and district performance. The Department did not issue school,
+district, or state accountability determinations for the 2019-2020 school year due to the
+cancellation of state assessments and school closures related to COVID-19. Additionally,
+the Department did not issue school, district, or state accountability determinations in
+2021; spring 2021 MCAS administration included a partial test for grades 3-8 and some
+grade 3-8 students took the assessment remotely. In 2022, schools administered full MCAS
+assessments in grades 3-8 and 10. The Department published some, but not all, of the
+indicators included in the statewide accountability system.
+A summary of performance data from 2023 for both schools is provided in Appendix C.
+More detailed information related to student performance is included in the Department’s
+Profiles, GCVS can be found at 2023 Accountability Data - Greater Commonwealth Virtual
+13
+
+District (39010000) (mass.edu) and TECCA can be found at 2023 Accountability Data - TEC
+Connections Academy Commonwealth Virtual School District (39020000) (mass.edu).
+CMVS 2023
+• Federal designation: Requiring Assistance or
+Intervention
+o Reason for classification:
+o Low graduation rate
+GCVS
+o Low participation rate: 11 student groups
+and all students
+• School accountability percentile
+o 20
+• Federal designation: Requiring Assistance or
+Intervention
+o Reason for classification:
+o Low graduation rate
+TECCA
+o Low participation rate: 10 student groups
+and all students
+• School accountability percentile
+o 18
+Supervision and Support for Students in Elementary
+and Middle School
+Much of the responsibility for student learning is placed on the “learning coach,” typically
+the student’s parent/guardian, particularly in the early grades. Learning coaches facilitate
+their student’s progress through daily lessons and help manage the student’s schedule and
+pacing through the online program. Both schools have systems in place for closely
+monitoring student progress on a course-by-course basis. At GCVS and TECCA, guidance
+counselors and family engagement coordinators help learning coaches and students
+adjust to the virtual environment, support students’ nonacademic needs, and create a
+sense of community through face-to-face and virtual activities.
+GCVS reports that at the elementary level (grades K-5), in 2022-23, students received daily
+full class and small group live instruction in core academic subjects. At the middle school
+level (grades 6-8) student received 5 live lessons a week in each core academic subject.
+Art, Music, Physical Education, and Computer electives rotate each quarter and met live
+once per week. GCVS employs Family Engagement Liaisons (FELs) who provide support
+and assistance in addition to the support provided by the classroom teachers. Teachers
+alert the FELs to any individual family concerns who, in turn, work with those families on an
+individual basis to ensure proper support for students at home. As part of the school
+structure, GCVS also uses the following supports: Title I and English as a Second Language
+(ESL) services; Family Engagement; contracts for students with particular needs; Special
+14
+
+Education supports, in person meet-ups, extra help from teachers, dual enrollment with
+Greenfield Community College, use of GCVS Chromebooks with added security measures.
+TECCA reports that students in the elementary, middle, and high school are supported by
+their homeroom teachers and subject teachers, in addition to the supervision provided by
+the learning coach. Homeroom teachers are responsible for biweekly contact with each of
+their students, and during these calls, the teachers review the student’s overall progress in
+lessons and assignments, often with the learning coach present as well, depending on the
+grade level of the student. Subject teachers monitor student progress on a regular basis
+and analyze student performance on assessments so they can differentiate instruction,
+provide support to students in a small group or 1:1, as well as provide resources to support
+struggling students. In addition, the learning coach, who is often the student’s caretaker,
+facilitates their student’s progress and helps manage the student’s schedule, attendance,
+pacing through the online program, and provides outreach to teachers when help is
+needed. TECCA has additional support staff who also work to support all students to adjust
+to the virtual environment, support students’ both academic and non-academic needs,
+and assist in creating a sense of community through other face-to-face and virtual
+interactions and activities.
+Support for Online Course Completion
+As indicated above, both GCVS and TECCA, a “learning coach,” typically the student’s
+parent/guardian, facilitates student progress through daily lessons, with flexibility in terms
+of pace and scheduling. The schools expect learning coaches to spend three to five hours
+daily supporting students and students to spend five to six hours daily on schoolwork and
+homework. Teachers are expected to manage all facets of the student’s instructional
+experience and engage in regular communication with learning coaches and students via
+email, telephone, and online meetings. Further, both schools arrange face-to-face
+activities, such as field trips, throughout the school year.
+GCVS
+In 2022-23, GCVS supported its students in both the live and asynchronous platforms. All
+live sessions are recorded so that students can access them at any time. Teachers also
+schedule small group and individual intervention sessions as needed throughout the week,
+which may be recorded. Throughout the class, teachers constantly monitor a chat area,
+virtual whiteboard area where both students and teachers can post items, and verbal
+interaction via microphones or headsets. Break-out rooms can be created for individual or
+small groups of students during the live session to allow for differentiated
+instruction/assignments as needed. In terms of the GCVS “flex” (asynchronous) courses
+there are staff dedicated to supporting students in the asynchronous program, ESL staff
+work to monitor and shelter material, and the school provides a summer extension time.
+15
+
+The school also used ESSER funds to hire over 30 tutors to support students at all grade
+levels and in both the live and async platforms.
+In FY23, there were three full time Title I teachers and one paraprofessional. In addition to
+providing support for students performing below grade level, the high school Title I math
+teacher worked with the math team to develop and run Math Essentials courses, as well as
+an MCAS prep class. GCVS special education teachers support students with IEPs. Two
+English Learner (EL) teachers provided supports to students whose first language is not
+English. All general and special education teachers are either Sheltered English Immersion
+(SEI) endorsed or in the process of obtaining it, which enables them to support ELs in the
+regular classroom. Students who require accommodation under Section 504 have their
+assignments and curriculum modified by classroom teachers, as necessary, although
+many students enrolling with 504 plans found that the District Curriculum Accommodation
+Plan (DCAP) was sufficient to meet their needs. Students are identified for interventions
+and/or services are referred to the Tiered System of Support process, monitored by the
+three assistant principals and the Family Engagement Team.
+TECCA
+For 2022-23, TECCA reported that staff work to ensure families/students are aware of all
+expectations for high-quality online learning outcomes. Once enrolled, all
+students/families receive a welcome call typically within five school days by a homeroom
+teacher to ensure students/families begin the year with personal connection to a teacher,
+set up regular bi-weekly supportive contact for the student, and to begin establishing an
+understanding of the expectations both students and families will need to meet as the year
+progresses.
+TECCA also reports that it has a technical support system available to students and
+families who may be experiencing technical difficulties impeding their access to the school
+and course materials. Students, caretakers, and learning coaches have access to
+technical (hardware, software, and Connexus) support services from both Connections
+Education (TECCA’s contracted partner) personnel and by TECCA faculty and staff.
+Students, caretakers, and learning coaches have access to our extensive technical
+support services via webmail and email 24 hours a day, 7 days a week, and can call into
+the helpdesk.
+Additionally, TECCA has the role of student success coach in the middle and high schools
+to monitor a variety of student metrics, including academic performance, attendance, and
+course completion status. Student success coaches work directly with a group of
+homeroom students and complete a biweekly check in calls/meetings. In addition to
+student success coaches, general education teachers, guidance counselors, social
+workers, special education teachers, and virtual counselors, also monitor and support
+students who may require an additional layer of support and/or service. At the elementary
+level, grade level teachers or special education case managers act as homeroom teachers
+and perform these same responsibilities.
+16
+
+TECCA also has a family engagement coordinator for students who are struggling to meet
+engagement and attendance expectations. The staff work with both the student and the
+learning coach to create an academic plan in which the student/family sets goals and
+tracks progress toward meeting those goals.
+To support teachers and help to identify any gaps in completion or engagement, the District
+Leadership Team (DLT) met biweekly to review and discuss at-risk students. School leaders
+then used this information in their biweekly touch bases with their individual staff members
+to ensure that all students were receiving the support they needed. The DLT uses metrics to
+plan for upcoming professional development and ensure teachers had the resources and
+tools they needed to best engage students in learning.
+Professional Development
+According to GCVS, teachers met on a regular basis throughout the 2022-2023 school year.
+GCVS continued to hold full faculty meetings and/or team meetings by grade cluster to
+discuss data and share instructional strategies. GCVS created Professional Learning
+Communities (PLSs) to map the core curriculum. GCVS’s instructional leadership team
+met every other week. GCVS created time for special education teachers and general
+education teachers to collaborate multiple times a week.
+GCVS began the 2022-23 school year with four days of Professional Development in which
+the entire staff participates in presentations. Topics included: the evaluation process and
+school goals; co-teaching and inclusive practices; teaching students with IEPs and 504
+plans: review of regulations and processes; and specific technical tools and programs
+used by GCVS. Throughout the year, GCVS also provided content- and department-specific
+learning opportunities, such as training in the new ESL monitoring software.
+TECCA reported multiple professional developmental opportunities for its faculty and staff.
+Professional development topics included: New Staff Orientation, Mentoring and
+Induction; Special Populations Support and Differentiation; Power BI; Center for Behavioral
+Health, Equity and Leadership in Schools (BEHLS) Leadership Learning Team (LLT)
+Leadership Development and Coaching; BEHLS Teacher Leadership Professional
+Development; MCAS and STAR Trainings; Youth Mental Health First Aid; Book Studies;
+Supporting Multilingual Students Across the Content Areas; and Advisory.
+Recommended Changes to the Commonwealth
+Virtual School Program
+In FY20, the Department engaged consultants to help update the Commonwealth Virtual
+School Performance Criteria (Criteria). The Criteria were first developed in 2014 and
+17
+
+required updates. During the fall of 2019, the Department began a substantial review and
+revision process to update these Criteria to incorporate national best practices and
+standards for virtual school performance. By November 2022, the Department published
+the Criteria, which is in effect during the CMVS’ current certificate terms (2022 through
+2026).
+Pursuant to the virtual school statute, G.L. c. 71, § 94(j), and the CMVS regulations at 603
+CMR 52.11, on March 22, 2202, the Board of Elementary and Secondary Education (Board)
+renewed the certificates for GCVS and TECCA for an additional four years. The
+Commissioner recommended, and the Board also voted to place conditions9 on the
+schools’ certificates to address concerns related to academic performance and
+governance issues.
+Using quantitative and qualitative evidence, the Department evaluated the performance of
+both CMVSs against the statutory requirements for renewal10 and the Commonwealth
+Virtual School Performance Criteria. Based on evidence gathered, neither school was
+found to have fully delivered on the promises of its mission. In determining conditions, the
+Commissioner of Elementary and Secondary Education carefully considered each school’s
+history, each school’s student population, the limited accountability data due to the
+pandemic, and the track record of virtual schools in Massachusetts and nationwide. Key
+considerations follow.
+Focus group interviews with families of CMVS students demonstrate continued demand for
+a virtual option because it benefits students with unique circumstances. Evidence
+provided by families indicates that CMVSs provide a safe educational option for students
+with social and emotional needs, students who experienced bullying in traditional public
+schools, students with chronic medical conditions that make consistent attendance in-
+person difficult, and academically or athletically gifted students who desire more flexible
+programming. As noted in the table below, both GCVS and TECCA enroll students with
+disabilities/504 plans and low-income students at rates above state averages. Additionally,
+both CMVS enroll English learners at rates below state averages.
+Students with Students with Students who are English
+disabilities 504 plans low income learners
+% of GCVS 22.5 7.0 57.7 1.7
+% of TECCA 20.6 9.0 54.0 1.4
+% of State 18.9 5.0 43.8 11.0
+9 Pursuant to 603 CMR 52.12(1), the “Board or Commissioner may impose conditions on a virtual school's
+certificate for violations of law, failure to improve student achievement, failure to comply with the terms of the
+virtual school's certificate, or failure to remain viable.”
+10 “When deciding on certificate renewal, the board shall consider progress made in student academic achievement
+and whether the school has met its obligations and commitments under the certificate.” G.L. c. 71, §94(j).
+18
+
+Neither school’s results have consistently met academic standards set by the statewide
+accountability system. Despite coordinating testing locations across the state each year,
+both schools have struggled to meet the state assessment participation levels required by
+law, both schools produce results that are well below state averages,11 and both schools
+have been identified as performing in the lowest percentile levels across the state. Results
+of these two virtual schools are similar to the academic results seen in virtual schools
+nationwide.12 Further, the COVID-19 pandemic forced changes to MCAS administrations in
+2020 and 2021; these changes created a lack of academic data making it difficult to assess
+academic progress during the schools’ current certificate term. Renewing the schools’
+certificates with conditions that clearly outline areas for improvement or correction gives
+both schools additional time to demonstrate academic improvement and retains the
+Board’s ability to impose probation should the school’s performance worsen.
+For detailed information on the conditions placed on each certificate see the March 14,
+2022 memorandum from the Commissioner of Elementary and Secondary Education to the
+Board of Elementary and Secondary Education.
+During the 2022-23 school year, both GCVS and TECCA submitted evidence to the
+Department to demonstrate progress towards meeting these conditions. Also, upon
+renewal, the Department worked with both schools to revise and refine key organizational
+policies (e.g. boards of trustees’ bylaws, enrollment policies, accountability plans).
+Establishing and refreshing robust policies and procedures, can help each CMVS achieve
+more efficiency, consistency, and overall effectiveness, laying the groundwork for long-
+term sustainability and success. In addition, the Department continues to collaborate with
+others on a regional and national level to identify the best ways to support high-quality
+virtual educational programs, curriculum, and instructional practices.
+11 Student achievement rates at TECCA in 2021 exceeded or were comparable to state averages; students in grades 3
+through 8 took modified MCAS examinations and virtual testing was allowed.
+12 “Virtual Schools in the U.S. 2021” from the National Education Policy Center can be found at
+https://nepc.colorado.edu/publication/virtual-schools-annual-2021.
+19
+
+Appendix A: CMVS (G.L. c. 71 §94)
+Section 94. (a) As used in this section the following words shall, unless the context clearly requires otherwise,
+have the following meanings: —
+“Board,” the board of elementary and secondary education.
+“Commissioner”, the commissioner of elementary and secondary education.
+“Commonwealth virtual school”, a public school operated by a board of trustees whose teachers primarily
+teach from a remote location using the internet or other computer-based methods and whose students are
+not required to be located at the physical premises of the school.
+“Certificate”, a certificate of organization issued by the board to a commonwealth virtual school’s board of
+trustees which governs the operations of the commonwealth virtual school.
+“Department”, the department of elementary and secondary education.
+“District” or “school district”, the school department of a city, town, regional school district or county
+agricultural school.
+“Education collaborative,” an association of 2 or more school committees or boards of trustees of charter
+schools established pursuant to section 4E of chapter 40.
+(b) On or before October 1, the board shall issue a request for proposals to establish 1 or more
+commonwealth virtual schools; provided, however, that the board shall not be required to issue a request for
+proposals for any school year for which a certificate is not available to be awarded. The request for proposals
+shall be published on the department’s website. Persons or entities eligible to submit a proposal to establish
+a commonwealth virtual school shall include, but not be limited to: (i) a school district; (ii) 2 or more school
+districts; (iii) an education collaborative; (iv) an institution of higher education; (v) a non-profit entity; (vi) 2 or
+more certified teachers; or (vii) parents. Private and parochial schools and for-profit entities shall not be
+eligible to submit a proposal. A proposal shall be selected from the responses to the request for proposals
+and an applicant awarded a certificate under the procedures adopted by the board. The request for proposals
+shall include, but not be limited to, the following terms and conditions that shall be addressed in each
+response to the request for proposals and, upon selection by the board, shall be incorporated into the
+certificate to operate a commonwealth virtual school:
+(1) the mission, purpose and specialized focus, if any, of the proposed commonwealth virtual school;
+(2) the educational program, instructional methodology and services to be offered to students;
+(3) the organization of the school by ages of students or grades to be taught and an estimate of the total
+enrollment of the commonwealth virtual school;
+(4) the method for and timetable of admission to the commonwealth virtual school;
+(5) the commonwealth virtual school governance and by-laws;
+(6) the proposed school year;
+20
+
+(7) how the commonwealth virtual school shall administer state required assessment tests;
+(8) a statement of equal educational opportunity which shall state that the commonwealth virtual school shall
+be open to all students, on a space available basis, and shall not discriminate on the basis of race, color,
+national origin, religion, sex, gender identity or sexual orientation;
+(9) a description of any preferences the school shall give for enrollment and how the school shall conduct a
+lottery for admission if applications exceed enrollment capacity;
+(10) the identity of any third party software or curriculum vendors that the school intends to use;
+(11) a proposed arrangement or contract with an organization that shall manage or operate the school,
+including any proposed or agreed upon payments to such organization;
+(12) a demonstration of the applicant’s capacity to support and store all critical student, program and staff
+data for expedient retrieval and analysis in compliance with federal and state laws;
+(13) provisions for cyber safety;
+(14) how the school shall notify each school district in writing of the number and grade levels of students who
+shall be attending the commonwealth virtual school from that district within 10 days of the student registering
+for enrollment in the commonwealth virtual school;
+(15) whether the commonwealth virtual school will offer online courses to students attending other schools;
+(16) the financial plan for the operation of the school;
+(17) the number and qualifications of teachers and administrators to be employed;
+(18) the procedures for evaluation and professional development for teachers and administrators, including
+what training, if any, shall be provided to teachers who have not previously taught online;
+(19) the school’s capacity to address the particular needs of English language learners to learn English and
+learn content matter;
+(20) the school’s plan to conduct outreach to prospective students;
+(21) what supports shall be provided to students to help them complete courses, including the school’s
+strategies for ensuring that an enrolled student shall complete the program and goals regarding course
+completion and student achievement;
+(22) how the school will monitor student progress in order to identify areas of difficulty and assist students
+who need additional attention;
+(23) where relevant, what supports will be provided to help students prepare for college and careers;
+(24) the school’s capacity to support students’ social and emotional growth;
+(25) how the school shall create a community for students who are enrolled in the commonwealth virtual
+school;
+21
+
+(26) how the commonwealth virtual school applicant shall include activities to engage students;
+(27) what, if any, in person activities, learning or interaction will be provided or offered, including extra-
+curricular activities;
+(28) expectations for age appropriate supervision of students under the age of 14, if applicable;
+(29) a description of where students will access the school’s courses, including whether it is in the home or
+in a location provided and overseen by the commonwealth virtual school applicant;
+(30) methods to assure that all students shall have access to necessary technology and materials;
+(31) what technical support shall be available to students, including whether the commonwealth virtual
+school applicant shall offer an orientation for taking an online course before starting the coursework;
+(32) how the school shall define and monitor student attendance, including how it shall verify that each
+student is participating in classes, how truancy shall be addressed and goals regarding student attendance;
+(33) expectations and goals for communication between teachers and students and how such interaction
+shall be documented;
+(34) how the school shall involve parents and guardians as partners in the education of the children and goals
+for parental and family engagement;
+(35) the school’s capacity to implement the proposal and provide high quality instructional services;
+(36) the school’s capacity to instruct students in the following categories, if the school intends to serve any
+such students: (i) students with physical or other challenges that make it difficult for them to physically attend
+a school; (ii) students with medical needs requiring a home or hospital setting; (iii) students with unusual
+needs requiring a flexible schedule; (iv) students who are over-age for their grade; (v) students who have been
+expelled; (vi) students who have dropped out or are at risk of dropping out; (vii) students who are pregnant or
+have a child; (viii) students with social and emotional challenges that make it difficult for them to physically
+attend a school; (ix) students who feel bullied or cannot attend school because their safety is at risk; (x) gifted
+and talented students; (xi) students who seek academic work not available in their school; (xii) students in
+rural communities; and (xiii) students in institutionalized settings;
+(37) whether the school proposes a mechanism to provide meals to students eligible for free and reduced
+price lunch;
+(38) the student to teacher ratio; and
+(39) whether the school will establish a personalized learning plan for each student, in conjunction with the
+student’s school district of residence.
+(c) The board shall make the final determination on selecting proposals; provided, however, that the board
+shall only grant a certificate to a qualified applicant as determined by the board; provided further, that the
+board shall hold a public hearing on the proposals which shall be attended by at least 1 member of the board.
+Not more than 10 commonwealth virtual schools shall be allowed to operate in the commonwealth at any
+time; provided, however, that a commonwealth virtual school operated by a single school district, under an
+agreement entered into by more than 1 school district or by an education collaborative shall not be counted
+towards this limit if the commonwealth virtual school only enrolls students who reside in the school district,
+22
+
+in the school districts that signed the agreement or in the school districts that are members of an education
+collaborative. The board may authorize a single board of trustees to manage more than 1 commonwealth
+virtual school; provided, however, that each school is issued its own certificate. Under no circumstances
+shall the total number of full-time students attending commonwealth virtual schools exceed 2 per cent of the
+total number of students attending public schools in the commonwealth. In the case of a commonwealth
+virtual school that is established by a school district, not less than 5 per cent of the students enrolled in the
+commonwealth virtual school shall be from the school district that established the school. In the case of a
+commonwealth virtual school that is established by more than 1 school district or by an education
+collaborative, not less than 5 per cent of the students enrolled in the school shall be from the combined
+enrollment of the districts that established the school or the districts that are members of the education
+collaborative.
+The board shall give preference to proposals that include an educational program or specialized focus that
+appropriately addresses 1 or more of the following: students with physical or other challenges that make it
+difficult for them to physically attend a school; students with medical needs requiring a home or hospital
+setting; students with unusual needs requiring a flexible schedule; students who are over-age for their grade;
+students who have been expelled; students who have dropped out; students at risk of dropping out; students
+who are pregnant or have a child; students with social and emotional challenges that make it difficult for them
+to physically attend a school; students who feel bullied or cannot attend school because the students’ safety
+is at risk; gifted and talented students; students who seek academic work not available in their school;
+students in rural communities; and students in institutionalized settings. The board shall also consider
+whether proposed schools will create or enhance the opportunity for students to attend virtual schools in all
+grades from kindergarten through grade 12.
+(d) A commonwealth virtual school shall operate under a certificate issued by the board and be governed by
+a board of trustees. If a district or education collaborative operates the commonwealth virtual school, then
+the board of trustees shall be appointed by the member school committees of the district or the collaborative
+board. The board of trustees of a commonwealth virtual school, upon being granted a certificate, shall be
+deemed to be a public agent authorized by the commonwealth to supervise and control the commonwealth
+virtual school. A commonwealth virtual school shall be deemed to be a state agency under chapter 268A and
+members of the board of trustees shall be deemed to be public employees under chapter 268B.
+(e) The board of trustees of a commonwealth virtual school shall have all powers necessary or desirable for
+carrying out its virtual program, including, but not limited to, the power to:
+(1) adopt a name and corporate seal; provided, that any name selected shall include the words
+“commonwealth virtual school”;
+(2) acquire real property, from public or private sources, by lease, lease with an option to purchase or by gift,
+for use as a school facility;
+(3) receive and disburse funds for school purposes;
+(4) incur temporary debt in anticipation of receipt of funds; provided that, notwithstanding any general or
+special law to the contrary, the terms of repayment of any commonwealth virtual school’s debt shall not
+exceed the duration of the school’s certificate without the approval of the board;
+(5) solicit and accept grants or gifts for school purposes; and
+(6) determine the school’s curriculum and develop the school’s annual budget.
+23
+
+(f) A commonwealth virtual school may provide access to its courses in an existing public school building or
+any other suitable location; provided, however, that a commonwealth virtual school shall comply with all
+applicable state and federal health and safety laws and regulations.
+(g) The board may waive requirements that students who attend a commonwealth virtual school, attend
+school for a minimum number of hours or days each school year and may permit students to earn credits by
+demonstrating competency in a grade or subject matter. Students in commonwealth virtual schools shall be
+required to meet the same academic standards, testing and portfolio requirements set by the board for
+students in other public schools.
+To ensure that students are learning and demonstrating their knowledge, each commonwealth virtual school
+shall ensure that students are provided, in each credit-bearing course, multiple synchronous learning
+opportunities with their teachers in which students are required to participate and share their knowledge.
+(h) Commonwealth virtual schools shall comply with chapter 71B; provided, however, that the fiscal
+responsibility for a student with a disability enrolled in or determined to require a private day or residential
+school shall remain with the school district where the student resides. If a commonwealth virtual school
+expects that a student with a disability enrolled in the commonwealth virtual school may be in need of the
+services of a private day or residential school, it shall convene an individualized education program team
+meeting for the student. Notice of the team meeting shall be provided to the special education department of
+the school district in which the child resides at least 5 days in advance. Personnel from the school district in
+which the child resides shall participate in the team meeting concerning future placement of and services for
+the child and shall agree on the needed services for the child.
+(i) No teacher shall be hired by a commonwealth virtual school who is not certified pursuant to section 38G.
+Nothing herein shall preclude such teacher from using digital content which may include, but not be limited
+to, guest lecturers.
+(j) A certificate to operate a commonwealth virtual school granted by the board shall be for not less than 3
+years and not more than 5 years, as determined by the board. The board shall develop procedures and
+guidelines for amending, revoking and renewing a virtual school’s certificate. When deciding on certificate
+renewal, the board shall consider progress made in student academic achievement and whether the school
+has met its obligations and commitments under the certificate.
+(k) The amount of tuition per pupil a school district shall pay for a student residing in the district who is
+enrolled in a commonwealth virtual school shall be the school choice tuition amount, which shall be paid
+through the school choice mechanism; provided, that the department may, in consultation with the
+operational services division, approve alternative tuition amounts proposed by applicants that shall not
+exceed the state average per pupil foundation budget for students of the same classification and grade level;
+provided, further, that the department may authorize additional tuition assessments for services required by
+an individualized education program established pursuant to chapter 71B. If a commonwealth virtual school
+offers online courses to students attending other schools, the commonwealth virtual school shall work with
+the student’s district or school to determine whether the online courses meet said district’s or school’s
+standards and requirements and what the commonwealth virtual school will charge the student’s district or
+school for such online courses.
+The department may retain not more than $75 per pupil for the administration of the commonwealth virtual
+school program.
+24
+
+The department, in consultation with the department of youth services, shall determine the appropriate
+tuition responsibility for students who are in the custody of the department of corrections, a sheriff or the
+department of youth services.
+Students enrolled in a commonwealth virtual school shall be counted in the foundation enrollment of the
+school district where the student resides.
+(l) The department shall promulgate rules and regulations creating a reporting requirement for a
+commonwealth virtual school’s net asset balance at the end of each fiscal year; provided, however, that the
+report shall include, but not be limited to: (1) the revenue and expenditures for the prior fiscal year with a
+specific accounting of the uses of public and private dollars; (2) compensation and benefits for teachers,
+staff, administrators, executives and members of the board of trustees; (3) the amount of funds paid to a
+management company; (4) the sources of surplus funds, specifically whether the funds are private or public;
+(5) how surplus funds were used in the previous fiscal year; and (6) the planned use of surplus funds in the
+upcoming fiscal year and in future fiscal years. The board may establish limits for excess funds that may be
+retained by commonwealth virtual schools and may require commonwealth virtual schools to return excess
+funds to school districts.
+(m) Each commonwealth virtual school shall submit an annual report, on or before January 1, to the board.
+The school shall make its report available to the public on its website. The annual report shall be in such form
+as may be prescribed by the board and shall include, but not be limited to: (1) a discussion of progress made
+toward the achievement of the goals set forth in the certificate; (2) a list of the programs and courses offered;
+(3) a description and number of the students enrolled in the commonwealth virtual school by grade level, the
+number of students eligible for free and reduced price lunch and the number of students who applied and
+were not admitted; (4) a financial statement describing by appropriate categories the revenue and
+expenditures for the prior fiscal year and a balance sheet describing the commonwealth virtual school’s
+assets, liabilities and fund balances or equities; (5) information regarding and a discussion of student
+attendance and participation; (6) information regarding and a discussion of student-teacher interaction; (7)
+information regarding and a discussion of student performance in the commonwealth virtual school,
+including data from state assessments and a comparison of students’ achievement against the achievement
+of the students in the sending district; (8) a discussion of how many courses were completed and not
+completed; (9) a discussion of how the school created a community for students; (10) what activities were
+included to engage students and how students participated in those activities; (11) a discussion of parental
+involvement; and (12) a discussion of the school’s outreach and recruitment efforts; provided, however, that
+said report shall include input from teachers and administrators at the virtual school and input from
+administrators in a district that has established a virtual school or districts that are members of an education
+collaborative that has established a virtual school.
+(n) Each commonwealth virtual school shall maintain an accurate account of all its activities and all its
+receipts and expenditures and shall annually conduct an independent audit of its accounts. Such audit shall
+be filed annually on or before January 1 with the department and the state auditor and shall be in a form
+prescribed by the state auditor. The state auditor may investigate the budget and finances of commonwealth
+virtual schools and their financial dealings, transactions and relationships and shall have the power to
+examine the records of commonwealth virtual schools and to prescribe methods of accounting and the
+rendering of periodic reports.
+(o) On or before September 1, the commissioner shall furnish a supplemental report on the Massachusetts
+comprehensive assessment system performance results of students served by each commonwealth virtual
+school and on the racial, ethnic and socio-economic make-up of the students served by each commonwealth
+virtual school. The commissioner shall also provide information on the number of students enrolled in each
+commonwealth virtual school who have individualized education programs pursuant to chapter 71B. The
+department shall make such report available to the public on the department’s website.
+25
+
+(p) On or before September 1, the commissioner shall prepare a report on the implementation and impact of
+this section, including, but not limited to:
+(1) the fiscal impact on sending districts;
+(2) any necessary adjustments to tuition rates, including whether the amount should vary based on grade or
+type of school and the appropriate mechanism for funding virtual schools;
+(3) information on course completion and student attendance and participation rates;
+(4) the academic achievement of students attending commonwealth virtual schools;
+(5) the level of supervision or support needed for students in elementary and middle school;
+(6) the support necessary or helpful to ensure that students successfully complete online courses;
+(7) the professional development virtual schoolteachers require;
+(8) the appropriate enrollment limit for a virtual school, if any, including information about wait lists; and
+(9) the need for any changes to the commonwealth virtual school program.
+The report shall be based partially on information in each commonwealth virtual school’s annual report and
+financial audits. This report shall include input from virtual schoolteachers and administrators. The
+commissioner shall consult with the digital learning advisory council to prepare this report. The
+commissioner shall file the report with the clerks of the house and senate, who shall forward the report to the
+joint committee on education. The department shall make the report available to the public on the
+department’s website.
+(q) The commissioner shall identify and offer information on online courses which are aligned with state
+academic standards that districts may use and shall publish that list on the department’s website. At least 1
+of the online courses listed shall be available at no cost to school districts, provided that such no cost online
+course is aligned with state academic standards. The list shall be reviewed and updated annually. Nothing in
+this subsection shall preclude school districts from using other courses not identified by the commissioner.
+(r) The board may promulgate regulations for implementation and enforcement of this section, provided that
+the regulations may include, but shall not be limited to, a provision indicating the appropriate percentage of
+online academic instruction provided for a school to be considered a commonwealth virtual school pursuant
+to this section. Upon release of the proposed regulations, the board shall file a copy of the regulations with
+the clerks of the house of representatives and the senate, who shall forward the regulations to the joint
+committee on education. Within 30 days of the filing, the committee may hold a public hearing and issue a
+report on the regulations and file the report with the board. The board, pursuant to applicable law, may adopt
+final regulations making revisions to the proposed regulations as it deems appropriate after consideration of
+the report and shall file a copy of the regulations with the chairpersons of the joint committee on education
+and, not earlier than 30 days after the filing, the board shall file the final regulations with the state secretary.
+(s) Nothing in this section shall preclude a student from taking some or all of the student’s classes online
+when such classes are offered or approved by the school the student attends or by an education collaborative
+in which the student’s school district participates.
+26
+
+This section shall not apply to a virtual school operated by a single school district if the school enrolls only
+students residing in the school district; provided, however, that such district shall submit a summary
+description of the proposed virtual school to the commissioner for review and comment at least 4 months in
+advance of the opening of the virtual school. The commissioner shall then provide written comments on the
+proposal to each district’s school committee.
+(t) A school committee may, by vote, restrict enrollment of its students in commonwealth virtual schools if
+the total enrollment of its students in commonwealth virtual schools exceeds 1 per cent of the total
+enrollment in its district; provided, however, that no student enrolled in a commonwealth virtual school shall
+be compelled to withdraw as a result of that vote.
+27
+
+Appendix B: CMVS Tuition by Sending District, FY2313
+Sorted by FY23 FTE CMVS enrollment.
+Sending District FTE Tuition
+Boston 290.3 $2,950,679
+Springfield 233.8 2,397,379
+Worcester 169.1 1,735,978
+New Bedford 111.9 1,114,399
+Chicopee 98.2 965,155
+Fall River 94.4 940,028
+Lynn 81.6 796,222
+Lowell 72.9 743,663
+Fitchburg 54.2 555,132
+Holyoke 51.2 545,992
+Taunton 51.9 496,895
+Haverhill 49.7 491,761
+Lawrence 44.6 462,607
+Framingham 46.9 458,855
+Brockton 42.7 422,248
+Saugus 39.3 384,339
+Methuen 38.1 370,282
+Westfield 33.8 348,038
+Plymouth 33.9 343,618
+Shrewsbury 35.4 341,541
+Pittsfield 35.6 340,262
+Randolph 33.4 336,533
+Agawam 31.0 328,631
+Barnstable 32.8 322,451
+Marlborough 31.4 317,924
+Medford 29.8 316,364
+Everett 32.4 316,169
+Quincy 29.8 298,323
+Leominster 28.4 293,913
+Watertown 28.5 274,259
+Wachusett 27.7 266,303
+Dracut 26.3 261,044
+Ludlow 25.8 257,746
+Franklin 26.3 252,120
+13 choice-tuition2023.xlsx (live.com)
+28
+
+Waltham 24.8 250,107
+Weymouth 24.6 249,241
+North Attleborough 25.5 249,082
+Revere 26.2 249,059
+Dartmouth 26.0 248,866
+Hampden-Wilbraham 24.4 241,966
+Woburn 24.7 239,337
+North Adams 22.4 237,181
+Gardner 22.9 236,786
+Webster 23.6 231,995
+Bridgewater-Raynham 24.4 230,177
+Malden 23.9 223,523
+Freetown-Lakeville 23.1 223,221
+Northampton 22.4 220,520
+Middleborough 20.7 216,520
+Milford 22.4 212,267
+Stoughton 20.6 207,831
+Attleboro 21.1 205,170
+Dudley-Charlton Reg 19.8 203,860
+Billerica 20.8 203,151
+Braintree 19.6 194,128
+Greenfield 20.3 192,936
+Easthampton 17.8 190,857
+Mansfield 18.3 189,405
+Tantasqua 14.6 181,666
+North Middlesex 17.8 178,140
+Norwood 17.0 177,655
+Gloucester 17.3 175,056
+Ashburnham-Westminster 17.8 174,580
+Wareham 16.6 172,166
+Quabbin 15.4 171,779
+Danvers 15.7 168,030
+Foxborough 16.4 168,014
+East Longmeadow 16.7 164,681
+Beverly 16.5 163,840
+Falmouth 14.8 159,703
+Salem 15.9 159,119
+Dennis-Yarmouth 15.4 158,857
+West Springfield 15.7 158,349
+Southbridge 15.4 155,888
+Melrose 16.7 155,881
+Easton 16.5 155,523
+29
+
+Northbridge 15.3 154,599
+Chelsea 15.3 153,761
+South Hadley 15.9 153,178
+Burlington 15.9 152,549
+Nauset 14.9 149,701
+Central Berkshire 15.9 149,342
+Westborough 15.1 146,537
+King Philip 15.6 145,252
+Triton 15.2 143,881
+Andover 14.0 138,814
+Mashpee 14.2 138,693
+Swansea 14.1 137,593
+Ware 12.0 134,127
+Whitman-Hanson 11.8 132,655
+Sharon 13.7 132,261
+Bellingham 13.9 130,942
+East Bridgewater 12.7 127,695
+Walpole 13.1 126,238
+Tyngsborough 12.5 125,464
+Westport 13.1 125,026
+Tewksbury 12.2 123,241
+Oxford 12.4 122,970
+North Andover 12.4 121,050
+Hudson 12.3 118,500
+Newton 12.7 118,487
+Reading 12.6 118,171
+Grafton 11.6 117,683
+Arlington 11.1 117,676
+Canton 11.3 114,228
+Sandwich 12.2 113,934
+Winchendon 11.3 113,499
+Dighton-Rehoboth 11.9 111,275
+Cambridge 11.2 111,202
+Gill-Montague 10.6 111,171
+Quaboag Regional 11.6 109,909
+Dedham 11.6 109,832
+Abington 11.6 109,332
+Marshfield 11.2 109,138
+Swampscott 10.3 107,260
+Millbury 11.4 106,830
+Northboro-Southboro 10.7 106,574
+Amesbury 11.3 105,800
+30
+
+Peabody 10.9 104,390
+Uxbridge 10.8 104,373
+Athol-Royalston 9.6 103,363
+Blackstone-Millville 10.2 102,467
+Chelmsford 9.9 100,517
+Leicester 9.8 99,953
+Lexington 10.2 99,865
+Holbrook 10.3 98,361
+Natick 10.3 98,340
+Monomoy Regional School District 9.1 97,854
+Pembroke 9.7 95,854
+Westwood 9.0 94,861
+Wilmington 10.1 93,899
+Ayer Shirley School District 9.3 92,461
+Groton-Dunstable 10.0 91,840
+Lunenburg 8.6 89,303
+Belchertown 9.2 88,505
+Fairhaven 8.7 88,441
+Somerville 9.6 88,074
+Amherst-Pelham 8.7 87,413
+Mount Greylock 7.9 85,325
+Ralph C Mahar 8.5 84,898
+Seekonk 8.4 82,357
+Narragansett 8.9 81,645
+Palmer 8.0 80,976
+Hampshire 8.4 77,329
+Somerset Berkley Regional School District 7.7 76,988
+Wakefield 7.4 76,281
+Bourne 7.8 75,368
+Maynard 7.4 74,462
+Westford 7.4 74,336
+Brookline 6.8 73,666
+Newburyport 7.1 73,195
+Stoneham 7.0 72,837
+Masconomet 6.9 72,197
+Needham 7.4 71,163
+Auburn 7.2 69,580
+Sutton 6.6 69,501
+Norwell 4.4 68,528
+Norton 7.3 67,319
+Douglas 7.2 67,021
+Georgetown 7.2 66,308
+31
+
+North Reading 7.0 65,339
+Old Rochester 7.0 64,471
+West Bridgewater 6.8 63,943
+Nashoba 6.2 63,613
+Ashland 5.9 63,507
+Milton 6.5 62,440
+Gateway 6.6 62,092
+Longmeadow 6.0 61,415
+Belmont 6.6 61,358
+Marblehead 6.4 60,798
+Acushnet 5.8 60,708
+Rockland 6.3 60,080
+Hamilton-Wenham 5.6 56,791
+Frontier 5.9 56,762
+Kingston 6.2 56,574
+Hopedale 5.0 54,940
+Pentucket 4.9 54,572
+Hoosac Valley Regional 5.3 54,534
+Southwick-Tolland-Granville Regional School
+District 5.6 54,261
+Acton-Boxborough 5.5 54,164
+Holliston 4.9 54,097
+Lynnfield 5.0 51,677
+West Boylston 5.3 50,776
+Pioneer Valley 4.9 48,137
+Silver Lake 5.2 47,757
+Granby 4.8 46,995
+Hingham 4.7 46,874
+Wellesley 4.9 46,494
+Southern Berkshire 4.8 46,343
+Littleton 4.1 45,557
+Amherst 4.8 43,808
+Clinton 4.5 42,940
+Winchester 4.5 41,690
+Mendon-Upton 4.4 40,711
+Millis 4.3 40,273
+Spencer-E Brookfield 4.4 40,226
+North Brookfield 4.0 39,749
+Holland 3.9 37,205
+Berlin-Boylston 4.0 36,920
+Monson 3.9 36,747
+Nantucket 3.9 36,001
+32
+
+Plainville 3.9 35,909
+Avon 3.0 35,671
+Mohawk Trail 3.4 35,514
+Hadley 3.0 34,746
+Berkshire Hills 3.1 34,220
+Winthrop 3.6 34,093
+Richmond 3.5 31,960
+Hopkinton 3.0 31,719
+Somerset 3.1 30,763
+Hatfield 3.0 30,158
+Erving 3.0 29,403
+Middleton 3.2 28,930
+Orange 3.1 28,838
+Northborough 2.5 28,196
+Rockport 2.8 28,174
+Lincoln 3.0 27,552
+Scituate 2.5 26,581
+Southborough 2.9 26,450
+Lenox 2.8 26,082
+Cohasset 2.8 26,028
+Ipswich 2.4 25,622
+Dover-Sherborn 2.0 25,151
+Medfield 2.5 23,236
+Lee 2.5 22,960
+Medway 2.4 21,767
+Hanover 2.4 21,766
+Savoy 2.0 20,584
+Manchester Essex Regional 1.9 20,467
+Farmington River Reg 2.0 20,032
+Bedford 2.0 19,757
+Concord 2.1 19,470
+Lincoln-Sudbury 2.0 19,360
+Berkley 2.0 18,368
+Harvard 2.0 18,368
+Sudbury 2.0 18,368
+Sunderland 2.0 18,368
+Hull 1.7 15,980
+Carver 1.3 11,664
+Duxbury 1.0 10,249
+Wayland 1.1 10,102
+Petersham 1.1 9,736
+Concord-Carlisle 1.0 9,184
+33
+
+Marion 1.0 9,184
+New Salem-Wendell 1.0 9,184
+Sturbridge 1.0 9,184
+Worthington 1.0 9,000
+Clarksburg 0.9 8,082
+Wales 0.4 6,645
+Martha's Vineyard 0.5 4,408
+Chesterfield-Goshen 0.3 2,663
+Pelham 0.2 1,469
+Edgartown 0.1 1,102
+Weston 0.1 735
+Wrentham 0.1 459
+Grand 4,146.7 $41,437,450
+34
+
+Appendix C: CMVS Academic Achievement Data
+The Department did not issue school, district, or state accountability determinations for
+the 2019-2020 school year due to the cancellation of state assessments and school
+closures related to COVID-19. Additionally, the Department did not issue school, district, or
+state accountability determinations in 2021; spring 2021 MCAS administration included a
+partial test for grades 3-8 and some grade 3-8 students took the assessment remotely. All
+Massachusetts schools administered the full MCAS for grades 3-8 and 10 during the spring
+of 2022. Due to prior data disruption, the Department published some, but not all, of the
+data for the statewide accountability system in 2022. The Department published all data
+available for the statewide accountability system in 2023, based on two years of MCAS
+administration (2022 and 2023).
+Next Generation MCAS Tests of Spring 2023 - Percent of Students at Each Achievement Level for GCVS
+
+Next Generation MCAS Tests of Spring 2023 - Percent of Students at Each Achievement Level for TECCA
+
+[DELETED: . ]
+[DELETED:  gD]
+[DELETED: . eo3.S.]
+[DELETED:  E C P C C C I C P C ( 2 1 0 1 1 1 1 3 2 2 2 9 2 9 3 2 1 2 9 2 9 4 3 5 3 9 2 9 4 3 2 2 9 2 9 5 3 1 3 9 3 9 7 6 5 5 9 5 9 6 5 1 5 9 4 8 1 8 4 8 9 7 8 1 1 1 9 8 7 7 1 1 8 1 9 8 8 1 1 1 1 9 1 8 1 1 1 1 9 1 8 9 8 6 8 9 7 9 E C]
+[DELETED:  C C C C C C C C B C D E F GnC C C C C A I C P P 5 6 0 6 1 6 6 0 6 1 6 6 1 6 9 7 8 1 8 9 9 1 4 1 9 1 1 8 1 9 1 1 4 1 9 2 2 9 2 9 2 3 6 2 9 3 4 4 4 9 3 4 4 4 9 3 4 4 4 9 3 4 7 4 9 2 2 2 2 9 2 8 E C C C]
+[DELETED:  C C C C C C St % 9 4 0 9 1 0 9 1 0 9 1 0 9 2 0 9 2 0 9 2 0 9 3 0 9 3 0 9 4 0.]
+[DELETED:  2]
+[DELETED: s l S S S E 5 l l 2 7 5 1 2 9 5 1 1 5 4 1]
+[DELETED: , . ]
+[DELETED:  O o b O 1 t b s i a r f p t e 1 o m]
+[DELETED:  v s t i e b m t 1 s d o b a e a a n a c s p t a n s s i t w]
+[DELETED:  e t s a p i e c c m s l C v s s c w c 7 p h t t f t s c m p t t d m i c w t]
+[DELETED:  T d s p r a r c a r r f a n a ( a f s d b a c t r a l a f b o e ( i r a a d o s r a a d o s p i t c v s r s i i f t a a a t v s a i f]
+[DELETED:  a T r s i i f v s a a T s c w t d l a c t p t r T c o e T d s m t r a t t p o t]
+[DELETED:  r i t s d p h t s d s s a s t e o i s i c v s e 1 p c o t t]
+[DELETED: 3 F T 2 $ 2 2 1 1 1 1 9 9 9 9 8 7 7 7 5 5 5 5 5 4 4 4 4 4 4 4 4 4 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 2 3 3 3 2 2 2 2 2 2 2 2 2 2 2 2 2 2]
+[DELETED:  2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 1 2 2 2 1 1 2 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1]
+[DELETED:  1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1]
+[DELETED:  1 1 1 1 9 1 1 1 9 1 9 9 1 9 1 9 1 9 9 9 9 9 9 9 1 9 9 9 1 9 8 8 9 8 8 8 9 8 8 8 7 8 8 8 8 8 8 8 8 8 8 7 7 7 7 7 7 7 7 7 7 7 6 7 7 7 7 7 6 7 7 7 7 6 6 6 4 6 7 6 7 6 7 6]
+[DELETED:  7 6 7 6 6 6 6 6 5 6 6 6 6 6 6 6 6 6 6 6 5 6 6 6 5 5 5 5 6 5 5 5 4 5 5 5 5 5 5 5 4 5 5 5 5 5 4 4 5 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 3 3 3 4 3 3 3 3 3]
+[DELETED:  3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 2 3 2 3 2 2 2 2 2 3 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 1 2 2 2 2 1 2 1 2 1 2 1 2 1 2 1 2 1 1 1 1 1 1 1 1 1 1 9 1 9]
+[DELETED:  1 9 1 9 1 9 1 9 0 8 0 6 0 4 0 2 0 1 0 1 0 7 0 4 4 $]

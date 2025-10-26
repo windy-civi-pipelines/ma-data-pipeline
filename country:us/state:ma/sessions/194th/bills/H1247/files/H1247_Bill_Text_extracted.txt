@@ -1,0 +1,695 @@
+Title: To the Honorable Senate and House of Representatives of the Commonwealth of Massachusetts in General
+Official Title: To the Honorable Senate and House of Representatives of the Commonwealth of Massachusetts in General
+Number of Sections: 1
+Source: versions - Bill Text
+Media Type: application/pdf
+Strikethrough Detection: 15 sections found
+
+================================================================================
+
+Section 1:
+HOUSE DOCKET, NO. 935 FILED ON: 1/14/2025
+HOUSE . . . . . . . . . . . . . . . No. 1247
+The Commonwealth of Massachusetts
+_________________
+PRESENTED BY:
+Kate Lipper-Garabedian and Thomas M. Stanley
+_________________
+Court assembled:
+The undersigned legislators and/or citizens respectfully petition for the adoption of the accompanying bill:
+An Act relative to preventing fraud and establishing regulations on certain virtual currencies.
+_______________
+PETITION OF:
+NAME: DISTRICT/ADDRESS: DATE ADDED:
+Kate Lipper-Garabedian 32nd Middlesex 1/14/2025
+Thomas M. Stanley 9th Middlesex 1/14/2025
+Tara T. Hong 18th Middlesex 1/29/2025
+Brian W. Murray 10th Worcester 2/12/2025
+Sean Reid 11th Essex 2/12/2025
+Colleen M. Garry 36th Middlesex 2/12/2025
+Lindsay N. Sabadosa 1st Hampshire 2/12/2025
+Jessica Ann Giannino 16th Suffolk 3/11/2025
+Erika Uyterhoeven 27th Middlesex 3/27/2025
+Patrick Joseph Kearney 4th Plymouth 3/27/2025
+James C. Arena-DeRosa 8th Middlesex 3/27/2025
+Steven Owens 29th Middlesex 3/27/2025
+Jason M. Lewis Fifth Middlesex 3/27/2025
+Susannah M. Whipps 2nd Franklin 3/27/2025
+Bruce E. Tarr First Essex and Middlesex 4/8/2025
+Carmine Lawrence Gentile 13th Middlesex 4/16/2025
+Samantha Montaño 15th Suffolk 4/16/2025
+Richard G. Wells, Jr. 7th Norfolk 5/21/2025
+1 of 2
+Patricia A. Duffy 5th Hampden 7/18/2025
+Ryan C. Fattman Worcester and Hampden 7/23/2025
+Joan B. Lovely Second Essex 7/23/2025
+Adrian C. Madaro 1st Suffolk 7/31/2025
+Natalie M. Higgins 4th Worcester 8/27/2025
+Lisa Field 3rd Bristol 8/28/2025
+Sally P. Kerans 13th Essex 10/8/2025
+Aaron L. Saunders 7th Hampden 10/8/2025
+Jennifer Balinsky Armini 8th Essex 10/23/2025
+Bradley H. Jones, Jr. 20th Middlesex 10/23/2025
+Kristin E. Kassner 2nd Essex 10/23/2025
+2 of 2
+HOUSE DOCKET, NO. 935 FILED ON: 1/14/2025
+HOUSE . . . . . . . . . . . . . . . No. 1247
+By Representatives Lipper-Garabedian of Melrose and Stanley of Waltham, a petition
+(accompanied by bill, House, No. 1247) of Kate Lipper-Garabedian, Thomas M. Stanley and
+others relative to regulations on certain virtual currencies. Financial Services.
+The Commonwealth of Massachusetts
+_______________
+In the One Hundred and Ninety-Fourth General Court
+(2025-2026)
+_______________
+An Act relative to preventing fraud and establishing regulations on certain virtual currencies.
+Be it enacted by the Senate and House of Representatives in General Court assembled, and by the authority
+of the same, as follows:
+1 SECTION 1. The General Laws, as appearing in the 2022 Official Edition, are hereby
+2 amended by inserting after Chapter 167J the following new chapter:-
+3 Chapter 167K Regulation of Virtual Currency Kiosks
+4 Section 1. As used in this chapter, the following words shall, unless the context clearly
+5 requires otherwise, have the following meanings:
+6 1. New customer. “New customer” means an individual who has never previously
+7 transacted with the virtual currency kiosk operator. The new customer shall remain defined as
+8 such during the thirty (30) day period after the first financial transaction with the virtual currency
+9 kiosk operator.
+1 of 13
+10 2. Virtual currency address. "Virtual currency address" means an alphanumeric
+11 identifier associated with a virtual currency wallet identifying the location to which a virtual
+12 currency transaction can be sent.
+13 3. Transaction hash. "Transaction hash" means a unique identifier made up of a
+14 string of characters that act as a record of and provide proof that the transaction was verified and
+15 added to the blockchain.
+16 4. Virtual currency wallet. "Virtual currency wallet" means a software application or
+17 other mechanism providing a means to hold, store or transfer virtual currency.
+18 5. Virtual currency kiosk. "Virtual currency kiosk" means an electronic terminal
+19 acting as a mechanical agent of the virtual currency kiosk operator to enable the virtual currency
+20 kiosk operator to facilitate the exchange of virtual currency for money, bank credit, or other
+21 virtual currency, including but not limited to by (1) connecting directly to a separate “virtual
+22 currency exchange" that performs the actual virtual currency transmission, or (2) drawing upon
+23 the virtual currency in the possession of the electronic terminal's operator.
+24 6. Virtual currency kiosk operator. “Virtual-currency kiosk operator" means a
+25 person that engages in virtual-currency business activity via a money transmission kiosk located
+26 in this State or a person that owns, operates, or manages a money transmission kiosk located in
+27 this State through which virtual-currency business activity is offered.
+28 7. Virtual currency kiosk transaction. "Virtual currency kiosk transaction" means a
+29 transaction conducted or performed, in whole or in part, by electronic means via a virtual
+30 currency kiosk. Virtual currency kiosk transaction also means a transaction made at a virtual
+2 of 13
+31 currency kiosk to purchase virtual currency with fiat currency or to sell virtual currency for fiat
+32 currency.
+33 8. Blockchain. “Blockchain” means a mathematically secured, chronological and
+34 decentralized ledger or database.
+35 9. Blockchain analytics. “Blockchain analytics” means the analysis of data from
+36 blockchains or public distributed ledgers, including associated transaction information.
+37 10. Blockchain analytics software. “Blockchain analytics software” means a software
+38 service that uses blockchain analytics data to provide risk-specific information about virtual
+39 currency wallet addresses, among other things.
+40 11. Commissioner. “Commissioner” means the commissioner of banks.
+41 Section 2. A kiosk operator shall not engage in virtual-currency business activity or hold
+42 itself out as being able to engage in virtual-currency business activity with or on behalf of
+43 another person unless the kiosk operator is licensed in the state as a money transmitter.
+44 a. A virtual currency kiosk operator shall not locate, or allow a third party to locate,
+45 a virtual currency kiosk in this State unless the virtual currency kiosk operator registers the
+46 money transmission kiosk and obtains the prior approval of the commissioner for its activation.
+47 b. Each virtual currency kiosk operator shall submit a quarterly report of the location
+48 of each virtual currency kiosk located within the State within 45 days of the end of the calendar
+49 quarter. The location report shall include, at a minimum, the following regarding the location
+50 where a virtual currency kiosk is located:
+51 i. Company legal name;
+3 of 13
+52 ii. Any fictitious or trade name;
+53 iii. Physical address;
+54 iv. Start date of operation of virtual currency kiosk at location;
+55 v. End date of operation of virtual currency kiosk at location, if applicable; and
+56 vi. Virtual currency address(es) associated with the virtual currency kiosk
+57 Section 3. A virtual currency kiosk operator must disclose in a clear, conspicuous, and
+58 easily readable manner in the chosen language of the customer, all relevant terms and conditions
+59 generally associated with the products, services, and activities of the virtual currency kiosk
+60 operator and virtual currency.
+61 a. Acknowledgment of disclosures. The virtual currency kiosk operator must receive
+62 acknowledgement of receipt of all disclosures required under this section via confirmation of
+63 consent.
+64 b. Relevant disclosures. The disclosures under this subdivision must address at least
+65 the following:
+66 i. A warning, written prominently and in bold type, and provided separately from
+67 the disclosures below, stating: "WARNING: LOSSES DUE TO FRAUDULENT OR
+68 ACCIDENTAL TRANSACTIONS ARE NOT RECOVERABLE AND TRANSACTIONS IN
+69 VIRTUAL CURRENCY ARE IRREVERSIBLE. VIRTUAL CURRENCY TRANSACTIONS
+70 MAY BE USED TO STEAL YOUR MONEY BY CRIMINALS IMPERSONATING THE
+71 GOVERNMENT, ORGANIZATIONS, OR YOUR LOVED ONES. THEY CAN THREATEN
+72 JAIL TIME, SAY YOUR IDENTITY HAS BEEN STOLEN, ALLEGE YOUR COMPUTER
+4 of 13
+73 HAS BEEN HACKED, INSIST YOU WITHDRAW MONEY FROM YOUR BANK
+74 ACCOUNT TO PURCHASE VIRTUAL CURRENCY, OR A NUMBER OF OTHER SCAMS.
+75 IF YOU BELIEVE YOU ARE BEING SCAMMED, CALL YOUR LOCAL LAW
+76 ENFORCEMENT."
+77 ii. The material risks associated with virtual currency and virtual currency
+78 transactions, including:
+79 1. A warning that once completed, the transaction may not be reversed;
+80 2. The virtual currency kiosk operator’s liability for unauthorized virtual currency
+81 transactions;
+82 3. The virtual currency kiosk customer’s liability for unauthorized currency
+83 transactions;
+84 4. Virtual currency is not legal tender, backed or insured by the government, and
+85 accounts and value balances are not subject to Federal Deposit Insurance Corporation, National
+86 Credit Union Administration, or Securities Investor Protection Corporation protections;
+87 5. Some virtual currency transactions are deemed to be made when recorded on a
+88 public ledger which may not be the date or time when the person initiates the transaction;
+89 6. Virtual currency's value may be derived from market participants' continued
+90 willingness to exchange fiat currency for virtual currency, which may result in the permanent
+91 and total loss of a particular virtual currency's value if the market for virtual currency disappears;
+92 7. A person who accepts a virtual currency as payment today is not required to
+93 accept and might not accept virtual currency in the future
+5 of 13
+94 8. The volatility and unpredictability of the price of virtual currency relative to fiat
+95 currency may result in a significant loss over a short period;
+96 9. The nature of virtual currency means that any technological difficulties
+97 experienced by virtual currency kiosk operators may prevent access to or use of a person's virtual
+98 currency; and,
+99 10. Any bond maintained by the virtual currency kiosk operator for the benefit of a
+100 person may not cover all losses a person incurs.
+101 iii. The amount of the transaction denominated in US Dollars as well as the
+102 applicable virtual currency;
+103 iv. Any fees or expenses charged by the virtual currency kiosk operator;
+104 v. Any applicable exchange rates;
+105 vi. A daily virtual currency transaction limit of no more than $1,000;
+106 vii. Notice of a change in the virtual currency kiosk operator's rules or policies;
+107 viii. The name, address, and telephone number of the owner of the kiosk and the days,
+108 time, and means by which a consumer can contact the owner for consumer assistance shall be
+109 displayed on or at the location of the virtual currency kiosk, or on the first screen of such kiosk.
+110 ix. Under what circumstances the virtual currency kiosk operator, without a court or
+111 government order, discloses a person's account information to third parties;
+112 x. Other disclosures that are customarily given in connection with a virtual currency
+113 transaction.
+6 of 13
+114 c. Transaction receipt. Upon each transaction's completion, the virtual currency
+115 kiosk operator must provide a person with a physical receipt in the language chosen by the
+116 customer containing the following information:
+117 i. The virtual currency kiosk operator's name and contact information, including a
+118 telephone number to answer questions and register complaints;
+119 ii. The type, value, date, and precise time of the transaction, transaction hash, and
+120 each applicable virtual currency address;
+121 iii. The name and contact information of the sender;
+122 iv. The name and contact information of the designated recipient;
+123 v. All fees charged;
+124 vi. The exchange rate of the virtual currency to US Dollars;
+125 vii. A statement of the virtual currency kiosk operator's liability for non-delivery or
+126 delayed delivery;
+127 viii. A statement of the virtual currency kiosk operator's refund policy; and,
+128 ix. Any additional information the [relevant state authority] may require.
+129 Section 4. All virtual currency kiosk operators must use blockchain analytics software to
+130 assist in the prevention of sending purchased virtual currency from a virtual currency kiosk
+131 operator to a virtual currency wallet known to be affiliated with fraudulent activity at the time of
+132 a transaction. The commissioner may request evidence from any virtual currency kiosk operator
+133 of current use of blockchain analytics.
+7 of 13
+134 a. Fraud policy. All virtual currency kiosk operators shall take reasonable steps to
+135 detect and prevent fraud, including establishing and maintaining a written anti-fraud policy. The
+136 anti-fraud policy shall, at a minimum, include:
+137 i. the identification and assessment of fraud related risk areas;
+138 ii. procedures and controls to protect against identified risks;
+139 iii. allocation of responsibility for monitoring risks; and
+140 iv. procedures for the periodic evaluation and revision of the anti-fraud procedures,
+141 controls, and monitoring mechanisms.
+142 b. Compliance officer. Each virtual currency kiosk operator must designate and
+143 employ a compliance officer with the following requirements:
+144 i. the individual must be qualified to coordinate and monitor compliance with this
+145 Act and all other applicable Federal and State laws, rules, and regulations;
+146 ii. the individual must be employed full-time by the virtual currency kiosk operator;
+147 and
+148 iii. the designated compliance officer cannot be any individual who owns more than
+149 20% of the virtual currency kiosk operator by whom the individual is employed.
+150 iv. Compliance responsibilities required under Federal and State laws, rules, and
+151 regulations shall be completed by full-time employees of the virtual currency kiosk operator.
+152 c. Refunds for new customers. A virtual currency kiosk operator must issue a refund
+153 to a new customer for the full amount of all transactions made within the thirty (30) day new
+8 of 13
+154 customer time period upon the request of the customer. In order to receive a refund under this
+155 section, a new customer must have been fraudulently induced to engage in the virtual currency
+156 transactions and contacts the virtual currency kiosk operator and a government or law
+157 enforcement to inform them of the fraudulent nature of the transaction agency within ninety (90)
+158 days of the last transaction to occur during the thirty (30) day new customer time period.
+159 d. Refunds for existing customers. A virtual currency kiosk operator must issue a
+160 refund to an existing customer for the full amount of all transaction fees upon the request of an
+161 existing customer. In order to receive a refund under this section, a customer must have been
+162 fraudulently induced to engage in the virtual currency transactions and contacts the virtual
+163 currency kiosk operator and a government or law enforcement agency to inform them of the
+164 fraudulent nature of the transaction within ninety (90) days of the transaction.
+165 Section 5. A virtual-currency kiosk operator shall not accept transactions of more than
+166 $1,000 US Dollars of cash or the equivalent in virtual currency in a day in connection with
+167 virtual currency kiosk transactions with a single customer in this State via one or more virtual
+168 currency kiosks.
+169 Section 6. The aggregate fees and charges, directly or indirectly, charged to a customer
+170 related to a single transaction or series of related transactions involving virtual currency effected
+171 through a money transmission kiosk in this State, including any difference between the price
+172 charged to a customer to buy, sell, exchange, swap, or convert virtual currency and the prevailing
+173 market value of such virtual currency at the time of such transaction, shall not exceed the greater
+174 of the following:
+175 a. $5.00; or
+9 of 13
+176 b. three (3) percent of the U.S. dollar equivalent of virtual currency involved in the
+177 transaction or transactions.
+178 Section 7. All virtual currency kiosk operators performing business in the State must
+179 provide live customer service at a minimum on Monday through Friday between 8AM EST and
+180 10PM EST. The customer service toll free number must be displayed on the virtual currency
+181 kiosk or the virtual currency kiosk screens.
+182 SECTION 2. Chapter 10, of the General Laws, as appearing in the 2022 Official Edition,
+183 is hereby amended by inserting after section 78 the following section: -
+184
+185 Section 79. The office of the state treasurer shall develop and periodically review and
+186 update a digital module and resources on virtual currencies and digital assets to support
+187 Massachusetts residents with overseeing their finances, understanding money management
+188 strategies, and protecting their security; provided that, said module shall include curricula
+189 specifically tailored for older adults, including with respect to fraud prevention.
+190 SECTION 3. (1) There shall be a special commission established for the purposes of
+191 making an investigation relative to blockchain technology to develop a master plan of
+192 recommendations for fostering the appropriate expansion of blockchain technology in the
+193 Commonwealth.
+194 (2) The commission shall consist of 25 members: the speaker of the house of
+195 representatives or a designee who shall serve as co-chair; the minority leader of the house of
+196 representatives or a designee; the president of the senate or a designee who shall serve as co-
+10 of 13
+197 chair; the minority leader of the senate or a designee; four members of the house of
+198 representatives appointed by the speaker; four members of the senate appointed by the president;
+199 the attorney general or a designee; the chair of the cannabis control commission or a designee;
+200 the commissioner of the department of revenue or a designee; the secretary of the executive
+201 office of technology services and security or a designee; the secretary of public safety and
+202 security or a designee; three persons to be appointed by the state secretary, provided that one
+203 shall represent an organization focused on consumer protection; and five persons to be appointed
+204 by the governor including one appointee from a financial technology company, one appointee of
+205 a company with a business model that uses blockchain technology for purposes other than digital
+206 assets and two appointees representing institutions of higher education in the commonwealth.
+207 All appointments shall be made not later than 45 days after the effective date of this act.
+208 The chairpersons shall meet with the commission not later than 90 days after the effective date of
+209 this act.
+210 (3) The commission shall be charged with examining the following:
+211 (a) The feasibility, validity and admissibility as well as risks, including privacy risks, and
+212 benefits of using blockchain technology in state and local government and commonwealth-based
+213 businesses; provided that, for the purposes of government use, the commission’s examination
+214 shall include but not be limited to consideration of government records and delivery of services;
+215 court proceedings; statewide registries including for firearms, marijuana and opiates and election
+216 nomination papers, voter records and election results; and provided further that, for the purposes
+217 of business use, the commission’s examination shall include but not be limited to consideration
+11 of 13
+218 of the advisability of allowing corporate records to be maintained using blockchain technology,
+219 including any security requirements necessary to ensure their accuracy;
+220 (b) The need for modifications to the definition of blockchain in this act and to general
+221 law to effect the appropriate deployment of blockchain technology;
+222 (c) The impact of the proliferation of the virtual currency industry on state revenues and
+223 the need to restructure the commonwealth’s tax framework, including the advisability of taxing
+224 virtual currency transactions as part of the sales tax;
+225 (d) The advisability of government agencies and relevant business enterprises, including
+226 but not limited to cannabis retail stores, accepting payment in virtual currency;
+227 (e) The feasibility of regulating the energy consumption associated with virtual currency;
+228 (f) The consumer protection activities necessary to provide safeguards and offer
+229 technological literacy to Massachusetts residents, including but not limited to the advisability of
+230 licensure requirements;
+231 (g) The best practices for enabling blockchain technology to benefit the commonwealth,
+232 Massachusetts-based businesses, and Massachusetts residents, including an examination of
+233 historical barriers to entry and participation in emerging technologies and markets for individuals
+234 underrepresented in these industries and markets;
+235 (h) The state agencies best equipped to provide oversight of blockchain technology and
+236 the virtual currency industry, including with respect to consumer protection; and
+237 (i) Any other related topic which the commission may choose to examine in relation to
+238 blockchain technology.
+12 of 13
+239 The commission shall take input from a broad range of stakeholders with a diverse range
+240 of interests affected by state policies governing emerging technologies, privacy, business,
+241 finance, the courts, the legal community, and state and local government.
+242 (4) Not later than one year after all appointments to the commission have been made
+243 pursuant to section 3 of this act, the commission shall report to the general court the result of its
+244 investigation and its master plan of recommendations to foster a positive blockchain technology
+245 environment, together with drafts of legislation necessary to effect its recommendations, by
+246 filing the same with the clerk of the house of representatives and the clerk of the senate.
+247 SECTION 4. This act shall take effect upon its passage
+13 of 13
+[DELETED: :D/A:DAEITDSA Dn3x1y9x1g1x1y1r2d1x2y3x2a1e2o1k3n2x3y4h3a8x3s2x3sFx3s2n3rFx4e1x4o1k4.7k5]
+[DELETED: y5n7nWn7ySx7o1k7s4r8d3l8s1x1s7n1i8x1.2x1r2x1]
+[DELETED: SaCSr1.Ntsk]
+[DELETED: 02.V1i2c33.T4s5a64.V7o85.V9a0k1v2c3t46.V5p6i7t87.V9t0c]
+[DELETED: 1c2c38.B4d59.B6b71.B8s9c01.C1S2i3a4a.A5a6m7b.E8o9q0w1i.C]
+[DELETED: 2i.A3i.P4i.S5v.E6v.V7S8e9g0o1a.A2a3c4b.R5t6i.A7t8A9V0M1G2J]
+[DELETED: 3H4A5I6E7i.T8t91.A02.T1t23.T3t44.V5a6C75.S8p96.V0w1a27.A3a]
+[DELETED: 48.T5c69.T7e8c91.A0p1i.T2a3i.A4v.A5v.A6v.N7v.T8t9d0i.U1g2x.O3t]
+[DELETED: 4c.T5k6c7i.T8t9i.T0e1i.T2i.T3v.A4v.T5v.A6d7v.A8i.A9S0a1o2a3o]
+[DELETED: 4a.F5d6a7i.t8i.p9i.a0i.p1c2b.C3e4i.t5A6i.t7a8i.t920i.C1r2c.R3t]
+[DELETED: 4c5s6t7e8d9d.R0r1e2f3c4f5S6$7v8c9S0r1t2c3m4o5a.$]
+[DELETED: 6b.t7t8S9p011k2S3i45S6u7M8s9s0S1m2r3C4(5r6r]
+[DELETED: 7c8r9t0t1o2s3s4b5a6a7A8T9t0(1(2b3b4s5c6n7o]
+[DELETED: 8o9i0(1l2(3t4v5(6b7(8(9t0l1(2M3h4u5(6t7(8b]
+[DELETED: 9T0o1f2(3p4i5e6f7S]
+
+
+================================================================================
+
+Raw Text:
+HOUSE DOCKET, NO. 935 FILED ON: 1/14/2025
+HOUSE . . . . . . . . . . . . . . . No. 1247
+The Commonwealth of Massachusetts
+_________________
+PRESENTED BY:
+Kate Lipper-Garabedian and Thomas M. Stanley
+_________________
+To the Honorable Senate and House of Representatives of the Commonwealth of Massachusetts in General
+Court assembled:
+The undersigned legislators and/or citizens respectfully petition for the adoption of the accompanying bill:
+An Act relative to preventing fraud and establishing regulations on certain virtual currencies.
+_______________
+PETITION OF:
+NAME: DISTRICT/ADDRESS: DATE ADDED:
+Kate Lipper-Garabedian 32nd Middlesex 1/14/2025
+Thomas M. Stanley 9th Middlesex 1/14/2025
+Tara T. Hong 18th Middlesex 1/29/2025
+Brian W. Murray 10th Worcester 2/12/2025
+Sean Reid 11th Essex 2/12/2025
+Colleen M. Garry 36th Middlesex 2/12/2025
+Lindsay N. Sabadosa 1st Hampshire 2/12/2025
+Jessica Ann Giannino 16th Suffolk 3/11/2025
+Erika Uyterhoeven 27th Middlesex 3/27/2025
+Patrick Joseph Kearney 4th Plymouth 3/27/2025
+James C. Arena-DeRosa 8th Middlesex 3/27/2025
+Steven Owens 29th Middlesex 3/27/2025
+Jason M. Lewis Fifth Middlesex 3/27/2025
+Susannah M. Whipps 2nd Franklin 3/27/2025
+Bruce E. Tarr First Essex and Middlesex 4/8/2025
+Carmine Lawrence Gentile 13th Middlesex 4/16/2025
+Samantha Montaño 15th Suffolk 4/16/2025
+Richard G. Wells, Jr. 7th Norfolk 5/21/2025
+1 of 2
+
+Patricia A. Duffy 5th Hampden 7/18/2025
+Ryan C. Fattman Worcester and Hampden 7/23/2025
+Joan B. Lovely Second Essex 7/23/2025
+Adrian C. Madaro 1st Suffolk 7/31/2025
+Natalie M. Higgins 4th Worcester 8/27/2025
+Lisa Field 3rd Bristol 8/28/2025
+Sally P. Kerans 13th Essex 10/8/2025
+Aaron L. Saunders 7th Hampden 10/8/2025
+Jennifer Balinsky Armini 8th Essex 10/23/2025
+Bradley H. Jones, Jr. 20th Middlesex 10/23/2025
+Kristin E. Kassner 2nd Essex 10/23/2025
+2 of 2
+
+HOUSE DOCKET, NO. 935 FILED ON: 1/14/2025
+HOUSE . . . . . . . . . . . . . . . No. 1247
+By Representatives Lipper-Garabedian of Melrose and Stanley of Waltham, a petition
+(accompanied by bill, House, No. 1247) of Kate Lipper-Garabedian, Thomas M. Stanley and
+others relative to regulations on certain virtual currencies. Financial Services.
+The Commonwealth of Massachusetts
+_______________
+In the One Hundred and Ninety-Fourth General Court
+(2025-2026)
+_______________
+An Act relative to preventing fraud and establishing regulations on certain virtual currencies.
+Be it enacted by the Senate and House of Representatives in General Court assembled, and by the authority
+of the same, as follows:
+1 SECTION 1. The General Laws, as appearing in the 2022 Official Edition, are hereby
+2 amended by inserting after Chapter 167J the following new chapter:-
+3 Chapter 167K Regulation of Virtual Currency Kiosks
+4 Section 1. As used in this chapter, the following words shall, unless the context clearly
+5 requires otherwise, have the following meanings:
+6 1. New customer. “New customer” means an individual who has never previously
+7 transacted with the virtual currency kiosk operator. The new customer shall remain defined as
+8 such during the thirty (30) day period after the first financial transaction with the virtual currency
+9 kiosk operator.
+1 of 13
+
+10 2. Virtual currency address. "Virtual currency address" means an alphanumeric
+11 identifier associated with a virtual currency wallet identifying the location to which a virtual
+12 currency transaction can be sent.
+13 3. Transaction hash. "Transaction hash" means a unique identifier made up of a
+14 string of characters that act as a record of and provide proof that the transaction was verified and
+15 added to the blockchain.
+16 4. Virtual currency wallet. "Virtual currency wallet" means a software application or
+17 other mechanism providing a means to hold, store or transfer virtual currency.
+18 5. Virtual currency kiosk. "Virtual currency kiosk" means an electronic terminal
+19 acting as a mechanical agent of the virtual currency kiosk operator to enable the virtual currency
+20 kiosk operator to facilitate the exchange of virtual currency for money, bank credit, or other
+21 virtual currency, including but not limited to by (1) connecting directly to a separate “virtual
+22 currency exchange" that performs the actual virtual currency transmission, or (2) drawing upon
+23 the virtual currency in the possession of the electronic terminal's operator.
+24 6. Virtual currency kiosk operator. “Virtual-currency kiosk operator" means a
+25 person that engages in virtual-currency business activity via a money transmission kiosk located
+26 in this State or a person that owns, operates, or manages a money transmission kiosk located in
+27 this State through which virtual-currency business activity is offered.
+28 7. Virtual currency kiosk transaction. "Virtual currency kiosk transaction" means a
+29 transaction conducted or performed, in whole or in part, by electronic means via a virtual
+30 currency kiosk. Virtual currency kiosk transaction also means a transaction made at a virtual
+2 of 13
+
+31 currency kiosk to purchase virtual currency with fiat currency or to sell virtual currency for fiat
+32 currency.
+33 8. Blockchain. “Blockchain” means a mathematically secured, chronological and
+34 decentralized ledger or database.
+35 9. Blockchain analytics. “Blockchain analytics” means the analysis of data from
+36 blockchains or public distributed ledgers, including associated transaction information.
+37 10. Blockchain analytics software. “Blockchain analytics software” means a software
+38 service that uses blockchain analytics data to provide risk-specific information about virtual
+39 currency wallet addresses, among other things.
+40 11. Commissioner. “Commissioner” means the commissioner of banks.
+41 Section 2. A kiosk operator shall not engage in virtual-currency business activity or hold
+42 itself out as being able to engage in virtual-currency business activity with or on behalf of
+43 another person unless the kiosk operator is licensed in the state as a money transmitter.
+44 a. A virtual currency kiosk operator shall not locate, or allow a third party to locate,
+45 a virtual currency kiosk in this State unless the virtual currency kiosk operator registers the
+46 money transmission kiosk and obtains the prior approval of the commissioner for its activation.
+47 b. Each virtual currency kiosk operator shall submit a quarterly report of the location
+48 of each virtual currency kiosk located within the State within 45 days of the end of the calendar
+49 quarter. The location report shall include, at a minimum, the following regarding the location
+50 where a virtual currency kiosk is located:
+51 i. Company legal name;
+3 of 13
+
+52 ii. Any fictitious or trade name;
+53 iii. Physical address;
+54 iv. Start date of operation of virtual currency kiosk at location;
+55 v. End date of operation of virtual currency kiosk at location, if applicable; and
+56 vi. Virtual currency address(es) associated with the virtual currency kiosk
+57 Section 3. A virtual currency kiosk operator must disclose in a clear, conspicuous, and
+58 easily readable manner in the chosen language of the customer, all relevant terms and conditions
+59 generally associated with the products, services, and activities of the virtual currency kiosk
+60 operator and virtual currency.
+61 a. Acknowledgment of disclosures. The virtual currency kiosk operator must receive
+62 acknowledgement of receipt of all disclosures required under this section via confirmation of
+63 consent.
+64 b. Relevant disclosures. The disclosures under this subdivision must address at least
+65 the following:
+66 i. A warning, written prominently and in bold type, and provided separately from
+67 the disclosures below, stating: "WARNING: LOSSES DUE TO FRAUDULENT OR
+68 ACCIDENTAL TRANSACTIONS ARE NOT RECOVERABLE AND TRANSACTIONS IN
+69 VIRTUAL CURRENCY ARE IRREVERSIBLE. VIRTUAL CURRENCY TRANSACTIONS
+70 MAY BE USED TO STEAL YOUR MONEY BY CRIMINALS IMPERSONATING THE
+71 GOVERNMENT, ORGANIZATIONS, OR YOUR LOVED ONES. THEY CAN THREATEN
+72 JAIL TIME, SAY YOUR IDENTITY HAS BEEN STOLEN, ALLEGE YOUR COMPUTER
+4 of 13
+
+73 HAS BEEN HACKED, INSIST YOU WITHDRAW MONEY FROM YOUR BANK
+74 ACCOUNT TO PURCHASE VIRTUAL CURRENCY, OR A NUMBER OF OTHER SCAMS.
+75 IF YOU BELIEVE YOU ARE BEING SCAMMED, CALL YOUR LOCAL LAW
+76 ENFORCEMENT."
+77 ii. The material risks associated with virtual currency and virtual currency
+78 transactions, including:
+79 1. A warning that once completed, the transaction may not be reversed;
+80 2. The virtual currency kiosk operator’s liability for unauthorized virtual currency
+81 transactions;
+82 3. The virtual currency kiosk customer’s liability for unauthorized currency
+83 transactions;
+84 4. Virtual currency is not legal tender, backed or insured by the government, and
+85 accounts and value balances are not subject to Federal Deposit Insurance Corporation, National
+86 Credit Union Administration, or Securities Investor Protection Corporation protections;
+87 5. Some virtual currency transactions are deemed to be made when recorded on a
+88 public ledger which may not be the date or time when the person initiates the transaction;
+89 6. Virtual currency's value may be derived from market participants' continued
+90 willingness to exchange fiat currency for virtual currency, which may result in the permanent
+91 and total loss of a particular virtual currency's value if the market for virtual currency disappears;
+92 7. A person who accepts a virtual currency as payment today is not required to
+93 accept and might not accept virtual currency in the future
+5 of 13
+
+94 8. The volatility and unpredictability of the price of virtual currency relative to fiat
+95 currency may result in a significant loss over a short period;
+96 9. The nature of virtual currency means that any technological difficulties
+97 experienced by virtual currency kiosk operators may prevent access to or use of a person's virtual
+98 currency; and,
+99 10. Any bond maintained by the virtual currency kiosk operator for the benefit of a
+100 person may not cover all losses a person incurs.
+101 iii. The amount of the transaction denominated in US Dollars as well as the
+102 applicable virtual currency;
+103 iv. Any fees or expenses charged by the virtual currency kiosk operator;
+104 v. Any applicable exchange rates;
+105 vi. A daily virtual currency transaction limit of no more than $1,000;
+106 vii. Notice of a change in the virtual currency kiosk operator's rules or policies;
+107 viii. The name, address, and telephone number of the owner of the kiosk and the days,
+108 time, and means by which a consumer can contact the owner for consumer assistance shall be
+109 displayed on or at the location of the virtual currency kiosk, or on the first screen of such kiosk.
+110 ix. Under what circumstances the virtual currency kiosk operator, without a court or
+111 government order, discloses a person's account information to third parties;
+112 x. Other disclosures that are customarily given in connection with a virtual currency
+113 transaction.
+6 of 13
+
+114 c. Transaction receipt. Upon each transaction's completion, the virtual currency
+115 kiosk operator must provide a person with a physical receipt in the language chosen by the
+116 customer containing the following information:
+117 i. The virtual currency kiosk operator's name and contact information, including a
+118 telephone number to answer questions and register complaints;
+119 ii. The type, value, date, and precise time of the transaction, transaction hash, and
+120 each applicable virtual currency address;
+121 iii. The name and contact information of the sender;
+122 iv. The name and contact information of the designated recipient;
+123 v. All fees charged;
+124 vi. The exchange rate of the virtual currency to US Dollars;
+125 vii. A statement of the virtual currency kiosk operator's liability for non-delivery or
+126 delayed delivery;
+127 viii. A statement of the virtual currency kiosk operator's refund policy; and,
+128 ix. Any additional information the [relevant state authority] may require.
+129 Section 4. All virtual currency kiosk operators must use blockchain analytics software to
+130 assist in the prevention of sending purchased virtual currency from a virtual currency kiosk
+131 operator to a virtual currency wallet known to be affiliated with fraudulent activity at the time of
+132 a transaction. The commissioner may request evidence from any virtual currency kiosk operator
+133 of current use of blockchain analytics.
+7 of 13
+
+134 a. Fraud policy. All virtual currency kiosk operators shall take reasonable steps to
+135 detect and prevent fraud, including establishing and maintaining a written anti-fraud policy. The
+136 anti-fraud policy shall, at a minimum, include:
+137 i. the identification and assessment of fraud related risk areas;
+138 ii. procedures and controls to protect against identified risks;
+139 iii. allocation of responsibility for monitoring risks; and
+140 iv. procedures for the periodic evaluation and revision of the anti-fraud procedures,
+141 controls, and monitoring mechanisms.
+142 b. Compliance officer. Each virtual currency kiosk operator must designate and
+143 employ a compliance officer with the following requirements:
+144 i. the individual must be qualified to coordinate and monitor compliance with this
+145 Act and all other applicable Federal and State laws, rules, and regulations;
+146 ii. the individual must be employed full-time by the virtual currency kiosk operator;
+147 and
+148 iii. the designated compliance officer cannot be any individual who owns more than
+149 20% of the virtual currency kiosk operator by whom the individual is employed.
+150 iv. Compliance responsibilities required under Federal and State laws, rules, and
+151 regulations shall be completed by full-time employees of the virtual currency kiosk operator.
+152 c. Refunds for new customers. A virtual currency kiosk operator must issue a refund
+153 to a new customer for the full amount of all transactions made within the thirty (30) day new
+8 of 13
+
+154 customer time period upon the request of the customer. In order to receive a refund under this
+155 section, a new customer must have been fraudulently induced to engage in the virtual currency
+156 transactions and contacts the virtual currency kiosk operator and a government or law
+157 enforcement to inform them of the fraudulent nature of the transaction agency within ninety (90)
+158 days of the last transaction to occur during the thirty (30) day new customer time period.
+159 d. Refunds for existing customers. A virtual currency kiosk operator must issue a
+160 refund to an existing customer for the full amount of all transaction fees upon the request of an
+161 existing customer. In order to receive a refund under this section, a customer must have been
+162 fraudulently induced to engage in the virtual currency transactions and contacts the virtual
+163 currency kiosk operator and a government or law enforcement agency to inform them of the
+164 fraudulent nature of the transaction within ninety (90) days of the transaction.
+165 Section 5. A virtual-currency kiosk operator shall not accept transactions of more than
+166 $1,000 US Dollars of cash or the equivalent in virtual currency in a day in connection with
+167 virtual currency kiosk transactions with a single customer in this State via one or more virtual
+168 currency kiosks.
+169 Section 6. The aggregate fees and charges, directly or indirectly, charged to a customer
+170 related to a single transaction or series of related transactions involving virtual currency effected
+171 through a money transmission kiosk in this State, including any difference between the price
+172 charged to a customer to buy, sell, exchange, swap, or convert virtual currency and the prevailing
+173 market value of such virtual currency at the time of such transaction, shall not exceed the greater
+174 of the following:
+175 a. $5.00; or
+9 of 13
+
+176 b. three (3) percent of the U.S. dollar equivalent of virtual currency involved in the
+177 transaction or transactions.
+178 Section 7. All virtual currency kiosk operators performing business in the State must
+179 provide live customer service at a minimum on Monday through Friday between 8AM EST and
+180 10PM EST. The customer service toll free number must be displayed on the virtual currency
+181 kiosk or the virtual currency kiosk screens.
+182 SECTION 2. Chapter 10, of the General Laws, as appearing in the 2022 Official Edition,
+183 is hereby amended by inserting after section 78 the following section: -
+184
+185 Section 79. The office of the state treasurer shall develop and periodically review and
+186 update a digital module and resources on virtual currencies and digital assets to support
+187 Massachusetts residents with overseeing their finances, understanding money management
+188 strategies, and protecting their security; provided that, said module shall include curricula
+189 specifically tailored for older adults, including with respect to fraud prevention.
+190 SECTION 3. (1) There shall be a special commission established for the purposes of
+191 making an investigation relative to blockchain technology to develop a master plan of
+192 recommendations for fostering the appropriate expansion of blockchain technology in the
+193 Commonwealth.
+194 (2) The commission shall consist of 25 members: the speaker of the house of
+195 representatives or a designee who shall serve as co-chair; the minority leader of the house of
+196 representatives or a designee; the president of the senate or a designee who shall serve as co-
+10 of 13
+
+197 chair; the minority leader of the senate or a designee; four members of the house of
+198 representatives appointed by the speaker; four members of the senate appointed by the president;
+199 the attorney general or a designee; the chair of the cannabis control commission or a designee;
+200 the commissioner of the department of revenue or a designee; the secretary of the executive
+201 office of technology services and security or a designee; the secretary of public safety and
+202 security or a designee; three persons to be appointed by the state secretary, provided that one
+203 shall represent an organization focused on consumer protection; and five persons to be appointed
+204 by the governor including one appointee from a financial technology company, one appointee of
+205 a company with a business model that uses blockchain technology for purposes other than digital
+206 assets and two appointees representing institutions of higher education in the commonwealth.
+207 All appointments shall be made not later than 45 days after the effective date of this act.
+208 The chairpersons shall meet with the commission not later than 90 days after the effective date of
+209 this act.
+210 (3) The commission shall be charged with examining the following:
+211 (a) The feasibility, validity and admissibility as well as risks, including privacy risks, and
+212 benefits of using blockchain technology in state and local government and commonwealth-based
+213 businesses; provided that, for the purposes of government use, the commission’s examination
+214 shall include but not be limited to consideration of government records and delivery of services;
+215 court proceedings; statewide registries including for firearms, marijuana and opiates and election
+216 nomination papers, voter records and election results; and provided further that, for the purposes
+217 of business use, the commission’s examination shall include but not be limited to consideration
+11 of 13
+
+218 of the advisability of allowing corporate records to be maintained using blockchain technology,
+219 including any security requirements necessary to ensure their accuracy;
+220 (b) The need for modifications to the definition of blockchain in this act and to general
+221 law to effect the appropriate deployment of blockchain technology;
+222 (c) The impact of the proliferation of the virtual currency industry on state revenues and
+223 the need to restructure the commonwealth’s tax framework, including the advisability of taxing
+224 virtual currency transactions as part of the sales tax;
+225 (d) The advisability of government agencies and relevant business enterprises, including
+226 but not limited to cannabis retail stores, accepting payment in virtual currency;
+227 (e) The feasibility of regulating the energy consumption associated with virtual currency;
+228 (f) The consumer protection activities necessary to provide safeguards and offer
+229 technological literacy to Massachusetts residents, including but not limited to the advisability of
+230 licensure requirements;
+231 (g) The best practices for enabling blockchain technology to benefit the commonwealth,
+232 Massachusetts-based businesses, and Massachusetts residents, including an examination of
+233 historical barriers to entry and participation in emerging technologies and markets for individuals
+234 underrepresented in these industries and markets;
+235 (h) The state agencies best equipped to provide oversight of blockchain technology and
+236 the virtual currency industry, including with respect to consumer protection; and
+237 (i) Any other related topic which the commission may choose to examine in relation to
+238 blockchain technology.
+12 of 13
+
+239 The commission shall take input from a broad range of stakeholders with a diverse range
+240 of interests affected by state policies governing emerging technologies, privacy, business,
+241 finance, the courts, the legal community, and state and local government.
+242 (4) Not later than one year after all appointments to the commission have been made
+243 pursuant to section 3 of this act, the commission shall report to the general court the result of its
+244 investigation and its master plan of recommendations to foster a positive blockchain technology
+245 environment, together with drafts of legislation necessary to effect its recommendations, by
+246 filing the same with the clerk of the house of representatives and the clerk of the senate.
+247 SECTION 4. This act shall take effect upon its passage
+13 of 13
+
+[DELETED: :D/A:DAEITDSA Dn3x1y9x1g1x1y1r2d1x2y3x2a1e2o1k3n2x3y4h3a8x3s2x3sFx3s2n3rFx4e1x4o1k4.7k5]
+[DELETED: y5n7nWn7ySx7o1k7s4r8d3l8s1x1s7n1i8x1.2x1r2x1]
+[DELETED: SaCSr1.Ntsk]
+[DELETED: 02.V1i2c33.T4s5a64.V7o85.V9a0k1v2c3t46.V5p6i7t87.V9t0c]
+[DELETED: 1c2c38.B4d59.B6b71.B8s9c01.C1S2i3a4a.A5a6m7b.E8o9q0w1i.C]
+[DELETED: 2i.A3i.P4i.S5v.E6v.V7S8e9g0o1a.A2a3c4b.R5t6i.A7t8A9V0M1G2J]
+[DELETED: 3H4A5I6E7i.T8t91.A02.T1t23.T3t44.V5a6C75.S8p96.V0w1a27.A3a]
+[DELETED: 48.T5c69.T7e8c91.A0p1i.T2a3i.A4v.A5v.A6v.N7v.T8t9d0i.U1g2x.O3t]
+[DELETED: 4c.T5k6c7i.T8t9i.T0e1i.T2i.T3v.A4v.T5v.A6d7v.A8i.A9S0a1o2a3o]
+[DELETED: 4a.F5d6a7i.t8i.p9i.a0i.p1c2b.C3e4i.t5A6i.t7a8i.t920i.C1r2c.R3t]
+[DELETED: 4c5s6t7e8d9d.R0r1e2f3c4f5S6$7v8c9S0r1t2c3m4o5a.$]
+[DELETED: 6b.t7t8S9p011k2S3i45S6u7M8s9s0S1m2r3C4(5r6r]
+[DELETED: 7c8r9t0t1o2s3s4b5a6a7A8T9t0(1(2b3b4s5c6n7o]
+[DELETED: 8o9i0(1l2(3t4v5(6b7(8(9t0l1(2M3h4u5(6t7(8b]
+[DELETED: 9T0o1f2(3p4i5e6f7S]

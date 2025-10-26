@@ -1,0 +1,400 @@
+Data Collection and Reporting in
+the Massachusetts Criminal
+Justice System
+A Report of the Justice Reinvestment Policy Oversight Board
+June 2025
+
+Members of the Board
+Member Affiliation
+Secretary Jason Snyder, Chair Executive Office of Technology Services and
+Security
+Vacancy (AGO member vacated seat in June Office of the Attorney General
+2025)
+Honorable Heidi Brieger Executive Office of the Trial Court
+Assistant General Counsel Arielle Mullaney Poncia Executive Office of Public Safety and Security
+Deputy Commissioner Michael Coelho Massachusetts Probation Service
+James Dixon Committee for Public Counsel Services
+Commissioner Shawn Jenkins Department of Correction
+District Attorney Timothy Cruz Massachusetts District Attorneys Association
+Sheriff Peter J. Koutoujian Massachusetts Sheriffs Association
+Senator William N. Brownsberger Massachusetts State Senate
+Representative Carole A. Fiola Massachusetts House of Representatives
+Michael Molloy Massachusetts Bar Association
+Benjamin Forman American Civil Liberties Union of Massachusetts
+Vacancy (Appointed member vacated seat (appointed expert in addressing racial, ethnic,
+December, 2024) gender, or age bias)
+Department of Correction (appointed expert in data
+Dr. Rhiana Kohl
+collection and analysis)
+Executive Office of Public Safety and Security
+Gina Papagiorgakis
+(appointed expert in data collection and analysis)
+
+Justice Reinvestment Policy Oversight Board June 2025
+1. Introduction
+The Justice Reinvestment Policy Oversight Board (the “Board”) was created in April 2018 with the
+passage into law of Chapter 69 of the Acts of 2018, “An Act Relative to Criminal Justice Reform.” The
+Board, chaired by the Secretary of the Executive Office of Technology Services and Security (EOTSS) and
+comprised of a broad spectrum of criminal justice agency heads and stakeholders inside and outside of
+state government, is charged with monitoring the development and implementation of justice
+reinvestment policies relative to the collection, standardization, and public availability of data to ensure
+they achieve anticipated goals.
+The legislation requires that the Board file a report with the clerks of the Massachusetts House of
+Representatives and the Senate annually by July 1 that reviews the compliance of the criminal justice
+agencies and the Trial Court, including the Probation Service, the Parole Board, the Executive Office of
+Public Safety and Security (EOPSS), the Department of Correction, houses of correction, and county jails,
+with:
+1. Collecting and submitting to EOPSS data required by section 18 ¾ of chapter 6A of the
+Massachusetts General Laws in the form of a cross-agency tracking system that uses a
+unique state identification number assigned to each person who enters the criminal justice
+system;
+2. Making said data available to the public through the use of an application programming
+interface (API), as required by paragraph 12 of section 18 ¾;
+3. Establishing data collection and reporting standards relative to recidivism rates for re-
+arraignment, reconviction, and reincarceration; and
+4. Establishing data collection and reporting standards to standardize the methods of
+reporting race and ethnicity data to facilitate assessment of the racial and ethnic
+composition of the criminal justice population.
+This is the Board’s seventh annual report and will address the progress made to-date towards
+compliance with M.G.L. c. 6A, § 18 ¾.
+The Board convened three times in FY 2025 and continued its work to research, describe, and identify
+the current landscape with respect to data collection and reporting across criminal justice agencies
+pursuant to M.G.L. c. 6A, § 18 ¾. The Board’s purpose is to aid the agencies and offices subject to
+M.G.L. c. 6A, § 18 ¾ with furthering their efforts toward statutory compliance.
+The following sections present the Board’s findings in each of the four areas listed above. The final
+section presents recommendations and additional considerations raised by the Board.
+2
+
+Justice Reinvestment Policy Oversight Board June 2025
+2. Cross-Tracking Data Collection System
+M.G.L. Chapter 6A, section 18 ¾ (the “statute”), Paragraph (12)(i), mandates the collection of at least
+seventeen (17) distinct categories of data by criminal justice agencies and the Trial Court, including but
+not necessarily limited to: (1) a unique statewide identification number assigned to each person who
+enters the criminal justice system; (2) the offense for which the person has been incarcerated; (3-4) the
+date and time of the offense; (5) the location of the offense; (6-9) the race, ethnicity, gender, and age of
+the person; (10) whether the person is the primary caretaker of a child; (11) the status of the person’s
+reproductive health needs; (12-13) risk and needs assessment scores; (14- 15) participation in and
+completion of evidence-based programs; and (16-17) entry and exit/release dates from a jail or house
+of correction.
+Under the definition of “criminal justice agencies” adopted in 501 CMR 18.00: Data Collection and
+Reporting Standards for Criminal Justice Agencies, EOPSS’s goals for the platform are to ultimately
+ingest data from the custodial agencies—DOC and Massachusetts Sheriffs—and the Trial Court, as well
+as the Massachusetts Probation Service, Massachusetts Parole Board, Massachusetts State Police, the
+Commonwealth’s 350+ local police departments, the Offices of the District Attorneys and the Attorney
+General’s Office.
+The below accomplishments demonstrate an evolution of the cross-tracking system. Since 2021, cross-tracking
+has not only expanded to include more data sets and more agency ingestion, but also expanded to include more
+real time data that is continuously refreshed with up-to-date information. In June 2022, the platform displayed
+data from the Department of Correction (DOC) and the Massachusetts Sheriffs that hold incarcerated individuals
+within the Houses of Correction (HOCs) and county jails from 2017 to 2022. In Fiscal Year 2023 (FY23), new data
+from the Trial Court, Probation Service, and Parole Board was ingested into the platform and those ingestion jobs
+were automated, refreshing with new data weekly. In FY24, additional data from the DOC, HOCs, and the Trial
+Court was ingested into the platform including programs data, recidivism data, and charges and convictions data.
+Fiscal Year 2024 also saw the creation of a pilot law enforcement program. In FY25, the Programs and Recidivism
+dashboards were refreshed to include current data, and a risk and needs assessments dashboard was created
+with initial data from Parole, DOC, and Probation. Additionally, an API (Application Programming Interface), as
+required by the statute, was published with data from the custodial cohort. In FY25, Parole’s record management
+system, the State Parole Integrated Records and Information Tracking (Spirit II) was fully integrated with the
+OneIII system, which generates State Identification Numbers.
+The program has achieved the following key statutory milestones:
+1. December 2021: Standardized definitions (includes race, ethnicity, and gender) across criminal justice
+organizations 501 CMR 18
+2. August 2022: Public release of Cross Tracking Platform – Custodial Agencies Population reporting (1st
+release of Sheriff/DOC data jointly)
+3. March 2023: Publicly released Admissions & Release reporting
+4. June 2023: Publicly released Recidivism reporting
+5. June 2023: All DOC, HOC, and numerous law enforcement record management systems updated to
+collect all statutorily required data fields
+6. November 2023: Publicly released Programs reporting
+7. March 2024: Publicly released Charges & Convictions reporting on sentenced offenders
+8. May 2024: Programs dashboard refreshed
+9. June 2024: Publicly release Charges & Convictions reporting on pre-trial detainees
+10. September 2024: Programs dashboard refreshed
+11. November 2024: Recidivism dashboard refreshed
+12. December 2024: Publicly released risk and needs assessments dashboard (Parole, DOC, and Probation
+data)
+13. January 2025: Application programming interface (API) published for the custodial cohort (Populations;
+charges and convictions; programs)
+14. March 2025: Completion of integrating the State Parole Integrated Records and Information Tracking
+(SPIRIT II) system with OneIII, generating State Identification Numbers.
+15. June 2025: Recidivism API cohort published.
+Due to the maturity of Cross-Tracking and to ensure coordination, improve efficiency and track the progress of
+the data collection system implementation, EOPSS replaced the Executive Governance Council (EGC) with the
+Data Governance Council (DGC). EOPSS and its stakeholders chose to replace the EGC with the established DGC
+as both councils were comprised of the same stakeholder representatives and the DGC was a better
+3
+
+Justice Reinvestment Policy Oversight Board June 2025
+representation of cross-tracking as a program that will continue and evolve, rather than a project with an end
+date.
+Comprised of key stakeholders and subject matter experts, the DGC is a forum for data experts and workstream
+leads to discuss their efforts, identify any roadblocks, collaborate on solutions, and seek guidance and
+clarification. The DGC addresses identified roadblocks with data standardization that affect the platform as a
+whole and agencies generally. It is tasked with providing clarification and feedback to ensure the program is
+running smoothly and efficiently. Further, the DGC is intended to enhance the collaboration between all agencies
+and entities that support the technical components of the platform and meets to discuss specific data questions
+that may arise and work together to achieve resolution and consistency across the different agencies.
+During Fiscal Year 2024, EOPSS created the law enforcement pilot program comprised of three (3) local law
+enforcement agencies and the Massachusetts State Police (MSP). The main goal of the pilot program is to
+understand law enforcement data in the individual record management systems (RMS) and how that data can be
+ingested into the cross-tracking system. This required reviewing additional systems that included the LiveScan,
+which is used by law enforcement agencies to take fingerprints, and the Electronic Application for Criminal
+Complaints (EACC), which is used by law enforcement to transmit data to the Trial Court.
+Fiscal Year 2025 saw the publication of the Application Programming Interface (API) which will serve as a
+platform for standardizing data sets and presentation across cohorts, enabling research across populations.
+EOPSS also completed the Spirit II integration project with the OneIll system, and ensured that LiveScan
+machines were made operational at all law enforcement agencies with integration updates completed.
+Additionally, efforts were made to expand upon the work completed with the law enforcement pilot program
+including updating the Law Enforcement Data Collection Model Policy and Procedures along with compiling and
+preparing the relevant data for corresponding dashboards once the EACC and LiveScan updates are completed.
+In the next fiscal year, the cross-tracking program will focus on:
+• Developing an anonymized, linked dataset at an individual level for public consumption
+• Expanding the program’s Application Programming Interface (API) with new cohorts
+o Publishing the Admission and Release cohort
+• Updating the Risks and Needs Assessment Dashboards with Sheriff Office data
+• Publishing the Primary Caretaker and Reproductive Needs Dashboard
+• Publishing local Law Enforcement Agency Dashboards
+The cross-tracking platform is built to grow and ingest more criminal justice agency data. EOPSS will continue
+updating previously released dashboards with up-to-date information and publish new public-facing data
+dashboards and application programming interfaces in Fiscal Year 2026 to ingest more cross tracking data into
+the platform. The public-facing State and County Correctional Populations and Admissions and Release
+dashboards will continue to be refreshed in weekly intervals, while other public dashboards will have yearly
+updates.
+Statewide Unique Identification Number
+Paragraph (12)(ii) of the statute further mandates that data shall be collected in the form of a cross-
+tracking system that tracks individuals through a unique, fingerprint-supported, statewide identification
+number (SID).
+There remain technical and statutory challenges with the adoption of the SID across constituent agencies. To
+summarize, some agencies’ record management systems (RMS) were not configured to communicate with the
+Massachusetts State Police OneIII system through which SIDs are generated and stored, and fingerprinting is not
+mandated in Massachusetts for all offenses. Additionally, updates to the Electronic Application for Criminal
+Complaints (EACC), which is used by law enforcement to transmit data to the Trial Court have contributed to the
+delays in achieving full compliance with collection and transmission of SIDs. Although the EACC does not
+generate or store SIDs, these system updates and enhancements are imperative in ensuring good, reliable data
+across the Commonwealth and also in ensuring different agency systems are communicating and
+receiving/sending information correctly and smoothly. In an effort to upgrade their systems all at once for both
+EACC and OneIII integration, many departments are waiting until EACC upgrades are finalized.
+While departments await the EACC update to begin RMS upgrades, since the last report, EOPSS has completed
+updates to Parole’s RMS, Spirit II, to allow for integration with OneIll, representing a major operational
+milestone. Now, SIDs are automatically generated into Parole’s RMS from OneIII. Additionally, the MassCourts
+system has completed SID integration.
+4
+
+Justice Reinvestment Policy Oversight Board June 2025
+Table 1 shows the major milestones completed and yet-to-be-completed in the SID adoption work, along with
+their target dates.
+Table 1: Adoption of the State Identification Number (SID): Milestones and Targets
+Milestone Expected delivery date Status
+Fingerprinting and booking process training complete with December 2021 Complete
+DOC/Massachusetts Sheriffs; training schedule established
+IMS (DOC) accepts SID through OneIII March 2022 Complete
+OMS/JMS (Sheriffs) accept SID through OneIII March 2022 Complete
+MassCourts (Trial Court) accepts SID December 2023 Complete
+Develop goals/metrics for improving/ tracking SID capture and June 2023 Complete
+booking compliance at criminal justice agencies
+Report out the proportion of ingested records (2010-present) October 2023 Complete
+from Trial Court, DOC, and Massachusetts Sheriffs that include a
+true, correct SID on a periodic basis
+LiveScan machines operational at all relevant Law Enforcement December 2024 Delayed
+Agencies (LEA)
+EACC update complete August 2024 Delayed
+Ongoing (dependent on Updated-Delayed
+RMS interface with EACC complete (LEA)
+EACC Update Complete)
+TBD (dependent on EACC Delayed
+RMS accepts SID (LEA)
+Update Complete)
+Spirit II (Parole) accepts SID through OneIII March 2025 Complete
+3. Public Availability of Data
+Paragraph 12(ii) of the statute requires that anonymized, cross-agency data be made available to the public for
+analysis through an application programming interface (API) which allows access to all electronically available
+records.
+In the last year, EOPSS has made progress on publicly-available data through the launch of the Risk and Needs
+Assessment dashboards in December 2024, and published the API for data concerning the custodial cohort. Work
+this year across the custodial agencies will continue to focus on further API publication, including the Recidivism
+cohort and the Admission and Release cohort APIs.
+A first phase of dashboards, released in August 2022, shows the supervised populations of the DOC and
+Massachusetts Sheriffs by Pre-Trial and Sentenced status. Data is available by key demographics, including race,
+ethnicity, gender, and age. Importantly, these dashboards are designed to meet the statute’s requirements for
+race and ethnicity reporting, discussed in more detail in section 5 below. A second phase of dashboards, released
+in March 2023, reports on admissions and releases from these same institutions over time and by reason for
+release. A third phase released in June 2023, meets the statute’s requirements for recidivism reporting and is
+discussed in more detail in section 4. In November 2023, EOPSS released another public dashboard consisting of
+programs reporting information from custodial institutions. The Commonwealth has a rich display of offender
+programming information across all of its custodial agencies; program data is often limited to state agencies and
+is usually only available at the general program category level. In March 2024, EOPSS released another public
+dashboard reporting on Charges and Convictions data for sentenced individuals. This dashboard displays
+aggregated and organized information on charges and convictions, combining data from many different state
+agencies. This required a lengthy, detailed review to match the data across the agency systems. In 2024, EOPSS
+released similar dashboards on risk and needs assessments for the Parole, Probation and DOC populations.
+Additionally, major statutory annual updates to public data dashboards were made on recidivism and programs.
+In January 2025, EOPSS published the API with the first cohort containing custodial data which includes
+populations, charges and convictions, and programs. With this, users can access anonymized criminal justice data
+with the ability to apply filters and select desired metrics across the Cross-Tracking dashboards. API cohorts for
+recidivism and admissions and releases are expected in early FY26 and EOPSS expects the fully anonymized
+integration to be completed in 2025. This integration will apply the API to all published Cross-Tracking
+dashboards creating cohorts for all publicly available Cross-Tracking information. The API promotes the
+transparency of the criminal justice system, informs the public, policy makers and researchers about the criminal
+justice system, allows for monitoring and accountability of the system, and furthers the ability to identify trends
+5
+
+Justice Reinvestment Policy Oversight Board June 2025
+and issues that will inform the development of effective public policy. Using the API allows users to customize
+data extracts that span the dashboards. The integration of final anonymized data cohorts with the API is ongoing
+to ensure that the trajectory shown for an individual through the API cannot be used to reveal the identity of an
+individual. All of these dashboards allow users to filter by demographics, institution, year, etc. and allow for the
+public to download data sets for their own review and study to deepen their understanding of the
+Commonwealth criminal justice system.
+All available dashboards are published on mass.gov: Commonwealth of Massachusetts | Criminal Justice Cross-
+Tracking System | Mass.gov
+Table 2 shows the major milestones completed and yet-to-be-completed in the public reporting work,
+along with their target dates.
+Table 2: Public Data Reporting: Milestones and Targets
+Milestone Expected delivery date Status
+Standard data values/definitions adopted across source December 2021 Complete
+datasets
+Data Governance Council (DGC) established November 2022 Complete
+Publish phase 1 and phase 2 dashboards showing populations August 2022; March 2023 Complete
+by demographics (1) and admissions and releases (2) for DOC
+and the Massachusetts Sheriffs
+15 of 17 data elements required under M.G.L. c. 6A, § 18 ¾ June 2022 (15 indicators); Delayed
+from DOC and Massachusetts Sheriffs ingested into the cross- December 2024;
+tracking platform at the person-level back to 2017. Ingestion of December 2025
+data related to reproductive health needs and whether an
+individual is the primary caretaker of a child has not been
+ingested due to data quality concerns but is expected in
+December 2025.
+Publish recidivism dashboards on rearraignment, reconviction, June 2023 Complete
+and reincarceration
+Report released on risk/needs program participation by December 2023 Complete
+race/ethnicity
+Identify data elements and data quality standards for the December 2023 Complete
+cross-tracking public-facing dataset
+Initial data anonymization and testing December 2023 Complete
+Report released on charges and convictions for sentenced Complete
+March 2024
+offenders
+Report released on charges and convictions for pretrial Complete
+June 2024
+offenders
+API requirements, development, testing, and release January 2025 Complete
+May 2025 (Recidivism;
+Admissions & Releases
+cohorts)
+API Custodial Cohort January 2025 Complete
+API Recidivism Cohort June 2025 Complete
+API Admissions and Releases Cohort September 2025 Ongoing
+Risk and Needs Assessment (Sheriffs), Reproductive Health, October 2025 – February Ongoing
+and Primary Caretaker 2026
+Final anonymized data set release TBD Ongoing
+4. Collection and Reporting Standards for Recidivism
+Paragraph (13) of the statute requires the Secretary of Public Safety to establish data collection and reporting
+standards for criminal justice agencies and Trial Court relative to recidivism rates for re-arraignment,
+reconviction, and reincarceration with data tracked over 1, 2, and 3-year periods. Recidivism rates must be
+tracked by race, ethnicity, gender, and age and reported annually to the Secretary of Public Safety.
+6
+
+Justice Reinvestment Policy Oversight Board June 2025
+Recidivism reports for re-arraignment, re-conviction, and re-incarceration are on mass.gov, the Commonwealth’s
+website, since June 2023. As required, reports, in the form of interactive dashboards, track recidivism over 1, 2,
+and 3-year periods, by key demographics: race, ethnicity, gender, and age, and use standard recidivism
+calculation and reporting protocols developed in an earlier phase of the cross-tracking effort. The dashboards are
+updated regularly to comply with the statute. As of June 2025, public-facing recidivism dashboard data has been
+ingested into the Application Programming Interface.
+EOPSS has developed two recidivism measures that are reflected in the dashboards.
+The first, in line with the CMR, tracks recidivism from the date the individual completes their full term of
+supervision, including any Parole or Probation supervision, while the second tracks recidivism from the date an
+individual is released from their sentence with the DOC or Massachusetts Sheriffs into the community, whether
+or not the individual continues to be under Parole or Probation supervision. The publicly available dashboards
+display data for both metrics from the DOC, Massachusetts Sheriffs, Parole Board and Probation Service, and the
+Trial Court. EOPSS worked with its partner agencies to expand the data available in the platform to include
+demographic data from the DOC, Massachusetts Sheriffs, Parole Board and Probation Service, as well as
+arraignment data from the Trial Court.
+Table 3 shows the major milestones completed in the recidivism reporting work, along with their target dates.
+Table 3: Recidivism Reporting: Milestones and Targets
+Milestone Expected delivery date Status
+Establish recidivism definitions and reporting standards December 2021 Complete
+Re-incarceration dashboard published on mass.gov; release June 2023 initial Complete
+schedule established October 2024 updated
+Re-conviction dashboard published on mass.gov; release June 2023 initial Complete
+schedule established October 2024 updated
+Re-arraignment dashboard published on mass.gov; release June 2023 initial Complete
+schedule established October 2024 updated
+API for Recidivism cohort June 2025 Complete
+5. Reporting Standards for Race and Ethnicity
+Paragraph (14) of the statute mandates that EOPSS establish data collection and reporting standards for criminal
+justice agencies and the Trial Court to standardize methods of reporting of race and ethnicity data to facilitate
+assessment of the racial and ethnic composition of the criminal justice population of the Commonwealth. The
+criminal justice agencies and the Trial Court, including houses of correction and county jails, must further
+coordinate to ensure that racial and ethnic data related to populations, trends and outcomes is reported
+accurately to the Secretary of Public Safety and the public.
+After establishing regulations and consolidating correctional data from the DOC and county sheriffs, EOPSS
+worked with agencies to update systems, as needed, to comply with the new standardized race and ethnicity
+reporting requirements. If this required training, EOPSS also assisted, as needed. Through this training and
+updates, the cross-tracking system was able to ingest the standardized race and ethnicity data.
+The inaugural dashboard debuted online in 2022 and reflects this standardized race and ethnicity
+data. Subsequent dashboards display updated admission and release data from the DOC and county sheriffs;
+evidence-based programming from the DOC and county sheriffs; recidivism rates for re-incarceration, re-
+conviction, and re-arraignment; charges and convictions for those sentenced and pre-trial individuals in the DOC
+and county sheriffs; and most recently risk and needs assessments for DOC, Parole and Probation. All of these
+dashboards include data received by way of a data flow between partner agency record management systems to
+a centralized system. This required extensive upgrades to comply with the new data standards. As of this writing,
+work is ongoing to harmonize records management systems with the LiveScan fingerprinting machines within
+local law enforcement agencies (LEAs).
+Data dashboards can be found below:
+7
+
+Justice Reinvestment Policy Oversight Board June 2025
+Commonwealth of Massachusetts | Criminal Justice Cross-Tracking System | Mass.gov
+Table 4 shows the major milestones completed and yet-to-be-completed in the race/ethnicity standardization
+work, along with their target dates.
+Table 4: Reporting Standards for Race and Ethnicity: Milestones and Targets
+Milestone Expected delivery date Status
+Publish standard definitions and classifications to capture data about December 2021 Complete
+individuals' race and ethnicity (501 CMR18)
+Agencies' current classifications mapped to standard classifications July 2022 Complete
+in cross-tracking system
+Fingerprinting and booking process complete with December 2022 Complete
+DOC/Massachusetts Sheriffs to ensure race/ethnicity data is
+captured correctly and completely at booking; training completed
+Report released on incarcerated populations by race/ethnicity; August 2022 Complete
+release schedule established
+Report released on recidivism by race/ethnicity; release schedule June 2023 initial Complete
+established June 2024 annual report
+Publish SOP and training materials for fingerprinting and booking April 2025 Complete
+process for LEAs to ensure race/ethnicity data is captured correctly
+and completely at booking
+Report released on risk/needs program participation by December 2023 Complete
+race/ethnicity
+All RMS upgraded to support new cross-tracking data standards Ongoing Updated
+6. Recommendations and Considerations of the Board
+Based on the reports provided to the Board this fiscal year, EOPSS is nearing full compliance with M.G.L. c. 6A, §
+18 ¾. Throughout this past year, several Board Members have noted the progress being made has met or
+exceeded expectations and the information being shared to the board and surfaced publicly has represented
+considerable progress and alignment with the goals of the legislation.
+As we look to FY2026, the Board remains invested in monitoring progress and supports the overarching goal of
+improving the criminal justice system by enhancing the integrity, accuracy, consistency, and transparency of
+information. To that end, the Board recommends particular attention to the following items:
+• The Board should discuss ways to call attention to and highlight the progress being made via this Cross-Tracking
+System, with consideration paid to current usage, consumption and viewing rates of the publicly available
+dashboards and other information shared on mass.gov.
+• The Board requests EOPSS provide an update to the Board in FY26 relative to the continued progress of the API
+development and the public sharing of anonymized data sets.
+• The Board requests EOPSS, or its relevant agencies, provide an update as to how these linked data sets are being
+used internally to inform policy and program development.
+• The Board requests additional updates relative to the integration of critical data from the Attorney General’s
+Office and the District Attorney’s Offices, including the pursuit of new case management infrastructure
+necessary to facilitate said integration and/or improve data sharing.
+Finally, the Board should consider and discuss its role once statutory compliance has been achieved, as
+anticipated in FY26.
+8
+
+[DELETED:   ]
+[DELETED:      O E M C D M M M M M A]
+[DELETED:    2.I .C.M.E.E]
+[DELETED: J J 3.C .D.A.M.J.J.N.M.M.J.S.N.D.J.M.J]
+[DELETED: J J 4sMmCdga  rEu  ms]
+[DELETED: J J 5t E S D C M C M C D C J C O C D D A D U D M C.P ]
+[DELETED: J J 6 E S D C N C A C J D-D D J C D C D C D C C C J   J C J C S O O O 2 T O.C]
+[DELETED: J J 7 E S D C J C J C J C C. ]
+[DELETED: J J 8 E S D C J C D C A C C A C D C O U.R]

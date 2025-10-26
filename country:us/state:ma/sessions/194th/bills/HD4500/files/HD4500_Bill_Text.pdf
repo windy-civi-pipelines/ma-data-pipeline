@@ -1,0 +1,2683 @@
+Massachusetts Zero-Emission
+School Bus Transition Report
+A Report to the Massachusetts State
+Legislature
+Prepared By:
+MassDOT Office of Transportation Planning
+Final draft 1-12-2024
+The preparation of this report has been funded in part through grant[s] from the Federal Highway Administration,
+U.S. Department of Transportation, under the State Planning and Research Program, Section 505 [or Metropolitan
+Planning Program, Section 104(b)] of Title 23, U.S. Code. The contents of this report do not necessarily reflect the
+official view or policies of the Massachusetts Department of Transportation or the Federal Highway Administration.
+
+Table of Contents
+1.0 BACKGROUND ............................................................................................................... 3
+1.1 LEGISLATIVE DIRECTION............................................................................................................................................. 3
+1.2 REPORT CONTENTS AND DEFINITIONS .................................................................................................................. 4
+1.3 SCHOOL BUS VEHICLE MARKET IN THE UNITED STATES .................................................................................. 5
+1.4 READINESS OF ZERO-EMISSION SCHOOL BUS TECHNOLOGY ......................................................................7
+2.0 THE SCHOOL BUS SECTOR IN MASSACHUSETTS .......................................................... 11
+2.1 SCHOOL BUS FLEET IN MASSACHUSETTS ............................................................................................................ 11
+2.2 REGULATIONS AND LAWS RELEVANT TO SCHOOL BUS OPERATIONS .........................................................16
+2.3 SCHOOL BUS FUNDING ............................................................................................................................................ 17
+2.4 SCHOOL BUS CONTRACTING ARRANGEMENTS ................................................................................................ 21
+2.5 SCHOOL BUS FLEET OPERATIONS ........................................................................................................................ 22
+2.6 SCHOOL BUS FLEET STORAGE AND MAINTENANCE ........................................................................................23
+2.7 STATUS OF ZERO-EMISSION SCHOOL BUS IMPLEMENTATION IN THE COMMONWEALTH ................... 25
+3.0 OVERVIEW OF MASSACHUSETTS INVESTOR-OWNED UTILITIES ............................... 27
+4.0 EVALUATING THE COSTS AND ENVIRONMENTAL BENEFITS OF ZERO-EMISSION
+SCHOOL BUSES ...................................................................................................................... 29
+4.1 FLEET REPLACEMENT SCENARIOS ........................................................................................................................ 29
+4.2 KEY ASSUMPTIONS AND INPUTS CONSIDERATIONS ....................................................................................... 33
+4.2.1 FLEET ACTIVITY AND MILEAGE ASSUMPTIONS ............................................................................................ 34
+4.2.2 CHARGING REQUIREMENT ASSUMPTIONS ................................................................................................... 36
+4.2.3 ZESB AND DIESEL SCHOOL BUS COST ASSUMPTIONS ........................................................................... 38
+4.3 ESTIMATED COSTS OF OWNERSHIP AND FLEET REPLACEMENT SCENARIOS............................................ 45
+4.3.1 LIFETIME TOTAL COST OF OWNERSHIP (TCO) ESTIMATES ................................................................... 45
+4.3.2 SCHOOL BUS FLEET REPLACEMENT SCENARIO CAPITAL COSTS........................................................... 46
+4.4 ESTIMATED SCHOOL BUS AIR QUALITY IMPACTS ........................................................................................... 50
+4.4.1 TOTAL MEDIUM AND HEAVY DUTY VS. SCHOOL BUS EMISSIONS ........................................................ 52
+4.4.2 EMISSIONS ANALYSIS RESULTS ....................................................................................................................... 53
+4.4.3 HEALTH IMPACT ANALYSIS RESULTS .............................................................................................................. 57
+4.4.4 EQUITABLE DISTRIBUTION OF AIR QUALITY BENEFITS FROM ZESBS ..................................................... 59
+5.0 RECOMMENDATIONS FOR A STATEWIDE INCENTIVE PROGRAM .............................. 60
+5.1 BACKGROUND ON INCENTIVE STRUCTURES ..................................................................................................... 60
+5.2 EXISTING STATE AND FEDERAL REGULATIONS AND PROGRAMS RELEVANT TO ZESBS ........................ 62
+5.3 INCENTIVE STRUCTURE RECOMMENDATIONS .................................................................................................. 67
+WORKS CITED ......................................................................................................................... 71
+
+1.0 Background
+1.1 Legislative Direction
+An Act Driving Clean Energy and Offshore Wind (the Act) states that the
+Massachusetts Department of Transportation (MassDOT), in consultation with
+the Massachusetts Department of Energy Resources (DOER) and the
+Massachusetts Department of Elementary and Secondary Education (DESE),
+shall develop a report analyzing aspects of a transition to zero-emission
+school buses (ZESBs).1
+The Act asks for analysis of:
+(i) The number of fossil fuel-powered school buses in use in the
+Commonwealth, delineated by school district.
+(ii) The number of zero-emission school buses in use in the
+Commonwealth, delineated by school district.
+(iii) The annual cost of operating fossil fuel-powered school buses
+including, but not limited to, the cost of purchasing or contracting to
+use fossil fuel-powered buses and purchasing fossil fuels.
+(iv) The annual cost of operating zero-emission school buses including,
+but not limited to, the cost of purchasing or contracting to use zero-
+emission buses and the cost of purchasing or contracting to use
+charging stations and related charging infrastructure.
+(v) The projected cost differential between the sale or contracted use of
+fossil fuel-powered and zero-emission school buses.
+(vi) The estimated cost to replace fossil fuel-powered school buses with
+zero-emission school buses.
+(vii) The estimated environmental benefits of replacing fossil fuel-
+powered school buses with zero-emission school buses including, but
+not limited to, carbon reductions and related health benefits.
+(viii) the number of school districts that own their school bus fleets and
+the number of school districts that rent, lease or contract for school
+bus services.
+1“Chapter 179 - An Act Driving Clean Energy and Offshore Wind,” Massachusetts Legislature, August 11, 2022,
+https://malegislature.gov/Laws/SessionLaws/Acts/2022/Chapter179.
+3
+
+(ix) Recommendations on how to structure a state incentive program to
+replace or support the replacement of all fossil fuel-powered school
+buses with zero-emission school buses.
+(x) Additional information relevant to informing a statewide plan to
+replace or support the conversion of all school buses from fossil fuel-
+powered school buses to zero-emission school buses.
+This report responds to the above requirements in the following sections:
+ Section 2.0 responds to the analysis requested in i, ii, and viii.
+ Section 4.0 describes economic and emissions modeling and results
+relevant to the analysis requested in iii, iv, v, vi, and vii.
+ Section 5.0 includes the recommendations requested in ix.
+ The report includes additional information relevant to informing a
+statewide plan throughout the text, as requested in x.
+1.2 Report Contents and Definitions
+This report includes:
+1. Background on the school bus market and readiness of zero-emission
+school buses in the United States.
+2. An overview of the school bus sector in Massachusetts, primarily
+supported by stakeholder interviews conducted for this study.
+3. An overview of the investor-owned utilities in Massachusetts and their
+Demand Charge Alternative programs.
+4. Analysis of the capital and annual operating costs of diesel and zero-
+emission school buses, a comparison of the total costs of ownership
+(TCO) for both diesel and electric school buses, and the costs to
+transition the fleet to electric over three fleet replacement scenarios.
+5. Analysis of the environmental and health impacts of the three fleet
+replacement scenarios.
+6. Recommendations for how to structure a statewide incentive program
+that would support the replacement of fossil fuel-powered school buses
+with ZESBs.
+4
+
+MassDOT relied on vehicle registration data from the Registry of Motor Vehicles
+(RMV) on the school bus fleet in the Commonwealth of Massachusetts as of
+April 5, 2023, and all analysis in this report is representative of the fleet as of
+this date. This data set defines school buses as vehicles with the RMV-
+assigned “Use Type” of “school bus” or “apportioned school bus.” The
+Massachusetts school bus fleet, as of April 5, 2023, is summarized in more
+detail in Section 2.0.
+MassDOT interviewed stakeholders in the school bus sector in Massachusetts
+to inform this study. These interviews included a total of 11 school districts that
+represented a range of sizes and geographic locations; 4 private school bus
+contractors; 1 school bus dealership; 1 utility provider; 1 electric vehicle (EV)
+charging equipment vendor; 2 statewide school administration and
+transportation associations; and 6 state and federal agencies that currently
+administer ZESB incentive programs. This report is informed by those
+conversations.
+The legislation defines a zero-emission school bus as “a school bus that
+produces no engine exhaust carbon emissions.” For the purposes of this report,
+ZESBs are synonymous with battery electric school buses, which are the most
+widely adopted and accessible type of ZESB available in the market. ZESBs
+share many similarities with diesel-powered school buses, however ZESBs
+contain high-voltage electrical systems powered by a battery pack and do
+not include internal combustion-related components that are found in their
+conventional counterparts.
+1.3 School Bus Vehicle Market in the United States
+There are more than 480,000 school buses that transport over 25 million
+children to and from school every day in the United States.2 Approximately 60
+percent of low-income students in the U.S. take a school bus to school, and 45
+2 “EPA Clean School Bus Program - Second Report to Congress Fiscal Year 2022,” United States Environmental
+Protection Agency (EPA), February 2023, https://nepis.epa.gov/Exe/ZyPDF.cgi?Dockey=P1016LN0.pdf.
+5
+
+percent of non-low-income students ride a school bus.3 Most of these students
+travel on diesel-powered school buses, which make up over 90 percent of the
+U.S. fleet.4 Other fuel types include gasoline, propane, compressed natural gas
+(CNG), and a small, but growing segment of electric battery-powered school
+buses.5
+School buses are typically classified into four “types” based on their size and
+construction. Type A and Type B school buses are smaller and typically carry
+up to 30 passengers, while Type C and Type D school buses are larger and
+generally carry between 50 to 90 passengers. The most common type of
+school bus is Type C, making up approximately 70 percent of the U.S. school
+bus market.6 For the purposes of this report, school buses are categorized into
+one of these four types.
+The leading Original Equipment Manufacturers (OEMs) for conventional school
+buses are Blue Bird, IC Bus, and Thomas Built Buses.7 All three of these OEMs
+offer a full line of school bus types. As ZESBs have increased in popularity, more
+OEMs have introduced this technology into their vehicle offerings, including the
+three most prominent OEMs mentioned, and new manufacturers have entered
+the market, such as Lion Electric and GreenPower.
+School buses are often custom-built by OEMs to meet the needs of their
+customers. Each state and school district has differing requirements for school
+buses, resulting in thousands of specifications that OEMs need to meet. Given
+the production process is not standardized but rather distinct based on the
+3 “The Longer Route to School,” Bureau of Transportation Statistics, January 12, 2021,
+https://www.bts.gov/topics/passenger-travel/back-school-2019. Low-income is defined as $25,000 for a family of
+four.
+4 Yaron Miller and Brian Watts, “States and School Districts Clear the Air with Electric School Buses,” The Pew
+Charitable Trusts, September 19, 2023, https://www.pewtrusts.org/en/research-and-
+analysis/articles/2023/09/19/states-and-school-districts-clear-the-air-with-electric-school-buses.
+5 Leah Lazer, “Electric School Bus Data Dashboard,” World Resources Institute (WRI), September 1, 2023,
+https://electricschoolbusinitiative.org/electric-school-bus-data-dashboard.
+6 Mitul Arora, Dan Welch, and Fred Silver, “Electric School Bus Market Study,” CALSTART, November 2021,
+https://calstart.org/wp-content/uploads/2021/12/Electric-School-Bus-Market-Report-2021.pdf.
+7 James Blue, “Subtle Shifts in School Transportation Industry’s Fuel Mix,” School Bus Fleet, May 23, 2018,
+https://www.schoolbusfleet.com/10009615/subtle-shifts-in-school-transportation-industrys-fuel-mix.
+6
+
+customer’s specifications, it can be challenging for OEMs to mass produce
+school buses.8
+1.4 Readiness of Zero-Emission School Bus Technology
+Electric school buses are gaining market share in the United States. As of June
+2023, just under 6,000 ZESBs have been awarded, ordered, delivered, or are
+operating in 49 states, 5 territories, and 4 tribal nations. Over 1,200 of these
+ZESBs are already, or imminently, transporting students to and from school.9
+There are approximately 9 OEMs that manufacture 24 ZESB models, ranging
+from Type A, C, and D. Type B ZESBs are not currently available on the market.10
+Type A school buses have the largest selection of available models, and Type
+C school buses represent the majority of orders and deliveries. Figure 1 shows
+the manufacturers of the 24 available ZESB models and the number of ordered
+and delivered ZESBs from each OEM as of December 2022.
+8 Bryan Lee and Rachel Chard, “The Electrification of School Buses Assessing Technology, Market, and Manufacturing
+Readiness,” CALSTART, April 2023, https://calstart.org/wp-content/uploads/2023/04/WRI-ZESB-TRL-MRL-
+Manufacturing-Report_Formatted-APRIL-2023.pdf.
+9 Leah Lazer and Lydia Freehafer, “Dataset of Electric School Bus Adoption in the United States,” Dataset – Version 6.,
+WRI, June 2023, https://wri-dataportal-
+prod.s3.amazonaws.com/manual/electric_school_bus_adoption_dataset_v6_2023-08Aug.zip. WRI defines each of
+these ZESB statuses as follows: Awarded is when a fleet operator has been awarded funds to make a ZESB purchase;
+Ordered indicates the fleet operator has submitted an award with a bus dealer to purchase a ZESB; Delivered
+means the ZESB has arrived at the fleet operator’s depot; and operating means the ZESB is used regularly on school
+bus routes to transport students.
+10 Alissa Huntington et al., “Electric School Bus U.S. Market Study,” WRI, August 2023, https://files.wri.org/d8/s3fs-
+public/2023-07/esb-us-market-study-2023.pdf. This estimate is as of March 2023.
+7
+
+Figure 1. ZESB Deliveries and Orders by OEM as of December 202211
+Ordered Delivered
+s B1600 1411
+S
+E1400
+Z
+d1200
+e
+r e1000
+906
+v 697
+ile 800 607
+d
+d n
+600 172
+200 284
+a 400
+d e 200 505 525 407 119 40 21 15 0
+r 231
+e 0 91
+d
+r
+o
+f
+o
+.o
+N
+Original Equipment Manufacturer (OEM)
+Manufacturing capacity for ZESB production in the U.S. is scaling up in response
+to rising demand. For example, two ZESB OEMs, GreenPower Motor Company
+and Lion Electric Company, recently built new manufacturing facilities in West
+Virginia and Illinois, respectively. Additionally, Thomas Built Buses and Lightning
+eMotors both expanded their existing facilities in part to meet increased ZESB
+production needs.12
+Lead times for ZESBs are highly variable depending on a range of
+circumstances, including the school district’s needs, the OEM, and supply chain
+conditions. California leads the United States in the number of delivered ZESBs,
+and data from the state’s main incentive program for zero-emission vehicles
+(ZEVs) indicates that the average total lead time for a ZESB is approximately
+23 months.13 Based on stakeholder interviews in Massachusetts, ZESB lead
+times experienced in the Commonwealth have varied from 3 months to 18
+months.
+11 Lazer, “Electric School Bus Data Dashboard.”
+12 Huntington, et al. “Electric School Bus Market Study.” Lightning E-Motors builds school buses in collaboration with
+Collins Bus Corporation see: “Electric School Buses,” Lightning eMotors, accessed December 19, 2023,
+https://lightningemotors.com/electric-school-buses/.
+13 Lee, “The Electrification of School Buses.” Data came from California’s Hybrid and Zero-Emission Truck and Bus
+Voucher Incentive Project (HVIP), which included lead times for a total of 545 ZESB deliveries in California from 2017-
+2021.
+8
+
+The upfront capital costs of ZESBs in the United States are 3-4 times more
+expensive than their diesel counterparts. The batteries that power ZESBs are
+particularly expensive and are the main driver of the higher upfront cost.14 Cost
+comparisons of ZESBs and their diesel counterparts can be found in Section
+4.3.
+Battery capacity differs between ZESB manufacturers and types. A sample of
+the battery capacity and approximate range of some of the 24 available ZESB
+models as of March 2023 are listed in Table 1 below. The battery capacities
+and ranges provided in the table are provided by the OEMs and represent the
+“nameplate” or claimed estimates, which are the maximum capacity the
+battery can store and distance the bus can travel when it is fully charged and
+operating under ideal conditions. The “usable” battery capacity, typically 80 –
+90 percent of the nameplate capacity, is the amount of energy that can be
+discharged from the battery while maintaining the state of health of the
+battery. The actual vehicle range will vary depending on the specific demands
+of each route, including distance, elevation changes, and weather conditions.
+Table 1. ZESB Battery Capacity and Mileage from OEMs15
+TYPE MANUFACTURER BATTERY CAPACITY CLAIMED RANGE
+BYD 156 kWh 105 miles
+Blue Bird 88 kWh 100 miles
+A
+Lion Electric 84 – 168 kWh 75 – 150 miles
+Collins Bus 120 kWh 130 miles
+Blue Bird 155 kWh 120 miles
+Lion Electric 126 – 168 kWh 100 – 125 miles
+C
+Thomas Built Buses 226 kWh 138 miles
+IC Bus 210 – 315 kWh 135 – 210 miles
+Blue Bird 155 kWh 120 miles
+BYD 255 kWh 155 miles
+D
+GreenPower 194 kWh 140 miles
+Lion Electric 126 - 168 kWh 100 – 125 miles
+14 “Flipping the Switch on Electric School Buses: Cost Factors: Module 1 (Text Version),” Alternative Fuels Data Center
+(AFDC), accessed September 7, 2023, https://afdc.energy.gov/vehicles/electric_school_buses_p8_m1.html.
+15 Jessica Wang, “Electric School Bus U.S. Buyer’s Guide,” WRI, March 2023,
+https://electricschoolbusinitiative.org/buyers-guide
+9
+
+ZESB motors have approximately 20 parts compared to 2,000 in their diesel
+engine counterparts. With fewer components, some ZESB operators have
+reported these vehicles are generally easier to maintain, however their high
+voltage systems require specialized training for maintenance technicians.16
+Operating ZESBs requires the procurement and installation of appropriate
+electrical and charging infrastructure at school bus garaging locations.
+Upgrades or changes to the electricity system may be required both on-site
+and within the utility distribution system serving the chosen depot location.
+These upgrades may include the purchase and installation of electrical
+infrastructure components, such as transformers, meters, switchgear, panels,
+and chargers.
+Each ZESB has a maximum threshold for power acceptance, and it is essential
+that school bus operators purchase chargers that are compatible with their
+ZESBs. There are generally three types of chargers that service ZEVs: AC Level 1
+(L1), AC Level 2 (L2), and Direct Current (DC). Given the longer dwell times for
+school buses, L2 chargers are generally the standard, while ZESBs with a more
+rigorous duty cycle, longer route, and/or shorter dwell time might need a DC
+fast charger (DCFC), which are more expensive because of their ability to
+deliver high amounts of energy in a short amount of time.17
+Charging stations for ZESBs can be “networked” or internet connected,
+providing the station operators with real-time data and controls. Sometimes
+referred to as “Smart” charging stations, networked charging stations provide
+operators with a web-based dashboard application to see all charging
+stations, status of stations, and control usage of the stations including
+scheduling when a vehicle connected to the station will receive power.
+Charging software can help optimize charging schedules, costs, demand, and
+bus performance. These software packages are often available as part of the
+overall annual subscription service fees that EV station network providers
+charge EV charging station operators (i.e., the ZESB owners or school districts).
+The software can communicate with electric utility grid operators to utilize
+real-time pricing and demand data from the utility.
+16 “Flipping the Switch on Electric School Buses: Cost Factors: Module 3 (Text Version),” Alternative Fuels Data Center,
+accessed September 7, 2023, https://afdc.energy.gov/vehicles/electric_school_buses_p8_m3.html.
+17 Arora, Welch, and Silver, “Electric School Buses Market Study.”
+10
+
+2.0 The School Bus Sector in Massachusetts
+2.1 School Bus Fleet in Massachusetts
+As previously stated, RMV vehicle registration data was utilized to describe the
+Commonwealth’s school bus fleet. This data included characteristics such as
+passenger capacity, fuel type, age, ownership, garaging location, and
+odometer readings. The RMV data indicated that there were 9,446 school
+buses registered in Massachusetts.
+There are 398 public school districts in Massachusetts and approximately
+400,000 students in Massachusetts are transported by school buses annually.18
+The RMV school bus data available for this analysis did not indicate if all 9,446
+of these school buses are used regularly to transport students in the
+Commonwealth to school. This data does not allow MassDOT to identify which
+school buses serve which districts nor does it outline school districts’
+transportation service arrangements or agreements.
+Understanding the school bus types in the fleet is important for determining
+costs given the range of costs between types. The RMV data did not include
+information regarding school bus types, so each school bus type is
+categorized by their passenger capacity, as show in Table 2.19 Some of the
+school buses in the fleet have passenger capacities that fall outside of the
+typical capacity ranges for Type A, B, C, and D school buses. Consequently,
+such vehicles are classified as “Other (fewer than 16 passengers)” and “Other
+(30 to 59 passengers).”
+18 “Massachusetts School and District Profiles,” Massachusetts Department of Elementary and Secondary Education
+(DESE), accessed August 21, 2023, https://profiles.doe.mass.edu/general/generalstate.aspx; “School Bus Safety Fact
+Sheet,” Mass.gov, accessed August 21, 2023, https://www.mass.gov/info-details/school-bus-safety-fact-sheet.
+19 Arora, Welch, and Silver “Electric School Buses Market Study.” This report utilized a classification system used by
+CALSTART and School Bus Fleet Magazine, which details the passenger capacities of each school bus type.
+11
+
+Table 2. School Bus Type Categorization by Passenger Capacity
+TYPE TYPE PASSENGER CAPACITY
+A 16-19
+B 20-29
+C 60-72
+D 73-90
+OTHER (<16) 0-15
+OTHER (30-59) 30-59
+Figure 2 summarizes the statewide breakdown of school bus types by
+passenger capacity. Most school buses in Massachusetts are Types C and D,
+with passenger capacities between 60 and 90. Just over 14 percent of school
+buses fall outside of the standard types and are classified as “Other (fewer
+than 16 passengers)” and “Other (30 to 59 passengers).”
+Figure 2. Massachusetts School Bus Fleet Distribution by Type
+394
+162
+(4%)
+(2%)
+1,185
+(12%)
+3,389
+(36%)
+953
+(10%)
+Other (<16)
+Type A (16-19)
+Type B (20-29)
+3,363
+Other (30-59)
+(36%)
+Type C (60-72)
+Figure 3 illustrates the Massachusetts school bus fleet distribution by age. The
+fleet has a median age of five years. Most school buses in the fleet are either
+1-5 years old or 6-10 years old, making up 43 percent and 34 percent,
+respectively. New vehicles account for approximately 11 percent of the fleet.20
+20 New vehicles are classified as Model Year (MY) 2023 and MY 2024.
+12
+
+Figure 3. Massachusetts School Bus Fleet Distribution by Age
+1200 1,065 1,118
+(11%) (12%) 962
+907
+(10%)
+1000
+(10%) 820
+s 774
+e (9%)
+s u 800 671 (8%)
+B 584(7%) 598
+lo (6%) (6%) 530
+o
+h 600 (6%) 427
+c
+S 340 (5%)
+f
+o 400 (4%)
+.o 227
+N (2%)166
+114
+(2%)
+200 (1%) 48
+(1%) 39
+16 15 18 2 3 1
+0
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 24
+Age (Years)
+School buses in Massachusetts are fueled by five different fuel types: diesel,
+gasoline, flexible fuel, propane, and electricity. 21 Approximately 76 percent of
+school buses use diesel fuel, followed by gasoline, flexible fuel, propane, and
+electric (Figure 4). There were 18 electric school buses registered in the
+Commonwealth.
+21 Flexible fuel refers to internal combustion vehicles that can operate on gasoline and any blend of gasoline and
+ethanol up to 83 percent, such as E85 which is a gasoline-ethanol blend containing 51 percent to 83 percent
+ethanol.
+13
+
+Figure 4. Massachusetts School Bus Fleet Distribution by Fuel Type
+419
+929 (4%)
+(10%)
+924 Diesel
+(10%) Electric
+Flexible
+Gas
+18 Propane
+(0%)
+7,156
+(76%)
+School districts in Massachusetts tailor their school transportation ownership
+and operations arrangements to fit their specific needs and preferences.
+School districts can either operate their entire fleet, contract out transportation
+services to a private entity, or choose a combination of those two options.
+Transportation service arrangements are discussed in more detail in Section
+2.4.
+Figure 5 illustrates the breakdown of school bus ownership statewide, with an
+inset that indicates how many school buses are leased to private or municipal
+entities. Private entities own more than 70 percent of school buses in the
+Commonwealth, and of those that are leased, more than 70 percent are
+leased to private entities. In the Commonwealth, approximately 72 school
+districts own at least one school bus, while 31 own more than ten. These
+numbers give us an understanding of the number of school districts that own
+their school bus fleets, but do not mean they operate, or are served by, only
+these buses; many of these same districts may partially lease school buses or
+contract for school bus services.
+14
+
+Figure 5. School Bus Ownership Status
+Municipal 233
+(30%)
+Private
+549
+(70%)
+782
+(8%)
+2,078
+(22%) Leased
+Municipally Owned
+Privately Owned
+6,586
+(70%)
+While RMV data used for this study does not indicate the district in which a
+school bus operates, this data does include the municipality where school
+buses are garaged. Figure 6 illustrates the ownership status by garage
+municipality.
+15
+
+Figure 6. School Bus Ownership by Garage Municipality
+In summary, the school bus fleet in Massachusetts as of April 5, 2023 generally
+consists of larger Type C and D buses, skews young with a median age of 5
+years, primarily runs on diesel fuel, and is mostly owned by private entities.
+2.2 Regulations and Laws Relevant to School Bus
+Operations
+Numerous regulations and laws in Massachusetts set forth guidelines for how
+school transportation should operate. The following section provides a
+summary of the key regulations and laws that govern school bus
+transportation in the Commonwealth.
+Massachusetts statutes establish the responsibility of the School Committee
+to ensure transportation services are available for students to be transported
+to and from home and school and other educational programs. The School
+16
+
+Committee for each district has oversight of and responsibility for the school
+system and establishes criteria to determine if the district’s goals and policies
+are being met.22
+The procurement method for school transportation services in Massachusetts
+is governed by Chapter 30B of the Uniform Procurement Act, which regulates
+the procurement of supplies, services, and real property by school districts,
+cities, towns, and other local jurisdictions in Massachusetts.23 Chapter 30B,
+unless authorized by majority vote, also limits the initial contract term to three
+years with a possibility for two one-year extensions to the initial three-year
+contract, for a total potential contract duration of up to five years subject to
+renegotiation and agreement between the districts and the providers.24
+Massachusetts law also dictates school bus driver qualifications. Individuals
+who wish to operate a school bus must obtain a Commercial Driver’s License
+(CDL) with a Passenger (P) Endorsement or a School Bus (S) Endorsement.
+Drivers also need a school bus driver certificate.25
+Additionally, school buses registered in Massachusetts are subject to three
+annual inspections conducted by the RMV during the fall, winter, and spring.
+The first annual inspection occurs during the months of August and
+September, the second during December and January, and the third during
+April and May.26 These inspections result in a certification or rejection of a
+school bus meeting state-sanctioned safety standards.
+2.3 School Bus Funding
+School districts are required by law to provide transportation services for some
+forms of school transportation. Table 3 outlines the student populations that
+22 “Pupil Transportation Guide: A Guide for Massachusetts School Administrators,” Massachusetts Department of
+Elementary and Secondary Education (DESE), August 1, 1996,
+https://www.doe.mass.edu/finance/transportation/guide.html.
+23 Jeffrey S Shapiro, “The Chapter 30B Manual; Procuring Supplies, Services, and Real Property,” Mass.gov, May 2023,
+https://www.mass.gov/doc/the-chapter-30b-manual-procuring-supplies-services-and-real-property-legal-
+requirements-recommended-practices-and-sources-of-assistance-9th-edition/download.
+24 Ibid.
+25 “Apply for a School Bus Learner’s Permit,” Mass.gov, accessed September 19, 2023, https://www.mass.gov/how-
+to/apply-for-a-school-bus-learners-permit.
+26 “General Law - Part I, Title XIV, Chapter 90, Section 7A,” Massachusetts Legislature, accessed September 7, 2023,
+https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXIV/Chapter90/Section7A.
+17
+
+are guaranteed school transportation by law. According to stakeholder
+interviews, most school districts provide transportation services to students
+living more than one mile from their assigned schools, while sometimes
+providing services for shorter distances for elementary students.
+18
+
+Table 3. Student Populations with Guaranteed School Transportation27
+TRANSPORTATION REIMBURSEMENT STUDENT POPULATIONS WITH GUARANTEED
+PROGRAM NAME TRANSPORTATION (UNDER LAW)
+All students in grades K-6 who live more than 2
+REGULAR DAY TRANSPORTATION IN miles from the school they are attending and
+PUBLIC SCHOOL DISTRICTS live more than 1 mile from the nearest school
+bus stop.
+All students with an Individual Education Plan
+(IEP) who take regular transportation to In-
+District and Out of District public schools.
+IN-DISTRICT AND OUT-OF-DISTRICT
+All students with an IEP who require special
+SPECIAL EDUCATION
+transportation to in-district and OOD public
+TRANSPORTATION
+schools, regardless of distance, and to private
+schools within the geographic boundaries of
+the student’s home district.
+REGIONAL SCHOOL DISTRICT All students in grades K-12, regardless of
+TRANSPORTATION distance.
+Students who attend independent vocational-
+OUT OF DISTRICT VOCATIONAL-
+technical school districts and students who live
+TECHNICAL SCHOOL
+outside of a public school district that houses a
+TRANSPORTATION
+vocational technical school.
+Students who attend schools at their district of
+SCHOOL TRANSPORTATION FOR origin that they previously went to prior to
+STUDENTS EXPERIENCING becoming homeless, at the request of a parent
+HOMELESSNESS or guardian, if they live outside of the district’s
+boundaries.
+Students in foster care who attend schools in
+FOSTER CARE STUDENT their district of origin from the district they
+TRANSPORTATION currently live in, if it is determined it is in the
+best interest, regardless of distance.
+Though the services described in Table 3 are required, state funding for most
+school transportation services in Massachusetts is limited. Funding
+responsibilities generally fall on municipalities. Municipalities typically cover
+27 “Fulfilling the Promise of Local Aid by Strengthening State-Local Partnerships,” Mass.gov, October 13, 2022,
+https://www.mass.gov/report/fulfilling-the-promise-of-local-aid-by-strengthening-state-local-partnerships.
+19
+
+the cost of their school transportation services through general tax receipts
+and school bus service fees.28
+Massachusetts’ primary state financial aid program for public elementary and
+secondary schools is the Chapter 70 program.29 Chapter 70, however, cannot
+be used to fund general student transportation in Massachusetts. The
+exception is for regional school district transportation, which is typically
+reimbursed by the state at 70 to 90 percent of the total costs.
+Additional state and federal funding opportunities primarily target
+transportation services with higher associated costs and for high-need
+students. Specifically, the Special Education Circuit Breaker, McKinney-Vento
+Homeless Assistance Act, and Every Student Succeeds Act (ESSA) offer
+financial assistance for unique student transportation services.
+The Special Education Circuit Breaker is a cost-sharing state program between
+school districts and the state for expenses related to educating the students
+who have the highest special education needs. Transportation services for
+students who are placed in out-of-district programs and are on an
+Individualized Education Program (IEP) are eligible for state reimbursements
+up to 25 percent. However, the Circuit Breaker does not require state
+reimbursement of transportation costs for in district special education
+transportation.30
+Under the federal McKinney-Vento Homeless Assistance Act, school
+transportation for students experiencing homelessness is a mandatory service
+for the state to qualify for various categories of federal money. Consequently,
+the state is obligated to provide full reimbursement to school districts that
+transport these students.31
+28 Ibid.
+29 “Chapter 70 Program,” Massachusetts Department of Elementary and Secondary Education (DESE), accessed
+September 7, 2023, https://www.doe.mass.edu/finance/chapter70/.
+30 “Circuit Breaker Transportation FAQ,” Massachusetts Department of Elementary and Secondary Education (DESE),
+July 9, 2020, https://www.doe.mass.edu/finance/circuitbreaker/transportation-faq.html?section=eligibility.
+31 “McKinney-Vento Homeless Education Assistance Act,” Massachusetts Department of Elementary and Secondary
+Education (DESE), August 23, 2023, https://www.doe.mass.edu/sfs/mv/default.html.
+20
+
+ESSA requires school districts to work with the Massachusetts Department of
+Children and Families (DCF) to provide, arrange, and fund transportation for
+students in foster care to the schools that students previously attended prior
+to their placement in care. This service does not receive state aid; however,
+these transportation services are eligible for federal aid via approval of a Title
+IV-E state plan amendment.32
+2.4 School Bus Contracting Arrangements
+School districts in Massachusetts must arrange school transportation services
+for their students, and there are various stakeholders who determine how a
+school district will do so. The superintendent is responsible for the execution of
+transportation policy and regulations, including establishing bus routes.33
+Based on stakeholder interviews, school transportation services are often led
+by a director of transportation, director of operations, director of finance, or the
+school business administrator. These school district transportation leaders
+collaborate with the School Committee and other stakeholders to determine
+how to provide school transportation services.
+School districts may choose to either own and operate their own fleets, lease
+and operate their school buses, or contract out services to a private bus
+company. Some school districts choose a mix of these options. For example,
+some school districts contract both general education and special education
+services, while other districts contract out general education transportation
+and provide special education transportation internally.
+DESE sent a survey to school districts in April of 2023 asking if they “provide
+[their] own self-operated regular or special education transportation?” There
+were 314 school districts that responded. For regular transportation services,
+48 stated “yes” and 266 replied “no.” For special education transportation
+services, 81 responded “yes” and 233 responded “no.” This survey indicates that
+most school districts in Massachusetts contract out services to private
+companies and that school districts are more likely to self-operate special
+32 “Ensuring Educational Stability for Students in Foster Care - Guidance,” Massachusetts Department of Elementary
+and Secondary Education (DESE), January 18, 2018, https://www.doe.mass.edu/news/news.aspx?id=24765.
+33 DESE, “Pupil Transportation Guide.”
+21
+
+education services, which generally transport fewer students than general
+education services.
+School districts that want to contract out transportation services are required
+to follow competitive bidding processes. They issue Requests for Proposals
+(RFPs) or Invitations for Bids (IFBs) to potential transportation providers,
+evaluating them based on predefined criteria such as cost, service quality, and
+safety records. When all other criteria are met, the only remaining determinant
+is the price. Subsequently, in accordance with Chapter 30B, Section 5, school
+districts select the lowest responsible and responsive bidder that meets the
+transportation needs of the students while offering the best value.34 Contracts
+with private operators are typically bid on a per bus per day rate and are
+signed for three years with the option for two one-year extensions or for five
+years.
+2.5 School Bus Fleet Operations
+Conversations with both school districts and private bus companies highlight
+the complex and context-specific nature of school bus operations, which
+encompass tasks such as route planning, driver training, safety procedures,
+regulatory compliance, and the provision of specialized services, including
+transportation for students with disabilities and extracurricular activities.
+Each school district designs their school bus fleet operations or directs the
+private bus company’s operations to ensure their individual district’s
+requirements are met. School districts generally provide school transportation
+services for 180 days per year for general education transportation, special
+education transportation, travel for sports and extracurricular activities, and
+vocational school transportation. Some districts provide summer school
+transportation, which falls outside of the standard 180 days of operation per
+year.
+Daily duty cycles of school buses depend on the school district’s needs and
+typically encompass morning routes, mid-day layovers, afternoon routes,
+athletic events, and occasional field trips or extracurricular trips. This study did
+34 “General Law - Part I, Title III, Chapter 30B, Section 5,” Massachusetts Legislature, accessed September 7, 2023,
+https://malegislature.gov/Laws/GeneralLaws/PartI/TitleIII/Chapter30B/Section5.
+22
+
+not have access to school bus telematics, but based on stakeholder
+interviews, the average daily mileage per bus varies from 10 miles to 150 miles.
+School bus routes typically remain consistent throughout the year and are
+structured with the goal of minimizing the total time a student spends on the
+bus. Stakeholder interviews revealed that school bus routes are often
+categorized into tiers based on various factors such as distance from the
+school, grade levels, and start times. Additionally, the daily transportation
+service schedule may vary depending on the day of the week if the district has
+inconsistent weekly start or end times.
+The number of stops, along with the duration of stop layovers, differs among
+school districts due to diverse factors, including geographical location, student
+requirements, and start and end times. Some districts have bus routes with as
+few as 5 stops and 5 to 10 minutes of layover time. Other districts, specifically
+those in more rural communities, have longer routes with up to 25 stops per
+route.
+Deadheading is also a consideration for school bus operations due to its
+impact on efficiency and cost effectiveness. This occurs when school buses
+operate without passengers, usually to reach their starting points or assigned
+terminals. Depending on the storage locations of the individual buses, the
+deadheading varies amongst school districts. Efficient school transportation
+services tend to design routes to limit deadheading.
+2.6 School Bus Fleet Storage and Maintenance
+School bus service providers in Massachusetts have varied operating
+demands, but their fleet storage and maintenance practices are relatively
+similar. All operators need to determine where and how to store their school
+buses, whether they own or lease the storage depot, what equipment to keep
+at the storage facility, and where and how to perform fleet maintenance.
+Typically, school district transportation procurement contracts require that a
+school bus be stored in the same municipality as the school it serves to
+minimize transit times and ensure timely pick-up and drop-off of students.
+However, some districts make exceptions if the storage location is still close
+23
+
+by. For school districts that own school buses, they tend to store their fleet on
+school property or at facilities located within the district. Some districts and
+private operators store their fleets across multiple facilities, while others utilize
+one location.
+School bus operators have the choice of owning or leasing the property where
+they store their fleet. This decision is primarily determined by the operator’s
+budget and availability of land and storage locations in the district. Interviews
+suggested that most leasing agreements are 20 years long.
+School bus fleets are typically stored in outdoor, central depots, with some
+depots including limited indoor storage for buses.
+Based on stakeholder interviews, the mobility of buses between depots is
+relatively infrequent. Generally, each depot serves a specific geographic area
+or school district, and the buses assigned to that depot primarily operate
+within their designated region. However, in exceptional cases, such as
+maintenance needs, high-volume passenger events, or emergencies, buses
+may be temporarily moved between depots to meet demand.
+The typical layout of school buses at a storage facility consists of designated
+parking spaces for each bus. The buses are generally parked side by side in a
+row format, and there are well-defined lanes for easy access and movement
+of the vehicles.
+At school bus fleet facilities, a range of equipment is stored and utilized. Apart
+from the school buses themselves, these facilities house maintenance and
+repair tools, diagnostic equipment, and spare parts to keep the buses in
+optimal condition. Additionally, they may have fueling stations and bus-
+washing facilities. If fueling stations are not located at the storage facility,
+operators typically fuel their fleets off-site at a location close by.
+Operators that perform their own maintenance often have a dedicated facility
+for maintenance and employ full-time mechanics. Other operators perform
+simple repairs in-house and transfer the vehicle to the dealership or the
+24
+
+service provider for major repairs or choose to contract out all maintenance
+services.
+Fleet replacement practices vary between public and privately owned fleets.
+Generally, school district-owned buses are replaced at the end of a bus’s life
+(between 10 to 15 years). However, specific replacement schedules may be
+adjusted based on factors like the bus's mileage, condition, and funding
+availability. For school districts that contract with private companies for school
+bus services, contract terms often require school buses to be five years old or
+younger, which incentivizes private fleets to replace their buses more regularly.
+2.7 Status of Zero-Emission School Bus Implementation in the
+Commonwealth
+Out of the 9,446 school buses in the Commonwealth, at the time RMV data
+was extracted for this analysis, 18 were ZESBs. The school bus operators
+interviewed that currently utilize ZESBs stated that the financial assistance
+through several government programs enabled them to purchase these
+buses. Operators also expressed a key success factor for ZESB adoption was a
+strong relationship with their utility provider. They also emphasized the
+importance of training drivers, particularly on regenerative breaking, and
+having specially trained ZESB maintenance operators close by.35 Broadly, ZESB
+operators expressed their ambition to continue with a transition to this
+technology, with quieter bus operation and the absence of diesel emissions
+among the factors motivating this ongoing transition.
+A number of school districts and private operators using ZESBs collaborate
+with private companies who offer a turnkey ZESB service. These turnkey ZESB
+service providers typically own the ZESB and associated equipment, thereby
+reducing the up-front capital cost for their clients. These providers are usually
+responsible for all maintenance tasks, assist with installing charging
+infrastructure at the client’s storage facility, offer driver training, and aid their
+clients in seeking financial assistance. The school district is typically
+35 Regenerative brakes are used in electric and hybrid vehicles and function as an energy recovering mechanism by
+slowing down the vehicle and converting kinetic energy into a form that can be used immediately or stored for later
+use. See: “How Regenerative Brakes Work,” Energy.gov, accessed November 11, 2023,
+https://www.energy.gov/energysaver/how-regenerative-brakes-work.
+25
+
+responsible for hiring drivers. This arrangement typically entails a 10–15-year
+contract.
+Some of the school bus operators with ZESB experience have participated in
+pilot Vehicle-to-Grid (V2G) technology programs. V2G charging technology
+allows ZESBs to interact with the power grid via a bi-directional charger that
+facilitates a two-way energy flow. Using this technology, ZESBs can both draw
+power from the grid to charge their batteries and send stored energy back to
+the grid.36 Under a V2G program, the school bus operator is paid for the energy
+the bus gives back to the grid. Feedback from participants indicated that in
+theory, this approach could offer advantages to both the operator and the
+power grid, but that the compensation provided to the ZESB operators was
+modest, and the training and resources needed for V2G implementation are
+significant.
+Most of the fleet operators interviewed who have not yet adopted ZESBs
+expressed their interest in buying them--however, the primary barrier to
+adoption is the higher up-front cost of ZESBs and their associated charging
+infrastructure compared to their diesel counterparts. Some districts interested
+in buying ZESBs either applied for funding assistance but didn't receive it, don't
+have the time or expertise to apply for grants or a plan for how to integrate
+ZESBs into their fleets, or didn't know funding assistance was available.
+Transitioning to ZESBs requires the establishment of charging infrastructure
+and in many cases, upgrading electric systems to accommodate higher
+energy demands. Interviews indicated these to be significant logistical and
+financial challenges.
+As mentioned earlier, there are approximately 24 ZESB models available on the
+market. However, due to the specific needs of each school district, some
+stakeholders expressed that there are not enough model options and lead
+times are too long to meet their needs. School bus operators also expressed
+uncertainty regarding available models meeting their daily mileage needs.
+36 Darlene Steward, “Critical Elements of Vehicle-to-Grid (V2G) Economics,” National Renewable Energy Laboratory
+(NREL), September 2017, https://www.nrel.gov/docs/fy17osti/69017.pdf.
+26
+
+This is particularly a concern for operators with daily bus mileage
+requirements of 150 miles or more.
+Many private operators in Massachusetts rely on resale values to fund their
+next school bus purchase and ensure their fleet is young enough to meet
+school district bid requirements. Given the ZESB market is new, there is little
+information regarding market resale values, which poses a concern for private
+operators. Similarly, the lifespan of a ZESB is unfamiliar, making fleet
+replacement planning for school districts and private operators challenging.
+3.0 Overview of Massachusetts Investor-Owned Utilities
+ZESB adoption, specifically the deployment of charging infrastructure, requires
+coordination with private and municipal utilities in Massachusetts.
+There are currently four investor-owned electric distribution companies that
+provide electricity services for a majority of towns and cities in Massachusetts:
+ NSTAR Electric Company d/b/a Eversource Energy
+ Massachusetts Electric Company d/b/a National Grid
+ Nantucket Electric Company d/b/a National Grid
+ Fitchburg Gas and Electric Light Company d/b/a Unitil
+Massachusetts is also served by 41 municipal electric companies delivering
+power to approximately 50 municipalities across the Commonwealth.37 This
+structure creates a patchwork of different providers, each of which maintains
+the electric distribution infrastructure (i.e., wires, poles, transformers, etc.) for
+their specific service territory.
+The economic analysis in Section 4.0 includes consideration of Demand
+Charge Alternative programs for electric vehicle charging, which are only
+relevant to investor-owned utilities. The focus of this section is on these
+37 “Competitive Supply Glossary,” Mass.gov, accessed September 19, 2023, https://www.mass.gov/info-
+details/competitive-supply-glossary.
+27
+
+investor-owned utilities, and their EV charging programs are discussed in
+more detail below.
+Investor-owned electric utilities charge distribution fees to electric consumers.
+The prices (“rates”) that these utilities charge their customers are highly
+regulated and set by the Department of Public Utilities (DPU). These utilities
+must supply electricity largely on demand and typically have limited ways to
+store it. Consequently, electricity must be distributed immediately to end users,
+prompting providers to structure pricing in a way that encourages consistent
+and predictable customer demand.
+The investor-owned utilities in Massachusetts assess “demand charges” on
+commercial customers who demand high power levels over short periods of
+time. These utilities have structured their rates so that once a commercial
+customer exceeds a peak demand or load threshold, demand charges are
+triggered, which are based on the monthly maximum or peak energy kilowatt
+(kW) demand.38
+The kW demand of energy use is the key difference between L2 and DC EV
+charging from a customer pricing standpoint. For example, if a ZESB with a 180
+kW battery returns to base with 15 percent charge left, that ZESB would need
+153 kW to return to a state of full charge. The school bus operator could charge
+that bus for 12 hours overnight at an average of 13 kW per hour using a 19.2 kW
+L2 charger, or a school bus operator could charge that bus in a single hour
+during the day using a 150 kW DCFC. Both scenarios could be subject to
+demand charges--however, it is more likely that the daytime DCFC charging
+scenario would experience higher demand charges due to its higher
+maximum energy threshold of 150 kW compared to 19.2 kW.
+National Grid, Eversource, and Unitil developed Demand Charge Alternative
+Programs for EV charging, which were approved by DPU.39 These programs are
+designed to reduce EV charging station operating costs by providing a tiered,
+38 “Understanding Your Electric Bill: Saving Money On Demand Charges and Power Factor,” Mass.gov, April 1, 2019,
+https://www.mass.gov/doc/understanding-your-electric-bill-saving-money-on-demand-charges-and-power-
+factor-0/download.
+39 “Electric Vehicle Charging,” Mass.gov, June 6, 2023, https://www.mass.gov/info-details/electric-vehicle-charging.
+28
+
+load factor-based discount on commercial customer demand charges.40 A
+load factor (LF) is the ratio of the actual kilowatt hours (kWh) delivered during
+a billing period to the peak load (or peak demand in kW) during the billing
+period, if the demand was constant over the billing period. These programs
+are currently available for 10 years starting in 2023. All new and existing utility
+customers are eligible to enroll in their service area provider’s program,
+provided their EV charging stations are separately metered and the customer
+is on a qualifying, EV-specific rate schedule.
+The Demand Charge Alternative Programs coupled with networked chargers
+and demand management software can help school bus operators mitigate
+electric utility demand charges.
+4.0 Evaluating the Costs and Environmental Benefits of
+Zero-emission School Buses
+4.1 Fleet Replacement Scenarios
+FLEET REPLACEMENT SCENARIO DEFINITIONS
+To enable comparisons of ZESB costs and environmental benefits with their
+conventional counterparts, three school bus fleet replacement scenarios
+were defined, as outlined in Table 4 below, reflecting futures in which ZESB
+fleet share follows three different adoption pathways. The fleet replacement
+scenarios cover the period from 2023-2036. This fourteen-year analysis
+period aligns with the approximate life expectancy of a school bus and
+concludes in 2036, the year following the cessation of Advanced Clean
+Trucks rule (ACT rule) sales percentage escalations, described below.
+In all three fleet replacement scenarios, the total number of school buses
+operating in Massachusetts remains constant at 9,446 vehicles over the
+analysis horizon, to simplify the analysis. Similarly, the proportion of vehicles
+40 “Demand Charge Alternative Program for Massachusetts,” National Grid, August 2023,
+https://www.nationalgridus.com/media/pdfs/bus-ways-to-save/ev/cm9464-demand-charge_one-pager.pdf.;
+“Commercial Electric Rates (MA),” Unitil, August 1, 2023, https://unitil.com/sites/default/files/2023-
+08/MA_Comm_Elec_Rates_0823.pdf.
+29
+
+by body style (inferred by gross vehicle weight rating or “regulatory class”)
+also remains constant.
+Table 4. School Bus Fleet Replacement Scenario Definitions
+This scenario assumes that the number of ZESBs in the fleet (18)
+does not grow beyond 2023 levels. All other new vehicles will be
+conventional fossil fuel-powered school buses and would replace
+Current Fuel
+like for like in terms of vehicle weight class and fuel type. This
+Mix
+scenario is included only to allow the calculation of the total cost
+of ZESB adoption and associated emissions impacts.
+Under this scenario, school bus manufacturers comply with the
+ACT rule adopted by Massachusetts in 2021 and taking effect in
+Model Year (MY) 2025 sales.41 The rule requires an increasing
+fraction of all medium and heavy duty vehicle sales, in weight
+classes 2B through 8, in Massachusetts beginning with MY 2025 be
+zero-emission vehicles. These fractions vary by vehicle weight
+ZEV
+class.
+Compliance
+While the ACT rule applies to all MHDV sales and does not
+specifically apply to school buses, this scenario assumes that ZESB
+manufacturers comply with the ACT rule sales fraction schedule
+by vehicle weight class set out in the regulation.
+This scenario models an immediate shift to 100 percent ZESB
+purchases. Beginning in 2024, all new school buses entering the
+ZESB Swap
+fleet are ZESBs.
+41 “MassDEP Files New Regulations to Reduce Emissions, Advance Market for Clean Trucks in the Commonwealth,”
+Massachusetts Department of Environmental Protection (MassDEP), December 30, 2021,
+https://www.mass.gov/news/massdep-files-new-regulations-to-reduce-emissions-advance-market-for-clean-
+trucks-in-the-commonwealth.
+30
+
+Table 5 illustrates the ACT rule zero-emission vehicle (ZEV) sales
+requirements. The Class 7-8 Tractors sales percentages do not apply to
+school buses.
+Table 5. ACT Rule Sales Percentage Requirements42
+MODEL YEAR (MY) CLASS 2b-3 CLASS 4-8 CLASS 7-8 TRACTORS
+2025 7% 11% 7%
+2026 10% 13% 10%
+2027 15% 20% 15%
+2028 20% 30% 20%
+2029 25% 40% 25%
+2030 30% 50% 30%
+2031 35% 55% 35%
+2032 40% 60% 40%
+2033 45% 65% 40%
+2034 50% 70% 40%
+2035+ 55% 75% 40%
+Table 6 breaks down Massachusetts’ school bus fleet by regulatory class and
+grouped by the ACT rule sales percentage class groups. The majority of
+school buses are Class 7 and would therefore be subject to the Class 4-8
+ACT sales requirements.
+42 “Background Document on Emergency Regulation Amendments to 310 CMR 7.40,” Massachusetts Department of
+Environmental Protection (MassDEP), December 30, 2021, https://www.mass.gov/doc/310-cmr-740-background-
+document/download.
+31
+
+Table 6. Massachusetts School Bus Fleet Proportions by ACT Regulatory
+Class Groups
+COUNT OF TOTAL VEHICLES IN PERCENTAGE OF VEHICLES IN
+REGULATORY CLASS VEHICLES ACT RULE CLASS FLEET BY ACT RULE CLASS
+GROUPS GROUPS
+2 49
+1,352 14%
+3 1,303
+4 353
+5 5
+6 252 8,094 86%
+7 6,776
+8 708
+FLEET REPLACEMENT SCENARIO ZESB FLEET SHARE
+Figure 7 below illustrates the estimated ZESB fleet share for each analysis
+year (2023-2036) of each fleet replacement scenario, as defined in Table 4.
+These fleet share estimates take into account the age distribution of the
+Massachusetts school bus fleet and a custom scrappage curve that defines
+the probability of vehicles retiring from the fleet changes with age.
+While used ZESBs may circulate in the fleet and individual fleets may buy and
+sell individual vehicles over time, this analysis examines the statewide school
+bus population.
+32
+
+Figure 7. Estimated ZESB Fleet Share by Fleet Replacement Scenario, 2023-
+2036
+Current ZESB Swap
+Fuel Mix
+ZESB fleet share is lowest for the Current Fuel Mix scenario; by design, the fleet
+never gains more than 18 ZESBs (0.2 percent of the fleet).
+The ZEV Compliance scenario results in a ZESB fleet share of 71 percent by
+2036. The conversion rate for this scenario slows slightly in 2035, and then
+begins to flatten as the Class 4-8 sales fraction ceases to increase in that
+year.
+The ZESB Swap scenario would achieve a nearly full ZESB fleet by 2036. The
+fleet share reaches 92 percent electric in 2033 and 99.4 percent electric at
+the end of the analysis timeframe in 2036. Though outside the stated
+analysis horizon, the analysis predicts full electrification under the ZESB Swap
+scenario by 2038.
+4.2 Key Assumptions and Inputs Considerations
+Estimating the economic and environmental impacts of the three fleet
+replacement scenarios required assumptions about the fleet activity,
+including average daily miles driven, charging requirements, and a range of
+unit costs.
+33
+
+4.2.1 Fleet Activity and Mileage Assumptions
+The average annual vehicle miles travelled (VMT) for each regulatory class
+and age was estimated using the annual RMV mileage data from 2018-2022,
+available for only 8,007 school buses. The results from the school buses with
+mileage data were then scaled to reflect the full fleet of 9,446 school buses.
+For the annual VMT calculation, the number of school bus operating days in
+Massachusetts was estimated to be 156. The Massachusetts school year is
+180 days and on average, each school bus is assumed to be used as a spare
+vehicle approximately 13 percent of the time, or 24 days per year.43
+The distribution of annual miles driven for school buses in Massachusetts is
+presented in Figure 8, while Figure 9 shows the distribution of daily miles
+driven.
+Figure 8. Distribution of Annual Average Miles Driven by School Buses in
+Massachusetts
+(12,000-15,000] (15,000-18,000] >18,000
+4% 2% 1% [0, 3,000]
+(9,000-12,000] 18%
+Annual
+11%
+Average Miles
+[0, 3,000]
+(3,000-6,000]
+(6,000-9,000]
+(9,000-12,000]
+(12,000-15,000]
+(15,000-18,000]
+>18,000
+(3,000-6,000]
+(6,000-9,000] 36%
+28%
+43 A spare vehicle is a vehicle kept in reserve in case another vehicle in the fleet cannot be driven. The 13 percent
+spare estimate was derived from stakeholder interviews.
+34
+
+Figure 9. Distribution of Average Daily Miles Driven by School Buses in
+Massachusetts
+25%
+s 20%
+e
+s u 20% 18%
+B 16%
+lo
+o 15%
+h
+c
+S 10%
+f
+9% 9%
+o 10%
+t n 6%
+e
+c 4%
+r e 5% 2% 3%
+P 2%
+0%
+0-10 10-20 20-30 30-40 40-50 50-60 60-70 70-80 80-90 90-100 100+
+Average Daily Miles
+As Figure 9 shows, only 3 percent of daily miles driven exceed 100 miles. The
+daily mileage results were used to determine the charging strategy for each
+school bus in the fleet, as described in Section 4.2.2 below.
+All ZESBs of regulatory Class 4 and above were assumed to use diesel-
+powered heaters during winter months only (between November and
+March). Class 2-3 school buses are assumed to use batteries for heat, given
+these smaller vehicles would require far less energy to heat.
+The number of winter school bus operating days from November to March
+was estimated to determine the days that diesel heaters would operate.
+There are typically 109 weekdays from November to March and 17 weekday
+holidays, which leads to a total of 92 winter school days, of which each
+vehicle would actually operate 80 days (due to the 13 percent spare vehicle
+assumption). Multiplying the average daily VMT by 80 yielded the winter
+mileage, which was then distributed in the same manner as with average
+annual VMT, by regulatory class and age. This winter operating day estimate
+was used to calculate the emissions from diesel heaters, as described in
+Section 4.4.
+35
+
+4.2.2 Charging Requirement Assumptions
+CHARGING FEASIBILITY STRATEGIES
+A charging feasibility analysis was performed using a model that incorporated
+the battery capacity, number of days of operations, weather conditions,
+average daily mileage, and average speed to determine fleet charging
+strategies and energy requirements.
+One of the following two charging strategies was assigned to each school bus
+based on estimated energy consumption rates and various operational
+conditions:
+1. ZESBs charge solely on L2 (19.2kW) EV chargers overnight. L2 chargers
+offer fleet owners the lowest cost EV hardware options, smallest space
+requirements per bus, lowest cost for installation, and lowest ongoing
+costs for operations and maintenance (O&M).
+2. ZESBs complete daily operations with DCFC EV stations capable of
+charging buses at 150kW per hour during a mid-point of daily operations
+to ensure sufficient battery charge. DCFC EV charging stations need
+additional space per bus and are significantly more expensive
+compared to L2 EV chargers.
+CHARGING FEASIBILITY ASSUMPTIONS
+The charging assumptions detailed in Table 7 below were used to determine
+the charging feasibility of the 9,446 school buses based on the two charging
+strategies.
+36
+
+Table 7. Charging Feasibility Model Assumptions
+PARAMETER VALUE
+Bus Manufacturer Navistar (most prevalent diesel bus make deployed in MA)
+Bus Model Electric CE 210 kW (ZESB most similar to diesels deployed in MA)
+Number of School Days 156 (Based on assumptions stemming from spare bus ratios)
+Strenuous (i.e., hot and cold weather with related diesel heater
+Weather Conditions
+use)
+Average School Bus Speed 25 mph44
+Minimum State of Charge
+15% (industry standard minimum SOC best practice)
+(SOC)
+Maximum State of Charge 85% (industry standard providing buffer against battery
+(SOC) degradation)
+Each bus is assumed to begin the day with a minimum 85 percent state of
+charge (SOC) and its daily mileage is considered feasible if it ends the day
+above a 15 percent battery SOC. This range considers that operating at a SOC
+above 85 percent leads to battery degradation and that operating below 15
+percent risks the vehicle running out of charge before it can return to the
+garage.
+When the average daily miles driven for a bus end with a SOC greater than 15
+percent, that bus is considered feasible for electrification under an L2 (19.2kW)
+overnight EV charging scenario to meet all daily service cycle energy needs.
+For each bus that fell under 15 percent state of charge after the L2 overnight
+only charging scenario, a midday DCFC (150kW) EV charging session option
+was tested in the model to see if the bus could service the remaining route
+miles. The school buses that could meet its energy needs with a DCFC session
+during the daily service cycle were considered feasible for electrification.
+CHARGING FEASIBILITY RESULTS
+The results of this high-level charging analysis are illustrated in Figure 10. An
+estimated 73 percent of the Massachusetts school bus fleet would be feasible
+44 Adam Duran and Kevin Walkowicz, “A Statistical Characterization of School Bus Drive Cycles Collected via
+Onboard Logging Systems,” SAE International Journal of Commercial Vehicles 6, no. 2 (2013): 400–406,
+https://doi.org/10.4271/2013-01-2400.
+37
+
+for overnight L2 (19.2kW) EV charging alone, while the remaining 27 percent
+can complete their service routes with one mid-day DCFC EV charging session.
+Less than one tenth of a percent of the fleet could not complete their daily
+mileage under either charging strategy, with these school buses most likely
+used for longer field trips or special routes.
+Figure 10. Percent of School Buses Feasible by EV Charging Strategy
+y g AC L2 73%
+e
+t
+a
+r
+t
+S
+g
+DCFC 27%
+n
+ig
+r
+a
+h Not Feasible 0.09%
+C
+0.00% 10.00% 20.00% 30.00% 40.00% 50.00% 60.00% 70.00% 80.00%
+Percent of School Buses Feasible
+These charging results were utilized to determine the use of L2 charging or DC
+fast charging strategies in the fleet replacement scenario cost estimates in
+Section 4.3.2.
+For the fleet replacement scenario cost estimates and environmental impact
+analysis below, it was assumed that all fossil fuel-powered school buses could
+be replaced on a 1:1 basis with ZESBs of the same vehicle class. While less than
+one percent of the school bus fleet was unsuitable for electrification, the state-
+wide nature of this analysis and the fact that none of the replacement
+scenarios reach 100 percent ZESB adoption by 2036 justified the use of a 1:1
+replacement ratio.
+4.2.3 ZESB and Diesel School Bus Cost Assumptions
+School bus fleets, whether powered by fossil fuel for or zero-emission sources,
+are subject to the following four categories of lifecycle costs: 1) capital
+acquisition costs; 2) operations costs; 3) maintenance costs; and 4) end-of-
+life costs. Each of the four main cost categories are detailed below in 2022
+dollars with information on three schools bus types (A, C, & D) for ZESBs and
+38
+
+diesel-powered school buses.45 These cost assumptions are representative
+and actual costs associated with ZESB adoption will vary based on a range of
+factors, such as the vehicle makes and models chosen, vehicle specifications,
+school district needs, site upgrades, and utility provider.
+In the subsections that follow, red-colored numbers are used to illustrate ZESB
+costs that exceed conventional diesel buses, while green-colored numbers are
+used to illustrate ZESB costs that offer comparable savings.
+The capital acquisition costs in Table 8 and Table 9 were utilized to estimate
+the fleet replacement scenario costs in Section 4.3.2.
+The “total” values for Type C school buses in Table 8 – Table 14 represent the
+cost assumptions utilized in the total cost of ownership (TCO) analysis in
+Section 4.3.1.
+CAPITAL ACQUISITION COST ASSUMPTIONS
+Table 8 below details the capital acquisition costs associated with L2 charging
+for ZESB deployment.
+45 Michelle Levinson et al., “Recommended Total Cost of Ownership Parameters for Electric School Buses: Summary
+of Methods and Data,” World Resources Institute, January 30, 2023, https://www.wri.org/research/recommended-
+total-cost-ownership-parameters-electric-school-buses-methods-data. Unless otherwise noted, all cost data for
+ZESBs and diesel buses cited are derived from WRI. Additional information was provided by utilities, Massachusetts
+school bus owner/operators, vehicle and equipment manufacturers, and information derived from MassDOT data
+as cited in this section.
+39
+
+Table 8. Capital Acquisition Costs per School Bus: Zero-Emission (L2) vs.
+Diesel by Type46
+VEHICLE TYPE TYPE A TYPE C TYPE D
+Fuel type Electric Diesel Electric Diesel Electric Diesel
+MSRP 2022 ($/vehicle average) $271,393 $58,484 $352,012 $103,140 $378,459 $127,606
+Level 2 EV Charger (19.2kW)
+$3,814 $0 $3,814 $0 $3,814 $0
+Hardware
+Level 2 EV Charger (19.2kW)
+$6,661 $0 $6,661 $0 $6,661 $0
+Installation
+Incremental Land Acquisition for
+EV Charger (12 sq. ft. @ $268,400 / $74 $0 $74 $0 $74 $0
+acre MA average)47
+Total $281,942 $58,484 $362,561 $103,140 $389,008 $127,606
+Additional ZESB Capital Costs vs
+$223,458 $259,421 $261,402
+Diesel
+Table 9 below details the additional capital acquisition costs that are
+associated with DCFC deployment in Massachusetts.
+Table 9. Additional DCFC Capital Acquisition Costs per ZESB48
+Fuel type Electric
+DCFC (150kW) Hardware & Installation49 $234,219
+Incremental Land Acquisition for EV Charger (260 sq. ft. @
+$1,602
+$268,400 / acre MA average)50
+Total $235,821
+Investments and upgrades are often needed on the utility’s side of the
+electrical meter, such as a separate meter, larger transformer, new electrical
+service, or a new substation.51 It is important to note that the L2 and DC EV
+charging hardware and installation costs outlined in Table 8 and Table 9
+represent the customer-side acquisition and installation costs and do not
+include utility-side cost estimates.
+46 Table 8 illustrates the capital costs associated with the estimated 73% of school buses in Massachusetts that
+could rely solely on L2 chargers.
+47 MassDOT land value analysis; HNTB data on average EV charging station space requirements for L2 and DCFC
+stations.
+48 The additional DCFC capital costs in Table 9 would apply to the estimated 27% of school buses in Massachusetts
+that would need both an L2 charger and a DCFC.
+49 DCFC hardware and installation costs are estimates from previous MassDOT study.
+50 MassDOT land value analysis; HNTB data on average EV charging station space requirements for L2 and DCFC
+stations.
+51 Ibid.
+40
+
+ANNUAL SCHOOL BUS OPERATIONS COST ASSUMPTIONS
+ZESBs potentially offer several operational cost savings advantages to diesel
+vehicles based on reduced costs for energy, greater energy efficiencies, and
+reduced need for additional fluids such as diesel exhaust fluid. Table 10 below
+details the annual operations costs per school bus associated with L2 charging
+or DC fast charging.
+Table 10. Annual Operations Costs per School Bus: Zero-Emission vs. Diesel
+by Type52
+VEHICLE TYPE TYPE A TYPE C TYPE D
+Fuel type Electric Diesel Electric Diesel Electric Diesel
+Annual vehicle mileage
+7,069 7,069 7,069 7,069 7,069 7,069
+(miles/year) 53
+Overall fuel economy (MPGe) 39.46 10.5 22.1 6.59 25.32 6.32
+Average Energy Costs
+$0.19 $3.26 $0.19 $3.26 $0.19 $3.26
+($/kWh and $/gallon)
+Diesel exhaust fluid ($/gallon) $0 $0.03 $0 $0.03 $0 $0.03
+Total $1,297 $2,215 $2,315 $3,529 $2,021 $3,680
+ZESB Operating Cost Savings $918 $1,214 $1,659
+Table 10 above does not factor in demand charges. Table 11 illustrates
+potential demand charge costs. To streamline the cost analysis, only demand
+charges from investor-owned utilities with Demand Charge Alternative
+Programs (National Grid, Eversource, and Unitil) were considered. These
+programs consist of rate components such as a kW demand charge and a
+kWh base distribution rate.
+Demand charges are based on the peak rate of electricity consumption in kWs
+at a facility each month over a specific time interval. The demand charges in
+the existing programs range from $3.04 - $19.82/kW. The kW rates in Table 11
+represent a weighted average based on how many school buses are garaged
+in each utility service region. They are categorized by “low utilization” and “high
+utilization,” where low utilization represents the weighted average $/kW in the
+greater than 5 percent and less than or equal to 10 percent load factor
+52 The annual operations costs in Table 10 would apply to all ZESBs, regardless of whether they utilize an L2 charger
+or DCFC.
+53 The annual average school bus mileage (7,069) from the RMV mileage data was utilized for these cost estimates.
+41
+
+category, and high utilization represents the weighted average $/kW in the
+greater than 15 percent load factor category.
+The kWh cost estimates were calculated using the same approach as the
+demand charge kW costs.
+Table 11. Annual Operations Costs per School Bus: Demand Charges54
+VEHICLE TYPE TYPE A TYPE C TYPE D
+DCFC (low L2 (high DCFC (low L2 (high DCFC (low L2 (high
+utilization) utilization) utilization) utilization) utilization) utilization)
+Annual vehicle
+7,069 7,069 7,069 7,069 7,069 7,069
+mileage (miles/year)
+Overall fuel economy
+39.46 39.46 22.1 22.1 25.32 25.32
+(MPGe)
+Peak kW Monthly
+150 19.2 150 19.2 150 19.2
+Usage
+Months per Year 12 12 12 12 12 12
+MA Weighted Avg.
+$3.22 $12.77 $3.22 $12.77 $3.22 $12.77
+Demand Charge/kW
+Total Annual ZESB
+$kW Demand Charge $5,788 $2,943 $5,788 $2,943 $5,788 $2,943
+Costs
+Annual kWh Used 6,825 12,187 10,637
+MA Weighted Avg.
+$0.098449 $0.07189 $0.098449 $0.07189 $0.098449 $0.07189
+Demand Charge/kWh
+Total Annual ZESB
+$kWh Demand $672 $491 $1,200 $876 $1,047 $765
+Charge Costs
+Total Annual
+Demand Charge $6,460 $3,434 $6,988 $3,819 $6,835 $3,708
+Costs
+ANNUAL SCHOOL BUS MAINTENANCE COST ASSUMPTIONS
+ZESBs offer potential maintenance advantages versus their diesel
+counterparts due to their simplified mechanical components, as shown in the
+“Annual Maintenance Costs” row in Table 12 below.55
+However, ZESBs are currently subject to several increased costs versus diesel
+school buses, primarily stemming from increased costs to insure the vehicles
+54 The costs in Table 11 estimate demand charges that could be associated with ZESBs.
+55 Alternative Fuels Data Center. “Flipping the Switch on Electric School Buses: Cost Factors: Module 3.”
+42
+
+based on the higher overall vehicle prices, as well as incremental additional
+costs from EV charging station ongoing networking and maintenance.
+Table 12. Annual Maintenance Costs per School Bus: Zero-Emission vs
+Diesel by Type
+VEHICLE TYPE TYPE A TYPE C TYPE D
+Fuel type Electric Diesel Electric Diesel Electric Diesel
+Average Annual Miles 7,069 7,069 7,069 7,069 7,069 7,069
+Overall maintenance & repair costs
+$0.24 $0.40 $0.29 $0.57 $0.31 $0.62
+($/mile)
+Annual Maintenance Costs $1,697 $2,828 $2,050 $4,029 $2,191 $4,383
+Level 2 EV Charger (19.2kW)
+$454 $0 $454 $0 $454 $0
+Networking
+Level 2 EV Charger (19.2kW)
+$536 $0 $536 $0 $536 $0
+Maintenance
+Liability-only cost to insure ($/year) $4,786 $4,786 $6,770 $6,770 $12,300 $12,300
+Full coverage cost to insure56
+$14,812 $9,068 $22,548 $12,660 $28,088 $17,575
+($/year)
+Total $22,285 $16,682 $32,358 $23,459 $43,569 $34,258
+Additional ZESB Maintenance Costs $5,603 $8,899 $9,311
+DC EV fast chargers are subject to increased ongoing maintenance costs
+compared to L2 EV chargers. These increased costs stem primarily from the
+fact that DCFC equipment, by providing significantly higher power (150kW vs.
+19.2kW) outputs over short time periods, have hardware that is routinely
+subject to higher temperatures, or thermal loads, during operations. These
+high operating temperatures require cooling systems within the DCFC
+equipment, and these cooling systems need routine maintenance. Table 13
+details the ongoing costs related to annual DCFC equipment maintenance.
+Table 13. Additional Annual DCFC Maintenance Costs per ZESB by Type
+VEHICLE TYPE TYPE A TYPE C TYPE D
+Fuel type Electric Diesel Electric Diesel Electric Diesel
+DCFC (150kW) Networking $522 $0 $522 $0 $522 $0
+DCFC (150kW) Maintenance $2,237 $0 $2,237 $0 $2,237 $0
+Total $2,759 $2,759 $2,759
+56 Insurance costs can vary significantly due to factors like deductible structure, market characteristics (character
+of local juries, repair costs, perceived danger), coverage, caps on payouts, and other considerations.
+43
+
+For fleet owners that keep their vehicles for their full lifetime, additional mid-
+life battery overhaul costs may be incurred. Electric vehicle batteries, like all
+batteries, are subject to degradation over years of successive charging and
+discharging cycles. Battery degradation means a diminished capacity for
+batteries to store energy over their lifetime. Most ZESB manufacturers, like
+conventional vehicle manufacturers, offer battery warranties for five to eight
+years, often guaranteeing a range minimum, and offering a full battery
+replacement if range decreases past warrantied thresholds.
+Table 14 details the potential mid-life ZESB battery overhaul costs as well as
+end-of-life battery salvage values (based on composite average battery sizes
+for each bus type).
+For the TCO estimate in Section 4.3.1, mid-life overhaul costs for ZESBs were
+assumed at 8 years. Diesel school buses did not have associated mid-life
+costs because diesel engines are typically replaced at 250,000 miles or more,
+which is beyond the estimated lifetime mileage of the Commonwealth’s fleet.57
+Table 14. Mid-Life Overhaul & Battery Salvage Value per School Bus: ZESBs
+vs Diesel School Buses by Type
+VEHICLE TYPE TYPE A TYPE C TYPE D
+Fuel type Electric Diesel Electric Diesel Electric Diesel
+Mid-Life (~8 year) Battery Overhaul
+$9,070 $0 $15,162 $0 $14,329 $0
+Costs
+Battery Size (kW) 119 0 199 0 188 0
+Total Battery Salvage Value $50 $50 $50 $50 $50 $50
+Battery Salvage Value ($50/kW) $5,950 $0 $9,950 $0 $9,400 $0
+Total $3,120 $0 $5,212 $0 $4,929 $0
+VEHICLE END-OF-LIFE AND RESALE VALUE
+Compared to the extensive market data that exists for diesel school buses,
+assessing the end-of-life and resale values of ZESBs is challenging due to
+scarcity of data. Most ZESBs deployed have been operating for five years or
+less and therefore have not yet reached the end-of-life stage.58 Consequently,
+57 Michael Kay et al., “Bus Lifecycle Cost Model for Federal Land Management Agencies,” United States Department of
+Transportation, September 30, 2011, https://rosap.ntl.bts.gov/view/dot/9548.
+58 Alissa Huntington et al., “Electric School Bus U.S. Market Study.”
+44
+
+no end-of-life or resale values were used in the TCO or fleet replacement
+scenario cost analysis.
+4.3 Estimated Costs of Ownership and Fleet Replacement
+Scenarios
+4.3.1 Lifetime Total Cost of Ownership (TCO) Estimates
+Table 15 illustrates a TCO assessment for Type C ZESBs and diesel school
+buses. The TCO analysis encompasses all major cost components - capital,
+annual operating and maintenance, mid-life overhaul, and the battery
+salvage value cited in Section 4.2.3 above - expressed in net present value
+(NPV), assuming a 7 percent discount rate, a fourteen-year useful life, and
+7,069 annual miles driven. The analysis compares how charging methods (L2
+vs. DCFC) and electricity costs (no demand charge operation costs from
+Table 10 vs. Demand Charge Alternative program operation costs from Table
+11) impact cost estimations.
+The TCO analysis for Type C school buses illustrates the same trend found
+with Type A and D school bus TCO estimates: for all school bus types,
+regardless of electricity utilization or charging strategy, ZESBs are currently
+more expensive to own compared to their diesel counterparts.
+45
+
+Table 15. Type C School Bus Total Cost of Ownership (TCO) Analysis in Net
+Present Value (NPV) (2022 dollars)59
+$1,000,000
+$932,400
+$891,600
+)
+s r $900,000
+a
+llo
+$800,000
+d
+2 $647,000 $660,200
+2 $700,000
+0
+2
+(
+V $600,000
+P
+N
+n
+$500,000
+i
+O
+C $400,000 $332,400
+T
+s $300,000
+u
+b
+lo $200,000
+o
+h
+c $100,000
+S
+$0
+Diesel ZESB L2 ZESB L2 ZESB DCFC ZESB DCFC
+(19.2kW; No (19.2kW; Partial (150kW; No (150kW; Partial
+demand demand demand demand
+charges) charges) charges) charges)
+4.3.2 School Bus Fleet Replacement Scenario Capital Costs
+The school bus fleet replacement scenario costs estimated in this section are
+based on the 2022 capital cost estimates for diesel and electric school
+buses, including the charging hardware, installation, and incremental land
+acquisition costs, detailed in Table 8 and Table 9. Each year assumes an
+inflation rate of 3 percent for the capital costs.
+In each of the three fleet replacement scenarios the total number of school
+buses operating in Massachusetts remains constant at 9,446 vehicles over
+the analysis horizon. Similarly, the proportion of vehicles by body style
+(inferred by gross vehicle weight rating and aligned with Type A, C, and D)
+also remains constant.
+59 Partial demand charges refer to the Demand Charge Alternative Program costs outlined in Table 11.
+46
+
+CURRENT FUEL MIX REPLACEMENT SCENARIO COSTS
+The Current Fuel Mix replacement scenario costs serve as a point of
+reference for comparing the additional costs of ZESB deployments in the ZEV
+Compliance and ZESB Swap cost estimates. Under this scenario, the school
+buses in the fleet are replaced by school buses of the same fuel type and
+school bus type (A, C, and D).
+In the Current Fuel Mix replacement scenario, an estimated $1.82 billion in
+capital costs is projected to be spent on 15,519 new school buses through
+2036 in Massachusetts. Figure 11 below details the annual count of new
+school buses and associated capital costs under this scenario.
+Figure 11. Current Fuel Mix School Bus Fleet Replacement Scenario: Annual
+Count of New School Buses and Capital Costs (Nominal Dollars)
+1800 180 M
+1600 160 M
+s
+1400 140 M e
+s
+s u
+e s
+u
+B 1200 120 M
+B
+lo)
+s
+lo
+o h c
+S w
+e
+1
+8
+00
+0
+0
+0 8
+1
+0
+0 0
+M
+M
+o
+h
+c S w
+e N
+f
+r
+a
+llo D
+f o
+s n
+N oo
+f o
+t n u 600 60 M
+t s o
+C la
+illiM
+(
+o t
+C
+400 40 M
+ip
+a
+C
+200 20 M
+0 M
+1 2 3 4 5 6 7 8 9 10 11 12 13 14
+Year
+Count Cost
+ZEV COMPLIANCE REPLACEMENT SCENARIO COSTS
+The ZEV Compliance scenario represents the additional capital costs of ZESB
+adoption within a framework where all school bus OEMs comply with the ACT
+rule sales percentage requirements. This framework aligns with minimum
+47
+
+adherence to the ACT rule, already adopted by the Massachusetts
+Department of Environmental Protection (MassDEP) beginning with MY 2025
+Class 2b-8 vehicles, and models ZESB adoption through 2036 at the same
+rate as the ACT sales fractions apply, as visually represented in Figure 7 in
+Section 4.1.
+As described in the charging feasibility analysis in Section 4.2, not all ZESBs in
+Massachusetts could feasibly charge using solely L2 chargers. The ZEV
+Compliance scenario assumes 27 percent of the fossil fuel-powered school
+buses replaced with ZESBs will have both a L2 EV charger for overnight
+charging and a DCFC for midday charging.
+In the ZEV Compliance scenario, an estimated 5,706 new ZESBs are purchased
+through 2036. This would cost an additional $2.4 billion in ZESB and charging
+infrastructure capital costs compared to the Current Fuel Mix scenario. Figure
+12 below details the annual count of new ZESBs and associated capital costs
+under this scenario.
+Figure 12. ZEV Compliance School Bus Fleet Replacement Scenario:
+Additional Annual Count of New ZESBs and Capital Costs (Nominal Dollars)
+900 400 M
+800 350 M
+700
+300 M
+s
+B
+s S
+B 600 E
+S Z
+E Z
+w e 500
+250 M f o
+t s o
+) s r
+a llo
+N 200 M CD
+f o 400 la f o
+t n u o C 300 150 M t ip a C la
+n
+s n o illiM
+100 M o(
+200 it
+id
+d
+A
+100 50 M
+0 M
+1 2 3 4 5 6 7 8 9 10 11 12 13 14
+Year
+Count Cost
+48
+
+ZESB SWAP REPLACEMENT SCENARIO COSTS
+The ZESB Swap replacement scenario illustrates the additional capital costs of
+a ZESB transition where 100 percent of new school buses replaced annually are
+ZESBs. Like the ZEV Compliance scenario, the ZESB Swap scenario assumes 27
+percent of the fossil fuel-powered school buses replaced with ZESBs will have
+both a L2 EV charger for overnight charging and a DCFC for midday charging.
+In the ZESB Swap scenario, an estimated 13,846 new ZESBs are purchased
+through 2036. This would cost an additional $5.4 billion in ZESB and charging
+infrastructure capital costs compared to the Current Fuel Mix scenario. Figure
+13 below details the annual count of new ZESBs and associated capital costs
+under this scenario.
+Figure 13. ZESB Swap School Bus Fleet Replacement Scenario: Additional
+Annual Count of New ZESBs and Capital Costs (Nominal Dollars)
+1400 600 M
+1200
+500 M
+s
+1000 B
+s S
+B 400 M E
+S Z
+E
+Z
+w e N
+800
+300 M
+f o
+t s o C
+) s r
+a llo D
+f o 600 la f o
+t n u o C 400 200 M t ip a C la
+n
+s n o illiM
+o(
+it
+100 M id
+200 d
+A
+0 M
+1 2 3 4 5 6 7 8 9 10 11 12 13 14
+Year
+Count Cost
+49
+
+ZESB COST IMPACTS BY SCHOOL BUS FLEET OWNERSHIP MODEL
+As discussed in Section 2.0, school buses in Massachusetts are either owned
+by a school district, leased by a school district or private operator, or owned
+by a private operator. Private entities own more than 70 percent of school
+buses in the Commonwealth, and of the 8 percent of school buses that are
+leased, more than 70 percent are leased to private entities.
+School bus ownership models have different implications for how school
+districts incur the costs of providing ZESB transportation services. It is important
+to note that in cases when school districts enter into lease agreements or
+contract their operations to private companies, they typically structure their
+agreements on a per-bus, per-day cost. Each ownership model changes how
+school districts experience the costs to transition their school transportation
+services to zero-emission as follows:
+ Municipally Owned: School district bears all ZESB capital costs upfront
+and the ongoing operational and maintenance expenses, including
+higher insurance costs and potentially high demand charges. The
+district might also receive the full benefits of potential lower fuel and
+maintenance costs compared to their diesel counterparts.
+ Leased: School district defrays a significant portion of ZESB capital bus
+and charging infrastructure costs and incurs higher per bus per day
+costs compared to their diesel counterparts, depending on the terms of
+the lease agreement. The school district might also be responsible for
+ZESB maintenance and operational expenses depending on the lease
+terms.
+ Privately Owned: School district eliminates all upfront ZESB capital costs
+but pays higher per bus per day costs compared to their diesel
+counterparts as the private contractors amortize their capital expenses
+into the annual fees the school districts pay for transportation services.
+4.4 Estimated School Bus Air Quality Impacts
+Emissions and health impacts from school buses of all the fuel types in the
+Commonwealth’s fleet fuel mix (diesel, gasoline, propane, and electric) were
+estimated for the three fleet replacement scenarios for the analysis period of
+50
+
+2023-2036. Tailpipe--as well as brakewear and tirewear--emissions were
+estimated for each fuel type by multiplying annual VMT per regulatory class
+and age by the appropriate emissions rate. This analysis excludes upstream
+emissions from electricity generation and fossil fuel manufacturing.
+For the three fleet replacement scenarios, the school bus emission effects of
+the following pollutants were estimated:
+ Greenhouse gases (GHGs), represented as carbon dioxide equivalents
+or CO e. 60
+2
+ Four Clean Air Act criteria pollutants and precursors: nitrogen oxides
+(NOx), volatile organic compounds (VOCs), fine particulate matter
+(less than 2.5 microns, expressed as PM2.5), and coarse particulate
+matter (less than 10 microns, expressed as PM10).
+Emissions rates for diesel and gasoline were estimated in the Environmental
+Protection Agency’s (EPA) Motor Vehicle Emissions Simulator (MOVES).61
+Propane emissions rates were converted to diesel emissions rates using
+Argonne National Laboratory’s Alternative Fuel Life-Cycle Environmental and
+Economic Transportation (AFLEET) Tool. The emissions rates used in the
+analysis were specific to regulatory class, fuel type, and vehicle age.
+ZESB emission rates include those from diesel heaters, brakewear, and
+tirewear and were estimated separately in MOVES. The MOVES emissions
+rates for Auxiliary Power Units (APUs) were determined to be the most
+appropriate for representing diesel heaters because they are based on
+scientific literature studying APUs in use on actual vehicles. Alternatives
+examined included using European studies and using the certification rates
+from the EPA’s non-road compression ignition engine emissions standards as
+described in 40 CFR 60 Subpart IIII and 40 CFR I(U)(1039). Using MOVES APU
+rates is a more realistic approach because MOVES uses instrumented real-
+world data rather than a regulatory standard and involves fewer
+60 Since greenhouse gases include several compounds, this analysis used carbon dioxide equivalents (CO2e), a
+composite unit that includes CO2 as well as other greenhouse gases. CO2e normalizes each other pollutant in terms
+of the warming potential of an equivalent amount of CO2. Other GHGs included in CO2e include nitrous oxide (N2O)
+and methane (CH4).
+61 MOVES3.1 was the latest version at the time of this analysis.
+51
+
+assumptions to use. Following EPA and FHWA, we assume no change in
+emissions rates from these diesel heaters on ZESBs over time.62
+Additionally, ZESBs were assumed to emit pollutants from brakewear and
+tirewear at the same rates as conventional school buses.63
+4.4.1 Total Medium and Heavy Duty vs. School Bus Emissions
+The emissions and health impact results in Sections 4.4.2 and 4.4.3 below
+only represent a comparative assessment exclusively among the school bus
+fleet replacement scenarios. The results do not represent net emissions or
+health impacts from an incentive program.
+This is because the ACT rule mandates increasing sales percentage
+requirements for all Class 2b-8 vehicles sold in Massachusetts starting from
+MY 2025. With the ACT rule in place, an incentive program for ZESBs may not
+produce additional sales of medium and heavy duty ZEVs. Due to the high
+penalty cost of ACT non-compliance and the high cost of medium and
+heavy duty ZEVs, OEMs are expected to supply ZEVs up to the ACT rule sales
+percentages, but not beyond. Thus, a ZESB incentive is likely to redistribute
+ZEV sales within the regulated vehicle categories towards ZESBs over other
+ZEVs, resulting in more ZESB sales but fewer other regulated medium and
+heavy duty ZEV sales in Massachusetts.
+This study only provides a comparison of emissions and health impacts from
+school buses, under various levels of school bus electrification. This study
+does not explicitly model the ultimate emissions outcomes across all
+medium and heavy duty vehicles that would result from the effects of the
+interaction between the ACT rule and a statewide school bus incentive
+program.
+62 “Part 1039—Control Of Emissions From New And In-Use Nonroad Compression-Ignition Engines,” Code of Federal
+Regulations, June 29, 2004, https://www.ecfr.gov/current/title-40/chapter-I/subchapter-U/part-1039#1039.101. See
+the row referencing emissions rates for engine outputs between 19-56 kW in Table 2 of Section 1039.101: Tier 4 Family
+Emission Limit Caps After the 2014 Model Year.
+63 Victor Timmers and Peter Achten, “Non-Exhaust PM Emissions from Battery Electric Vehicles,” Atmospheric
+Environment 134 (June 2016): 10–17, https://doi.org/10.1016/j.atmosenv.2016.03.017.
+52
+
+4.4.2 Emissions Analysis Results
+The emissions analysis results, detailed in Table 16 in metric tons (MT),
+illustrate that school bus emissions would generally decline in all scenarios
+for almost all pollutants, but increasingly so in the ZEV Compliance and ZESB
+Swap scenarios. Ozone precursors NOx and VOCs, as well as PM10, would also
+decline in each scenario, despite the use of diesel heaters on ZESBs, as
+conventional internal combustion school buses operated fewer miles each
+year.
+Table 16. Absolute Change in Scenario School Bus Emissions by Pollutant,
+2023-2036 (MT)
+Note that not all values will sum due to rounding.
+VOLATILE FINE
+NITROGEN COARSE
+GHGs ORGANIC PARTICULATE
+SCENARIO YEAR OXIDES PARTICULATE
+(CO2E)
+(NOx)
+COMPOUNDS MATTER
+MATTER (PM10)
+(VOC) (PM2.5)
+2023 70,190 75 6.0 1.60 0.31
+Current Fuel
+2036 59,840 71 5.5 1.64 0.29
+Mix
+Change -10,350 -4 -0.5 0.04 -0.02
+2023 70,190 75 6.0 1.60 0.31
+ZEV
+2036 16,580 19 1.6 1.15 0.18
+Compliance
+Change -53,610 -56 -4.4 -0.45 -0.13
+2023 70,190 75 6.0 1.60 0.31
+2036 430 1 0.1 0.79 0.10
+ZESB Swap
+-
+Change -74 -5.9 -0.81 -0.21
+69,760
+Figure 14 through Figure 18 below show the trends in school bus pollutant
+emissions within the analysis horizon, which all follow the same basic
+trajectory. There is a small increase in school bus emissions from 2023-2028
+largely because the 2022 spike in new bus purchases leads to a large cohort
+of fossil fuel-powered school buses that persist in the fleet and become less
+efficient as they age. This effect is most obvious for NOx, as most of the
+Massachusetts school bus fleet uses diesel fuel. This age spike results in a
+lower school bus replacement rate until the 2022 model year buses begin to
+retire more rapidly beginning in 2028. From 2028 onwards, the decline in
+school bus emissions for the ZEV Compliance and ZESB Swap scenarios
+accelerates rapidly as increasing proportions of replacement school buses
+entering the fleet are ZESBs. By contrast, the Current Fuel Mix scenario school
+53
+
+bus emissions decline only slightly, as the only improvement mechanism is
+older buses exiting the fleet.
+School bus GHG emissions decline in all scenarios, as shown in Figure 14.
+Under the Current Fuel Mix scenario, GHG emissions from school buses
+decline by nearly 15 percent by 2036. The model accounts for expected
+improvements to vehicle fuel efficiency technology but does not anticipate
+major improvements to fuel economy. The reduction in school bus GHG
+emissions is therefore likely a result of the school bus fleet’s age distribution,
+which rapidly becomes younger beginning in 2028. Newer vehicles are
+inherently more fuel efficient due to reduced wear and tear. Additionally, the
+retirement of older vehicles also leads to a decrease in the number of
+vehicles equipped with older, less fuel-efficient engines, further contributing
+to emissions reductions.
+Significant school bus GHG emissions reductions are observed in the ZEV
+Compliance and ZESB Swap scenarios. In the ZEV Compliance scenario,
+school bus GHG emissions decrease by approximately 76 percent in 2036
+compared to 2023. In the ZESB Swap scenario, almost all school bus GHG
+emissions are eliminated, for a total reduction of 99.4 percent by 2036.
+Notably, the ZESB Swap scenario exhibits less sensitivity to the spike of MY
+2022 buses because every new bus following that spike would be a ZESB. In
+contrast, the ZEV Compliance scenario follows the ACT rule sales fractions,
+and thus takes longer to adopt ZESBs into the fleet.
+Figure 14. School Bus GHG Emissions (MT) by Fleet Replacement Scenario,
+2023-2036
+Current Fuel ZESB Swap
+Mix
+54
+
+NOx emissions from school buses also decline across all scenarios, as
+illustrated in Figure 15. In the Current Fuel Mix scenario, school bus NOx
+emissions decrease by approximately 5 percent over the fourteen-year
+horizon. This relatively small reduction for NOx is likely due to the fleet
+remaining primarily diesel-powered and replacement buses using the same
+technology as retiring buses, as many NOx control technologies have been
+standard for some time.64
+School bus NOx emissions decline in the ZEV Compliance scenario by
+approximately 75 percent and in the ZESB Swap scenario by 98.7 percent by
+2036. This decline is primarily associated with a decline in on-road internal
+combustion engine activity as more ZESBs are adopted. ZESBs with diesel
+heaters would still emit some NOx, but the overall reduction in on-road
+engine fuel consumption resulting from ZESB conversion outweighs this
+effect.
+Figure 15. School Bus NOx Emissions (MT) by Fleet Replacement Scenario,
+2023-2036
+Current Fuel ZESB Swap
+Mix
+School bus VOC emissions decline in all scenarios, as shown in Figure 16.
+Following a similar pattern as the other pollutants, Current Fuel Mix school
+bus VOC emissions decrease slightly (about 7 percent by 2036) as the fleet’s
+age distribution shifts. ZEV Compliance school bus emissions decrease by 73
+percent, and ZESB Swap emissions decrease by 98 percent by 2036.
+64 Note that this analysis was conducted with MOVES3.1, which was published prior to the finalization of the EPA’s final
+heavy duty NOx rule. See: “Control of Air Pollution from New Motor Vehicles: Heavy Duty Engine and Vehicle
+Standards,” EPA, December 20, 2022, https://www.epa.gov/system/files/documents/2023-01/new-motor-veh-air-
+poll-control-hd-eng-veh-stnd-frm-2022-12-20.pdf.
+55
+
+Figure 16. School Bus VOC Emissions (MT) by Fleet Replacement Scenario,
+2023-2036
+Current Fuel ZESB Swap
+Mix
+Diesel engines are known to produce higher levels of particulate matter
+emissions compared to other fuel types. On-road diesel-powered vehicles
+such as school buses must by law be fitted with catalytic converters and
+particulate filters to mitigate these pollutants. However, diesel heater exhaust
+systems on ZESBs are not subject to the same regulations as on-road diesel
+engines, and therefore emit considerably higher pollution per gallon of fuel
+burned.
+In the Current Fuel Mix scenario, PM2.5 and PM10 emissions from school buses
+(Figure 17 and Figure 18) hardly change over the fourteen-year analysis
+horizon, as emissions control technology for these pollutants does not
+change and diesel heater proliferation does not change.
+In the ZEV Compliance scenario, school bus PM2.5 and PM10 emissions both
+decline by 28 percent and 42 percent, respectively by 2036. In the ZESB Swap
+scenario, school bus PM2.5 and PM10 emissions reduce substantially by 50
+percent and 67 percent, respectively by 2036. Emission reductions for both
+pollutants result from the elimination of running, idling, and starting exhaust
+emissions associated with conventional vehicle operations. These emissions
+savings outweigh any potential increase in emissions from the use of diesel
+heaters on ZESBs during winter months.
+56
+
+Figure 17. School Bus PM2.5 Emissions (MT) by Fleet Replacement Scenario,
+2023-2036
+Current Fuel ZESB Swap
+Mix
+Figure 18. School Bus PM10 Emissions (MT) by Fleet Replacement Scenario,
+2023-2036
+Current Fuel ZESB Swap
+Mix
+To underscore the point made in the Section 4.4.1, these school bus
+emissions results are only representative of emissions from school buses
+under various scenarios for school bus electrification. They do not represent
+the impacts of a potential ZESB incentive program in the presence of the ACT
+rule.
+4.4.3 Health Impact Analysis Results
+The potential health impacts from school bus emissions on human health
+were estimated across the three fleet replacement scenarios using the US
+EPA’s CO-Benefits Risk Assessment Health Impacts Screening and Mapping
+Tool (COBRA). COBRA uses a series of health impact functions developed
+57
+
+from the latest public health literature to estimate how a change in outdoor
+air quality results in incidences of a variety of health outcomes.
+COBRA’s health impact estimates are relative to a COBRA baseline, which is
+the estimated total mass quantity of an emitted pollutant (i.e., NOx) in a
+given year for all on-road vehicles.65 COBRA provides upper- and lower-
+bound estimates of changes in incidence of specific health outcomes, and
+provides the median values for a selection of six health impact indicators,
+which are included in Table 17.
+The COBRA results presented in Table 17 illustrate the cumulative change in
+health impacts resulting from the change in school bus emissions in the ZESB
+Swap scenario from 2023-2036.66 The COBRA results for the other two fleet
+replacement scenarios exhibit fewer changes in health outcome incidences
+than the ZESB Swap scenario, and are not included in the table. It should be
+noted that the COBRA results do not consider the incidence of school bus
+emissions on more vulnerable school-age people.
+Most of the health outcome values have a cumulative impact of less than
+one over the fourteen-year analysis horizon. School buses represent a small
+portion of the total on-road transportation emissions inventory for the
+Commonwealth of Massachusetts, thus the health impacts due to a change
+in school bus emissions is limited.
+65 “COBRA Questions and Answers,” EPA, June 7, 2023, https://www.epa.gov/cobra/cobra-questions-and-answers.
+The COBRA baseline utilizes data from the National Emissions Inventory (developed by the US EPA). State agencies,
+including the MassDEP, regularly prepare emissions inventories and submit them to be included in this national
+inventory.
+66 Normally, negative COBRA results indicate an increase in incidence and positive values indicate a decrease. The
+signs have been inverted this table for ease of reading.
+58
+
+Table 17. ZESB Swap Replacement Scenario: Cumulative Change in School
+Bus Public Health Impacts (2023-2036)
+HEALTH OUTCOMES ZESB SWAP
+Deaths -0.012
+Non-Fatal Heart Attacks -0.005
+Hospital Admits -0.004
+Respiratory Symptom Incidents -0.276
+Asthma Exacerbation Incidents -0.2
+Lost Days of Work -1
+Again, it should be noted that the school bus health impact results should
+not be interpreted as indicative of the interactions from a potential ZESB
+incentive program and the ACT rule given this study did not incorporate the
+health impacts from all medium and heavy duty vehicles subject to the ACT
+rule.
+4.4.4 Equitable Distribution of Air Quality Benefits from
+ZESBs
+A transition to ZESBs will involve some fossil fuel-powered school buses being
+replaced with ZESBs before others, and this has implications regarding how
+and to whom the benefits will be distributed. As mentioned in Section 1.3,
+approximately 60 percent of low-income students take a school bus to
+school. Given the high capital costs of a transition to ZESBs, it is foreseeable
+that under-resourced school districts will be among the last to be served by
+this new technology.
+An incentive program will influence the distribution of air quality benefits.
+Incorporating equity metrics into an incentive program would provide
+insights into the scale of this air quality impact and could be used to ensure
+program implementation was not creating an inequitable distribution of
+benefits or worsening existing inequities.
+Options for defining potential beneficiaries, who are currently disadvantaged,
+under an equity metric include:
+59
+
+ Communities with school districts that rank highly on DESE’s equity
+scale.67
+ Communities with poor air quality, contingent on the availability of
+relevant data.
+ Communities with high proportions of Environmental Justice (EJ)
+populations.68
+Detailed air quality modeling is unlikely to be practical to inform program
+implementation decisions. However, potential proxies for assigning where
+environmental benefits are occurring include:
+ The routes served by incentivized ZESBs.
+ The school districts served by incentivized ZESBs.
+ The garaging locations of incentivized ZESBs.
+5.0 Recommendations for a Statewide Incentive
+Program
+5.1 Background on Incentive Structures
+Incentive programs designed to support the adoption of ZEVs can be
+structured in various forms. Background information on financial incentive
+program types can be found below:
+ Grant programs involve interested candidates developing applications
+and making financial awards to the applicants based on evaluation
+against a set of criteria. Grant awards can be customized based on the
+applicant’s needs and the awardee typically pays the full upfront
+capital cost before getting reimbursed by the grant award. Grants
+sometimes provide some personalized technical assistance to
+67 DESE has an existing equity framework that stratifies school districts into 12 categories based on the percentage of
+residents that are eligible for state assistance, such as the Supplemental Nutrition Assistance Program or
+MassHealth. Category 12 represents the districts with the greatest share of residents eligible for state assistance.
+68 See for the Executive Office of Energy and Environmental Affairs (EEA) definition of an EJ population:
+“Environmental Justice Policy of the Executive Office of Energy and Environmental Affairs,” Mass.gov, June 24, 2021,
+https://www.mass.gov/doc/environmental-justice-policy6242021-update/download.
+60
+
+awardees because the program administrator learns about the
+applicant’s specific fleet and needs in their application.
+ Voucher programs apply a discount immediately at purchase to lower
+the upfront costs for the purchaser. While an application to receive a
+voucher may be required, vouchers can also be automatic. Vouchers
+are typically at a flat rate and not customizable to the purchaser.
+ Rebate programs are similar to vouchers but typically involve a post-
+purchase reimbursement, thus requiring the purchaser to pay the full
+upfront capital of the approved purchase. Rebates can also be
+structured to be provided at the point-of-sale, which would lower the
+sticker price of the purchase and not involve a reimbursement.
+ Use-based incentive programs pay the user a set amount based on
+their usage rate, such as a payment per every mile driven on a ZEV.
+This type of incentive could reduce net operating costs and encourage
+the use of ZEVs after their purchase.
+Desirable attributes for a ZEV incentive program would typically include those
+in Table 18 below.
+Table 18. Desirable Program Attributes
+ATTRIBUTES DEFINITION
+Scalability Incentive amounts can be adjusted to hit sales or fleet share targets.
+Reduces the need for school bus operators to bear the full upfront capital
+Financial Effectiveness
+for ZEVs and associated charging infrastructure.
+Ongoing Utilization Incentivizes the ongoing use of ZEVs not just their purchase.
+Creates a low or reasonable administrative burden for the state and
+Administrative Burden
+recipients of incentives.
+Incentive structure allows flexibility to focus on those who are
+Demographic Equity
+disadvantaged and/or underserved if desired.
+Equity Across Operating Incentive structure allows for all fleets to benefit, regardless of service
+Models provision model.
+Efficiency Allows incentive amounts to be adjusted on a case-by-case basis.
+Table 19 below presents an evaluation of the incentive structures against the
+criteria defined above.
+61
+
+Table 19. Evaluation of Incentive Structures
+ATTRIBUTES DISCUSSION
+Grants, rebates, vouchers, and use-based program incentive amounts can all
+Scalability
+be adjusted to help meet program targets.
+Grants and rebates generally require the applicant to pay for the full upfront
+cost and then reimburse the applicant post-purchase. Vouchers, on the other
+Financial
+hand, typically apply at the point-of-sale to alleviate the upfront costs required
+Effectiveness
+for purchase. Use-based incentives reduce operational costs and do not
+typically reduce the purchase cost.
+Grants, rebates, and vouchers promote the purchase of ZEVs, but they don’t
+Ongoing
+necessarily promote the use of the vehicle. Use-based incentives promote the
+Utilization
+use of a ZEV by providing payments on a per-use basis.
+Grant applications are often extensive and require time and resources from the
+applicant. Use-based incentives also require detailed data collection and
+Administrative
+documentation in order to provide the basis for payment. Rebates and
+Burden
+vouchers, on the other hand, might require applications but are generally the
+least burdensome for applicants.
+Demographic Each incentive structure allows the program design to prioritize disadvantaged
+Equity and/or underserved, if desired.
+Equity Across Each incentive structure allows for both privately and publicly owned fleets to
+Operating Models benefit.
+Rebates, vouchers, and use-base amounts are typically flat, while grant
+Efficiency
+amounts are often customizable to meet the individual applicant’s needs.
+5.2 Existing State and Federal Regulations and Programs
+Relevant to ZESBs
+There are existing regulations relevant to and incentive programs available
+to potential purchasers of ZESBs in Massachusetts. The presence of these
+existing programs, outlined below, has important implications for decisions
+about providing additional statewide incentives.
+THE ADVANCED CLEAN TRUCK RULE (ACT RULE)
+As previously discussed in Section 4.0, the ACT rule is a medium and heavy
+duty ZEV sales requirement that applies to OEMs that certify vehicles for sale
+in Massachusetts in weight classes 2B through 8. OEMs can accumulate
+credits for ZEV sales and will incur deficits for each non-ZEV sold in
+Massachusetts starting in MY 2025.69 OEMs are considered compliant when
+the credits they purchase or generate through ZEV or near-zero-emission
+69 MassDEP, “Background Document on Emergency Regulation Amendments to 310 CMR 7.40.”
+62
+
+vehicle (NZEV) sales equal their deficits within a reporting year per regulatory
+class.
+If a manufacturer does not meet the ACT rule sales percentage
+requirements, they have one model year to make up their deficit or else be
+subject to a continued penalty until compliant. The penalty is approximately
+$20,000 per vehicle.70 Due to the high penalty cost and high cost of medium
+and heavy duty ZEVs, it is anticipated that OEMs will collectively meet but not
+exceed the sales percentage requirements.
+EPA CLEAN SCHOOL BUS PROGRAM (CSB)
+The Infrastructure Investment and Jobs Act (IIJA) of 2021 authorized the EPA
+to administer the Clean School Bus (CSB) Program, which totals $5 billion in
+funding available for the replacement of diesel school buses with zero and
+low emission school buses through Federal Fiscal Years (FFYs) 2022-2026.71
+The first iteration of the CSB was the 2022 CSB Rebate program, which
+provided funding for both the full cost of a zero-emission or clean school bus
+(up to $375,000) and the cost of an L2 charger (up to $20,000).72 The 2022
+CSB Rebate program structure allowed recipients to access funding quickly,
+via a streamlined application process and website.
+In the first round of the 2022 CSB Rebate program, five Massachusetts entities
+received funding as shown in Error! Reference source not found.. The 2022
+CSB Rebate awards in Massachusetts amount to $29,535,000 for 75 ZESBs. Of
+note, none of these awards included propane or CNG-powered buses, which
+were an option for funding.73
+70 “Final Regulation Order - Advanced Clean Trucks Regulation,” California Air Resources Board, June 2023,
+https://ww2.arb.ca.gov/sites/default/files/barcu/regact/2021/hdim2021/hdi-mfroatta-1.pdf.
+71 “Clean School Bus Program,” EPA, accessed September 1, 2023, https://www.epa.gov/cleanschoolbus.
+72 “2022 Clean School Bus (CSB) Rebates Program Guide,” EPA, May 2022,
+https://nepis.epa.gov/Exe/ZyPDF.cgi/P1014WNH.PDF?Dockey=P1014WNH.PDF. Eligible school buses for the 2022 rebate
+program operate on a battery electric, CNG, or propane drivetrains.
+73 “Awarded Clean School Bus Program Rebates,” EPA, accessed September 1, 2023,
+https://www.epa.gov/cleanschoolbus/awarded-clean-school-bus-program-rebates.
+63
+
+Table 20. 2022 EPA Clean School Bus Rebate Program Funding -
+Massachusetts74
+# OF
+AMOUNT
+SCHOOL DISTRICT APPLICANT ELECTRIC
+AWARDED
+BUSES
+Lower Pioneer Valley
+Andco, Incorporated 25 $9,875,000
+Educational Collaborative
+Lawrence New England Transit Sales, Inc. 25 $9,875,000
+New Bedford Dattco Inc 14 $5,530,000
+Fall River City Of Fall River 10 $3,860,000
+Upper Cape Cod Regional
+Upper Cape Cod Regional
+Vocational Technical School 1 $395,000
+Vocational Technical
+District
+MASSCEC ACT SCHOOL BUS PROGRAM
+The Massachusetts Clean Energy Center (MassCEC) operates the
+Accelerating Clean Transportation (ACT) School Bus program. This program
+was designed to complement the EPA’s CSB program and is deploying $23.3
+million in funding for school bus electrification in the Commonwealth. ACT
+School Bus provides two opportunities for support: advisory services and fleet
+deployment.75
+The advisory services program component offers free ZESB electrification
+planning services. This opportunity does not provide funding to purchase a
+ZESB, but rather to help public school districts and private school bus fleet
+operators prepare for future funding opportunities, perform feasibility studies
+and financial modeling, and develop vehicle and charging station
+procurement plans.
+The first round of the 2022 fleet deployment services program component
+offered selected school bus fleets up to $2 million in flexible funding for ZESBs
+and associated infrastructure, as well as consulting services to assist with
+procurement, data collection, and future electrification planning. Table 21
+below displays the 2022 ACT School Bus Deployment first round funding
+74 “Awarded Clean School Bus Program Rebates,” EPA.
+75 “Accelerating Clean Transportation (ACT) School Bus: Overview,” Massachusetts Clean Energy Center (MassCEC),
+accessed January 11, 2023, https://www.masscec.com/accelerating-clean-transportation-act-school-bus-
+overview.
+64
+
+awardees. Notably, the first round of the ACT deployment funding awardees
+mirrored the Massachusetts awardees of the EPA CSB program, with the
+addition of Quincy Public Schools. The advisory services program selection
+and project launch commenced in Summer 2023. Meanwhile, the application
+window for Round 2 of the fleet deployment funding closes in January 2024.
+Table 21. 2022 ACT School Bus Program Fleet Deployment Awards76
+SCHOOL DISTRICT AMOUNT AWARDED
+Lower Pioneer Valley Educational Collaborative $2,000,000
+Lawrence $1,675,000
+New Bedford $1,970,000
+Fall River $2,000,000
+Upper Cape Cod Regional Vocational Technical $1,480,490
+Quincy Public Schools $355,000
+DOER MOR-EV TRUCKS PROGRAM
+The Massachusetts Offers Rebates for Electric Vehicles (MOR-EV) Trucks
+Program is a statewide ZEV program funded by DOER and administered by
+the Center for Sustainable Energy (CSE). The program offers rebates for both
+purchase and lease of qualifying ZEVs, including eligible ZESBs.
+The rebate values, shown in Table 22, are designated by vehicle class and
+follow a declining value as rebate blocks are exhausted. School bus
+purchasers can apply to the MOR-EV Trucks program to reserve a rebate
+through a voucher system prior to purchasing or leasing. This reservation
+system ensures that funding is available for up to 12 months once applicants
+are approved. After the purchase or lease is finalized, a rebate of up to
+$90,000 can be claimed.77 Of note, this program cannot be used in
+combination with any other Massachusetts provided or managed funding.
+76 Erika McCarthy, “Baker-Polito Administration Announces Over $100M Commitment to Clean Energy and
+Transportation,” Massachusetts Clean Energy Center (MassCEC), December 23, 2022,
+https://www.masscec.com/press/baker-polito-administration-announces-over-100m-commitment-clean-energy-
+and-transportation.
+77 “Trucks: Class 3-8,” Massachusetts Offers Rebates for Electric Vehicles (MOR-EV), accessed September 14, 2023,
+https://mor-ev.org/trucks-3-8.
+65
+
+Table 22. 2023 DOER MOR-EV Values78
+REBATE REBATE REBATE
+GVWR TOTAL NUMBER OF
+CLASS VALUE, VALUE, VALUE,
+(LBS.) REBATES PER BLOCK
+BLOCK 1 BLOCK 2 BLOCK 3
+3 10,001 – $15,000 $12,750 $10,838
+14,000
+4 14,001 – $30,000 $25,500 $21,675
+16,000
+5 16,001 – $45,000 $38,250 $32,513
+200
+19,500
+6 19,501 – $60,000 $51,000 $43,350
+26,000
+7 26,001 – $75,000 $63,750 $54,188
+33,000
+8 33,001+ $90,000 $90,000 $65,028
+MASSEVIP
+MassDEP administers the Massachusetts Electric Vehicle Incentive Program
+(MassEVIP) Workplace & Fleet Charging Incentives, which currently provides
+funding to cover up to 60 percent of the cost of L1 and L2 EV charging
+stations. The maximum allowed incentive amount is $50,000 per street
+address for hardware and installation costs.79 MassEVIP will not fund
+installation costs for projects funded through the utility programs described
+below but will cover equipment costs.80
+INVESTOR-OWNED UTILITY PROGRAMS
+In Massachusetts, certain utilities offer “make-ready” electric charging
+programs, covering the costs on the utility side of the electric meter. On
+December 30, 2022, DPU approved EV programs for the following regulated
+electric companies: National Grid with a budget of $206 million, Eversource
+with a budget of $188 million, and Unitil with a budget of $998,000.81 Both
+78 Ibid.
+79 “Apply for MASSEVIP Workplace & Fleet Charging Incentives,” Massachusetts Department of Environmental
+Protection (MassDEP), accessed August 29, 2023, https://www.mass.gov/how-to/apply-for-massevip-workplace-
+fleet-charging-incentives.
+80 “Massachusetts Electric Vehicle Incentive Program (MassEVIP) Charging Station Programs,” Mass.gov, May 10,
+2023, https://www.mass.gov/doc/matrix-of-massevip-grant-programs/download.
+81 Mass.gov, “Electric Vehicle Charging.”
+66
+
+National Grid and Eversource have developed their approved programs,
+while Unitil has yet to do so at the time of writing. The DPU ruling requires that
+eligible entities apply for other available and eligible state and federal
+funding opportunities prior to seeking utility program funding. The following
+utility programs are currently available for school bus fleets:
+National Grid
+National Grid administers the Fleet EV Charging Program that provides up to
+100 percent of utility-side L2 and DCFC costs, up to $6,700 for customer-side
+costs, and provides charger rebates for public fleet charging stations.82
+Additionally, their Fleet Advisory Service Program offers complementary
+assistance to public fleets, including electrification planning.83 The incentive
+amounts are highest for Environmental Justice (EJ) communities and eligible
+applicants must be National Grid customers, including municipal, school bus,
+public transit, and state and federal government fleets.
+Eversource
+Eversource offers the EV Charging Rebate program for Massachusetts fleets,
+including school bus fleets, which provides up to 100 percent of utility-side
+costs to install EV chargers, up to $6,700 for customer-side costs, and
+charger rebates for L2 and DCFC charging station equipment costs.84
+Incentive amounts are highest for EJ communities. Eligible applicants must
+be Eversource customers. Eversource has developed a fleet advisory service
+offering that is currently limited to public fleets.
+5.3 Incentive Structure Recommendations
+1. OBJECTIVE OF INCENTIVE
+If the underlying objective is to increase overall numbers of zero emission
+heavy duty vehicles or to maximize total GHG and other emissions reduction,
+an incentive program for ZESBs may not have the intended effect.
+82 “Fleet Electric Vehicle Charging Program,” National Grid, August 2023,
+https://www.nationalgridus.com/media/pdfs/bus-ways-to-save/ev/ev-infrastructure-brochure-fleet_ada.pdf.
+83 “About the Program,” National Grid MA Fleet Advisory Services Program, accessed September 5, 2023,
+https://fleetadvisoryma.nationalgrid.com/about-program.
+84 “Eversource - Massachusetts Electric Vehicle Charging Rebate,” Eversource, May 2023,
+https://www.eversource.com/content/docs/default-source/save-money-energy/electric-vehicle-make-ready-
+application.pdf?sfvrsn=85cdcd62_4.
+67
+
+If the ACT rule is effective at driving ZEV sales up to the specified sales
+percentages, an incentive is likely to shift the balance of ZEV sales within the
+regulated vehicle classes in favor of school buses and away from other ZEVs,
+resulting in more ZESB sales but fewer sales of other types of ZEVs in
+Massachusetts. This is because the extra ZEV credits enabled by a ZESB
+incentive can be purchased by other OEMs to satisfy their ACT rule sales
+percentage obligations in lieu of producing additional ZEVS. There is a risk
+that an incentive would create no additional ZEV sales.
+While modeling the net emissions outcomes across all classes of vehicles
+regulated by the ACT rule falls outside the scope of this report’s analysis,
+adding a new incentive in the presence of the ACT rule carries the theoretical
+possibility of emissions increases, if selling more ZESBs results in fewer sales
+of other ZEVs, depending on the relative miles traveled and emissions control
+technologies between the fossil fuel school buses replaced and the fossil fuel
+vehicles whose replacement is forgone.85
+Given the large opportunity cost of a program that financially supports the
+adoption of ZESBs, the legislature may wish to consider using these resources
+for other initiatives that would reduce emissions without these policy
+interactions (i.e., sources not subject to regulated sales requirements).
+However, if the priority is to ensure emission reductions and/or ZEV sales occur
+specifically in school bus fleets and foregone emission reductions from other
+medium and heavy duty vehicles are not a concern, an incentive program for
+ZESBs could be used to achieve this. This would result in the benefits of medium
+and heavy duty vehicle electrification being somewhat more targeted at the
+people and areas currently impacted by emissions from fossil fuel-powered
+school buses.
+85 Older diesel-powered vehicles typically emit more pollutants compared to their newer counterparts. For example,
+MOVES3.1 estimates that a Class 7 MY 1993 diesel vehicle emits nearly nine times more NOx per mile (0.0219 kg/mi)
+than a Class 7 MY 2023 diesel vehicle (0.00237 kg/mi).
+68
+
+2. EQUITY
+If a ZESB incentive is established, the associated program should monitor
+awards and adjust as needed to ensure that disadvantaged school districts are
+being awarded at or above the same rate as other school districts.
+It is recommended that a ZESB incentive program adopts an equity framework
+based on school district population metrics. If school buses are being prioritized
+for electrification to reduce school children’s exposure to school bus air
+pollutants, then using a school district population-based equity framework is in
+alignment with that program’s objective.
+3. BUDGET REQUIREMENTS
+If an incentive program were to be introduced to support a transition to ZESBs, it
+would need access to a significant budget over multiple years because the
+additional costs to transition Massachusetts’ school bus fleet are high relative to
+conventional technologies. For example, if a program was designed to fund the
+incremental capital cost and every school bus was replaced on its normal
+replacement cycle by a ZESB starting in 2023, this program would require
+approximately $5.4 billion, leading to a 99.4 percent fleet transition by
+approximately 2036.86
+Moreover, the amount of expenditure in a given timeframe would most likely
+increase with a more aggressive speed of fleet transition. If the fleet
+transition goal was targeted for 2030, for example, the program may require
+a greater annual budget compared to a scenario with a later targeted
+transition date to motivate school bus owners to accelerate adoption.
+4. PROGRAM SCALABILITY
+If a new ZESB incentive is developed, the program should have a scalable
+structure for adjusting incentive amounts to accommodate changes in the
+school bus vehicle and charging market, such as evolving technology costs,
+school bus purchase price sensitivities, and changes in federal incentives.
+86 It is a common practice for incentive programs to fund incremental costs, however this does not guarantee a
+particular level of sales. Notably, the 2022 EPA Clean School Bus Rebate Program provided funding amounts for the
+school bus and associated charging infrastructure that covered more than the incremental cost.
+69
+
+5. ADMINISTRATIVE SIMPLICITY
+If a ZESB incentive was introduced, consideration should be given to
+delivering all state support for ZESB adopters via a single mechanism,
+whether it is derived from existing or newly developed interventions. This
+would streamline the application process for school bus operators, enabling
+them to access both financial and technical support through a unified
+administrative structure and coordinate with a single point of contact.
+There is already a relatively complex landscape of programs that are
+targeted at or available to ZESB purchasers in Massachusetts. Adding an
+additional program would increase the compliance burden for applicants,
+causing applicants interested in various programs to navigate through
+multiple sets of eligibility criteria, application processes, and performance
+requirements. Applicants would also need to understand and make tradeoffs
+between different funding sources where they were “non-stackable” or
+require separate approvals before starting a project in cases where they
+were stackable.
+Moreover, introducing a new ZESB incentive program within the current policy
+environment would further diffuse government interventions supporting ZESB
+adoption and increase the challenge of determining which programs are
+effective and how to improve individual programs.
+6. AGE-BASED INCENTIVE
+If a ZESB incentive is created, to minimize unintended consequences
+associated with interactions with the ACT rule, it is recommended to include
+a scrappage requirement targeting the oldest and most polluting school
+buses as a condition for a ZESB incentive program.
+7. PRIVATE AND PUBLIC ELIGIBILITY
+If a ZESB incentive is developed, it is recommended that the program be
+accessible to both public and private entities who undertake the activity that
+confers eligibility for receiving an incentive (i.e., purchasing a school bus to
+provide transportation service in Massachusetts).
+70
+
+Works Cited
+“2022 Clean School Bus (CSB) Rebates Program Guide.” United States
+Environmental Protection Agency (EPA), May 2022.
+https://nepis.epa.gov/Exe/ZyPDF.cgi/P1014WNH.PDF?Dockey=P1014WNH.PD
+F.
+“2023 Clean School Bus (CSB) Grant Program.” United States Environmental
+Protection Agency (EPA), April 2023.
+https://www.epa.gov/system/files/documents/2023-04/2023-csb-
+grant-nofo-4-20-23.pdf.
+“About the Program.” National Grid MA Fleet Advisory Services Program.
+Accessed September 5, 2023.
+https://fleetadvisoryma.nationalgrid.com/about-program.
+“Accelerating Clean Transportation (ACT) School Bus: Overview.”
+Massachusetts Clean Energy Center (MassCEC). Accessed September 1,
+2023. https://www.masscec.com/accelerating-clean-transportation-
+act-school-bus-overview.
+“Apply for a School Bus Learner’s Permit.” Mass.gov. Accessed September 19,
+2023. https://www.mass.gov/how-to/apply-for-a-school-bus-learners-
+permit.
+“Apply for MASSEVIP Workplace & Fleet Charging Incentives.” Massachusetts
+Department of Environmental Protection (MassDEP). Accessed August
+29, 2023. https://www.mass.gov/how-to/apply-for-massevip-
+workplace-fleet-charging-incentives.
+Arora, Mitul, Dan Welch, and Fred Silver. “Electric School Bus Market Study.”
+CALSTART, November 2021. https://calstart.org/wp-
+content/uploads/2021/12/Electric-School-Bus-Market-Report-2021.pdf.
+“Awarded Clean School Bus Program Rebates.” United States Environmental
+Protection Agency (EPA). Accessed September 1, 2023.
+https://www.epa.gov/cleanschoolbus/awarded-clean-school-bus-
+program-rebates.
+71
+
+“Background Document on Emergency Regulation Amendments to 310 CMR
+7.40.” Massachusetts Department of Environmental Protection
+(MassDEP), December 30, 2021. https://www.mass.gov/doc/310-cmr-
+740-background-document/download.
+Blue, James. “Subtle Shifts in School Transportation Industry’s Fuel Mix.”
+School Bus Fleet, May 23, 2018.
+https://www.schoolbusfleet.com/10009615/subtle-shifts-in-school-
+transportation-industrys-fuel-mix.
+“Chapter 179 - An Act Driving Clean Energy and Offshore Wind.”
+Massachusetts Legislature, August 11, 2022.
+https://malegislature.gov/Laws/SessionLaws/Acts/2022/Chapter179.
+“Chapter 70 Program.” Massachusetts Department of Elementary and
+Secondary Education (DESE). Accessed September 7, 2023.
+https://www.doe.mass.edu/finance/chapter70/.
+“Circuit Breaker Transportation FAQ.” Massachusetts Department of
+Elementary and Secondary Education (DESE), July 9, 2020.
+https://www.doe.mass.edu/finance/circuitbreaker/transportation-
+faq.html?section=eligibility.
+“Clean School Bus Program.” United States Environmental Protection Agency
+(EPA). Accessed September 1, 2023.
+https://www.epa.gov/cleanschoolbus.
+“COBRA Questions and Answers.” United States Environmental Protection
+Agency (EPA), June 7, 2023. https://www.epa.gov/cobra/cobra-
+questions-and-answers.
+“Commercial Electric Rates (MA).” Unitil, August 1, 2023.
+https://unitil.com/electric-gas-service/pricing-rates/rates.
+“Competitive Supply Glossary.” Mass.gov. Accessed September 19, 2023.
+https://www.mass.gov/info-details/competitive-supply-glossary.
+72
+
+“Control of Air Pollution from New Motor Vehicles: Heavy Duty Engine and
+Vehicle Standards.” United States Environmental Protection Agency,
+December 20, 2022.
+https://www.epa.gov/system/files/documents/2023-01/new-motor-veh-
+air-poll-control-hd-eng-veh-stnd-frm-2022-12-20.pdf.
+“Demand Charge Alternative Program for Massachusetts.” National Grid,
+August 2023. https://www.nationalgridus.com/media/pdfs/bus-ways-
+to-save/ev/cm9464-demand-charge_one-pager.pdf.
+Duran, Adam, and Kevin Walkowicz. “A Statistical Characterization of School
+Bus Drive Cycles Collected via Onboard Logging Systems.” SAE
+International Journal of Commercial Vehicles 6, no. 2 (2013): 400–406.
+https://doi.org/10.4271/2013-01-2400.
+“Electric School Buses.” Lightning eMotors. Accessed December 19, 2023.
+https://lightningemotors.com/electric-school-buses/.
+“Electric Vehicle Charging.” Mass.gov, June 6, 2023.
+https://www.mass.gov/info-details/electric-vehicle-charging.
+“Ensuring Educational Stability for Students in Foster Care - Guidance.”
+Massachusetts Department of Elementary and Secondary Education
+(DESE), January 18, 2018.
+https://www.doe.mass.edu/news/news.aspx?id=24765.
+“Environmental Justice Policy of the Executive Office of Energy and
+Environmental Affairs.” Mass.gov, June 24, 2021.
+https://www.mass.gov/doc/environmental-justice-policy6242021-
+update/download.
+“EPA Clean School Bus Program - Second Report to Congress Fiscal Year
+2022.” United States Environmental Protection Agency (EPA), February
+2023. https://nepis.epa.gov/Exe/ZyPDF.cgi?Dockey=P1016LN0.pdf.
+“Eversource - Massachusetts Electric Vehicle Charging Rebate.” Eversource,
+May 2023. https://www.eversource.com/content/docs/default-
+73
+
+source/save-money-energy/electric-vehicle-make-ready-
+application.pdf?sfvrsn=85cdcd62_4.
+“Final Regulation Order - Advanced Clean Trucks Regulation.” California Air
+Resources Board, June 2023.
+https://ww2.arb.ca.gov/sites/default/files/barcu/regact/2021/hdim2021/
+hdi-mfroatta-1.pdf.
+“Fleet Electric Vehicle Charging Program.” National Grid, August 2023.
+https://www.nationalgridus.com/media/pdfs/bus-ways-to-save/ev/ev-
+infrastructure-brochure-fleet_ada.pdf.
+“Flipping the Switch on Electric School Buses: Cost Factors: Module 1 (Text
+Version).” Alternative Fuels Data Center. Accessed September 7, 2023.
+https://afdc.energy.gov/vehicles/electric_school_buses_p8_m1.html.
+“Flipping the Switch on Electric School Buses: Cost Factors: Module 3 (Text
+Version).” Alternative Fuels Data Center (AFDC). Accessed September 7,
+2023.
+https://afdc.energy.gov/vehicles/electric_school_buses_p8_m3.html.
+“Fulfilling the Promise of Local Aid by Strengthening State-Local Partnerships.”
+Mass.gov, October 13, 2022. https://www.mass.gov/report/fulfilling-the-
+promise-of-local-aid-by-strengthening-state-local-partnerships.
+“General Law - Part I, Title III, Chapter 30B, Section 5.” Massachusetts
+Legislature. Accessed September 7, 2023.
+https://malegislature.gov/Laws/GeneralLaws/PartI/TitleIII/Chapter30B/Se
+ction5.
+“General Law - Part I, Title XIV, Chapter 90, Section 7A.” Massachusetts
+Legislature. Accessed September 7, 2023.
+https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXIV/Chapter90/S
+ection7A.
+“How Regenerative Brakes Work.” Energy.gov. Accessed November 11, 2023.
+https://www.energy.gov/energysaver/how-regenerative-brakes-work.
+74
+
+Huntington, Alissa, Jessica Wang, Emmett Werthmann, and Eleanor Jackson.
+“Electric School Bus U.S. Market Study.” WRI, August 2023.
+https://files.wri.org/d8/s3fs-public/2023-07/esb-us-market-study-
+2023.pdf.
+Jbaily, Abdulrahman, Xiaodan Zhou, Jie Liu, Ting-Hwan Lee, Leila
+Kamareddine, Stéphane Verguet, and Francesca Dominici. “Air Pollution
+Exposure Disparities Across US Population and Income Groups.” Nature
+601, no. 7892 (January 12, 2022): 228–33. https://doi.org/10.1038/s41586-
+021-04190-y.
+Kay, Michael, Michael Clark, Catherine Duffy, Scott F Lian, and Melissa Laube.
+“Bus Lifecycle Cost Model for Federal Land Management Agencies.”
+United States Department of Transportation, September 30, 2011.
+https://rosap.ntl.bts.gov/view/dot/9548.
+Lazer, Leah, and Lydia Freehafer. “A Dataset of Electric School Bus Adoption in
+the United States,” Dataset – Version 6. WRI, June 2023. https://wri-
+dataportal-
+prod.s3.amazonaws.com/manual/electric_school_bus_adoption_datas
+et_v6_2023-08Aug.zip.
+Lazer, Leah. “Electric School Bus Data Dashboard: Electric School Bus
+Initiative.” WRI, September 1, 2023.
+https://electricschoolbusinitiative.org/electric-school-bus-data-
+dashboard.
+Lee, Bryan, and Rachel Chard. “The Electrification of School Buses Assessing
+Technology, Market, and Manufacturing Readiness.” CALSTART, April 2023.
+https://calstart.org/wp-content/uploads/2023/04/WRI-ESB-TRL-MRL-
+Manufacturing-Report_Formatted-APRIL-2023.pdf.
+Levinson, Michelle, Phillip Burgoyne-Allen, Alissa Huntington, and Norma
+Hutchinson. “Recommended Total Cost of Ownership Parameters for
+Electric School Buses: Summary of Methods and Data.” World Resources
+Institute, January 30, 2023.
+https://www.wri.org/research/recommended-total-cost-ownership-
+parameters-electric-school-buses-methods-data.
+75
+
+“The Longer Route to School.” Bureau of Transportation Statistics, January 12,
+2021. https://www.bts.gov/topics/passenger-travel/back-school-2019.
+“Massachusetts Electric Vehicle Incentive Program (MassEVIP) Charging
+Station Programs.” Mass.gov, May 10, 2023.
+https://www.mass.gov/doc/matrix-of-massevip-grant-
+programs/download.
+“Massachusetts School and District Profiles.” Massachusetts Department of
+Elementary and Secondary Education (DESE). Accessed August 21, 2023.
+https://profiles.doe.mass.edu/general/generalstate.aspx.
+“MassDEP Files New Regulations to Reduce Emissions, Advance Market for
+Clean Trucks in the Commonwealth.” Massachusetts Department of
+Environmental Protection (MassDEP), December 30, 2021.
+https://www.mass.gov/news/massdep-files-new-regulations-to-
+reduce-emissions-advance-market-for-clean-trucks-in-the-
+commonwealth.
+McCarthy, Erika. “Baker-Polito Administration Announces Over $100M
+Commitment to Clean Energy and Transportation.” Massachusetts Clean
+Energy Center (MassCEC), December 23, 2022.
+https://www.masscec.com/press/baker-polito-administration-
+announces-over-100m-commitment-clean-energy-and-transportation.
+“McKinney-Vento Homeless Education Assistance Act.” Massachusetts
+Department of Elementary and Secondary Education (DESE), August 23,
+2023. https://www.doe.mass.edu/sfs/mv/default.html.
+Miller, Yaron, and Brian Watts. “States and School Districts Clear the Air with
+Electric School Buses.” The Pew Charitable Trusts, September 19, 2023.
+https://www.pewtrusts.org/en/research-and-
+analysis/articles/2023/09/19/states-and-school-districts-clear-the-air-
+with-electric-school-buses.
+Moura, Maria Cecilia Pinto de, Cecilia Pinto, and Daniel Gatti. “Inequitable
+Exposure to Air Pollution from Vehicles in Massachusetts: Who Bears the
+76
+
+Burden?” Union of Concerned Scientists, 2019.
+http://www.jstor.org/stable/resrep24098.
+“Part 1039—Control of Emissions From New And In-Use Nonroad
+Compression-Ignition Engines.” Code of Federal Regulations, June 29,
+2004. https://www.ecfr.gov/current/title-40/chapter-I/subchapter-
+U/part-1039#1039.101.
+“Pupil Transportation Guide: A Guide for Massachusetts School
+Administrators.” Massachusetts Department of Elementary and
+Secondary Education (DESE), August 1, 1996.
+https://www.doe.mass.edu/finance/transportation/guide.html.
+“School Bus Safety Fact Sheet.” Mass.gov. Accessed August 21, 2023.
+https://www.mass.gov/info-details/school-bus-safety-fact-sheet.
+Shapiro, Jeffrey S. “The Chapter 30B Manual; Procuring Supplies, Services, and
+Real Property.” Mass.gov, May 2023. https://www.mass.gov/doc/the-
+chapter-30b-manual-procuring-supplies-services-and-real-property-
+legal-requirements-recommended-practices-and-sources-of-
+assistance-9th-edition/download.
+Steward, Darlene. “Critical Elements of Vehicle-to-Grid (V2G) Economics.”
+National Renewable Energy Laboratory (NREL), September 2017.
+https://www.nrel.gov/docs/fy17osti/69017.pdf.
+Tessum, Christopher W., Joshua S. Apte, Andrew L. Goodkind, Nicholas Z.
+Muller, Kimberley A. Mullins, David A. Paolella, Stephen Polasky, et al.
+“Inequity in Consumption of Goods and Services Adds to Racial–Ethnic
+Disparities in Air Pollution Exposure.” Proceedings of the National
+Academy of Sciences 116, no. 13 (March 26, 2019): 6001–6.
+https://doi.org/10.1073/pnas.1818859116.
+Timmers, Victor, and Peter Achten. “Non-Exhaust PM Emissions from Battery
+Electric Vehicles.” Atmospheric Environment 134 (June 2016): 10–17.
+https://doi.org/10.1016/j.atmosenv.2016.03.017.
+77
+
+“Trucks: Class 3-8.” Massachusetts Offers Rebates for Electric Vehicles (MOR-
+EV). Accessed September 14, 2023. https://mor-ev.org/trucks-3-8.
+“Understanding Your Electric Bill: Saving Money on Demand Charges and
+Power Factor.” Mass.gov, April 1, 2019.
+https://www.mass.gov/doc/understanding-your-electric-bill-saving-
+money-on-demand-charges-and-power-factor-0/download.
+Wang, Jessica. “Electric School Bus U.S. Buyer’s Guide.” World Resources
+Institute (WRI), March 2023.
+https://electricschoolbusinitiative.org/buyers-guide.
+Yang, Zifei, Peter Slowik, Nic Lutsey, and Stephanie Searle. “Principles for
+Effective Electric Vehicle Incentive Design.” International Council on
+Clean Transportation (ICCT), June 2016.
+http://theicct.org/sites/default/files/publications/ICCT_IZEV-incentives-
+comp_201606.pdf.
+78
+
+[DELETED:  LD. I RCD  O E SBVMUS  U E A N T4RZ-ESBT  E EOM C U E T SBFM  U L A RLRSBO  A E C U P SBF  U U SBCA  U O R SBFO  U L P SBFSM  U L T A SZ-ESBIC  EOM C U M O O E FRS  E C KAIC  S N O FAMA  C I S CRA  E S ZBDSBCA  I C U O S ECOFRS. O W L E C LTCO()E  O O W  S SBFRSCC. U L E C A O ESBAQI  C U I U M TMHD.SBE  E E US C U M EAR  N E HIAR  M N E EDAQBZB  I I U E  R BIS  N T ESFRPRZB  T E E R E  ISR  T E]
+[DELETED: 0B1L A D C E a O W ( A s t t M D o E R ( a t d a r a a o a t t z. )T n o f f s b i u i t)T n o z s b i u i t)T a c o o f f s b)T b a t c o p o c t u)T)T)T e e b o r f f)t]
+[DELETED: )R)A i r t i a s p t e a e m a r r i a i r t i a2R.B.A o o t s b s i M p.A.A s b a c t t c o o f b d a e s b a t c t.A o t e a h i o t t f.R]
+[DELETED:  d T d s d s b a v w t R “ T o “ b o “ s b T s b f a o A 5 2 i s i m e v 2 s s a a Z i p T r i i b t l d a z s b a “ s b t m s w d s b h Z3S a m t 4 s b t t o 2 m. ]
+[DELETED: . . . c b 5 t 9 p T m c t o. .  b a o c b O t m t n o t]
+[DELETED: .. .]
+[DELETED: 2. t f Z a h v d o a r o m. B o s i i M Z ldD]
+[DELETED: .  o c e w a t m c t f t b w m t s o h o ts M B C 1 1 8 1 8 7 1 1 1 1 1 2 1 2 1 1 1 2 1 1 1 1 10–]
+[DELETED:  c W f c s Z o h. Z r t p a i o a a c i a s b g l u m i t p a i o e c ( w a m e b o t a t.  s f Z c b “ o i c w a w d a t s a c s o s a c u o t s i w a v c t t s w r p a s s f t E s n p s c c w e u g o t u]
+[DELETED: 0 1S c f t a o g l a r T R d i t t w 9 s a 3 p s d i M a a. t s b a u r t t s i t b s w d n d i o s d r s b t s e s b t i. ]
+[DELETED: ET1267 0 3 2 s t s b o s b t b y o o 6 y o m u 4 p a 3 p. ]
+[DELETED:    ( 4 T w 1 e s b r i t23456789101112131415161718192021222]
+[DELETED:  o a t f t s n a p P e o m t 7 p o s b i t a o t t a l m t 7 p a t p e I t C a 7 s o a l o s b w 3 o m t t T]
+[DELETED: 2R t s o T f s p a o t k r a l t g s b.T]
+[DELETED: . t a o l j i M. C 3.. s f a i o d t m o A a a M. T i r i a c o r o a3S]
+[DELETED:  g s t b l A t s m t o m f t a s w s]
+[DELETED: n S Tlslslsls t s i M i l F]
+[DELETED: ..  u t f g s t i M T i f r s d t w i t s a f f o p t s w h a c a f h A A a E S S A ( o h t h s e n T s f w a p i o p a a o a t 2 p H t C B d n r s o t c f i d s e. t f M H A A s..]
+[DELETED: .4S p a r i e b r. b a T s d t l o t s b o c o s t a p b s “ a 2 r “ F s e t s d i M c o s t p]
+[DELETED:  s w g t f s t g f c b p T i R f P o I f B ( t p t p. 5S c a c n o s b o w c a t p o s s i b c o t e t i d s t S d p s s e m r m l a r]
+[DELETED:  h a t s b t b b o s a S i r t s b r a o i t b o v f s a d f t g l a s t A t d t i a a c f s b o d t i D o t s l o t i b t6S b s p i M h v o b t f s a m p a r b b s i t s m a t s i s t]
+[DELETED:  o s i t m o b b d i s d a t b a t t d p o t d r H i e c s a t d e a s p t k t b i c A t m h f s a b f f s a n l a t s f r i a t t v t t d o t]
+[DELETED:  b o f l t b m c a f7S e f t a 1 w Z T s b o t c u Z s t t f a s g p e t t p t r w t u p T a e t o t d p o r b a.  e t a t c w a t t t u f a m t a w i c i s f a T s d i t]
+[DELETED: .  o t f o i w h n y a Z t i i b t t p b t i m c u e s t a h H d t t s n o e s d s r a m m t d m n]
+[DELETED:  i p a c f o w d b m s b p a e t f i y e t m S t l o a Z i u m f0 .  e a i S 4 i c o D A p f e v c w a o t i u T f o t s i o t]
+[DELETED:  u a t E c p a d i p ( t t u c t c a h T u h s t r s t o a c.  t d u a 1 k D B s c b s t w e h d c d t i h. ]
+[DELETED: .  a e t e i t s a p p1F]
+[DELETED: . ]
+[DELETED: s C C C 7 1 7  1 1 1  1 2 1  2 3 2  2 4 2  3 5 3  3 5 3  4 6 4  4 6 4  5 7 4  5 7 4 ]
+[DELETED:  V A F T P G 4 1 1 3 2 8 8 5 6 7]
+[DELETED: 2K]
+[DELETED: 1F. i F 8 w F 9 s t d o d m](]>%2%1]
+[DELETED: 01020304050607080901]
+[DELETED: 2C b c n o d o o w c d m a a s t d f c o e e c r a v o.Z.Z c d o w D E s c o e s b c D E c s n s p b a a s m e]
+[DELETED:  VrNlEs1h )d r t v r o o c b i c r t t]
+[DELETED:  n o t a a t f t n o t r3Z s t t f f c o l c 1 c%1%2%3%4%5%6%7%8]
+[DELETED:  s b. T c a a r]
+[DELETED: e T T T   E D E D E D $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $) $ $ $ $ $ $ $ 9 b d t a c a c t aB En $ $ a u a o n o t u s o t.  h a i c o i T 8 a T 9 t c a a i c a d n]
+[DELETED: e T T T   E D E D E D      7 7 7 7 7     3 1 2 6 2 6      $ $ $ $ $     $ $ $ $ $ $      $7$5$5$9$1$      $8$4$   1 a d n f i d c T 1 i f i u w D C A ( G E a U w c T t 5 p a l t o e t 1 p l f]
+[DELETED:  k c e w c u t s a a ts T T T   L D L D L)u)u)u)u)u    9797979797    6362121222    0121012101    r12121212121      $ $ $ $ $     $ $ $ $ $ $    d65171   $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ o p m a v t d. ]
+[DELETED:  T T T   E D E D E D 7 7 7 7 7 7 $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $e $ $ $ $ $ $ $ $ $ $ $ $ $ $ E f c a s t i o m c o o s t p h h t i r t h t o t l d o T o t r c s w t D T T T   E D E D E D      $ $ $ $ $ $      $ $ $ $ $ $      $ $ $  ]
+[DELETED:  c B d m a d c f t s e o t l M Z m l o g a r m a o a f b a 8 y D s b d n h a m. T T T   E D E D E D      $ $ $ $ $     1 0 1 0 1 0      $ $ $ $ $ $      $ $ $ $ $ $      $ $ $ $ $ $      t e a r v o Z i c d t. ]
+[DELETED:  e o r v w u i t T o f r3E1L]
+[DELETED: ) 2SlZ2Z2ZCZo(l(o(dddddd)c)c)c]
+[DELETED: . 02040608010101010123456789101112131tC]
+[DELETED:  c f c u s L c T Z r w Z w h b a L E c f o 0423456789101112131tC]
+[DELETED:  t Z S s a e 1 n Z a p 0623456789101112131tC]
+[DELETED:  o b o m h d i f h s n t i w s d e i l a o t o o a m e i i c a p h d c T c i c a i h p b p d p h p b p d c c t t d4E]
+[DELETED: Oe .OeO OeO.OeNO2H)]
+[DELETED: . .1T7]
+[DELETED: 2EOYRO P O POE)C M C)M F)(07560100   07155140   e-0-4-504-    07560100   01916150   e-0-6-4-5-    07560100   0101090   e-4-9-1-   ]
+[DELETED: . ]
+[DELETED: 3H]
+[DELETED: . . ]
+[DELETED:  Z - - - - - -4E]
+[DELETED: .. 1B]
+[DELETED:  D I I I p A]
+[DELETED:  D E a E b2E. ]
+[DELETED: . . . .]
+[DELETED: s  A E 2 $ N 2 $ D 1 $ C 1 $ 1 $. ]
+[DELETED: s A. ]
+[DELETED: s V V V T R R R B B    $ $ $      $ $ $     $ $ $     $ $ $     $ $ $   3 $ $ $   . .. ]
+[DELETED: .. .3I]
+[DELETED: .]
+[DELETED: .]
+[DELETED: .A.P]

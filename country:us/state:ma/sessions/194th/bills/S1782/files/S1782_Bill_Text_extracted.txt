@@ -1,0 +1,194 @@
+Title: To the Honorable Senate and House of Representatives of the Commonwealth of Massachusetts in General
+Official Title: To the Honorable Senate and House of Representatives of the Commonwealth of Massachusetts in General
+Number of Sections: 1
+Source: versions - Bill Text
+Media Type: application/pdf
+Strikethrough Detection: 4 sections found
+
+================================================================================
+
+Section 1:
+SENATE DOCKET, NO. 1480 FILED ON: 1/16/2025
+SENATE . . . . . . . . . . . . . . No. 1782
+The Commonwealth of Massachusetts
+_________________
+PRESENTED BY:
+John C. Velis
+_________________
+Court assembled:
+The undersigned legislators and/or citizens respectfully petition for the adoption of the accompanying bill:
+An Act establishing the Massachusetts school safety data grant program.
+_______________
+PETITION OF:
+NAME: DISTRICT/ADDRESS:
+John C. Velis Hampden and Hampshire
+1 of 1
+SENATE DOCKET, NO. 1480 FILED ON: 1/16/2025
+SENATE . . . . . . . . . . . . . . No. 1782
+By Mr. Velis, a petition (accompanied by bill, Senate, No. 1782) of John C. Velis for legislation
+to require schools to develop critical response maps. Public Safety and Homeland Security.
+The Commonwealth of Massachusetts
+_______________
+In the One Hundred and Ninety-Fourth General Court
+(2025-2026)
+_______________
+An Act establishing the Massachusetts school safety data grant program.
+Be it enacted by the Senate and House of Representatives in General Court assembled, and by the authority
+of the same, as follows:
+1 Chapter 147 of the General Laws is hereby amended by inserting after Section 63 the
+2 following section:-
+3 Section 64. (a) As used in this section, the following words shall have the following
+4 meanings unless the context clearly requires otherwise:
+5 “Office”, the executive office of public safety and security
+6 “Program”, the Massachusetts school safety data grant program
+7 “Public safety agencies", any municipal, county, regional, or state agency responsible for
+8 providing emergency services, including law enforcement, fire departments, emergency medical
+9 services.
+10 “School”, any public or private primary or secondary educational institution, including
+11 charter schools, vocational schools, and special education schools approved under Ch. 71B.
+1 of 3
+12 “School mapping data”, detailed and verified geographical and structural data of school
+13 buildings and grounds, including but not limited to floor plans, aerial imagery, and site-specific
+14 labels identifying rooms, hallways, stairwells, and emergency resources.
+15 “Software platforms”, the digital tools and systems used by public safety agencies to
+16 access, share, and utilize mapping data and related emergency information.
+17 “Verified”, data that has been physically inspected and confirmed for accuracy through
+18 an on-site review of the school buildings and grounds by the entity responsible for producing the
+19 school mapping data.
+20 (b) To facilitate efficient and effective emergency response by law enforcement and
+21 public safety agencies across the commonwealth, the Massachusetts School Safety Data Grant
+22 Program is hereby established within the office. The office shall, subject to appropriation,
+23 administer a program to provide grants to municipal, county, regional, or state law enforcement
+24 agencies for the purpose of developing standardized school mapping data to establish a single,
+25 verified source of school mapping data for each school in the commonwealth, ensuring that such
+26 data is accurate, standardized, and accessible to public safety agencies statewide to facilitate
+27 efficient emergency response on school campuses. A municipal, county, regional, or state law
+28 enforcement agency may apply for a grant to provide school mapping data for one or more
+29 schools, provided the agency has jurisdiction over the respective school or schools.
+30 (c) The school mapping data shall adhere to the following criteria. The data shall:
+31 (1) conform to and integrate with software platforms used by municipal, state, and federal
+32 public safety agencies responsible for emergency services at the school without requiring the
+33 purchase of additional software or payment of fees to access the data. Future updates or
+2 of 3
+34 modifications to the school mapping data must conform to and integrate with all software
+35 platforms used by the relevant public safety agencies;
+36 (2) conform to and integrate with safety and emergency software platforms used by the
+37 school without requiring the purchase of additional software or payment of fees to access the
+38 data;
+39 (3) be provided in a printable format;
+40 (4) be oriented true north, include a grid with "x" and "y" coordinates for reference, and
+41 include z-axis elevation data for each floor;
+42 (5) have its accuracy verified by the entity producing the data through an on-site walk-
+43 through of the school buildings and grounds;
+44 (6) include accurate floor plans overlaid on current, verified aerial imagery of the school
+45 campus;
+46 (7) include site-specific labeling for school structures such as room names, hallway
+47 designations, exterior doors, stairwell numbers, and the locations of hazards, critical utility
+48 controls, key boxes, automated external defibrillators, and trauma kits and school grounds,
+49 including parking areas, athletic fields, surrounding roads, and neighboring properties; and
+50 (8) be provided to the school district and appropriate public safety agencies at no cost
+51 beyond the initial cost of production and shall be made available to such entities permanently.
+52 (d) The office shall promulgate rules and regulations necessary to implement the
+53 provisions of this section and ensure compliance with the requirements of the program.
+3 of 3
+[DELETED: :D/AEITDsH]
+[DELETED: CfSm“““ps0“1c]
+[DELETED: 2“3b4l5“6a7“8a9s0(1p2P3a4a5v6d7e8e9s0(1(2p3p]
+[DELETED: 4m5p6(7s8d9(0(1i2(3t4(5c6(7d8c9i0(1b2(3p]
+
+
+================================================================================
+
+Raw Text:
+SENATE DOCKET, NO. 1480 FILED ON: 1/16/2025
+SENATE . . . . . . . . . . . . . . No. 1782
+The Commonwealth of Massachusetts
+_________________
+PRESENTED BY:
+John C. Velis
+_________________
+To the Honorable Senate and House of Representatives of the Commonwealth of Massachusetts in General
+Court assembled:
+The undersigned legislators and/or citizens respectfully petition for the adoption of the accompanying bill:
+An Act establishing the Massachusetts school safety data grant program.
+_______________
+PETITION OF:
+NAME: DISTRICT/ADDRESS:
+John C. Velis Hampden and Hampshire
+1 of 1
+
+SENATE DOCKET, NO. 1480 FILED ON: 1/16/2025
+SENATE . . . . . . . . . . . . . . No. 1782
+By Mr. Velis, a petition (accompanied by bill, Senate, No. 1782) of John C. Velis for legislation
+to require schools to develop critical response maps. Public Safety and Homeland Security.
+The Commonwealth of Massachusetts
+_______________
+In the One Hundred and Ninety-Fourth General Court
+(2025-2026)
+_______________
+An Act establishing the Massachusetts school safety data grant program.
+Be it enacted by the Senate and House of Representatives in General Court assembled, and by the authority
+of the same, as follows:
+1 Chapter 147 of the General Laws is hereby amended by inserting after Section 63 the
+2 following section:-
+3 Section 64. (a) As used in this section, the following words shall have the following
+4 meanings unless the context clearly requires otherwise:
+5 “Office”, the executive office of public safety and security
+6 “Program”, the Massachusetts school safety data grant program
+7 “Public safety agencies", any municipal, county, regional, or state agency responsible for
+8 providing emergency services, including law enforcement, fire departments, emergency medical
+9 services.
+10 “School”, any public or private primary or secondary educational institution, including
+11 charter schools, vocational schools, and special education schools approved under Ch. 71B.
+1 of 3
+
+12 “School mapping data”, detailed and verified geographical and structural data of school
+13 buildings and grounds, including but not limited to floor plans, aerial imagery, and site-specific
+14 labels identifying rooms, hallways, stairwells, and emergency resources.
+15 “Software platforms”, the digital tools and systems used by public safety agencies to
+16 access, share, and utilize mapping data and related emergency information.
+17 “Verified”, data that has been physically inspected and confirmed for accuracy through
+18 an on-site review of the school buildings and grounds by the entity responsible for producing the
+19 school mapping data.
+20 (b) To facilitate efficient and effective emergency response by law enforcement and
+21 public safety agencies across the commonwealth, the Massachusetts School Safety Data Grant
+22 Program is hereby established within the office. The office shall, subject to appropriation,
+23 administer a program to provide grants to municipal, county, regional, or state law enforcement
+24 agencies for the purpose of developing standardized school mapping data to establish a single,
+25 verified source of school mapping data for each school in the commonwealth, ensuring that such
+26 data is accurate, standardized, and accessible to public safety agencies statewide to facilitate
+27 efficient emergency response on school campuses. A municipal, county, regional, or state law
+28 enforcement agency may apply for a grant to provide school mapping data for one or more
+29 schools, provided the agency has jurisdiction over the respective school or schools.
+30 (c) The school mapping data shall adhere to the following criteria. The data shall:
+31 (1) conform to and integrate with software platforms used by municipal, state, and federal
+32 public safety agencies responsible for emergency services at the school without requiring the
+33 purchase of additional software or payment of fees to access the data. Future updates or
+2 of 3
+
+34 modifications to the school mapping data must conform to and integrate with all software
+35 platforms used by the relevant public safety agencies;
+36 (2) conform to and integrate with safety and emergency software platforms used by the
+37 school without requiring the purchase of additional software or payment of fees to access the
+38 data;
+39 (3) be provided in a printable format;
+40 (4) be oriented true north, include a grid with "x" and "y" coordinates for reference, and
+41 include z-axis elevation data for each floor;
+42 (5) have its accuracy verified by the entity producing the data through an on-site walk-
+43 through of the school buildings and grounds;
+44 (6) include accurate floor plans overlaid on current, verified aerial imagery of the school
+45 campus;
+46 (7) include site-specific labeling for school structures such as room names, hallway
+47 designations, exterior doors, stairwell numbers, and the locations of hazards, critical utility
+48 controls, key boxes, automated external defibrillators, and trauma kits and school grounds,
+49 including parking areas, athletic fields, surrounding roads, and neighboring properties; and
+50 (8) be provided to the school district and appropriate public safety agencies at no cost
+51 beyond the initial cost of production and shall be made available to such entities permanently.
+52 (d) The office shall promulgate rules and regulations necessary to implement the
+53 provisions of this section and ensure compliance with the requirements of the program.
+3 of 3
+
+[DELETED: :D/AEITDsH]
+[DELETED: CfSm“““ps0“1c]
+[DELETED: 2“3b4l5“6a7“8a9s0(1p2P3a4a5v6d7e8e9s0(1(2p3p]
+[DELETED: 4m5p6(7s8d9(0(1i2(3t4(5c6(7d8c9i0(1b2(3p]

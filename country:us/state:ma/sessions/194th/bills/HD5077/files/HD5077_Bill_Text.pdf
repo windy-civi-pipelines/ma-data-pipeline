@@ -1,0 +1,759 @@
+Maura T. Healey Rebecca L. Tepper
+Governor Secretary
+Kimberley Driscoll Bonnie Heiple
+Lieutenant Governor Commissioner
+August 20, 2025
+RE: Guidance on Public Health, Safety and Environmental Impacts of Electric Battery Storage
+and Electric Vehicle Chargers
+The Honorable Christine Barber The Honorable Becca Rausch
+House Chair, Joint Committee on Senate Chair, Joint Committee on
+Environment and Natural Resources Environment and Natural Resources
+State House, Room 136 State House, Room 215
+Boston, MA 02133 Boston, MA 02133
+The Honorable Mark Cusack The Honorable Michael Barrett
+House Chair, Joint Committee on Senate Chair, Joint Committee on
+Telecommunications, Utilities, and Energy Telecommunications, Utilities, and Energy
+State House, Room 43 State House, Room 312B
+Boston, MA 02133 Boston, MA 02133
+Chair Barber, Chair Rausch, Chair Cusack, and Chair Barrett,
+As directed by Section 122 of Chapter 239 of the Acts of 2024, please find attached guidance on
+the public health, safety and environmental impacts of electric battery storage and electric
+vehicle chargers prepared by the Massachusetts Department of Environmental Protection in
+consultation with the Board of Fire Prevention and Regulations and the Department of Energy
+Resources.
+Sincerely,
+Bonnie Heiple
+Commissioner
+Massachusetts Department of Environmental Protection
+
+Guidance on Public Health, Safety and Environmental Impacts of Electric Battery Storage
+and Electric Vehicle Chargers
+Section 122 of Chapter 239 of the Acts of 2024, An Act promoting a clean energy grid,
+advancing equity, and protecting ratepayers (“2024 Climate Act”), directed the Massachusetts
+Department of Environmental Protection (“MassDEP”), in consultation with the Board of Fire
+Prevention Regulations (“BFPR”) and the Department of Energy Resources (“DOER”), to issue
+guidance on the public health, safety, and environmental impacts of electric battery storage and
+electric vehicle chargers.
+This Guidance provides an overview of stationary battery energy storage systems, including their
+role in increasing reliability of the electric grid and storing energy from renewable sources such
+as wind and solar, their different sizes and uses, and the most common types of battery energy
+storage technology. The Guidance identifies the applicable regulations, codes, and guidelines
+that govern the safe installation, operation, and decommissioning of battery energy storage
+systems and protection of public health and the environment.
+This Guidance also provides an overview of electric vehicle (“EV”) charger equipment,
+including the role of EV chargers in electrifying and decarbonizing the transportation sector, and
+the different types of chargers. The Guidance identifies the applicable requirements that govern
+the safe installation and use of EV chargers.
+BATTERY ENERGY STORAGE
+I. Introduction to Battery Energy Storage
+The term “energy storage” applies to many different technologies, including electrochemical
+storage (batteries), flywheels, thermal storage, and pumped hydroelectric storage. All of these
+technologies can store energy and then make the energy available later.
+This Guidance focuses on stationary battery energy storage systems (“BESS”) used to provide
+electricity to a home, building, or the electric grid. BESS may be co-located with an energy
+generation source, such as a solar array, or be a standalone facility. BESS are distinct from the
+batteries that power consumer electronics, electric vehicles, or other electric mobility devices.
+BESS are important for the Commonwealth to meet its decarbonization goals. The Global
+Warming Solutions Act, as amended by the 2021 Climate Roadmap Act (“GWSA”), requires
+Massachusetts to reach economy wide, Net Zero greenhouse gas emissions (“GHG”) by 2050.1
+To meet this requirement, the Massachusetts Clean Energy and Climate Plan for 2050 (“2050
+CECP”) identifies the role of clean, emissions-free energy generation, particularly onshore and
+offshore wind and solar photovoltaics resources, which together are expected to comprise about
+75% of New England’s electric capacity by 2050.2
+In order to integrate this buildout of solar and wind generation capacity, energy storage will be
+essential. Solar and wind are key to meeting our decarbonization goals in a cost-effective
+manner. However, they are intermittent resources that only generate power when the sun is
+1 St. 2008 c. 298 (GWSA); St. 2021 c. 8 (Climate Roadmap Act).
+2 The 2050 CECP Phased scenario allows for the clean energy transition to be gradually “phased-in” over the next
+three decades. See: https://www.mass.gov/doc/2050-clean-energy-and-climate-plan/download
+2
+
+shining or the wind is blowing. While expected generation from solar and wind resources can be
+easily and accurately forecasted, BESS of varying sizes deployed throughout the electric grid
+will be necessary to integrate solar and wind generation resources and fill in gaps when these and
+other resources are incapable of meeting systemwide demand on their own.
+During times when the supply of renewable electricity from resources like solar and wind
+exceeds customer demand, energy storage can absorb and store that excess supply, augmenting
+the supply and demand balance required by the electric grid. Then, when demand for electricity
+exceeds renewable electricity supply, for example after the sun sets and solar panels are no
+longer generating electricity, energy storage can discharge the excess electricity to meet
+customer demand.
+Without energy storage in place during periods of high electricity demand where there are
+limited resources generating electricity, fossil fuel plants known as “peaker” plants must come
+online. Peaker plants, when used, are typically large emitters of both GHG and other emissions
+that negatively impact local air quality. The ability for energy storage to displace peaker plants is
+critical for Massachusetts to meet Net Zero by 2050 and to improve public health outcomes.
+The deployment of BESS also yields significant economic benefits as they help to optimize
+electric grid operations, reducing the cost of meeting peak demand, avoiding the need for
+additional transmission and distribution investments, balancing the electric grid during times
+when supply and demand are not aligned, and improving the resilience of the electric grid, all of
+which benefit ratepayers and the economy at large by reducing electricity costs. Energy storage
+also creates opportunities for new job growth and can be a significant source of increased local
+property tax revenues in communities where it is deployed.
+To achieve these economic benefits as well as the GWSA’s 2050 power sector decarbonization
+requirements, Massachusetts will likely need to deploy 5.6 gigawatts (GW) or more of energy
+storage capacity.3
+- Energy storage has different uses and different scales
+BESS technologies can be categorized based on scale and technology type. The scale of BESS
+generally includes two categories: utility scale and non-utility scale. Utility scale BESS refers to
+larger systems that serve and benefit the electric grid as a whole. Non-utility scale BESS are
+smaller, and while they too can serve and benefit the electric grid, they primarily serve individual
+or small groups of end use customers such as a home, apartment building, or commercial
+building.
+The energy in a BESS is measured in power capacity and energy capacity. A BESS’s power
+capacity refers to the system’s maximum ability to deliver instantaneous power to the grid to
+meet customers’ real-time demand. Power capacity for BESS is typically expressed in terms of
+kilowatts (“kW”) or megawatts (“MW”). Energy capacity refers to the cumulative amount of
+power over time that a BESS can deliver and is typically expressed in terms of kilowatt-hours
+(“kWh”) or megawatt-hours (“MWh”). For example, a BESS that is rated as 1 MW/4 MWh has a
+3 2050 CECP Workbook of Energy Modeling Results. See spreadsheet tab “8. Electric Capacity,” cell W21 which
+shows energy storage capacity for Massachusetts under the Phased scenario.
+3
+
+power capacity of 1 MW and can meet 1 MW of instantaneous customer demand, and can do so
+for a total of 4 hours before it is fully discharged, giving the BESS an energy capacity of 4
+MWh.
+- Utility Scale Energy Storage
+Utility scale BESS are typically sized from several hundred kW to several hundred MW, with
+smaller systems typically serving the electric distribution system and larger systems typically
+serving the electric transmission system.
+The primary purpose of the electric transmission system is to transmit large amounts of
+electricity over long distances to meet demand. The electric transmission system that serves
+Massachusetts also serves the other New England states and is managed by ISO New England
+(“ISO-NE”). Utility scale BESS is key to reducing costs and emissions associated with
+transmission system services because a BESS at that scale can be charged from low-cost
+renewable resources like solar and wind and can be deployed to reduce the overall peak demand
+of the system and the large associated costs.4 In other words, it can charge when costs are low
+and discharge when costs are high, helping to reduce electricity costs for all customers during
+periods of high demand.
+The electric distribution system in the Commonwealth, which connects to the transmission
+system and distributes electricity to customers, is owned and operated by either an Electric
+Distribution Company (“EDC”) or a Municipal Electric Department (“MED”), depending on the
+municipality.5 Utility scale energy storage at this level can both serve the transmission system
+and help the EDCs and MEDs provide safe and reliable electric distribution system service to
+customers while lowering customer bills and integrating renewable energy into the electrical
+grid. One example of unique distribution level services that a utility scale BESS can provide is
+deferring or avoiding the need for distribution system upgrades by reducing local peaks and
+providing local power capacity and reliability. They can also provide local energy resilience by
+being strategically located to help avoid power outages.6
+Utility scale BESS at the transmission and distribution levels can help reduce the need for fossil
+fuel peaker plants and therefore improve local air quality.
+- Commercial and Residential (Non-Utility Scale)
+Non-utility scale storage is commonly owned and operated by building- and home-owners
+looking for a way to reduce electricity bills and have backup power. These battery systems are
+smaller than utility scale, and are typically located on a customer’s premises and sized based on
+the electric demand of the building. Non-utility scale BESS can provide all of the same services
+4 For example, Massachusetts State of Charge Report found that the top 10% of peak demand hours represented
+about 40% of annual electricity spend. See: ESI: State of Charge Report, pg. i-ii.
+5 Massachusetts municipally-owned electric companies. https://www.mass.gov/info-details/massachusetts-
+municipally-owned-electric-companies
+6 For example, Eversource Energy’s Outer Cape Battery Energy Storage System is designed to provide backup
+power to 11,000 customers that live on Outer Cape Cod, avoiding both frequent outages and the need for a second
+distribution line along the same route through the Cape Cod National Seashore as the existing distribution line.
+4
+
+as utility scale resources, though typically to a smaller degree; however, they can also uniquely
+provide end use customer services such as bill savings through building peak demand
+management and site-specific resilience to power outages. In addition, non-utility scale energy
+storage can provide local air quality benefits if it is replacing a fossil fuel-based backup
+generator.
+- Battery Storage Technologies and Makeup
+There are many technological approaches to BESS. Nearly all recent and current battery energy
+storage deployments are lithium-ion-based electrochemical energy storage technologies
+(“lithium-ion batteries”).7,8 In Massachusetts, about 97% of installed BESS in EDC
+municipalities are lithium-ion batteries.9
+Lithium-ion batteries dominate the current energy storage market for several reasons. Lithium-
+ion batteries are generally less expensive than other energy storage technologies. Because
+lithium-ion batteries are also the predominant energy storage technology in consumer electronics
+and electric vehicles, the technology benefits from large scale manufacturing and a robust supply
+chain, leading to dramatic cost declines over the past decade.10 Second, lithium-ion batteries
+have favorable energy storage properties, such as high energy density, long lifetime, fast
+response time, fast recharging time, and low losses in energy storage capacity when sitting idle
+(also known as low self-discharge).
+Lithium-ion batteries comprise a family of batteries which differ in their specific chemistries.
+More recently, energy storage project developers have transitioned from a high nickel content
+lithium-ion battery chemistry (known as nickel manganese cobalt or “NMC”) to a chemistry high
+in iron (known as lithium iron phosphate or “LFP”).11 Even though LFP is less energy dense than
+NMC, LFP has advantages over NMC of lower cost, lower flammability, and longer lifetime. In
+2023, LFP comprised 80% of new energy storage installations worldwide.12
+Batteries such as lithium-ion batteries start with a building block, called a cell, where energy is
+stored for future use. Multiple cells are electrically connected into modules, and multiple
+modules are then electrically connected to form the BESS. Through this scaling process, a BESS
+can be designed to meet the customer’s particular power and energy needs. BESS are typically
+7 Denholm, Paul, Wesley Cole, and Nate Blair. 2023. Moving Beyond 4-Hour Li-Ion Batteries: Challenges and
+Opportunities for Long(er)-Duration Energy Storage. Golden, CO: National Renewable Energy Laboratory.
+NREL/TP-6A40-85878. https://www.nrel.gov/docs/fy23osti/85878.pdf.
+8 Taylor, S., & Ribeiro, H. (2024, June 28). The risks of leaving long-duration energy storage short of money. S&P
+Global Commodity Insights. https://www.spglobal.com/commodity-insights/en/news-research/blog/electric-
+power/062824-the-risks-of-leaving-long-duration-energy-storage-short-of-money
+9 2024 ES Target Reports
+10 BloombergNEF. (2024, December 10). Lithium-ion battery pack prices see largest drop since 2017, falling to
+$115 per kilowatt-hour. BloombergNEF. https://about.bnef.com/blog/lithium-ion-battery-pack-prices-see-largest-
+drop-since-2017-falling-to-115-per-kilowatt-hour-bloombergnef/?utm_source=semafor
+11 (2023, n.d.). Utility-scale battery storage. In 2023 Annual Technology Baseline. NREL. Retrieved June 11, 2025,
+from https://atb.nrel.gov/electricity/2023/utility-scale_battery_storage
+12 International Energy Agency. (2024). Batteries and secure energy transitions.
+https://iea.blob.core.windows.net/assets/cb39c1bf-d2b3-446d-8c35-
+aae6b1f3a4a0/BatteriesandSecureEnergyTransitions.pdf
+5
+
+integrated into enclosures, which can include HVAC to keep the BESS at the appropriate
+operating temperature, and various safety systems and designs discussed in more detail in this
+guidance. A battery management system acts like the brain of the BESS and continuously
+monitors the BESS to ensure it is operating according to design standards and can adjust the
+BESS’s operation or trigger safety systems as necessary.13
+Lithium-ion batteries, like all technologies, will continue to see innovations to improve their
+performance, safety, longevity, cost, and reliability. The energy storage market as a whole will
+also continue to see innovations and evolve, with non-lithium-ion approaches likely to take more
+significant market share sometime in the future.
+- Siting and Permitting Reform for Clean Energy, Including Energy Storage Systems
+The 2024 Climate Act required changes to the way clean energy projects, including BESS, are
+sited and permitted in the Commonwealth. Beginning on July 1, 2026, the Energy Facilities
+Siting Board (“EFSB”) will have exclusive authority to review and permit all proposed BESS
+projects with a rated capacity of 100 MWh or greater, referred to as a “large clean energy storage
+facility.”14 The EFSB will issue a single consolidated permit that comprises all state, regional,
+and local permits that a large clean energy storage facility would otherwise need to commence
+construction and operation.15
+A BESS with a rated capacity of less than 100 MWh, referred to in the Act as a “small clean
+energy storage facility,” will be subject to all local permits, but the local permitting authorities
+will be required to issue a single, consolidated permit in 12 months or less.16
+The 2024 Climate Act requires the EFSB and DOER to promulgate a uniform set of health,
+safety, environmental and other standards, including zoning criteria in DOER’s case, governing
+the siting and permitting of eligible clean energy projects within their respective jurisdictions.
+The EFSB and DOER each must promulgate such standards by March 1, 2026. These new
+standards may incorporate by reference, supersede, or be in addition to any or all of the
+requirements addressed in this Guidance.
+II. Fire Safety
+The safety of BESS has improved significantly in recent years. One comprehensive analysis
+found that the failure rate of utility-scale BESS decreased by 97% between 2018 and 2023 as the
+deployment of BESS greatly increased.17 Lessons learned from earlier incidents when this
+technology was nascent have led to new and robust requirements and improved industry
+practices. BESS that are designed with sufficient safety protections and are installed, operated,
+and maintained in a manner that maintains the system safety can be operated without incident as
+demonstrated by the many systems currently operating safely in the field.
+13 Preger, Y. (2021). Chapter 3: Lithium-Ion Batteries. In Energy Storage Handbook (pp. 3-1–3-30). Sandia National
+Laboratories. https://www.sandia.gov/app/uploads/sites/163/2021/09/ESHB-Ch3_Lithium-Batteries_Preger.pdf
+14 St. 2024, c. 239, §§ 57, 132.
+15 St. 2024, c. 239, § 74.
+16 St. 2024, c. 239, § 23
+17 Electric Power Research Institute, Insights from EPRI’s Battery Energy Storage Systems (BESS) Failure Incident
+Database, Analysis of Failure Root Cause (2024), https://www.epri.com/research/products/000000003002030360.
+6
+
+In Massachusetts, several layers of coordinated standards apply to BESS. Stationary BESS must
+comply with the requirements of 527 CMR 1.00: The Massachusetts Comprehensive Fire Safety
+Code (“the Massachusetts Fire Code”). The Board of Fire Prevention Regulations (“BFPR”)
+promulgates the Massachusetts Fire Code, which adopts NFPA 1: Fire Code, with some state-
+specific modifications. NFPA 1 is the national model fire code developed by the National Fire
+Protection Association (“NFPA”).18 The Massachusetts Fire Code, Chapter 52, references the
+2020 NFPA 855: Standard for the Installation of Stationary Energy Storage Systems.
+A table of relevant fire safety regulations, codes, standards and certifications is appended to this
+Guidance.
+NFPA 1 outlines requirements that provide a reasonable level of fire and life safety, as well as
+property protection from the hazards created by fire, explosion, and dangerous conditions. NFPA
+1 addresses fire protection systems such as sprinklers and alarms, emergency planning and
+evacuation, providing fire departments with site access, water supplies and flow requirements,
+and minimizing risks of handling, using or storing hazardous materials.
+NFPA 855 was first issued in 2019 in response to the increasing use of energy storage systems,
+including BESS. It sets comprehensive criteria for the fire protection of BESS and other energy
+storage installations based on the technology used, the setting where the system is being
+installed, the size and separation of the installations, and the fire suppression and control systems
+in place. NFPA 855 also reflects the current best practice for preventing explosions and safely
+containing fires.
+The requirements of NFPA 855 address design, installation, operation and decommissioning.
+While the applicability of the requirements will vary based on the specifics of a project such as
+size, location, and system, the following are examples of criteria in NFPA 855:
+- Location of the project: NFPA 855 Chapter 4.4 provides detailed requirements addressing
+both indoor and outdoor installations. Location requirements for outdoor BESS include
+providing minimum distances from exposures like buildings or public ways; vegetation
+control; ensuring electrical circuitry is housed within weatherproof enclosures; and
+requiring that fire department access roads be provided in accordance with local fire
+codes. Indoor BESS requirements address different criteria for buildings dedicated to
+BESS versus non-dedicated-use buildings.
+- Equipment: NFPA 855 Chapter 4.2 requires BESS equipment to be listed in accordance
+with UL 9540 - Standard for Energy Storage Systems and Equipment, unless specifically
+exempted. UL 9540 is a certification that evaluates the entire battery system, verifying
+that it meets fire, electrical, and functional safety requirements. UL 9540 also requires
+that the major battery components be qualified to their own standards, such as UL 1741,
+18 The NFPA is a U.S.-based non-profit organization dedicated to reducing fire and related hazards. The NFPA
+develops model safety standards through a public, consensus-driven process drawing on the expertise of thousands
+of volunteers from relevant industries. States may adopt all or parts of NFPA codes as requirements, as
+Massachusetts has done by adopting NFPA 1 with certain state amendments. NFPA model codes are revised
+regularly to reflect the most current practices. In Massachusetts, the BFPR regularly reviews and adopts updated
+code editions.
+7
+
+which certifies a battery’s power conversion system, and UL 1973, which certifies the
+safety and performance of battery cells, modules, and packs, evaluating their ability to
+withstand thermal runaway, mechanical stress, and electrical faults.19
+- Installation: NFPA 855 Chapter 4.3 requires BESS to be installed in accordance with the
+manufacturer’s requirements. Installation requirements also address signage, seismic
+protection, impact protection, site security, and adequate egress, as appropriate.
+- Emergency Planning and Training: NFPA 855 Chapter 4.1.3 requires BESS owners to
+establish and maintain an emergency operations plan with procedures for the safe
+shutdown, de-energizing or isolation of equipment and systems, inspection and testing,
+responding to emergency notifications, and procedures to be followed in the case of fire,
+explosion, release of liquids or vapors, damage to critical moving parts, or other
+potentially dangerous conditions. Emergency training for facility staff is also required.
+NFPA 855 also requires smoke detection systems on all BESS systems located within buildings
+or structures, fire control and suppression systems, explosion control and spill control measures.
+- Fire Safety Information and Documentation Expected for Permitting Energy Storage
+Systems
+A permit from the local fire department is required to install and operate lithium-ion BESS
+greater than 20 kWh, or one (1) kWh for installations in one- or two-family dwellings or
+townhouse units.20 At these thresholds, the vast majority of BESS installations, both residential,
+commercial, and utility scale, in indoor or outdoor locations, are required to obtain such a permit.
+BESS Scale Threshold For Fire Department Permitting
+(kWH)
+One- or two-family dwellings or townhouse 1 kWh
+units
+Commercial and utility-scale 20 kWh
+For BESS installations exceeding 1 kWh in one- or two-family dwellings or townhouse units, the
+plans and specifications associated with the installation shall be submitted to the local fire
+department for approval and include the following:
+- the location and layout diagram of the room or area in which the BESS is to be installed;
+- details on wall construction for rooms or areas where BESS are installed;
+- the quantities and types of BESS units;
+- manufacturer’s specifications, ratings, and listings of BESS;
+19 Underwriters Laboratory, or “UL”, is an independent testing and certification organization. Manufacturers submit
+their products to UL for evaluation. UL assesses the product’s safety, performance, and compliance with applicable
+standards. This may include electrical, mechanical, environmental, and other specific tests depending on the nature
+of the product.
+20 Beginning July 1, 2026, proposed BESS facilities with a rated capacity of 100 MWh will be within the sole
+jurisdiction of the EFSB for purposes of all state, local and regional permits, including permits typically issued by
+local fire departments.
+8
+
+- description of energy storage management systems and their operation;
+- location and content of required signage;
+- details on fire suppression, smoke or fire detection, gas detection, thermal management,
+ventilation, exhaust, and deflagration venting systems, if provided;
+- support arrangement associated with the installation, including any required seismic
+support; and
+- description of scope of work for retrofit or repairs of BESS.
+Applicants proposing a BESS project exceeding 20 kWh are required to submit detailed
+information for review by local fire officials. The information includes, but is not limited to, the
+following:
+- the quantities and types of BESS units;
+- manufacturer’s specifications, ratings, and listings of BESS;
+- emergency operations plan;
+- hazard mitigation analysis;
+- details of all safety systems, including fire suppression, smoke or fire detection, gas
+detection, thermal management, ventilation, exhaust, and deflagration venting systems, as
+applicable;
+- results of fire and explosion testing to UL 9540A or equivalent;
+- location and layout diagram of the room or area in which the BESS is to be installed;
+- details on hourly fire-resistant-rated assemblies provided or relied upon in relation to the
+BESS;
+- location and content of required signage;
+- support arrangement associated with the installation, including any seismic support.
+This information allows for fire departments, and local and state regulators, to assess the
+individual safety characteristics of a particular project and ensure that the proposed project
+complies with all of the applicable code requirements prior to issuing a permit.
+- In the Event of a Fire
+Lithium-ion batteries can experience thermal runaway. Thermal runaway is defined in NFPA
+855 as “The condition when an electrochemical cell increases its temperature through self-
+heating in an uncontrollable fashion and progresses when the cell’s heat generation is at a higher
+rate than it can dissipate, potentially leading to off-gassing, fire, or explosion.” Lithium-ion
+BESS are required to include a listed device or other approved method to preclude, detect, and
+minimize the impact of thermal runaway. NFPA 855, Chapter 9.3.
+Water is considered the preferred agent for suppressing lithium-ion battery fires. Water has
+superior cooling capacity and is easy to transport to the seat of the fire. Fire-fighting foams, such
+as those containing per- and polyfluoroalkyl substances (“PFAS”), are not considered to be
+effective for these chemistries because they lack the ability to cool sufficiently and can conduct
+electricity. Fire-fighting dry chemical powders can eliminate visible flame, but they also lack the
+ability to cool burning battery components as water can do.21
+21 NFPA 855 – 2020 Edition, Annex C.
+9
+
+III. Protecting Public Health and the Environment
+BESS must comply with all applicable laws and regulations, including federal, state and local
+requirements protective of public health and the environment. These legal frameworks govern all
+aspects of a BESS project, including, but not limited to, siting, zoning, wetlands impacts,
+stormwater management and impacts, drinking water protection, release(s) or threat(s) of release
+of oil or hazardous materials to the environment, and noise levels. Any local zoning by-law or
+ordinance must comply with M.G.L. c. 40A § 3, which prohibits the unreasonable regulation of
+BESS.22
+The permits and approvals required for a given BESS project will depend on the specific
+circumstances of the proposal. Key environmental permitting and approval considerations
+include, but are not limited to, the following, particularly for utility-scale BESS which have a
+larger footprint:
+Wetlands: BESS projects involving activities in jurisdictional wetlands resource areas and
+corresponding buffer zones must comply with the Wetlands Protection Act (“WPA”), M.G.L. c.
+131, § 40, and the WPA regulations at 310 CMR 10.00. Projects that result in a discharge of
+dredged or fill material to waters of the United States and require a Section 401 Water Quality
+Certification are subject to the regulations at 314 CMR 9.00. Local jurisdictions may also have
+wetlands protection bylaws.23
+Stormwater: BESS developments may be required to comply with MassDEP’s
+Stormwater Management Standards provided in 310 CMR 10.05(6)(k)-(q), if the development is
+subject to the jurisdiction of the Wetlands Protection Act, and 314 CMR 9.06(6)(a), if the
+development requires a Section 401 water quality certification for discharges of dredged or fill
+material. The Stormwater Management Standards encourage stormwater recharge to
+groundwater, require measures to control surface water runoff that may contribute to
+downstream flooding, and prevent stormwater discharges from causing or contributing to the
+pollution of the surface waters and groundwaters of the Commonwealth. The standards require
+the implementation of a wide variety of stormwater management strategies, depending on
+specific site characteristics, including environmentally sensitive site design and low impact
+development (LID) techniques to minimize impervious surface and land disturbance, source
+control and pollution prevention, structural and non-structural best management practices,
+construction period erosion and sedimentation control, and the long-term operation and
+maintenance of stormwater management systems.
+Compliance with the Stormwater Management Standards may require remote shut-off
+valves, lined conveyances and basins, or other measures designed to intercept and contain
+surface water runoff during a failure event such as a fire. More information about the Stormwater
+22 M.G.L 40A § 3 provides “No zoning ordinance or by-law shall prohibit or unreasonably regulate the installation
+of solar energy systems or the building of structures that facilitate the collection of solar energy, except where
+necessary to protect the public health, safety or welfare.” Battery energy storage systems qualify as “structures that
+facilitate the collection of solar energy.” Massachusetts Office of the Attorney General, Decision re: Carver Annual
+Town Meeting of April 12, 2022, p.6 note 8, issued November 14, 2022.
+23 Beginning July 1, 2026, proposed BESS facilities with a rated capacity of 100 MWh will be within the sole
+jurisdiction of the EFSB for purposes of all state, local and regional permits.
+10
+
+Management Standards is available at https://www.mass.gov/guides/massachusetts-stormwater-
+handbook-and-stormwater-standards.
+Drinking Water: MassDEP regulates public water systems pursuant to M.G.L. c. 111, §
+160 and 310 CMR 22.00, the Drinking Water Regulations. The Drinking Water Regulations
+impose requirements on public water systems to prevent the pollution of drinking water by
+protecting both surface water (310 CMR 22.20B, et seq.) and groundwater (310 CMR 22.21)
+sources.
+Public water suppliers and BESS project applicants should consult the MassDEP
+Drinking Water Program’s guidance on the siting of BESS around sources of public drinking
+water, titled Information to be Submitted to MassDEP for Proposed Solar and Wind Energy
+Projects on Lands Owned or Controlled by Public Water Systems for Drinking Water Purposes
+(available at https://www.mass.gov/doc/pwss-and-windsolar-energy-projects-guidance). BESS is
+prohibited within the area immediately surrounding a public water supply well or wellfield,
+known as Zone I (defined at 310 CMR 22.02). Outside of Zone I, (e.g., Zone II for groundwater
+sources or Zone A for surface water sources) on land owned or controlled by the public water
+system for drinking water purposes, BESS require MassDEP approval and should meet the
+conditions specified in the guideline. Example conditions include locating BESS above the 100-
+year floodplain and within a self-containment area so that in the event of a fire, fire extinguishing
+chemicals will be completely contained.
+Public water sources designed to withdraw more than 100,000 gallons per day must
+protect the MassDEP approved Zone II or Zone A recharge areas. Protection must be in the form
+of municipal bylaws/ordinances, general bylaws/ordinances or Board of Health Regulations.
+Protection controls must prohibit the activities cited in 310 CMR 22.20B(2) for Zone A and 310
+CMR 22.21(2) for Zone II. Other municipal controls may also apply.24
+Waterways / Chapter 91: If a BESS project requires construction, filling, or dredging in
+filled or flowed tidelands, great ponds, and the navigable portions of non-tidal rivers and streams
+on which public funds have been expended, then the project proponent would need to obtain a
+license from MassDEP pursuant to M.G.L. c. 91 and 310 CMR 9.00.
+Air Quality / Emissions: BESS do not emit air pollutants at levels requiring an air permit
+from MassDEP.
+Noise: BESS can generate significant levels of sound from cooling systems, inverters,
+system electronics, and transformers, and can become a nuisance when located near residences
+that can be as much as 40 decibels about background sound levels if not appropriately designed
+to attenuate sound.
+BESS must comply with any local noise bylaws, regulations or ordinances.25 They also must
+24 Beginning July 1, 2026, proposed BESS facilities with a rated capacity of 100 MWh will be within the sole
+jurisdiction of the EFSB for purposes of all state, local and regional permits.
+25 Beginning July 1, 2026, proposed BESS facilities with a rated capacity of 100 MWh will be within the sole
+jurisdiction of the EFSB for purposes of all state, local and regional permits.
+11
+
+comply with MassDEP’s noise regulations at 310 CMR 7.10.
+MassDEP issued a Noise Policy (90-001) that states that a source of sound is considered to be
+violating 310 CMR 7.10 if the source either increases the broadband sound level by more than 10
+decibels above ambient or produces a “pure tone” condition – when any octave band center
+frequency sound pressure level exceeds the two adjacent center frequency sound pressure levels
+by 3 decibels or more. These criteria are measured both at the property line and at the nearest
+inhabited residences or other sensitive receptors.
+Sound suppression or mitigation measures may be implemented to achieve desired sound levels.
+Examples of such measures include the use of lower noise equipment, sound attenuation barriers,
+and operational restrictions such as limiting fan speeds and the number of active units during
+quieter hours. Sound suppression measures should be designed to achieve the lowest sound level
+increase above background that is technologically feasible.
+- Environmental Considerations in the Event of a Fire or Other Release
+Any fire occurring in the built environment is likely to contribute to environmental
+contamination, including air contamination from the fire plume and possible subsequent
+deposition to land and water, contamination from suppression water runoff, and other potential
+environmental discharges from burned materials. Like all energy technologies, batteries can
+present chemistry-specific hazards under faulty conditions. Lithium-ion batteries could leak or
+spill chemicals, so these systems are typically required to provide spill containment.
+In the event of a fire or spill at a BESS facility, the local fire department should be called
+immediately. After the local fire department has been notified, MassDEP’s Emergency Response
+(ER) must be notified via the ER Hot Line (888-304-1133) within 2 hours of a release or spill of
+oil or hazardous materials that meet MassDEP’s 2-hour reporting thresholds requirements.
+MassDEP Emergency Response personnel are available 24/7 to respond and help contain and
+assess spills/releases of oil or hazardous chemicals.
+Once the battery components and site have been rendered safe, the owner of the BESS facility
+should hire a hazardous materials response contractor for proper assessment, transport and
+disposal. Pursuant to regulations known as the Massachusetts Contingency Plan (“MCP”, 310
+CMR 40.0000), following a battery fire or other release to the environment, the owner of the
+BESS is required to hire a Licensed Site Professional/response contractor to implement
+immediate response actions. This could include, for example, immediate containment or spill
+cleanup and sampling of nearby soils, surface waters and groundwater for residual
+contamination. If contamination is found above regulatory limits, then further cleanup is required
+according to MCP requirements. If the owner/potentially responsible party is unwilling or unable
+to hire a contractor, MassDEP has the ability to activate one, and pursue cost recovery from the
+potentially responsible party (i.e. owner).26 MassDEP also maintains on its website a list of
+26 Source: DFS Memorandum, Dangers of Lithium Batteries, Feb. 6, 2023, https://www.mass.gov/doc/advisory-
+dangers-of-lithium-batteries-2023/download.
+12
+
+licensed hazardous waste transporters who can provide transport and disposal services.27
+- End-of-Life and Decommissioning
+Pursuant to the Massachusetts Fire Code and NFPA 855, BESS facility owners must provide a
+decommissioning plan to the fire department for approval prior to decommissioning the system.
+In accordance with Chapter 8 of NFPA 855, the decommissioning plan must include steps for the
+safe shut down, disassembly and removal of the battery components.
+Most lithium-ion batteries meet the definition of hazardous waste pursuant to the Massachusetts
+Hazardous Waste Regulations, 310 CMR 30.000. However, lithium-ion batteries may be
+managed in compliance with the streamlined standards for universal waste management (e.g., a
+manifest is not required) at 310 CMR 30.1000, provided that the batteries are managed at the site
+of generation in a way that prevents releases to the environment and the batteries are sent to
+another universal waste “handler” or a “destination facility” that is authorized to recycle lithium-
+ion batteries.
+In addition to existing requirements, a special commission known as the Extended Producer
+Responsibility Commission has been established pursuant to the 2024 Climate Act.28 The
+Commission is charged with making policy recommendations for handling lithium-ion batteries
+and other products when they reach the end of their useful life. The Commission is chaired by
+the MassDEP Commissioner and comprises a diverse set of stakeholders. The Commission’s
+recommendations are due to the Legislature by January 15, 2026.
+27 https://www.mass.gov/doc/massdep-licensed-hazardous-waste-transporter-list-0/download.
+28 St. 2024 c. 239, § 108; https://www.mass.gov/info-details/extended-producer-responsibility-commission.
+13
+
+ELECTRIC VEHICLE CHARGERS
+I. Introduction to Electric Vehicle Chargers
+The electrification of the transportation sector in Massachusetts is critical to achieving the
+Commonwealth’s greenhouse gas (“GHG”) reduction goals. The transportation sector is
+responsible for 38% of GHG emissions in Massachusetts, making it the largest source of
+emissions by sector from the combustion of gasoline, diesel, and aviation fuel in cars, buses,
+trucks, ships, and airplanes.29
+As the use of electric vehicles (EVs) has grown, so has the need for EV charging infrastructure.
+EV charging infrastructure needs to be installed throughout the state for drivers and business
+owners to feel comfortable switching to EVs. Massachusetts has a number of programs that
+provide incentives and grant funding for EV chargers, one of which is MassDEP’s Electric
+Vehicle Incentive Program (“MassEVIP”) which supports charging stations for the general
+public, employees and fleets, and multi-unit dwellings and educational campuses.
+There are three main drivers of MassDEP’s MassEVIP programs:
+1. Transportation emissions contribute to the formation of ground-level ozone, a key
+component of smog. This pollution can exacerbate respiratory conditions such as
+asthma and bronchitis, particularly affecting children, older adults, and people with
+pre-existing health issues. Additionally, exposure to nitrogen dioxide (NO₂), a
+byproduct of vehicle emissions, can irritate the respiratory system and increase
+susceptibility to infections.
+2. The transportation sector is a significant source of GHG emissions in Massachusetts,
+accounting for approximately 38% of the state's total emissions.30 These emissions
+contribute to global warming and climate change, posing long-term risks to the
+environment and public health.
+3. Communities located near high-traffic areas, such as highways and industrial zones,
+often experience cumulative pollution from multiple sources. This compounded
+exposure can lead to higher rates of respiratory and cardiovascular diseases among
+residents, disproportionately impacting low-income and minority populations.31
+EV chargers come in three types based on the power output of the charger: Level 1, Level 2, and
+direct current (DC) fast chargers, also known as Level 3.
+1. Level 1 chargers use standard 120-volt (V) alternating current (AC). There are hardwired
+units that are most commonly used in commercial settings as well as cords that can be
+plugged into a standard 3-prong outlet. Hardwired units should be installed by a licensed
+29 https://www.mass.gov/info-details/massachusetts-clean-energy-and-climate-metrics.
+30 https://www.mass.gov/info-details/massachusetts-clean-energy-and-climate-metrics.
+31 https://www.mass.gov/news/massachusetts-becomes-first-state-to-require-analysis-of-cumulative-impacts-for-air-
+quality-permits-near-environmental-justice-populations.
+14
+
+electrician. A Level 1 charging cord may be provided by the manufacturer32 with the
+purchase of a new EV, or can be purchased separately, and can be used to charge the
+vehicle at home using a standard outlet without the need for special installation or wiring.
+2. Level 2 chargers use 240-volts AC, the level commonly used for clothes dryers and other
+large household appliances. Level 2 chargers may be installed at single family homes (in
+a garage or near the driveway), as well as in public areas like parking lots, parking
+garages and rest stops. Level 2 chargers should be installed by a licensed electrician.
+3. DC fast chargers can charge a vehicle significantly faster than other charger types, but are
+also significantly more expensive. They also often require significant upgrades to the
+existing electrical infrastructure, depending on the amount of power already available and
+how many charging stations are installed and how many kW of power they can supply.
+Fast chargers can range in power from 50 kW to 350 kW, with even faster charging
+speeds coming in the near future. Fast chargers are often located along highways or major
+thoroughfares similar to traditional gas stations. Fast chargers should be installed by a
+licensed electrician.
+II. Safety Considerations for EV Chargers
+EV chargers in Massachusetts must comply with the requirements of 527 CMR 12.00, the
+Massachusetts Electrical Code. The Massachusetts Electrical Code adopts the 2023 edition of
+NFPA 70: National Electrical Code.33 All EV charging equipment should be installed by
+licensed electricians.
+NFPA 70 includes requirements regarding the type of equipment associated with an EV charger,
+such as the type and length of both the cord connecting the EV charging equipment to the power
+supply and the cord connecting the EV charger to the vehicle. Weatherproof enclosures are
+required if the EV charger is installed in an exposed location. NFPA 70 also outlines
+requirements regarding the appropriate wiring, voltage, and overcurrent protection for EV
+charger installation.
+Only EV charger equipment listed to a UL certification or other qualified testing laboratory
+should be used. Additionally, since 2023, certain EV chargers installed in Massachusetts must
+meet federal Energy Star standards and be listed in the State Appliance Standards Database.34
+32 Beginning in model year 2026, each electric vehicle sold in Massachusetts must be supplied with a charging cord
+of at least 20 feet in length, compatible with Level 1 and Level 2 charging. 13 CCR 1962.3(c)(3) as required by 310
+CMR 7.40 Low Emission Vehicle Program.
+33 NFPA 70 refers to EV chargers of all types as electric vehicle supply equipment, or “EVSE”.
+34 See https://www.mass.gov/how-to/certify-products-for-appliance-efficiency-standards.
+15
+
+APPENDIX
+Reference Table of Fire Safety Regulations, Codes, Standards and Certifications
+Code or Standard Description Applicability
+Massachusetts regulation incorporating • Utility scale BESS
+by reference NFPA 1, the Fire Code, • Commercial/residential
+with some modifications. NFPA 1, Fire scale BESS
+Code, details requirements that provide a
+reasonable level of fire and life safety, as
+well as property protection from the
+hazards created by fire, explosion, and
+dangerous conditions. It includes a
+527 CMR 1.00: The
+comprehensive approach to fire and life
+Massachusetts
+safety, from fire alarms and sprinkler
+Comprehensive Fire
+systems to protection from specific
+Safety Code
+processes and hazards, to help protect
+people from the ever-changing hazards in
+a building.
+527 CMR 1.00 was most recently revised
+in December 2022. It adopts the 2021
+edition of NFPA 1, with Massachusetts
+amendments.
+NFPA 1 outlines requirements that • Utility scale BESS
+provide a reasonable level of fire and life • Commercial/residential
+safety, as well as property protection scale BESS
+from the hazards created by fire,
+explosion, and dangerous conditions.
+The code includes a comprehensive
+approach to fire and life safety, from fire
+NFPA 1: Fire Code alarms and sprinkler systems to
+protection from specific processes and
+hazards, to help protect people from the
+ever-changing hazards in a building.
+NFPA 1 – 2021 is the current edition
+adopted in Massachusetts by 527 CMR
+1.00.
+The current edition adopted by 527 CMR • Utility scale BESS
+1.00 is NFPA 855 – 2020 edition. The • Commercial/residential
+NFPA 855: Standard standard offers comprehensive criteria scale BESS
+for the Installation of for the fire protection of energy storage
+Stationary Energy system installations, including BESS,
+Storage Systems based on the technology used, the setting
+where the technology is being installed,
+the size and separation of installations,
+16
+
+Code or Standard Description Applicability
+and the fire suppression and control
+systems in place. NFPA 855 provides
+mandatory requirements for the design,
+installation, commissioning, operation,
+maintenance, and decommissioning of
+BESS, distinguished by battery energy
+storage technology.
+Massachusetts Electrical Code adopting • Utility scale BESS
+by reference NFPA 70, National Electric • Commercial/residential
+527 CMR 12.00 Code. scale BESS
+• EV charger
+The Massachusetts The current version of the Massachusetts installations
+Electrical Code Electrical Code was adopted in February
+2023. It adopts the 2023 edition of NFPA
+70, with Massachusetts amendments.
+A set of standards for the safe installation • Utility scale BESS
+of electrical wiring and equipment in the • Commercial/residential
+United States. Its primary purpose is to scale BESS
+ensure the safety of electrical • EV charger
+installations by setting forth installations
+requirements to protect people and
+property from electrical hazards. The
+NEC covers the installation of electrical
+NFPA 70: National conductors, equipment, and raceways;
+Electric Code signaling and communications
+conductors and equipment; and fiber
+optics. It is updated regularly to
+incorporate new technologies and
+improve safety measures.
+NFPA 70 – 2023 is the current edition
+adopted in Massachusetts by 527 CMR
+12.00.
+The UL 9540 certification evaluates the • Utility scale BESS
+entire battery energy storage system, • Commercial/residential
+UL 9540 verifying that it meets rigorous fire, scale BESS
+electrical, and functional safety
+Standard for Energy requirements.
+Storage Systems and
+Equipment 527 CMR 1.00 and NFPA 855 requires
+all battery energy storage systems be
+listed to UL 9540.
+UL 9540A is a large-scale fire test that • Utility scale BESS
+UL 9540A
+evaluates thermal runaway propagation • Commercial/residential
+risks on a representative battery energy scale BESS
+17
+
+Code or Standard Description Applicability
+Standard for Test storage system by assessing how battery
+Method for cells, modules, and packs react to
+Evaluating Thermal overheating, mechanical damage, or
+Runaway Fire electrical abuse. Conducted at the cell,
+Propagation in module, unit, and system levels, this test
+Battery Energy helps determine fire safety and supports
+Storage Systems implementation of effective mitigation
+strategies.
+UL 1973 Referenced in NFPA 855, UL 1973 • Utility scale BESS
+certifies the safety and performance of • Commercial/residential
+Standard for battery cells, modules, and packs, scale BESS
+Batteries for Use in evaluating their ability to withstand
+Stationary, Vehicle thermal runaway, mechanical stress, and
+Auxiliary Power and electrical faults.
+Light Electric Rail
+(LER) Applications
+UL 1741 UL 1741 is a product safety standard that • Utility scale BESS
+outlines requirements for inverters, • Commercial/residential
+Standard for converters, controllers, and scale BESS
+Inverters, Converters, interconnection system equipment used
+Controllers and in distributed energy resources systems.
+Interconnection It ensures these devices are safe and
+System Equipment reliable, particularly when connecting to
+for Use With the electrical grid.
+Distributed Energy
+Resources
+UL 1642 is a standard for the safety of • Utility scale BESS
+UL 1642 lithium batteries. This standard aims to • Commercial/residential
+reduce the risk of fire or explosion scale BESS
+Standard for Safety during battery use and also when user-
+for Lithium Batteries replaceable batteries are removed and
+disposed of
+UL 2594 is the UL standard for EV • EV charger
+chargers, or Electric Vehicle Supply installations
+Equipment (EVSE). It broadly covers
+different components of EVSE, including
+cord sets, charging stations, and fixed
+UL 2594
+power outlets, specifying safety
+requirements for both indoor and outdoor
+Electric Vehicle
+use. The standard focuses on safety,
+Supply Equipment
+including electrical and mechanical
+aspects, and covers voltage and current
+ratings, as well as different types of
+EVSE like wall-mounted and portable
+chargers.
+18
+
+19
+
+[DELETED:  R S B C T S E S B T S T S B]
+[DELETED: .I..]
+[DELETED: .E]
+[DELETED: U. . .C]
+[DELETED: B. .. . .]
+[DELETED: .S” ...F. ]
+[DELETED: . LE]
+[DELETED: .IEF.  T 1 2tdtm]
+[DELETED: dldsdtmehdrldlsI.]
+[DELETED: .P..]
+[DELETED: .. ]
+[DELETED: E. ]
+[DELETED: .E. ]
+[DELETED: .I..T.T. .C..L]
+[DELETED: r .L.D.S. .]
+[DELETED:  AUC aUC s f s bUC]
+[DELETED:  A C T EUCE c sUCE ve r  5UCUC]
+[DELETED:  A s c o e m h i Rc b e t eUC Uo c i i I r tUC lr d rUCE]

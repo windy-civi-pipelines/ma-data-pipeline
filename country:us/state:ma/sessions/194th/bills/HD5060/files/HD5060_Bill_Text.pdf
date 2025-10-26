@@ -1,0 +1,739 @@
+MAURA T. HEALEY JASON SNYDER
+Governor Secretary/Commonwealth CIO
+KIMBERLEY DRISCOLL ERICA BRADSHAW
+Lieutenant Governor Deputy Secretary
+August 13, 2025
+Dear Chairs Rodrigues, Michlewitz, Collins, Cabral and Auditor DiZoglio,
+Pursuant to Chapter 9 of the Acts of 2025 (FY26 General Appropriations Act), the Executive Office of Technology
+Services and Security (TSS) is pleased to provide you with the enclosed report detailing an account of IT-related
+project expenditures over the previous 12-month period.
+Due to the reporting deadline, amounts reported in the enclosed report are actuals through June 14, 2025, and TSS
+forecasts through June 30th since final FY25 numbers will not be known with certainty until after the
+Massachusetts Management, Accounting and Reporting System (MMARS) Accounts Payable period at the end of
+August.
+The FY25 amount is an increase of $16.0M over the FY25 cap of $158.8M, which, when taken with the additional
+FY25 capacity we were able to create, amounts to an effective increase over cap of $23.2M. These numbers
+exclude the BEST program, which while included in our oversight, has a separate source of funding.
+The Executive Office of Health and Human Services (EOHHS) and The Executive Office of Technology Services
+and Security (TSS) remain the principal investors in IT, accounting for 65% of total investment dollars in FY25, a
+very similar total compared with 65% in FY24. I am grateful for your continued partnership with TSS. Please feel
+
+free to contact Christopher Smith at Christopher.t.smith@mass.gov should you have any questions about this
+report.
+Sincerely,
+Jason Snyder
+Secretary and Commonwealth Chief Information Officer
+2
+
+Executive Branch Information Technology Projects in FY25
+The Executive Office of Technology Services and Security (TSS) has collaborated with agencies across state
+government to improve the delivery of digital services for constituents, schools, businesses, government agencies,
+and municipalities. EOTSS is focused on modernizing the Commonwealth’s Information Technology (IT)
+landscape while prioritizing security, leveraging technology across multiple agencies, and investing in high-impact
+projects that can be efficiently supported over their useful lives. In FY25, the focus has been on leveraging
+investments that modernize our technology infrastructure and networks and strengthen our cybersecurity
+capabilities, but with a renewed emphasis on improving the delivery of services to citizens and enhancing
+government performance.
+Investing in State Service Access and Equity
+Expenditures in FY25 invested $782.8MM in 24 projects across nine Secretariats that address service equity and
+resident access to government services. The Commonwealth Digital Roadmap is a $110M program at TSS ($18M
+in FY25) to standardize the user experience across state agencies with a single identity that proactively connects
+users to relevant information and services.
+The Integrated Eligibility and Enrollment program within the Executive Office of Health and Human Services
+(HHS) will eliminate duplicative documentation while streamlining the application and onboarding processes for
+benefits administered by HHS, while making residents aware of overlapping eligibility for services.
+The Childcare Financial Assistance Modernization (CCFA) project at the Executive Office of Education (EOE) will
+update the business processes within CCFA to align with an updated user experience and update or replace the core
+technology systems managing the waitlist, application and eligibility determination, and payments. Updating the
+overall user experience will reduce barriers to families seeking assistance from the Commonwealth, ease
+administrative burdens on childcare providers, and create greater operational efficiencies for the Department.
+FY25 will see the completion of the implementation of an Electronic Medical Records system (EMR) at the
+Executive Office of Veterans’ Services Veterans’ Homes in Chelsea and Holyoke which offer critical services to
+veterans in Massachusetts.
+Improving Government Performance
+$92.3M has been allocated to 11 Secretariats and Agencies to support 16 projects that will enable more efficient
+government operations. This includes the completion of phase 1 of the Employment Modernization Transformation
+(EMT), the Tax and Benefits modules, and seed funding for Phase 2--Career Services. This project is a key driver
+of the increased project investment within the Executive Office of Labor and Workforce Development (LWD) from
+FY24 to FY25.
+The Commonwealth's Legal Case Management System consortium will complete the pilot program rollout of a
+best-in-class statewide Legal Case Management Platform to five agencies. The platform is a single framework that
+is scalable across the Commonwealth that includes various management capabilities spanning across case
+management practices.
+Further, the Business Enterprise Systems Transformation (BEST) project within the Office of the Comptroller to
+replace two core administrative systems used across the Executive Branch to manage financial, payroll, and human
+resource functions, continues apace.
+Technology Services and Cybersecurity
+3
+
+The FY25 CIP allocates $42.2MM to continue to improve the Commonwealth’s Information Technology
+infrastructure and cybersecurity assets. The goal of this enterprise program is to continuously modernize the
+technical infrastructure that government service delivery depends on.
+This program continues an ongoing initiative to modernize the Commonwealth’s core networks, including the One
+Network program at HHS, EOE and EOED, and supports the continuous upgrades of our End User services
+capabilities with Group File Share migrations to more secure platforms. We will continue the migration of end-of-
+life server infrastructure to our centralized services and will invest in operational intelligence capabilities to more
+effectively monitor our technical infrastructure. Funding is also included to continue the operation of the
+Commonwealth's cybersecurity Vulnerability Management Program, which includes automated web application
+scanning, professional grade penetration testing, and a threat analysis and data sharing capability. There is a
+remediation capability to support all Executive Branch repair vulnerabilities identified because of our penetration
+testing program.
+We enable Mass.gov to respond to new constituent (end-user) and customer (agency content editor) needs. This
+includes multilingual and search feature enhancements to help state agencies present their content in ways that will
+best serve their agency missions, employees, and the residents they serve. We will also make content-type
+enhancements, pilot a multi-channel feedback solution, and continue decommissioning custom solutions in favor of
+available SaaS solutions.
+At the Executive Office of Public Safety, the Criminal Justice Information Services (CJIS) modernization program
+is designed to implement a more advanced and maintainable platform for applications used by both the Department
+of Criminal Justice Information Services and law enforcement agencies in the Commonwealth. The current CJIS
+Broker/Message Switch platform is obsolete, requiring action to design and develop a replacement solution. New
+workflows will ensure compliance with TSS standards including Continuity of Service, Business Resiliency,
+Cybersecurity and Accessibility.
+Executive Office of Health and Human Services
+Health Insurance Exchange (HIX) Integrated Eligibility System (IES)
+The MA HIX/IES was implemented and now maintains and enhances the Commonwealth MAGI eligibility system
+to support both MassHealth and the Health Connector. The System manages the eligibility of approximately 2
+million Commonwealth residents at any given time. In addition, the system allows for health plan shopping for
+300,000 Health Connector eligible individuals. In the coming fiscal years, MA HIX/IES will begin integration with
+the Integrated Eligibility and Enrollment (IE&E) systems and begin the transition to One Health. $82,447,084
+Medicaid Management Information System (MMIS) Modernization
+MMIS Modernization seeks to improve services for vulnerable populations (such as Behavioral Health) and
+improve member and provider experience through mobile applications, online self-service options and a provider
+portal. Automating current manual processes will improve service delivery and make it more efficient and
+responsive. Continuation of the MassHealth Payment Reform (ACO full implementation) will improve health care
+quality for Medicaid population and reduce costs by converting the FFS based structure to one of the three types of
+ACO models and enhance collaboration between traditional health providers and behavioral health providers
+through the Community Partners program. Implementing LTSS Data Repository and Behavioral Health Redesign
+will improve services to vulnerable and underserved populations. The technological enhancements to MMIS are
+following both industry and the Center for Medicare and Medicaid Services’ (CMS) guidance to leverage existing
+resources or implement modular resources that are system agnostic. An example is the Business Rules Engine that
+MMIS has implemented to support the cost sharing initiative. $40,000,000
+Enhanced Analytics
+Enhanced analytics will provide improved and more timely reporting to enable ACOs to forecast financials,
+improve population health management and be accountable for quality outcomes. ACOs directly impact 1.2M
+MassHealth members and their access to programs. This project will replace outdated and near-end-of-life data
+4
+
+servers which will dramatically improve capacity, availability and performance and enable the Data Warehouse to
+insource many data, analytic and reporting functions.
+$29,600,000
+Integrated Eligibility & Enrollment Readiness
+Planning to modernize and integrate the eligibility and enrollment process for state benefits
+agencies. $20,204,950
+TMSIS - Phase II
+Commonwealth Transformed Medicaid Statistica Information System (T-MSIS) data will support in-depth Centers
+for Medicare and Medicaid Services (CMS) analysis of cost and population metrics and provide timely feedback to
+CMS on Medicaid quality, cost and usage patterns. This information will be used in developing Medicaid program
+related delivery enhancements to constituents of the Commonwealth. Complete, accurate and timely information
+reported by T-MSIS to CMS and the Commonwealth's Data Warehouse will be provided to make better decisions
+and determinations regarding Medicaid costs and services statewide. Data stored in the EOHHS Data Warehouse
+and reported by TMSIS to CMS is used by MassHealth, Commonwealth Constituents, CMS and States nationwide
+to reduce Medicaid costs and improve services statewide. The T-MSIS Common Solution software implemented
+by the contracted vendor provides a standard reporting solution and is used by many other States nationwide. Also,
+work and results from the T-MSIS project efforts will be leveraged and carried forward to implement the 837 Post
+Adjudicated Medicaid Encounter Claims transactions. $11,000,000
+DPH/DMH Electronic Health Record and Community Care
+Implementation of an electronic health record system for all DPH state hospitals and DMH inpatient facilities and
+community centers. $7,600,000
+Enterprise Staffing Scheduling
+Scheduling application for DMH and DMH clinical and facilities staff. $7,210,000
+MA21 Cloud Migration
+One Health project aims to create a unified, streamlined and cost-effective eligibility system for the
+Commonwealth's constituents. This will be achieved by modernizing and unifying existing eligibility systems to
+create a shared MassHealth (MAGI/Non-MAGI) and Health Connector system experience that will be accessible
+through a new IE&E Common Portal. Driven by the impending closure of the MITC data center in Sept 2026, the
+One Health project will also continue the work of migrating the legacy MA21 mainframe system from the MITC
+data center to AWS cloud. $5,650,200
+MAVRIC RVRS Registry of Vital Records & Statistics Digital System Upgrade
+Developing an inter- and intra-operable vital registration and statistics system, an electronic data management
+system, central database, customer service kiosks, and customer relationship management
+system. $3,055,219
+MassAbility Central Modernization - formerly "OneMRC" (Mass Rehabilitation Commission)
+Funding to continue to modernize the MRC systems that manage eligibility, enrollment, case management and
+financing to more accurately document, monitor, and assess services provided to
+consumers. $2,375,833
+VG Infrastructure Vulnerability Risk Remediation/Mitigation
+Migrate EOHHS Virtual Gateway infrastructure and the over 50 applications it hosts from MITC and a private
+cloud vendor to AWS and modernize these systems to be secure and compliant. $2,000,000
+DCF Office of the Child Advocate/Agency Priority Initiative Team Recommendation Support (though
+FY26)
+5
+
+Enhance i-FamilyNet/business applications to support the reform recommendations of the Office of the Child
+Advocate and DCF Agency Priority Initiatives Team. $2,000,000
+Enterprise Invoice/Service Management
+The EIM/ESM application is used to manage provider billing for over $3.2B in Purchase of Service contracts
+across EOHHS. It is used to collect vital data for program and contract management, process monthly billing, and
+analyze client outcomes. The EIM/ESM project consists of two phases: Phase I (Assessment) is the analysis of the
+EIM/ESM complex business processes to provide go forward Road Map for a future/enhanced EIM/ESM
+system/platform. Phase II (RFQ2 Development and Implementation) based on results of the Business Process
+Analysis recommendations. $1,871,381
+ORI Modernization Implementation
+Replace ORI’s almost 20-year-old custom developed Refugee and Immigrant Support Information System
+(RISIS) $1,471,466
+DCF Application Infrastructure and Framework Upgrade
+Complete required system upgrades and modernization efforts to core business applications and underlying
+technical framework. $1,050,000
+DTA-Rapid-Deployment Digital Optimizations
+Rapid-Deployment Digital Enhancements (RDDO) is a package of 26 enhancements to the systems with which our
+caseworkers interact as they provide case management services to 1.1 million citizens of the Commonwealth. The
+RDDO package has been curated to be a selection of enhancements that will hasten the time to process cases, and
+that are easily deployed in parallel to our existing project delivery pipeline. The state of the project at this time is
+initially underway, with the contract amendment with Kyyba being finalized, and project workgroups having begun
+on the week of 2/24. The present pace of engagement suggests that we are on track for delivery of all 26 items by
+the end of June. $1,034,880
+DTA AI Call Center Enhancements
+EOTSS/DTA identified the opportunity to implement an AI-powered call summarization capability to complement
+DTA’s telephony system to boost agent productivity, dramatically increase the number of Commonwealth residents
+DTA can serve and improve the quality of service provided. The scope of this AI call summarization capability
+includes: 1) Real-time transcription of an ongoing call that agents can follow along with, and 2) Call summaries
+generated after the agent completes a call and formatted to align with DTA requirements. In partnership with
+Accenture and TSS, DTA will implement the AI call summarization capability using AWS technology integrated
+with their Five9 telephony system. As of June 2025, the statement of work is being finalized. It is anticipated that
+the project will be in full development in the next 1-3 months. The outlook of the major objectives of the project
+throughout the project’s life is positive. $805,000
+BCEH e-Licensing (eLX)
+e-Licensing solution to digitalize paper-based licensing applications and replace outdated legacy
+systems. $645,000
+CLPPP Surveillance Application
+Comprehensive surveillance, case management, document storage, licensing, and inspection software application to
+support all facets of the Childhood Lead Poisoning Program's regulatory and programmatic
+responsibilities. $463,500
+DCF Mobile Application Proof of Concept
+Develop an expandable proof of concept for a mobile framework/application to support staff and stakeholders. The
+POC will initially include a mobile app for DCF foster parents to view and update info about the foster children in
+their homes. $300,000
+6
+
+Health Care Facility Licensing to eLX
+Migration of 2 legacy applications to enterprise eLicensing Platform $280,000
+DCF Intranet/Extranet Replacement
+Replace the on-premise Jive based social collaboration tool used by DCF staff and external partners with a modern
+and sustainable platform. $225,000
+Executive Office of Public Safety and Security (EOPSS)
+DOC Radio Modernization
+DOC radio and infrastructure replacement and upgrades $1,000,000
+Criminal Justice Cross Tracking
+Funding will allow for compliance with the Criminal Justice Reform Law (2018) that requires a Cross Tracking
+System to enable association of relevant data from criminal justice agencies, the Trial Court, Probation, and houses
+of correction, as well as enabling key stakeholders to query and report information on anonymized population data.
+Key potential benefits include, but are not limited to, assisting and informing research, policy planning, and data-
+driven public safety initiatives. $2,280,000
+Inmate Management System Modernization
+The purpose of DOC Inmate Management System Modernization program is to replace existing legacy inmate
+management system with a more advanced cloud-based Commercial-off-the-shelf (COTS) solution which is easy-
+to-maintain, scales well to serve DOC's business/functional, operational & technology requirements and public
+safety stakeholders' expectations. $655,2000
+CJIS Broker 3.0
+A technology enhancement that will improve compatibility with Criminal Justice Information Systems data and
+support the Cross Tracking initiative. $2,000,000
+iCORI Modernization
+Replace the technology platform for the iCORI application, which has been in use since 2012 and is now end of
+life. $646,000
+Enterprise MFA Assessment
+Multifactor Authentication program to bring the EOPSS application platform in compliance with the CJIS Security
+Policy mandate. $750,000
+CJISWeb Modernization
+CJIS Web Modernization is a critical initiative to address stability, current limitations and enhance accessibility,
+user experience, and security. CJISWeb is a web-based application that supports Massachusetts law enforcement
+and federal agencies in accessing Criminal Justice data. $2,000,000
+Firearms Technology Alignment
+Modernization of the Massachusetts Instant Record Check System (MIRCS) application and alignment with the
+recently passed gun reform law. $4,278,520
+DOC Body-Worn Cameras
+The objective of the DOC Body-Worn Camera (BWC) project is to procure and implement a BWC technology
+solution and related services involving correction officers at multiple institutions within the Department of
+Correction to record and retain specific categories of visual and audio interactions by correctional
+officers. $2,027,001
+7
+
+Mobile Data Project
+Mobile Data Project for the State Police $1,570,311
+State Police Body Worn Camera
+Massachusetts State Police Body Worn Camera Project $2,644,290
+HART Hate Crime Portal
+Data collection will allow for statewide reporting and analysis for enhancing outcomes. $280,000
+OneIII and SPIRIT II Integration
+Data integrity, automation, and efficiencies are the anticipated benefits. $312,000
+SORIS2 Compliance
+Compliance with the NCIC and FBI Audit requirements $384,000
+Sherriff's Offender Management System
+Fulfilled the reporting requirements for the Offender Management System (OMS) solution $426,920
+BATS Assessment
+Detailed documentation that supports selection, funding, compliance and planning of modernized
+solution. $443,854
+Enterprise Identity Provider (IDP) Project (Previously User Access 2.0)
+This proposal is to meet the need of EOPSS for a new Enterprise IdP necessitated by two distinct types of user
+groups Private Users (CJIS Certified) and the Public Users. The benefits of an Enterprise identity provider (IDP)
+are enhanced security measures that allow for multi-factor authentication and single sign-on (SSO). It reduces the
+risk of unauthorized access and provides audit trails and access logs for compliance purposes. It will also improve
+end-user experience. $1,224,000
+NCIC 3RD Generation (N3G)
+Implementation and compliance with FBI requirements for N3G $2,426,000
+Massachusetts Department of Transportation
+Project Info Modernization 2.0 - Implementation Phase
+This project will plan and execute the initial implementation of moving ProjectInfo functionality into the chosen
+platform. $7,397,304
+Enterprise Data Lake
+MassDOT seeks to become a more data-driven organization, leveraging data and analytics to improve the lives of
+constituents of the Commonwealth of Massachusetts. $3,956,354
+RMV Atlas Projects
+This project track time and expenses related to FY24 RMV Projects and upgrades to supporting applications used
+by the Registry. $2,471,561
+RMV Truck Safety Devices System Implementation
+The objective of this project is to implement a system to enable RMV to track compliance, record evidence, register
+trucks, and provide certification or approval. $1,450,486
+8
+
+Our Workplace 2.0
+Provide technology support for the MassDOT Our Work initiative at QHQ and 10PP 2nd floor meeting rooms.
+Expand WiFi to key MassDOT locations. Provide technology to enable a hybrid work model
+$ 1,437,932
+RMV DL/ID Upgrade Implementation
+This project will upgrade the software and hardware for IDEMIA DL/ID stations (driver licensing & IDs)
+throughout the Commonwealth. $994,672
+MassDOT/MBTA Independent ServiceNow Instances
+This project is to separate ServiceNow Instances so that MBTA and MassDOT have separate, independent
+instances $841,487
+LIMMS Replacement System Implementation
+Implementation of LIMMS Replacement in Power Platform, SharePoint, and Adobe Sign. $829,982
+Chelsea Migration to AWS
+The objective of this project is to migrate the remaining applications in that data center to AWS. $590,681
+Document and Process Management
+Improve the Document and Process management for Mass Highway, the RMV and MassDOT HR across eight
+projects $540,204
+Evince Data Architects for FY25
+RMV is working with Evince Solutions to transform & modernize the way audit services are delivered through data
+analytics and automation of work processes $437,092
+Construction Division System Retirement – Phase 2
+The second phase of the CDS Retirement Program, this project will further build out the Site Application Module
+(SAM) application and retire the CDS application. $419,038
+Cyber Security – GRC Operationalization of Expanded Scope
+The Information Security team will take on multiple projects and milestones to operationalize the scope added to
+the GRC program as part of the FY24 completed initiatives $417,450
+ITS Highway Projects –
+This will provide the appropriate allocation of capital funds to support highway construction projects with ITS
+devices. $396,121
+Cybersecurity - FY25
+Security Q1 Workstreams Improvements to Security Operations processes and Vulnerability Management
+support $374,506
+HOC ITMS Modernization/Replacement
+The mission of the Highway Operations Center is to provide a reliable and sustained means of monitoring state
+roadways, tunnel networks, and facilities to ensure public safety. The proposed ITMS will work in conjunction with
+the HOC to achieve this $293,795
+BEST Program Implementation
+The Business Enterprise Systems Transformation (BEST) is a replacement of the state's Financial and Human
+Resource applications: Massachusetts Management Accounting and Reporting System (MMARS) and the Human
+Resources Compensation Management System (HR/CMS). $256,381
+9
+
+FY25 Aeronautics Support
+Aeronautics Division work will continue Phase A and roll into Phase B proposal within the Accelerated Innovation
+Deployment Grant, actingas a bridge until federal funds are approved. $250,069
+Executive Office of Administration and Finance
+DOR - Modern Workplace: Enterprise Vault Migration
+The Modern Workplace Program implementation is a cross-secretariat initiative managed by TSS in partnership
+with Microsoft Professional Services. The program includes the planned deployment of hardware, software and
+tools to promote data security, collaboration and mobility. In-scope activities include migrating on-premise
+Enterprise Vault to MS365 Vault. The spend detail is derived from work performed by two IT Staff Augmentation
+Consultants who are working closely with Microsoft to identify, improve and audit the migration
+efforts. $398,750
+DOR - Data Analytics for Child Support Services (CSS)
+Will develop a roadmap for building data marts (from CSS' existing data warehouse and data sourced from various
+partner agencies) in order to provide analytical reports. This project is a precursor to building a data lake for CSS,
+similar to the one built for DOR's tax platform. The spend detail is derived from work performed by (2) IT Staff
+Augmentation Consultants (Christopher Martino, Kavya Palla). $527,000
+DOR - Enhancements to Data Lake and Data Analytics for DOR Tax Administration
+This project will continue enhancing the GeniSys Data Lake in AWS, following the roadmap developed a couple of
+years ago. The implementation includes a series of enhancements that benefit the Tax Auditors and other Tax
+Business users that rely on Data Lake for analytics and decision making. $527,000
+DOR - Modern Workplace: Data Classification/Data Labeling
+This project will implement Data Classification Rules using Purview (a TSS tool) to identify and classify all data
+saved on Microsoft tools. This implementation is a pre-requisite to migration of DOR personal and network drives
+to MS365 One Drive and SharePoint, respectively. $398,750
+DOR - AWS Cloud Mobilization - DOR Portfolio
+This project will migrate all DOR applications' infrastructure to the Cloud. The project leverages services from
+Smartronix under the TSS MSA RFR16-21. The project will span two fiscal years. The applications include all
+business internal and external facing apps to DOR, including COMETS HD. $871,000
+DOR - AWS Cloud Migration - Wave 1 DOR Enterprise applications
+This project will migrate all DOR applications' infrastructure to the cloud. The project leverages services from
+Smartronix under the TSS MSA RFR16-21. The project will span two fiscal years. The applications include all
+business internal and external facing apps to DOR, including COMETS HD. $471,875
+DOR - Amnesty Program for DOR
+As part of this project, DOR will waive all assessed, unpaid penalties for qualifying taxpayers who respond by
+making a full payment on all outstanding taxes and interest for any period listed on system-issued notices. As part
+of this project, Fast provides two additional full-time consultants to support DOR's Amnesty Program. The
+consultant's work is on a time and materials basis. $500,000
+DOR - CSE - Modernization of SDLC tools (Phase 2B
+Replace the traditional and unsupported SDLC tools (i.e. IBM Jazz) with modern and lightweight solutions.
+Revamp the SDLC process to align to modernized tool sets. $831,905
+HRD - Leave of Absence Management Software Solution
+The HRD Leave Management System replacement is a multi-phase project that includes replacing the existing
+WorkPartners solution that can support self-service leave of absence requests as well as the intake and case
+10
+
+workflows for managing employee leaves pursuant to the federal/state regulations and employer policies. HRD is
+looking to implement a standalone leave management suite that is built for purpose, capable of supporting over
+50,000 employees, with a diverse range of leave management policies supporting multiple collective bargaining
+agreements and employee categories, and establishment of a Leave Support Operations Center fully staffed by
+HRD administrators. $1,096,900
+LIB - Library Digitization
+As part of this project, the State Library staff are continuing to digitize Commonwealth documents, reports and
+legislative material and converting them into an electronic format, and then adding to existing electronic repository
+(DSpace). DSpace is open-source software founded by MIT. This project will continue until all of the documents
+have been digitized. $280,000
+OSD - UFR eFile Replacement
+The scope of the project is to establish a new UFR eFiling System that supports online submission, tracking and
+viewing of financial and program performance information of approximately 1400 human service contractors and
+Special Education schools (SPED) contracting with state agencies and municipalities as a replacement of currently
+used, but outdated UFR system. The project is scheduled to be completed in FY25. $1,000,000
+OSD - EPIC - Procurement System Replacement
+Enhance or replace the current COMMBUYS system as the current contract with Sovra (current provider) expires
+in June 2028. The Product team has worked backwards from the contract end date and determined that the
+solicitation must be published by early fall 2025 in order to avoid any potential contractual expiration issues. The
+FY25 Scope is to engage Gartner in creation of materials necessary for publishing an
+RFX/Procurement. $300,000
+Executive Office of Economic Development
+Division of Occupational Licensure IT Modernization
+Replace three antiquated IT systems with a single modern Salesforce-based platform. $13,865,000
+Home Improvement Contractor IT Modernization
+Replace multiple antiquated IT systems with a single modern Salesforce-based platform. $2,018,926
+Business Front Door
+Facilitate easy access to Commonwealth programs and services aimed at businesses by creating a single "Front
+Door" website that connects these programs. $3,608,533
+Executive Office of Education
+EEC Quality Account
+The Child Care and Development Block Grant (CCDBG) provides subsidies to assist low-income families in
+obtaining childcare so that parents can work or participate in education or training activities. This project
+implements new software to upgrade end of life systems to support new federal mandates. $1,789,556
+CCFA - Family Portal (NAVA)
+This is EEC's custom software development services to build a Family Portal and a Case Management System.
+These systems must be interoperable with each other and with the existing Child Care Financial Assistance
+software (CCFA). A one-time data migration of approximately 20,000 families and 30,000 children on the current
+waitlist to the new system is expected. The Family Portal will replace and expand upon the existing KinderWait
+third-party software, providing a comprehensive digital experience for families applying for child-care financial
+assistance. The Case Management System will replace the existing Financial Assistance Case Tracking System
+software (FACTS), offering enhanced functionalities for managing cases. The goal is to modernize the
+11
+
+implementation of the child-care financial assistance policy and program, specifically to unify the user experience,
+streamline case management, and enhance operational efficiency. $2,753,649
+Salesforce Development for Circuit Breaker and CHAMP Phase II -
+This is the continuation of the CHAMP project to include Circuit Breaker and seven additional DESE teams. This is
+to develop a Regulatory Compliance Monitoring Solution to provide robust functionality related to communicating,
+reviewing, monitoring, managing corrective action plans, and drafting and posting final reports for schools,
+programs, agencies, collaboratives, and districts which serve students in the Commonwealth. This solution is
+tracking compliance with state and federal regulations, as well as helping to track program compliance of programs
+at the school and district level. $1,768,070
+EOE Integrated Digital Data System (IDDS)
+The goal of IDDS is to provide the Commonwealth with a secure and cost effective, standards based educational
+platform and application portfolio that connects data and user experiences across all education agencies, birth to
+career. This project funds the development of a secure and modern data repository to provide more timely and
+useful educational information to educators, administrators, and the public. This is a multi-year project and will be
+completed by FY25. $9,416,816
+E2C DataHub
+The Education-to-Career Research and Data Hub will be a signature digital asset that transforms the way data
+inform policy and practice decisions. $2,800,000
+Educator Portal (Mighty Acorn)
+This is for EEC's software development services to build an Educator Portal with an embedded Credential
+Management System. $1,432,000
+ELAR - Level Data
+EOE has selected RANDA (Level Data) to implement a modern, cloud-based solution to replace the current
+Educator Licensure and Renewal (ELAR) system. $517,436
+Financial Aid Processing – Nelnet
+This is to implement a web-based, software as a service (SaaS), commercial off-the-shelf (COTS) Financial Aid
+Processing Software System (FAPSS) on behalf of the Department of Higher Education (DHE). This FAPSS will
+provide robust functionality for managing the State Financial Aid programs. $845,126
+Grants Administration (DESE, EOE and EEC)
+Provide an eGrants solution, including managed software, maintenance and support, training and documentation for
+a cloud-based Grants Processing Application to replace the existing legacy Grants Processing System, EdGrants.
+The Grants Processing Application functionality will include receiving, approving, paying, and amending various
+types of grants. Unlike current system, integrated with directory administration and Champs systems for better
+security and data processing EOE and EEC have been added to this project. $593,299
+Cybersecurity
+This is to conduct a comprehensive strategic review of specific cybersecurity practices and protocols across the
+Commonwealth’s fifteen Community Colleges and nine State Universities and develop a coordinated
+approach to maintaining and supporting effective cybersecurity technologies and practices across the
+public higher education system, strengthening each institution’s ability to detect and prevent unauthorized access
+and damage to networks, devices, programs, and data. The project is currently in year 3 of a 5-year capital
+program (FY21-25). $250,000
+Executive Office of Housing and Livable Communities
+12
+
+IT-Salesforce Licensing
+This expenditure allows EOHLC to administer the RAFT and HomeBASE programs which prevent homelessness
+and provide rehousing support for homeless families. $1,255,838
+CSG Technical Services amendment
+As the designated agency to administer the LIHEAP and CSBG Block grant, this software allows EOHLC to
+collect necessary data from the CSBG (23) and LIHEAP (22) grantees so EOHLC can complete federally required
+reporting and oversee both programs. The software also reduces administrative burden for our grantees in reporting
+data needed by EOHLC to meet federal requirements. $585,375
+Case Management Technology Solution Addressing Emergency
+This expenditure allows EOHLC to administer the RAFT and HomeBASE programs which prevent homelessness
+and provide rehousing support for homeless families. $1,447,086
+Case Management Technology Solution Addressing Emergency
+This expenditure allows EOHLC to administer the RAFT and HomeBASE programs which prevent homelessness
+and provide rehousing support for homeless families. $2,484,549
+Common App
+The Common App promotes fair housing, housing choice, geographic and economic mobility, equity, access, and
+transparency. $364,019
+Rental Assistance Data Warehouse
+SOHA data warehouse allows HLC to centralize state-funded rental assistance (MRVP and AHVP) and state-
+funded public housing program data from ~250 housing agencies to help: Make better informed policy decisions,
+Forecast future spending, Respond to data and constituent requests and comply with reporting
+requirements $416,650
+Efforts To Outcomes (ETO)
+EOHLC's mission is to strengthen cities, towns and neighborhoods to enhance the quality of life of Massachusetts
+residents. EOHLC provides leadership, professional assistance, and financial resources to promote safe, decent
+affordable housing opportunities, economic vitality of communities and sound municipal management. As part of
+that mission, EOHLC's Division of Housing Stabilization works to make homelessness rare, brief, and non-
+recurring. The Division of Rental Assistance provides more than 33,000 rental vouchers to low-income households.
+EOHLC maintains a federally compliant solution for case management and data reporting for the EA shelter system
+that is also used as part of the Supporting Neighborhood Opportunity (SNO) Mass rental assistance
+program. $478,896
+MASS 211, INC
+EOHLC's mission is to strengthen cities, towns and neighborhoods to enhance the quality of life of Massachusetts
+residents. EOHLC provides leadership, professional assistance, and financial resources to promote safe, decent
+affordable housing opportunities, economic vitality of communities and sound municipal management. As part of
+that mission, EOHLC's Division of Housing Stabilization works to make homelessness rare, brief, and non-
+recurring. The Division of Rental Assistance provides more than 33,000 rental vouchers to low-income households.
+EOHLC maintains a federally compliant solution for case management and data reporting for the EA shelter system
+that is also used as part of the SNO Mass rental assistance program. $256,015
+MTW
+MRI is the voucher administration system that EOHLC and the Regional Administering Agencies (RAAs) uses to
+administer its Housing Choice Voucher program (23,000+ vouchers). The product allows EOHLC / RAAs to issue
+vouchers and house individuals who desperately need housing $898,167
+13
+
+Grants Management
+EOHLC's mission is to strengthen cities, towns and neighborhoods to enhance the quality of life of Massachusetts
+residents. As part of that mission, EOHLC's Division of Community Services enables and supports community
+development, housing development, and household economic mobility. One major activity is the management of
+the federally funded Community Development Block Grant and the Community Services Block Grant
+programs. $223,372
+Snowflake
+Snowflake is the platform that EOHLC have identified to provide critical program access to operational and
+performance data $606,666
+Caphub Web
+CapHub advances EOHLC’s strategic goal of modernizing the state’s public housing portfolio—over 43,000
+units—by streamlining capital project management. The platform promotes efficiency, transparency, and
+accountability in the delivery of building improvements essential to preserving affordable housing across
+Massachusetts. $219,744
+The Partnership Center, Ltd.
+Voucher Enhancement to CHAMP - factors in new development to manage the housing voucher
+program. $262,062
+Yardi
+Yardi is the software that powers the EOHLC’s entire voucher administration process – from application to end of
+participation – for its 30,000 state and federal vouchers. At its core, Yardi
+calculates Housing Assistance Payments (HAP) and Total Tenant Portion (TTP) for vouchers and
+facilitates HAP payments to property owners. This software provides a mechanism for EOHLC to report activity to
+HUD. $917,786
+Champ
+This CHAMP Development in FY24 was critical to the overall successful implementation of CHAMP, the
+Centralized Waitlist Application mandated by Chapter 235 of the Acts of 2014. This portion of the development
+helped enhance the Applicant Worksheet where the Centralized Screening Office records determinations on an
+applicant's homelessness status. This in turn helps rank an applicant on a waitlist for housing assistance. This
+development is critical to the agency's strategic goal of providing sanitary, safe, and affordable housing to
+Commonwealth residents. $260,178
+Champ
+This CHAMP Development in FY24 was critical to the overall successful implementation of CHAMP, the
+Centralized Waitlist Application mandated by Chapter 235 of the Acts of 2014. This portion of the development
+helped enhance the Applicant Worksheet where the Centralized Screening Office records determinations on an
+applicant's homelessness status. This in turn helps rank an applicant on a waitlist for housing assistance. This
+development is critical to the agency's strategic goal of providing sanitary, safe, and affordable housing to
+Commonwealth residents. $948,524
+Executive Office of Labor and Workforce Development
+DAS (Department of Apprenticeship Standards) – Salesforce Apprenticeship Solution
+A new Apprenticeship solution to replace the Accela/Razavi eLicensing solution and modernize the end user
+experience and business processing leveraging Launchapd and Salesforce. $625,506
+DCS (Department of Career Services) – Maintenance and Support for MOSES and JobQuest (Legacy
+Solutions)
+14
+
+Ongoing support and maintenance for the legacy MOSES and JobQuest Job Seeker/Career Service
+applications. Due to the legacy system and multiple vendors that are required to support these technologies (AWS,
+SMX, Triverus, and others) required to provide business features and enhancements, while keeping the future
+vision of EMT Phase II in sight. The current forecast for maintaining the current systems is about a 3-year
+roadmap. $2,246,324
+DCS (Department of Career Services) – EMT Phase II – Career Services Enhancements
+Developing the Roadmap and Consulting services to develop the goals, mission and vision for DCS for EMT Phase
+II. Assisting EOLWD and DCS is defining the next steps for FY26 and beyond so that we will have a solid
+foundation and plan for a successful project and implementation in the coming years. $1,299,700
+DFML (Department of Family Medical Leave) – Maintenance and Support for PFML Application
+Ongoing support and maintenance for the PFML Application. Due to the multi-vendor, multi-platform solution that
+includes Fineos, AWS, SMX, Nava, LCM, Triverus, and private 3rd party Back-Office/Call Center (Savilinx)
+solution providing medical and bonding leave paid benefits. $64,133,569
+DIA (Department of Industrial Accidents) – Maintenance and Support for Legacy Solutions
+Ongoing enhancements, along with the ongoing support and maintenance of the DMS (Document Management
+System) and CMS (Case Management System) to support the business in processing and investigating industrial
+accidents (workers compensation cases) that today leverages a complete Oracle technology stack and Hyland’s
+OnBase software. The includes supporting the hosted AWS infrastructure and various licensing cost associated
+with these applications. $2,554,786
+DLR (Department of Labor Regulations) – 150F / Ride Share program enforcement
+Developing an application to support DLR in enforcing and monitoring the new legislative mandate for the 150F /
+Ride Share unionization of the various ride share drivers from Uber, Lyft and other companies. This includes
+building a new Power Platform solution to accept highly sensitive data, and processing quarterly comparisons of
+union provided data, to that of the ride share companies to see which drivers still qualify for union benefits.
+$610,969
+DLS (Department of Labor Standards) – Prevailing Wage Application
+Developing of a new PWA (Prevailing Wage Application) leverage Power Platform and modern reporting and web
+designs to assist both DLS staff and external resources with access to this data. $690,352
+DUA (Department of Unemployment Assistance) – Maintenance and Support for legacy UI Online System
+Ongoing support for the legacy UI Online system to keep the Benefits side active through May, 2025, as well the
+development and support of a back-bridging to consume the Tax/Wage data from EMT and process into UI for the
+claimant wage and benefit processing. Although the program has officially migrated to FAST/UI (EMT) in May,
+DUA has decided to retain CGI and all services supporting the legacy UI system through December, 2025.
+$7,722,791
+DUA (Department of Unemployment Assistance) – EMT Phase 1 – Unemployment Modernization
+A comprehensive modernization of the state's unemployment system to provide MA companies and citizens with
+seamless and timely unemployment tax administration and benefits delivery, in compliance with evolving federal
+and state regulations, and with service levels and operational costs that will significantly improve upon the current
+state. This project went live in May, 2025 and has been very successful for both Claimants and Employers.
+$34,213,361
+EOLWD (Core IT Shared Services)
+Various services support EOLWD and all agencies and departments in EOLWD that includes SMX Managed
+Services, Chargebacks for staff including Office365, VPN, Adobe and other software, as well as building out and
+support the EOLWD Snowflake Enterprise Data Management platform, and any IT Staff Aug or third-party system
+integrators reporting into EOLWD IT. $10,941,977
+15
+
+Executive Office of Veterans Services
+Salesforce
+Implement Salesforce as a case management tool with Outlook and OnBase integrations. Multiple business units
+will gain efficiency in the management of cases, storage of related documentation and ease of
+communication. $605,000
+Executive Office of Technology Services and Security
+ERM / Xfact
+Subset project that supports the overall vulnerability management program. $1,782,105
+SPM Implementation
+The project encompasses the build, delivery, and project management of key capital projects including the
+replacement of the TSS chargeback system; the implementation of a third-party tool to assess privacy risks
+associated with PII and other sensitive data; and the expansion of the existing Service Now platform by adding a
+module for Strategic Portfolio Management (SPM). $549,359
+Digital Roadmap
+Funds priority initiatives including single sign-on, improved resident interactions with Commonwealth services,
+streamlined communications, IT accessibility, and tailored constituent services based on user profiles and
+interactions. $16,267,885
+Digital Service Delivery & Customer Engagement
+Analyze the current state of technology services delivery to the executive branch and realign service delivery
+systems and processes, both within the technology division and to external agency partners. $3,201,493
+Accessibility
+In support of Digital Service Delivery and Customer Engagement $1,337,954
+GIS Elevation Mapping
+Leverage multi-agency funding to procure detailed elevation mapping for 5,230 square miles of eastern
+Massachusetts. $617,500
+Enterprise Analytics
+Designed to establish and build out the Commonwealth's enterprise data analytics capabilities. $6,686,775
+Business Intelligence
+This project is designed to establish and build out the Commonwealth's data program to improve public access to,
+and usability of, state data. $2,233,743
+Accenture Business Planning Support
+Support of business processes and planning. This also includes employee trainings and
+consultations. $275,000
+Vulnerability Remediation Program
+Funding for the cybersecurity Vulnerability Remediation Program that includes automated web application
+scanning and a remediation capability to support all executive branch remediation needs $10,264,460
+One Network
+16
+
+In support of the workforce mobility project, which will consolidate hosting infrastructure from the Agency Edge
+locations into true on-premise or cloud data center services; identify potential internal and external risks; and
+consolidate end-user data, collaboration and productivity into the M365 services (OneDrive for Business and
+SharePoint) in order to retire on-premise, legacy and end-of-life file servers. $4,051,238
+End User Services
+In support of the workforce mobility project, which will consolidate hosting infrastructure from the Agency Edge
+locations into true on-premise or cloud data center services; identify potential internal and external risks; and
+consolidate end-user data, collaboration and productivity into the M365 services (OneDrive for Business and
+SharePoint) in order to retire on-premise, legacy and end-of-life file servers. $2,651,020
+Armis
+Funding will support the expansion of the Commonwealth's security incident and event management system across
+the executive branch to protect against cybersecurity breaches and implement best practices $3,487,236
+SDC Buildout
+TSS invested $2m in funding in FY25 to begin infrastructure upgrades on the Storage and Compute infrastructure
+in the Springfield Data Center (SDC). TSS intends to use a $15M FY26 investment to replace the network
+infrastructure, including the Top of Rack switches, End of Row Switches, Aggregation Switches and Routers, Core
+Switches and Routers, Datacenter Firewalls and Internet Edge Switches, Routers and
+Firewalls. $2,000,000
+MassVoice
+This project is being driven and managed in line with the Article 87 directive of standardizing systems, and
+bringing to the center, enterprise systems. This project updates the infrastructure (fiber and cabling) within the
+Executive Office of Public Safety and Security facilities. It also moves these facilities into the OneNetwork
+configuration and allows for moving the telecommunications services to the MassVoice cloud environment.
+$1,785,185
+Replace Ciena routing network
+This program completes an ongoing initiative to re-design the Commonwealth’s core networks and includes a state
+of good repair program for switches, routers and firewalls. This program is intended to consolidate hosting
+infrastructure from the Agency Edge locations and into true on-premise or cloud data center services.
+$1,300,000
+Semperis AD Protection
+We have identified a solution with a 3-year cost of $2m to procure to ensure that the access, authentication, and
+authorization infrastructure (both on-premise AD and Entra ID) is secure, and, if under attack, to allow us to
+recover quickly and cleanly, anywhere and anytime. $1,287,000
+Hosting Services Program
+Evaluates on-premises infrastructure, platform, and application environments, prioritizing those in need of
+modernization and that are a strategic fit to migrate to appropriate hosting environments, cloud or
+otherwise $9,000,000
+AI and Emerging Tech
+The AI & Emerging Technology program establishes a scalable, secure technology ecosystem to accelerate the
+adoption of artificial intelligence, quantum computing, and automation. $3,700,000
+CIW Modernization
+In support of the Enterprise Analytics project to modernize the Commonwealth Information
+Warehouse. $3,240,617
+17
+
+Centers of Excellence
+Expansion through implementation of enhanced governance systems, enterprise integration tools, and standardized
+operational processes. $800,000
+Executive Office of Energy and Environmental Affairs
+EIPAS - Environmental Information and Public Access System
+The Energy and Environmental Affairs (EEA) Information and Public Access System (EIPAS) is a Secretariat-wide
+Information technology modernization project which enables EEA to be more flexible and agile in providing
+capabilities to drive better public access, information gathering, improved organizational effectiveness and
+centralized business intelligence, reporting and analytics through the design and development of EEA’s next
+generation technology platform. The EIPAS journey can be discovered here;
+https://eipas.jimdofree.com. Completed milestones include: development of the Data Lake Data Portal with five
+interactive Dashboards and eight major topics for data search/export across multiple agencies, development of a
+Site Management System to manage Facilities, Regulated Entities, Classifications, and Contacts (Multiple
+agencies), release of DEP Annual compliance fees billing module, the DEP milestone tracker, DPU documents
+management application, and the MEPA Public Comments Portal, among other applications. This also includes
+development of shared services including a shared file management system, Centrify integration for EEA Internal
+Apps, and EEA Core entity model design. $1,300,000
+Application Rationalization and Innovation Strategy
+This program aims to identify critical legacy/end-of/life application footprint and strategically align to accomplish
+agency goals. Along with the application rationalization, this program aims at improving upon our agencies’
+business processes in support of increased efficiency and improved citizen engagement. These data-centric
+application solutions will operate on industry-standard and supportable platforms that enable EEA to manage
+permitting, licensing, compliance and enforcement activities. $1,500,000
+HR System of Record
+This capital project involves the planning, design, and implementation of a solution that gives EEA HR an
+electronic system of record that better meets their current and future needs as well as a much-needed Case
+Management System. $1,000,000
+Business Entities Compliance Submittal Portal
+Deploy new platform that supports external regulated entities to securely log-in and electronically sign, and upload
+reports/documents that are required by MassDEP. The solution will also Better orchestrate the ingestion of permits,
+certifications and other electronic forms that are now received through our established external facing
+platforms $1,200,000
+Grants Management
+Three key goals in scope: (1) Central storage, management, and reporting for grant data secretariat-wide, (2)
+Internal management tools for program managers secretariat-wide including application tracking and management,
+financial and budget tracking, deliverable tracking, and historic data, (3) An external portal for constituents where
+an applicant may apply for a grant, submit reports and expenses, and view grant
+history. $1,050,000
+MEP Cruiser Enhancements
+EEA-IT and TransCor are looking to address MA Environmental Police (MEP) connectivity challenges by moving
+to a "Connected Cruiser" model piloted by the MA State Police. This project deploys a dual active router
+configuration in each truck, with two mounted antennas to provide seamless connectivity statewide for all 110
+cruisers. $546,616
+18
+
+DFW AV Upgrades
+The Division of Fisheries and Wildlife (DFW) has ideal locations for in-person and hybrid meetings for EEA and
+partner agencies, but the buildings have outdated AV solutions that don’t allow for a proper hybrid user experience.
+Implementation of a state-of-the-art AV solution in the main conference rooms at DFW Westborough and the
+Division of Marine Fisheries (DMF) Gloucester will ensure the best possible collaboration, transparency and
+efficiency between users and constituents. $353,430
+19
+
+[DELETED:          ]
+[DELETED:  $]
+[DELETED: l]

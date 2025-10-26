@@ -1,0 +1,428 @@
+Official Report – Issued February 7, 2025
+Medicaid Audit Unit—Annual Report
+For the period March 2, 2024 through February 28, 2025
+State House Room 230 ◼ Boston, MA 02133 ◼ auditor@massauditor.gov ◼ www.mass.gov/auditor
+
+OFFICE OF THE STATE AUDITOR
+MEDICAID AUDIT UNIT
+March 2, 2024 through February 28, 2025
+Introduction
+The Office of the State Auditor (OSA) receives an annual appropriation for the operation of a Medicaid
+Audit Unit (the Unit) for the purposes of preventing and identifying fraud, waste, and abuse in the
+MassHealth system and making recommendations for improved operations. The state’s fiscal year 2025
+budget (Chapter 140 of the Acts of 2024) requires that OSA submit a report to the House and Senate
+Committees on Ways and Means by no later than February 28, 2025 that includes (1) “all findings on
+activities and payments made through the MassHealth system;” (2) “to the extent available, a review of
+all post-audit efforts undertaken by MassHealth to recoup payments owed to the commonwealth due to
+identified fraud and abuse;” (3) “the responses of MassHealth to the most recent post-audit review
+survey, including the status of recoupment efforts;” and (4) “the unit’s recommendations to enhance
+recoupment efforts.”
+For fiscal year 2025, the appropriation for the Unit was $1,440,504. This amount represents an
+approximately 2.9% increase over the Unit’s fiscal year 2024 appropriation of $1,399,658. OSA submits
+all costs (direct and indirect) associated with running the Unit to the Executive Office of Health and
+Human Services (EOHHS) to be included in its quarterly filings with the Centers for Medicare & Medicaid
+Services for federal cost sharing. In federal fiscal year 2024, OSA submitted a total of $1,622,790 to
+EOHHS for consideration for the state’s program integrity, allowing the state to obtain a 50%, or
+$811,395, reimbursement of these costs.
+This report, which is being submitted by OSA in accordance with Chapter 140 of the Acts of 2024,
+provides a summary of the following performance audits of MassHealth: (1) a review of capitation
+payments made to members with multiple Medicaid identification numbers (IDs), (2) a review of
+telehealth adult day health (ADH), and (3) a review of telehealth adult foster care (AFC) and group adult
+foster care (GAFC). This report also details an estimated $27,259,164 of potential cost savings we
+identified in the MassHealth program.
+1
+
+Background
+EOHHS administers the state’s Medicaid program, known as MassHealth. This program provides access
+to healthcare services annually to approximately two million eligible children, families, seniors, and
+people with disabilities, all with low and moderate incomes. In fiscal year 2024, MassHealth program
+expenditures totaled $20.1 billion, of which approximately 39% was paid by the Commonwealth.
+Medicaid program expenditures represent approximately 33% of the Commonwealth’s total annual
+budget.
+Heightened concerns over the integrity of Medicaid expenditures were raised in January 2003, when the
+US Government Accountability Office (GAO) placed the US Medicaid program on its list of government
+programs that are at “high risk” of fraud, waste, abuse, and mismanagement. At that time, GAO
+estimated that between 3% and 10% of total healthcare costs were lost to fraudulent or abusive
+practices by unscrupulous healthcare providers. Based on these concerns, OSA began conducting audits
+of Medicaid-funded programs and, as part of its fiscal year 2007 budget proposal, submitted a request
+to establish a Medicaid Audit Unit within its Division of Audit Operations. This unit would be dedicated
+to detecting fraud, waste, and abuse in the MassHealth program. With the support of the Massachusetts
+Legislature and the Governor, this proposal was approved and has continued to be funded in
+subsequent budgets. Since that time, OSA has maintained ongoing independent oversight of the
+MassHealth program and its contracted service providers. Since 2007, audit reports issued by OSA have
+identified ways MassHealth can strengthen its controls to prevent and detect fraud, waste, abuse, and
+mismanagement in the Massachusetts Medicaid program, as well as improper claims for Medicaid
+services.
+OSA uses data analytics in all audits conducted by the Unit. By doing so, our auditors can identify areas of
+high risk, isolate outlier providers, and in many cases perform reviews of 100% of the claims under audit,
+thus significantly improving the integrity, efficiency, and effectiveness of our audits. Moreover, in many
+cases, data analytics has enabled the Unit to fully quantify the financial effects of improper payments,
+whether they involve 1 claim or 10 million claims. The use of data analytics techniques has enabled the
+Unit to (1) identify greater cost recoveries and savings; (2) isolate weaknesses in claim-processing systems;
+and (3) make recommendations regarding MassHealth’s system and program regulations to promote
+future cost savings, improve service delivery, and make government work better.
+2
+
+COMPLETED AUDITS
+(MARCH 2, 2024 THROUGH FEBRUARY 28, 2025)
+During this reporting period, the Office of the State Auditor (OSA) released three audit reports on
+MassHealth’s compliance with state and federal laws, regulations, and other applicable authoritative
+guidance. These reports identified an estimated $27,259,164 in potential cost savings and provided
+several recommendations to strengthen internal controls and oversight in MassHealth’s program
+administration. The following is a summary of our Medicaid audit work between March 2024 and the
+end of February 2025.
+1. Office of Medicaid (MassHealth)—Review of Capitation Payments1 with
+Multiple Identification Numbers
+Audit Number 2024-1374-3M1
+Audit Period January 1, 2019–December 31, 2022
+Issue Date December 31, 2024
+Number of Findings 1
+Number of Recommendations 3
+Total Improper Billings $3,813,827 (estimated)
+MassHealth Recouping Payments N/A
+Background and Reason for Audit
+The purpose of this audit was to determine whether MassHealth ensured that it did not make capitation
+payments to managed care organizations (MCOs) on behalf of members who were assigned more than
+one member ID. OSA conducted the audit as part of our ongoing independent statutory oversight of the
+state’s Medicaid program.
+Summary of Findings and Recommendations
+OSA reported one finding in this audit:
+1. MassHealth made capitation payments on behalf of members with multiple IDs.
+1. Capitation payments are set payments to a managed care organization from MassHealth to provide healthcare for its
+members. These payments are paid monthly for each MassHealth member enrolled in the managed care organization.
+3
+
+OSA’s recommendations to MassHealth were as follows:
+1. MassHealth should require that all members flagged by data matches submit documentation to
+confirm their identity. If the member does not provide documentation, then MassHealth should
+either pause the member’s coverage or move the member to its fee-for-service model until it can
+determine whether the member’s coverage should be terminated.
+2. MassHealth should investigate and resolve all instances where its data matches indicate that a
+member has been assigned more than one member ID.
+3. MassHealth should implement a match criterion that focuses solely on Social Security Numbers
+(SSNs). Because an SSN should be unique to each individual, a targeted match criterion that only
+includes an SSN would reduce the prevalence of multiple IDs by 19%, based on our sample testing.
+EOHHS’s Comments
+Specifically regarding the three issues noted in the finding, MassHealth responded with the following:
+Member IDs linked in [the Medicaid Management Information System (MMIS)]: The
+majority of identified overpayments ($622,885 out of $672,946) result from capitation payments
+made for 67 cases where [member IDs (MIDs)] were linked by MassHealth after the
+implementation of our enhanced [master data management (MDM)] identification process.
+MassHealth has reviewed and addressed or is in the process of addressing these resulting
+overpayments. MassHealth’s use of MDM reports to identify and investigate potential cases of
+multiple MIDs in 2022 resulted in a significant number of cases being linked after the point in time
+when resulting duplicate capitation payments from 2019, 2020, and 2021 would have been
+recouped within MMIS. Overpayments made in 2019 and 2020 were not recoverable as MassHealth
+does not pursue overpayments nor account for underpayments made to managed care entities
+after the closure of its risk-sharing reconciliation process for that rate year. However, MassHealth
+was able to recoup [Office of the State Auditor (OSA)]-identified 2021 overpayments associated
+with linked members made to [accountable care organization] and MCO plans as part of its risk-
+sharing reconciliation process for rate year 2021. Finally, MassHealth will pursue recoupment for a
+small amount of 2022 capitation payments associated with three cases that were linked later in
+2023 and 2024. Going forward, MassHealth’s timely identification and review of any multiple MID
+cases will result in duplicate capitation payments to be collected within MMIS.
+Member IDs not linked in MMIS but determined to be the same person: Based upon
+MassHealth’s review of the OSA’s findings, 7 cases that remained unlinked were due to MIDs
+being associated with an inactive benefit. MassHealth’s review of duplicate MIDs is limited to
+cases where both MIDs are associated with active benefits that result in duplicate capitation
+payments. For these cases, by the time the MDM enhancements were implemented in 2022, at
+least one of the MIDs had an inactive benefit. MassHealth notes that these cases account for a
+smaller overpayment amount of $31,918 over the course of the four-year audit period.
+MassHealth unable to determine whether member IDs were for the same person:
+MassHealth respectfully disagrees with the OSA characterization of the 26 cases under this
+category. While MassHealth recognizes these cases as instances of multiple MIDs being associated
+4
+
+with the same individual, MassHealth is unable to link these cases due to privacy concerns. In
+certain cases, particularly for children in the care and custody of the Department of Children and
+Families (DCF), it has been MassHealth’s policy to not link certain MIDs. For example, in order to
+prevent the biological parent from having access to the new family’s information, multiple IDs for
+adopted children are not linked without prior authorization from DCF. MassHealth recognizes that
+the policy not to link these members may result in duplicate capitation payments made to managed
+care entities. MassHealth notes that these cases reflected the smallest share of identified
+overpayments at $18,143. While this policy affects a relatively small number of cases and
+associated capitation payments, MassHealth will explore new means of preventing and recouping
+these duplicate payments without risking the privacy of the associated members.
+Specific to our recommendations, MassHealth responded with the following:
+Recommendation 1: MassHealth will investigate the feasibility of establishing a process to
+request further documentation where MassHealth is unable to determine if two [member IDs
+(MIDs)] are associated with the same individual. MassHealth notes that the majority of cases can
+be determined via the information submitted through members’ applications and external data
+sources. The cases where [the Office of the State Auditor (OSA)] determined the MIDs cannot be
+confirmed as the same person instead reflect a policy decision to not link members where there is a
+privacy concern as described above. MassHealth will explore an alternative course of action for this
+small subset members to prevent and recoup duplicate capitation payments made in these
+cases. . . .
+Recommendation 2: MassHealth believes that it has established the system infrastructure as well
+as policies and procedures to comprehensively identify and investigate potential MID duplicates. As
+stated above, MassHealth’s MDM program both prevents the creation of multiple MIDs for the same
+individual as well as produces routine reports that MassHealth uses to link members with more than
+one MID. In addition, these routine reports allow MassHealth to investigate cases in a timely
+manner that ensures any duplicate capitation payments are recouped. . . .
+Recommendation 3: MassHealth disagrees with this recommendation. Because MassHealth may
+receive inaccurate social security numbers due to typographical errors, preventing the creation of
+an MID due to a matching social security number with no other matches across personal
+information may result in delayed enrollment for members and impact their access to care.
+However, in most cases, MassHealth’s existing controls prevent the creation of multiple MIDs for an
+individual where the social security number matches. For those cases where multiple MIDs are
+created, MDM’s regular reporting of potential duplicates allow MassHealth to link MIDs in time to
+ensure any duplicate capitation payments are ultimately recouped and prevented going forward.
+5
+
+2. Office of Medicaid (MassHealth)—Review of Payment for Telehealth Adult
+Day Health
+Audit Number 2023-1374-3M1
+Audit Period January 1, 2020–December 31, 2021
+Issue Date October 1, 2024
+Number of Findings 3
+Number of Recommendations 7
+Total Improper Billings $465,683
+MassHealth Recouping Payments N/A
+Background and Reason for Audit
+The purpose of this audit was to determine whether MassHealth monitored telehealth practices for ADH
+to ensure compliance with its regulations.
+This audit was conducted as part of OSA’s ongoing independent statutory oversight of the state’s
+Medicaid program. Several of our previously issued audit reports disclosed weaknesses in MassHealth’s
+claim processing system and improper billing practices by MassHealth providers, which identified
+millions of dollars in potentially improper payments. As with any government program, public
+confidence is essential to the success of and continued support for public expenditures, such as the
+state’s Medicaid program. Our audit is designed to identify issues that will help improve the Medicaid
+program so that taxpayers know their dollars are spent prudently and that there is a system of
+continuous improvement of efficiency and service over time.
+Summary of Findings and Recommendations
+OSA reported three findings in this audit:
+1. MassHealth paid providers for ADH that it did not authorize and/or that did not have supporting
+documentation.
+2. MassHealth paid providers for transportation to ADH that it did not authorize and/or that did not
+have supporting documentation.
+3. MassHealth paid providers $11,797 for 109 claims for services allegedly rendered to 31 members
+who were proven to be deceased.
+6
+
+OSA’s recommendations to MassHealth were as follows:
+1. MassHealth should ensure that system edits to prevent payments for ADH without prior
+authorization are properly implemented.
+2. MassHealth should investigate the paid claims identified by OSA and take corrective action as it
+deems appropriate. MassHealth should also investigate for improper documentation of ADH claims
+from providers that OSA did not review.
+3. MassHealth should ensure that system edits to prevent payments for ADH without prior
+authorization are properly implemented.
+4. MassHealth should investigate the paid claims identified by OSA and take corrective action as it
+deems appropriate. MassHealth should also investigate ADH claims from providers outside the five
+OSA reviewed for improper documentation.
+5. MassHealth should establish monitoring controls to ensure that ADH claims are documented.
+6. MassHealth should update its MMIS algorithms to cross-reference members’ dates of death with
+additional data sources and not rely solely on the Department of Public Health’s Vital Statistics file
+when verifying members’ dates of death.
+7. MassHealth should establish a plan to recoup the $11,797 in overpayments made on behalf of
+deceased members.
+EOHHS’s Comments
+Regarding Finding 1, MassHealth stated the following:
+Regarding recommendation 1 . . . MassHealth delayed the planned activation of a system edit
+related to prior authorization that—prior to the pandemic—had been set to be activated on April
+15, 2020. MassHealth made the decision to delay activation of the edit to avoid further disruption
+to the ADH program at a time when ADH providers had been forced to close and MassHealth was
+intently focused on finding ways to retain the existence of ADH providers and ensure the
+continued availability of ADH services. This decision was also premised on the understanding that
+any claims for ADH services that were paid absent a [prior authorization (PA)] could be recovered
+via post payment review, a process which has since occurred, and as noted in further detail
+below. Ultimately MassHealth activated the PA edit on September 1, 2021, after the height of the
+pandemic had receded. . . .
+Regarding recommendation 2, MassHealth agrees with this recommendation. MassHealth will
+review the OSA’s findings and recover any identified overpayments that are not already subject to
+ongoing MassHealth provider audits and recoveries. Specifically, and as noted above, MassHealth
+is finalizing a claim-based algorithm recovery for ADH services provided without a PA, which
+encompass the OSA’s audit period and was previously in development as part of MassHealth’s
+standard program integrity controls. Further, MassHealth will ensure that any findings from the
+OSA not captured in the existing recovery project will be validated and pursued through
+overpayment recoveries as appropriate.
+7
+
+MassHealth further requests, however, that in . . . the draft audit report, where it states
+“$123,733 out of the $262,685 (47%) in undocumented ADH claims were for retainer payments
+to ADH providers” that the auditor identify whether the identified retainer payment claims with no
+documentation were for dates that occurred in a week with no other documentation of a member
+contact, as it was permissible for ADH providers to claim multiple retainer payments in a given
+month so long as they had at least one contact with the member during each week in that
+month.
+Regarding Finding 2, MassHealth stated the following:
+Regarding recommendation [4], MassHealth agrees with this recommendation. MassHealth will
+review the OSA’s findings and recover any identified overpayments that are not already subject to
+ongoing MassHealth provider investigations and recoveries. Of note, MassHealth is currently
+finalizing a claim-based algorithm recovery for ADH nonemergency transportation services
+provided without a PA for ADH services, which encompass the OSA’s audit period and was
+previously in development as part of MassHealth’s standard program integrity controls. Further,
+MassHealth will ensure that any findings from the OSA not captured in the existing recovery
+project will be validated and pursued through overpayment recoveries as appropriate.
+Regarding recommendation [5], MassHealth agrees with this recommendation and is committed
+to ensuring ADH providers’ compliance with documentation requirements. MassHealth works to
+ensure ADH provider compliance via training conducted during provider meetings, as well as
+robust program integrity controls. Such program integrity controls include a comprehensive set of
+pre-pay edits, a prior authorization process that ensures services rendered are clinically
+appropriate, postpayment claims recoveries, and regularly scheduled audits of providers.
+Specifically, MassHealth regularly initiates 1 to 2 ADH provider audits per month which may result
+in the issuance of corrective actions and overpayments for improper documentation. Since
+January 1st, 2022, MassHealth has initiated 36 audits of ADH providers and has issued 20 initial
+notices of overpayment which detail the agency’s overpayment and sanction findings.
+Regarding Finding 3, MassHealth stated the following:
+MassHealth agrees with these recommendations. MassHealth has robust program integrity
+controls in place to prevent payments after a member’s date of death. However, due to issues
+often beyond MassHealth’s control (e.g., inaccurate sources of death data and time lags in access
+to death data), it is possible for such payments to occur. As a result, MassHealth also has robust
+controls in place to identify and recover such claims post-payment.
+Regarding recommendation [6], MassHealth has adjusted its program integrity processes to
+improve the identification and recovery of inappropriately paid claims for dates of service after a
+member’s date of death. Historically, it had been MassHealth’s process to use Department of
+Public Health (DPH) Vital Statistics data to identify claims that were incorrectly paid for dates [of]
+service after a member’s date of death; only members matching on the DPH Vital Statistics file
+would be included in any findings. MassHealth must balance the risk of missing potential
+overpayments with the risk of relying on less reliable sources of death data in pursuing
+recoupments of potential overpayments. In light of the OSA’s recommendation, as of January
+8
+
+2024, MassHealth has updated its program integrity efforts to no longer exclude members from
+post-death algorithms when members do not appear in the DPH Vital Statistics file.
+Regarding recommendation [7], MassHealth agrees with this recommendation. MassHealth will
+review the claims identified by the OSA and carry out the recovery process as appropriate.
+MassHealth notes that 28 of the 109 claims have already been identified and included in initial
+notices of overpayment issued to the associated providers. MassHealth will ensure that all
+remaining overpayments identified are validated and recovered as appropriate.
+3. Office of Medicaid (MassHealth)—Review of Payment for Telehealth Adult
+Foster Care and Group Adult Foster Care
+Audit Number 2023-1374-3M2
+Audit Period January 1, 2020–December 31, 2021
+Issue Date September 4, 2024
+Number of Findings 3
+Number of Recommendations 3
+Total Improper Billings $22,979,654
+MassHealth Recouping Payments N/A
+Background and Reason for Audit
+The purpose of this audit was to determine whether MassHealth monitored telehealth practices for AFC
+and GAFC services to ensure compliance with its regulations.
+The audit was conducted as part of OSA’s ongoing independent statutory oversight of the state’s
+Medicaid program. Several of our previously issued audit reports disclosed weaknesses in MassHealth’s
+claim processing system and improper billing practices by MassHealth providers, which identified
+millions of dollars in potentially improper payments. As with any government program, public
+confidence is essential to the success and continued support for public expenditures, such as the state’s
+Medicaid program. Our audit is designed to identify issues that will help improve the Medicaid program
+so that taxpayers know that their dollars are spent prudently and that there is a system of continuous
+improvement to support improved efficiency and service over time.
+Summary of Finding and Recommendation
+OSA reported three findings in this audit:
+1. MassHealth did not ensure that AFC and GAFC registered nurses / licensed practical nurses and care
+managers conducted required oversight visits.
+9
+
+2. MassHealth paid AFC and GAFC providers for services that did not have supporting caregiver / direct
+care aide log documentation.
+3. MassHealth paid for AFC and GAFC caregiver / direct care aide services that were incorrectly coded
+as telehealth.
+OSA’s recommendations to MassHealth were as follows:
+1. MassHealth should establish effective monitoring controls to ensure that AFC and GAFC providers
+conduct the required oversight visits for MassHealth members and caregivers / direct care aides. To
+establish effective monitoring controls, we believe MassHealth should establish a goal for the
+number of AFC / GAFC providers it will audit each year. MassHealth should investigate and resolve all
+instances where its data matches indicate that a member is enrolled in another state’s Medicaid
+program.
+2. MassHealth should establish an effective monitoring process to ensure that caregivers / direct care
+aides of AFC and GAFC providers properly document care in their logs.
+3. MassHealth should add a system control in the Medicaid Management Information System to deny
+AFC and GAFC caregiver / direct care aide services in a telehealth setting.
+EOHHS’s Comments
+Regarding Finding 1, MassHealth stated the following:
+MassHealth agrees with this recommendation. MassHealth is committed to ensuring AFC and
+GAFC providers’ compliance with federal and state requirements through clear and frequent
+outreach to the provider network via periodic trainings and provider meetings, as well as robust
+program integrity controls. Such program integrity controls include a comprehensive set of pre-
+pay edits, a prior authorization process that ensures services rendered are clinically appropriate,
+post-payment claims recoveries, and regularly scheduled audits of providers.
+Program integrity initiatives developed and implemented since the period covered under this
+audit include instituting a temporary moratorium on new AFC providers from March 10, 2023,
+through September 10, 2023. The purpose of the temporary moratorium was to allow MassHealth
+to focus on enhanced training and education of existing AFC providers and the development of a
+more robust onboarding process for new AFC providers. Following the end of the moratorium,
+and in addition to instituting a more robust onboarding process, MassHealth schedules audits of
+every new AFC and GAFC provider within six months of their enrollment.
+Additionally, to monitor compliance, and as part of MassHealth’s overall program integrity
+strategy, MassHealth initiates audits of 2 to 3 AFC and GAFC providers each month
+(approximately 24-36 audits per year). As part of these audits, MassHealth auditors review
+documentation submitted by providers to ensure [registered nurse / licensed practical nurse] and
+care manager visits are documented and occur within the timeframes required by the provider
+regulations. Where MassHealth identifies instances of non-compliance, MassHealth issues
+overpayments and sanctions as appropriate.
+10
+
+From 2022 to present, MassHealth has initiated 92 audits of AFC and GAFC providers
+(approximately 3 audits per month) and has issued 49 initial notices of overpayment and
+sanction, which outline MassHealth’s audit findings and initiates the recovery process for
+identified overpayments and sanctions.
+Regarding Finding 2, MassHealth stated the following:
+MassHealth agrees with this recommendation. As discussed above, MassHealth actively engages
+in provider education and program integrity activities to promote and monitor AFC and GAFC
+compliance with provider requirements. This includes the provision of provider education on
+requirements to train caregivers and direct care aides on care log documentation requirements,
+as well as provider audits to monitor compliance with program requirements, which includes
+review of caregiver / direct care aide logs.
+As noted in response to Finding 1, above, from 2022 to present, MassHealth has initiated 92
+audits of AFC and GAFC providers (approximately 3 audits per month) and has issued 49 initial
+notices of overpayment and sanction, which outline MassHealth’s audit findings and initiates the
+recovery process for identified overpayments and sanctions.
+Regarding Finding 3, MassHealth stated the following:
+MassHealth agrees with this recommendation. MassHealth will implement a system edit to
+prevent AFC and GAFC providers from submitting claims for AFC / GAFC services when coded as
+telehealth.
+As noted above, because personal care is a type of care that cannot be delivered via telehealth,
+AFC and GAFC providers were not—and are not—permitted to use telehealth for the delivery of
+personal care. MassHealth appreciates that the [Office of the State Auditor] draft report
+acknowledges that the identified claims were billed as telehealth in error and that AFC / GAFC
+services were in fact rendered in person and based on the auditor’s review of provider
+documentation. MassHealth further notes this error appears to be concentrated to a small
+percentage of providers within the network with only 5 out of 268 providers having billed claims
+coded as telehealth. As noted above, MassHealth agrees with the recommendation and will
+implement an edit to prevent the ability for AFC / GAFC claims to be submitted when coded as
+telehealth.
+11
+
+CURRENT INITIATIVES
+During this reporting period, the Office of the State Auditor (OSA) began or continued work on seven
+audits of MassHealth’s administration of the Medicaid program and Medicaid service providers’
+compliance with state and federal laws, regulations, and other authoritative guidance. These audits were
+selected based on OSA’s research, and we are using data analytics to identify areas of risk in the state’s
+Medicaid program. Based on preliminary analysis and previous audit results, we anticipate that these
+audits will continue to identify improper payments and areas for improvement in MassHealth’s
+administration of program services. Where applicable, the audits will include recommendations to
+strengthen internal controls and oversight in MassHealth’s program administration. The following is a
+summary of our Medicaid audit work in process.
+• OSA is conducting a review of MassHealth claims submitted by providers for durable medical
+equipment (DME) for the audit period July 1, 2021 through June 30, 2023. This audit will
+determine whether DME was ordered or prescribed to members by providers who are excluded
+from participating in the Medicaid program and whether MassHealth paid for DME prescribed to
+members who are deceased.
+• OSA is conducting a review of MassHealth claims submitted by Dental Arts for the period July 1,
+2019 through June 30, 2023. This audit will determine whether dental services provided to
+MassHealth members were properly supported by documentation and were allowable in
+accordance with certain MassHealth regulations.
+• OSA is conducting a review of MassHealth claims submitted for non-emergency transportation
+for the period July 1, 2020 through June 30, 2023. This audit will determine whether
+MassHealth’s non-emergency transportation broker process provides equal opportunity to
+contracted providers throughout the Commonwealth, whether non-emergency transportation
+claims were properly authorized, and whether transportation drivers and attendants
+consistently had Criminal Offender Record Information checks.
+• OSA is conducting a review of MassHealth reimbursements for inpatient maternity services
+provided by University of Massachusetts Memorial Healthcare (UMMH) during the period July 1,
+2020 through June 30, 2023. This audit will determine whether UMMH properly billed
+MassHealth for maternity care for its members, whether UMMH reported births occurring in its
+hospitals to the Department of Public Health, and whether UMMH properly used grant funds
+from EOHHS and the Massachusetts Emergency Management Agency.
+12
+
+[DELETED:       ◼]
+[DELETED:  U ( U f p p a i a a i t f y 2 t a f t U w $ T a r a f c f t s p i a t s t o a 5 o r w i b s b i a C o A o a s o t f p a o M ( a r o c m t m w m M i n ( ( a r o c ( T r a d a e $ o p c s w]
+[DELETED:  h s a t a t m e c f s a t $ b o w a 3 w p b t C p e r a 3 o t C t a t a a “ r o f w a a m A t t G t b 3 a 1 o t h c w l t f o a a t G t p w a a h c t b f i b S t t O h m o i o o t i t M M p a w a i c f M r]
+[DELETED:  t r p t O o t S A ( r t a r o T r i a e $ i p c s a p r t s i c a o i M p.O o M ( o C Ps w 2 J D 1 3 $ N.M C]
+[DELETED: .M s t a f b d s d.M s i a r a i w i d m i t a.M s i a m c t f s o S S N]
+[DELETED: .O 2 J O 3 7 $ N a w c a p o O o i s o o t s p s a i b p b M p w i o d i p i p A w a g p p s t t k t d a s p a t t i a s o.M.M.M]
+[DELETED: .M s e t s e t p p f A w p.M.M s e t s e t p p f A w p.M.M.M.M s e a p t r t $ i o m o b o]
+[DELETED: .O 2 J S 3 3 $ N a w c a p o O o i s o o t s p s a i b p b M p w i o d i p i p A w a g p p.M]
+[DELETED: .M.M.M e m c w b M s e a g f t.M.M]
+[DELETED:  o M a o t M p a M s p w c t i i p a a f i i M o p s W a t a w i r t ( f t a p J 1 2 t J 3 2 T a w t J 3 2 T a w d w d s p t m w p s b d a w a i t p J 1 2 t J 3 2 T a w d w n t b p p e o t w p a a w t d a a i c a r o M r f i m s t J 3 2 T a w d w U p b]

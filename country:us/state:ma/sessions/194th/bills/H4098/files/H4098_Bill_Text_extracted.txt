@@ -1,0 +1,331 @@
+Title: To the Honorable Senate and House of Representatives of the Commonwealth of Massachusetts in General
+Official Title: To the Honorable Senate and House of Representatives of the Commonwealth of Massachusetts in General
+Number of Sections: 1
+Source: versions - Bill Text
+Media Type: application/pdf
+Strikethrough Detection: 7 sections found
+
+================================================================================
+
+Section 1:
+HOUSE DOCKET, NO. 630 FILED ON: 1/10/2025
+HOUSE . . . . . . . . . . . . . . . No. 4098
+The Commonwealth of Massachusetts
+_________________
+PRESENTED BY:
+Lindsay N. Sabadosa and Joanne M. Comerford
+_________________
+Court assembled:
+The undersigned legislators and/or citizens respectfully petition for the adoption of the accompanying bill:
+An Act relative to ranked choice voting in the city of Northampton.
+_______________
+PETITION OF:
+NAME: DISTRICT/ADDRESS: DATE ADDED:
+Lindsay N. Sabadosa 1st Hampshire 1/10/2025
+Joanne M. Comerford Hampshire, Franklin and Worcester 1/10/2025
+1 of 1
+HOUSE DOCKET, NO. 630 FILED ON: 1/10/2025
+HOUSE . . . . . . . . . . . . . . . No. 4098
+By Representative Sabadosa of Northampton and Senator Comerford, a joint petition
+(accompanied by bill, House, No. 4098) of Lindsay N. Sabadosa and Joanne M. Comerford (with
+the approval of the mayor and city council) relative to ranked choice voting in the city of
+Northampton. Election Laws. [Local Approval Received.]
+[SIMILAR MATTER FILED IN PREVIOUS SESSION
+SEE HOUSE, NO. 714 OF 2023-2024.]
+The Commonwealth of Massachusetts
+_______________
+In the One Hundred and Ninety-Fourth General Court
+(2025-2026)
+_______________
+An Act relative to ranked choice voting in the city of Northampton.
+Be it enacted by the Senate and House of Representatives in General Court assembled, and by the authority
+of the same, as follows:
+1 SECTION 1. Section 1 of chapter 277 of the acts of 2012, as amended by chapter 40 of
+2 the acts of 2021, is hereby further amended by striking out article 8 and inserting in place thereof
+3 the following article:
+4 ARTICLE 8
+5 ELECTIONS
+6 SECTION 8–1 REGULAR CITY ELECTION
+7 The regular city election shall be held on the first Tuesday following the first Monday in
+8 November in each odd-numbered year.
+1 of 6
+9 SECTION 8–2: BALLOT POSITION, REGULAR CITY ELECTION
+10 The order in which names of candidates for each office appear on the ballot shall be
+11 determined by a drawing, by lot, conducted by the city clerk on the fourth Tuesday in September
+12 prior to the regular city election. In the event that there is no preliminary election in advance of a
+13 special city election, the drawing shall be conducted on the sixth Tuesday prior to the special city
+14 election. The drawing shall be open to the public.
+15 SECTION 8–3: NON–PARTISAN ELECTIONS
+16 All elections for city offices shall be non-partisan and election ballots shall be printed
+17 without any party mark, emblem or other political designation.
+18 SECTION 8–4: WARDS
+19 The territory of the city shall be divided into 7 wards by the city clerk to consist of nearly
+20 an equal number of inhabitants as it is possible to achieve based on compact and contiguous
+21 territory, bounded as far as possible by the center line of known streets or ways or by other well-
+22 defined limits. Each ward shall be composed of voting precincts established under the General
+23 Laws. The city council shall review these wards to ensure uniformity in the number of
+24 inhabitants at least once every 10 years.
+25 SECTION 8–5: RANKED CHOICE VOTING
+26 (a) For the purposes of this section, the following terms shall have the following
+27 meanings, unless the context clearly requires otherwise:
+28 "Batch elimination," is the simultaneous defeat of multiple candidates.
+2 of 6
+29 "Concluded ballot," a ballot that does not rank any continuing candidate.
+30 "Continuing candidate," a candidate who has not been defeated or elected.
+31 "Election threshold," the number of votes sufficient for a candidate to be elected in a
+32 multi-seat election. It is calculated by dividing the total number of votes counting for the
+33 continuing candidates in the first round by the sum of the number of seats to be elected and 1,
+34 disregarding any fractions, and then adding 1.
+35 "Highest-ranked continuing candidate," the continuing candidate with the highest ranking
+36 on a voter's ballot. Where a ballot omits 1 or more ranks, the next highest ranking shall be used
+37 for determining the highest-ranked continuing candidate.
+38 "Ranked choice voting," a method of casting and tabulating ballots in which voters rank
+39 candidates for office in order of preference.
+40 "Last-place candidate," (i) the candidate with the lowest vote total in a round of the
+41 ranked-choice voting tabulation; or (ii) a candidate that is defeated in batch elimination.
+42 "Overvote," a circumstance in which a voter ranks more than 1 candidate at the same
+43 ranking.
+44 "Ranking," means the number assigned on a ballot by a voter to a candidate to express
+45 the voter's preference for that candidate. Ranking number 1 shall be the highest ranking, ranking
+46 number 2 shall be the next-highest ranking, and so on.
+47 "Surplus fraction," the number equal to the difference between an elected candidate's vote
+48 total and the election threshold, divided by the candidate's vote total.
+3 of 6
+49 "Transfer value," the proportion of the vote that a ballot will count to its highest-ranked
+50 continuing candidate. Each ballot shall begin with a transfer value of 1. If a ballot counts to the
+51 election of a candidate under subsection (d)(1), it receives a lower transfer value.
+52 (b) All city offices shall be elected by ranked choice voting. No candidate shall have the
+53 words "candidate for reelection" printed next to that candidate's name on the election ballot.
+54 Ranked choice voting elections shall be tabulated in rounds pursuant to this section.
+55 (c) In any single-seat election, each round shall begin by counting the number of votes for
+56 each continuing candidate. Each ballot shall count as 1 vote for its highest-ranked continuing
+57 candidate. Concluded ballots shall not be counted for any continuing candidate. Each round shall
+58 end with 1 of the following 2 outcomes:
+59 (1) If there are more than 2 continuing candidates, the last-place candidate shall be
+60 defeated or the last-place candidates shall be defeated in batch elimination, and a new round shall
+61 begin; or
+62 (2) If there are 2 continuing candidates, the candidate with the fewest votes shall be
+63 defeated, the candidate with the most votes shall be elected, and tabulation shall be complete.
+64 (d) In any multi-seat election, each round shall begin by counting the number of votes for
+65 each continuing candidate. Each ballot shall count, at its current transfer value, for its highest-
+66 ranked continuing candidate. Concluded ballots shall not count for any continuing candidate. In
+67 the first round only, the election threshold shall then be calculated. Each round shall end with 1
+68 of the following 3 outcomes:
+4 of 6
+69 (1) If at least 1 candidate has more votes than the election threshold, then all such
+70 candidates shall be elected. Each ballot counting for an elected candidate shall be assigned a new
+71 transfer value by multiplying the ballot's current transfer value by the surplus fraction for the
+72 candidate. Each elected candidate shall be deemed to have a number of votes equal to the
+73 election threshold in all future rounds, and a new round shall begin;
+74 (2) If no candidate has more votes than the election threshold and the sum of the number
+75 of elected candidates and continuing candidates is more than the sum of seats to be elected and 1,
+76 the last-place candidate shall be defeated or the last-place candidates shall be defeated in batch
+77 elimination, and a new round shall begin; or
+78 (3) Otherwise, the continuing candidate with the fewest votes shall be defeated, all other
+79 continuing candidates shall be elected, and tabulation is complete.
+80 (e) Batch elimination shall apply to the largest possible group of continuing candidates
+81 such that the sum of the votes of candidates in the group is less than the individual number of
+82 votes of every continuing candidate not in the group, and provided that the number of continuing
+83 candidates not in the group is at least 1 more than the remaining number of positions to elect.
+84 (f) If 2 or more last-place candidates are tied and batch elimination does not apply, the
+85 candidate with the fewest votes in the prior round shall be defeated. If 2 or more such tied
+86 candidates were tied in the prior round, the second tie shall be decided by referring similarly to
+87 the standing of the candidates, in terms of votes, in the second-prior round. This process shall be
+88 applied successively as many times as necessary, a tie shown in any prior round shall be decided
+89 by referring to the standing of the candidates in the round immediately preceding the tie.
+5 of 6
+90 (g) The city clerk, subject to the approval of the city council, shall establish and maintain
+91 procedures for ranked choice voting ballot and tabulation processes necessary to ensure the
+92 integrity and smooth functioning of the election, provided that ranked choice voting shall still be
+93 used and the fewest number of changes are made to achieve such purpose.
+94 SECTION 8–6: APPLICATION OF STATE GENERAL LAWS
+95 Except as otherwise expressly provided in this charter and authorized by law, all city
+96 elections shall be governed by the laws of the commonwealth relating to the right to vote, the
+97 registration of voters, the nomination of candidates, voting places, the conduct of regular and
+98 special city elections, the submission of charters, charter amendments and other propositions to
+99 the voters, the counting of votes, the recounting of votes and the determination of results.
+100 SECTION 2. The following question shall be placed on the ballot to be used at a regular
+101 state or municipal election or at special election called for the purpose of presenting the question
+102 to the voters: Shall an act entitled "An Act Relative to Ranked Choice Voting in the City of
+103 Northampton" be accepted?
+104 The city solicitor shall prepare the summary of the proposed amendment to the special act
+105 charter of the city of Northampton, which shall appear on the ballot along with the question
+106 provided in this section.
+107 If a majority of votes cast in answer to the question is in the affirmative, the city shall be
+108 taken to have accepted the amendment to the charter of the city of Northampton, but not
+109 otherwise.
+6 of 6
+[DELETED: :D/A:DAEITDSA Da1e1dHr1]
+[DELETED: SttAESTN]
+[DELETED: S0T1d2p3s4e5S6A7w8S9T0a1t2d3L4i5S6(7m8"]
+[DELETED: 9"0"1"2m3c4d5"6o7f8"9c0"1r2"3r4"5t6n7"8t]
+[DELETED: 9"0c1e2(3w4R5(6e7c8e9(0d1b2(3d4(5e6r7t8o]
+[DELETED: 9(0c1t2c3e4(5o6t7e8(9c0(1s2v3c4(5c6c7t8a9b]
+[DELETED: 0(1p2i3u4S5E6e7r8s9t0S1s2t3N4T5c6p7I8t9o]
+
+
+================================================================================
+
+Raw Text:
+HOUSE DOCKET, NO. 630 FILED ON: 1/10/2025
+HOUSE . . . . . . . . . . . . . . . No. 4098
+The Commonwealth of Massachusetts
+_________________
+PRESENTED BY:
+Lindsay N. Sabadosa and Joanne M. Comerford
+_________________
+To the Honorable Senate and House of Representatives of the Commonwealth of Massachusetts in General
+Court assembled:
+The undersigned legislators and/or citizens respectfully petition for the adoption of the accompanying bill:
+An Act relative to ranked choice voting in the city of Northampton.
+_______________
+PETITION OF:
+NAME: DISTRICT/ADDRESS: DATE ADDED:
+Lindsay N. Sabadosa 1st Hampshire 1/10/2025
+Joanne M. Comerford Hampshire, Franklin and Worcester 1/10/2025
+1 of 1
+
+HOUSE DOCKET, NO. 630 FILED ON: 1/10/2025
+HOUSE . . . . . . . . . . . . . . . No. 4098
+By Representative Sabadosa of Northampton and Senator Comerford, a joint petition
+(accompanied by bill, House, No. 4098) of Lindsay N. Sabadosa and Joanne M. Comerford (with
+the approval of the mayor and city council) relative to ranked choice voting in the city of
+Northampton. Election Laws. [Local Approval Received.]
+[SIMILAR MATTER FILED IN PREVIOUS SESSION
+SEE HOUSE, NO. 714 OF 2023-2024.]
+The Commonwealth of Massachusetts
+_______________
+In the One Hundred and Ninety-Fourth General Court
+(2025-2026)
+_______________
+An Act relative to ranked choice voting in the city of Northampton.
+Be it enacted by the Senate and House of Representatives in General Court assembled, and by the authority
+of the same, as follows:
+1 SECTION 1. Section 1 of chapter 277 of the acts of 2012, as amended by chapter 40 of
+2 the acts of 2021, is hereby further amended by striking out article 8 and inserting in place thereof
+3 the following article:
+4 ARTICLE 8
+5 ELECTIONS
+6 SECTION 8–1 REGULAR CITY ELECTION
+7 The regular city election shall be held on the first Tuesday following the first Monday in
+8 November in each odd-numbered year.
+1 of 6
+
+9 SECTION 8–2: BALLOT POSITION, REGULAR CITY ELECTION
+10 The order in which names of candidates for each office appear on the ballot shall be
+11 determined by a drawing, by lot, conducted by the city clerk on the fourth Tuesday in September
+12 prior to the regular city election. In the event that there is no preliminary election in advance of a
+13 special city election, the drawing shall be conducted on the sixth Tuesday prior to the special city
+14 election. The drawing shall be open to the public.
+15 SECTION 8–3: NON–PARTISAN ELECTIONS
+16 All elections for city offices shall be non-partisan and election ballots shall be printed
+17 without any party mark, emblem or other political designation.
+18 SECTION 8–4: WARDS
+19 The territory of the city shall be divided into 7 wards by the city clerk to consist of nearly
+20 an equal number of inhabitants as it is possible to achieve based on compact and contiguous
+21 territory, bounded as far as possible by the center line of known streets or ways or by other well-
+22 defined limits. Each ward shall be composed of voting precincts established under the General
+23 Laws. The city council shall review these wards to ensure uniformity in the number of
+24 inhabitants at least once every 10 years.
+25 SECTION 8–5: RANKED CHOICE VOTING
+26 (a) For the purposes of this section, the following terms shall have the following
+27 meanings, unless the context clearly requires otherwise:
+28 "Batch elimination," is the simultaneous defeat of multiple candidates.
+2 of 6
+
+29 "Concluded ballot," a ballot that does not rank any continuing candidate.
+30 "Continuing candidate," a candidate who has not been defeated or elected.
+31 "Election threshold," the number of votes sufficient for a candidate to be elected in a
+32 multi-seat election. It is calculated by dividing the total number of votes counting for the
+33 continuing candidates in the first round by the sum of the number of seats to be elected and 1,
+34 disregarding any fractions, and then adding 1.
+35 "Highest-ranked continuing candidate," the continuing candidate with the highest ranking
+36 on a voter's ballot. Where a ballot omits 1 or more ranks, the next highest ranking shall be used
+37 for determining the highest-ranked continuing candidate.
+38 "Ranked choice voting," a method of casting and tabulating ballots in which voters rank
+39 candidates for office in order of preference.
+40 "Last-place candidate," (i) the candidate with the lowest vote total in a round of the
+41 ranked-choice voting tabulation; or (ii) a candidate that is defeated in batch elimination.
+42 "Overvote," a circumstance in which a voter ranks more than 1 candidate at the same
+43 ranking.
+44 "Ranking," means the number assigned on a ballot by a voter to a candidate to express
+45 the voter's preference for that candidate. Ranking number 1 shall be the highest ranking, ranking
+46 number 2 shall be the next-highest ranking, and so on.
+47 "Surplus fraction," the number equal to the difference between an elected candidate's vote
+48 total and the election threshold, divided by the candidate's vote total.
+3 of 6
+
+49 "Transfer value," the proportion of the vote that a ballot will count to its highest-ranked
+50 continuing candidate. Each ballot shall begin with a transfer value of 1. If a ballot counts to the
+51 election of a candidate under subsection (d)(1), it receives a lower transfer value.
+52 (b) All city offices shall be elected by ranked choice voting. No candidate shall have the
+53 words "candidate for reelection" printed next to that candidate's name on the election ballot.
+54 Ranked choice voting elections shall be tabulated in rounds pursuant to this section.
+55 (c) In any single-seat election, each round shall begin by counting the number of votes for
+56 each continuing candidate. Each ballot shall count as 1 vote for its highest-ranked continuing
+57 candidate. Concluded ballots shall not be counted for any continuing candidate. Each round shall
+58 end with 1 of the following 2 outcomes:
+59 (1) If there are more than 2 continuing candidates, the last-place candidate shall be
+60 defeated or the last-place candidates shall be defeated in batch elimination, and a new round shall
+61 begin; or
+62 (2) If there are 2 continuing candidates, the candidate with the fewest votes shall be
+63 defeated, the candidate with the most votes shall be elected, and tabulation shall be complete.
+64 (d) In any multi-seat election, each round shall begin by counting the number of votes for
+65 each continuing candidate. Each ballot shall count, at its current transfer value, for its highest-
+66 ranked continuing candidate. Concluded ballots shall not count for any continuing candidate. In
+67 the first round only, the election threshold shall then be calculated. Each round shall end with 1
+68 of the following 3 outcomes:
+4 of 6
+
+69 (1) If at least 1 candidate has more votes than the election threshold, then all such
+70 candidates shall be elected. Each ballot counting for an elected candidate shall be assigned a new
+71 transfer value by multiplying the ballot's current transfer value by the surplus fraction for the
+72 candidate. Each elected candidate shall be deemed to have a number of votes equal to the
+73 election threshold in all future rounds, and a new round shall begin;
+74 (2) If no candidate has more votes than the election threshold and the sum of the number
+75 of elected candidates and continuing candidates is more than the sum of seats to be elected and 1,
+76 the last-place candidate shall be defeated or the last-place candidates shall be defeated in batch
+77 elimination, and a new round shall begin; or
+78 (3) Otherwise, the continuing candidate with the fewest votes shall be defeated, all other
+79 continuing candidates shall be elected, and tabulation is complete.
+80 (e) Batch elimination shall apply to the largest possible group of continuing candidates
+81 such that the sum of the votes of candidates in the group is less than the individual number of
+82 votes of every continuing candidate not in the group, and provided that the number of continuing
+83 candidates not in the group is at least 1 more than the remaining number of positions to elect.
+84 (f) If 2 or more last-place candidates are tied and batch elimination does not apply, the
+85 candidate with the fewest votes in the prior round shall be defeated. If 2 or more such tied
+86 candidates were tied in the prior round, the second tie shall be decided by referring similarly to
+87 the standing of the candidates, in terms of votes, in the second-prior round. This process shall be
+88 applied successively as many times as necessary, a tie shown in any prior round shall be decided
+89 by referring to the standing of the candidates in the round immediately preceding the tie.
+5 of 6
+
+90 (g) The city clerk, subject to the approval of the city council, shall establish and maintain
+91 procedures for ranked choice voting ballot and tabulation processes necessary to ensure the
+92 integrity and smooth functioning of the election, provided that ranked choice voting shall still be
+93 used and the fewest number of changes are made to achieve such purpose.
+94 SECTION 8–6: APPLICATION OF STATE GENERAL LAWS
+95 Except as otherwise expressly provided in this charter and authorized by law, all city
+96 elections shall be governed by the laws of the commonwealth relating to the right to vote, the
+97 registration of voters, the nomination of candidates, voting places, the conduct of regular and
+98 special city elections, the submission of charters, charter amendments and other propositions to
+99 the voters, the counting of votes, the recounting of votes and the determination of results.
+100 SECTION 2. The following question shall be placed on the ballot to be used at a regular
+101 state or municipal election or at special election called for the purpose of presenting the question
+102 to the voters: Shall an act entitled "An Act Relative to Ranked Choice Voting in the City of
+103 Northampton" be accepted?
+104 The city solicitor shall prepare the summary of the proposed amendment to the special act
+105 charter of the city of Northampton, which shall appear on the ballot along with the question
+106 provided in this section.
+107 If a majority of votes cast in answer to the question is in the affirmative, the city shall be
+108 taken to have accepted the amendment to the charter of the city of Northampton, but not
+109 otherwise.
+6 of 6
+
+[DELETED: :D/A:DAEITDSA Da1e1dHr1]
+[DELETED: SttAESTN]
+[DELETED: S0T1d2p3s4e5S6A7w8S9T0a1t2d3L4i5S6(7m8"]
+[DELETED: 9"0"1"2m3c4d5"6o7f8"9c0"1r2"3r4"5t6n7"8t]
+[DELETED: 9"0c1e2(3w4R5(6e7c8e9(0d1b2(3d4(5e6r7t8o]
+[DELETED: 9(0c1t2c3e4(5o6t7e8(9c0(1s2v3c4(5c6c7t8a9b]
+[DELETED: 0(1p2i3u4S5E6e7r8s9t0S1s2t3N4T5c6p7I8t9o]

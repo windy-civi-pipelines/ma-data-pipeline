@@ -1,0 +1,130 @@
+{
+  "legislative_session": "194th",
+  "identifier": "S2191",
+  "title": "An Act establishing a special commission to investigate and study the feasibility of establishing a municipal building financing authority",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "summary",
+      "abstract": "By Mr. O'Connor, a petition (accompanied by bill, Senate, No. 2191) of Patrick M. O'Connor, David T. Vieira and Steven George Xiarhos for legislation to establish a special commission to investigate and study the feasibility of establishing a municipal building financing authority.  State Administration and Regulatory Oversight."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Referred to the committee on State Administration and Regulatory Oversight",
+      "date": "2025-02-27",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "committee on State Administration and Regulatory Oversight",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2025-10-26T04:18:36Z"
+      }
+    },
+    {
+      "description": "House concurred",
+      "date": "2025-02-27",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-26T04:18:36Z"
+      }
+    },
+    {
+      "description": "Hearing scheduled for 10/29/2025 from 10:30 AM-01:00 PM in A-2",
+      "date": "2025-10-17",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-26T04:18:36Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Patrick M. O'Connor",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Patrick M. O'Connor\"}",
+      "organization_id": null
+    },
+    {
+      "name": "David T. Vieira",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"David T. Vieira\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Steven George Xiarhos",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Steven George Xiarhos\"}",
+      "organization_id": null
+    },
+    {
+      "name": "John J. Marsi",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"John J. Marsi\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [
+    {
+      "identifier": "SD 457",
+      "legislative_session": "194th",
+      "relation_type": "replaces"
+    }
+  ],
+  "versions": [
+    {
+      "note": "Bill Text",
+      "links": [
+        {
+          "url": "https://malegislature.gov/Bills/194/S2191.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://malegislature.gov/Bills/194/S2191",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ma/government",
+    "name": "Massachusetts",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ma"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-26T04:18:36Z"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Hearing rescheduled to 10/03/2025 from 10:00 AM-12:35 PM in Gardner Auditorium                                                               Hearing updated to New End Time",
+    "date": "2025-10-03",
+    "organization_id": "~{\"classification\": \"legislature\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "H3076"
+}

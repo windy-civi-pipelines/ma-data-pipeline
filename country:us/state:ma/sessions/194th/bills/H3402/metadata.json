@@ -1,0 +1,192 @@
+{
+  "legislative_session": "194th",
+  "identifier": "H3402",
+  "title": "An Act authorizing the commissioner of capital asset management and maintenance to convey a certain parcel of land in the town of Wellesley",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "summary",
+      "abstract": "By Representative Peisch of Wellesley, a petition (accompanied by bill, House, No. 3402) of Alice Hanlon Peisch that the commissioner of Capital Asset Management and Maintenance be authorized to convey a certain parcel of land in the town of Wellesley to Kimberlee A. Dow.  State Administration and Regulatory Oversight."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Referred to the committee on State Administration and Regulatory Oversight",
+      "date": "2025-02-27",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "committee on State Administration and Regulatory Oversight",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2025-10-26T04:18:36Z"
+      }
+    },
+    {
+      "description": "Senate concurred",
+      "date": "2025-02-27",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-26T04:18:36Z"
+      }
+    },
+    {
+      "description": "Hearing scheduled for 04/09/2025 from 01:00 PM-05:00 PM in A-2",
+      "date": "2025-04-04",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-26T04:18:36Z"
+      }
+    },
+    {
+      "description": "Bill reported favorably by committee and referred to the committee on House Ways and Means",
+      "date": "2025-07-03",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable",
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "the committee on House Ways and Means",
+          "entity_type": "organization",
+          "organization_id": null
+        },
+        {
+          "name": "committee on House Ways and Means",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2025-10-26T04:18:36Z"
+      }
+    },
+    {
+      "description": "Committee recommended ought to pass with an amendment, substituting therefor a bill with the same title, see H4360",
+      "date": "2025-07-30",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-26T04:18:36Z"
+      }
+    },
+    {
+      "description": "Referred to the committee on House Steering, Policy and Scheduling with the amendment pending",
+      "date": "2025-07-30",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "committee on House Steering, Policy and Scheduling with the amendment pending",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2025-10-26T04:18:36Z"
+      }
+    },
+    {
+      "description": "Committee reported that the matter be placed in the Orders of the Day for the next sitting with the amendment pending",
+      "date": "2025-07-30",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-26T04:18:36Z"
+      }
+    },
+    {
+      "description": "Read second, amended (as recommended by the committee on House Ways and Means)",
+      "date": "2025-07-30",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-26T04:18:36Z"
+      }
+    },
+    {
+      "description": "New draft substituted, see H4363",
+      "date": "2025-07-30",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-26T04:18:36Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Alice Hanlon Peisch",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Alice Hanlon Peisch\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [
+    {
+      "identifier": "HD 3450",
+      "legislative_session": "194th",
+      "relation_type": "replaces"
+    }
+  ],
+  "versions": [
+    {
+      "note": "Bill Text",
+      "links": [
+        {
+          "url": "https://malegislature.gov/Bills/194/H3402.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://malegislature.gov/Bills/194/H3402",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ma/government",
+    "name": "Massachusetts",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ma"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-26T04:18:36Z"
+  }
+}

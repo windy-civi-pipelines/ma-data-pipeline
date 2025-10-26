@@ -1,0 +1,82 @@
+{
+  "legislative_session": "194th",
+  "identifier": "S17",
+  "title": "Amendment S.17",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "summary",
+      "abstract": "Senate, February 12, 2025 -- Text of the Senate amendment to the House Bill making appropriations for fiscal year 2025 to provide for supplementing certain existing appropriations and for certain other activities and projects (House, No. 58) (being the text of Senate document numbered 16, printed as amended)."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Text of S16, printed as amended",
+      "date": "2025-02-12",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-26T04:18:33Z"
+      }
+    },
+    {
+      "description": "See H58",
+      "date": "2025-02-12",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-26T04:18:33Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Michael J. Rodrigues",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Michael J. Rodrigues\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Bill Text",
+      "links": [
+        {
+          "url": "https://malegislature.gov/Bills/194/S17.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://malegislature.gov/Bills/194/S17",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ma/government",
+    "name": "Massachusetts",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ma"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-26T04:18:33Z"
+  }
+}

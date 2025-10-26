@@ -1,0 +1,270 @@
+{
+  "legislative_session": "194th",
+  "identifier": "H3333",
+  "title": "An Act relative to the definition of fraud in public construction bid laws",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "summary",
+      "abstract": "By Representative Ferrante of Gloucester, a petition (accompanied by bill, House, No. 3333) of Ann-Margaret Ferrante and others relative to the definition of fraud in public construction bid laws.  State Administration and Regulatory Oversight."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Referred to the committee on State Administration and Regulatory Oversight",
+      "date": "2025-02-27",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "committee on State Administration and Regulatory Oversight",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2025-10-26T04:18:35Z"
+      }
+    },
+    {
+      "description": "Senate concurred",
+      "date": "2025-02-27",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-26T04:18:35Z"
+      }
+    },
+    {
+      "description": "Hearing scheduled for 10/01/2025 from 10:00 AM-01:00 PM in A-1",
+      "date": "2025-09-24",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-26T04:18:35Z"
+      }
+    },
+    {
+      "description": "Hearing rescheduled to 10/08/2025 from 01:00 PM-05:00 PM in 222  and Virtual Hearing location changed",
+      "date": "2025-09-25",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-26T04:18:35Z"
+      }
+    },
+    {
+      "description": "Hearing rescheduled to 10/08/2025 from 01:00 PM-01:55 PM in 222  and Virtual Hearing updated to New End Time",
+      "date": "2025-10-08",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-26T04:18:35Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Ann-Margaret Ferrante",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Ann-Margaret Ferrante\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Lindsay N. Sabadosa",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Lindsay N. Sabadosa\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Brian W. Murray",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Brian W. Murray\"}",
+      "organization_id": null
+    },
+    {
+      "name": "James K. Hawkins",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"James K. Hawkins\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Frank A. Moran",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Frank A. Moran\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Susannah M. Whipps",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Susannah M. Whipps\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Jason M. Lewis",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Jason M. Lewis\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Patrick Joseph Kearney",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Patrick Joseph Kearney\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Mindy Domb",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Mindy Domb\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Erika Uyterhoeven",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Erika Uyterhoeven\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Colleen M. Garry",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Colleen M. Garry\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Michael D. Brady",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Michael D. Brady\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Christopher M. Markey",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Christopher M. Markey\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Danillo A. Sena",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Danillo A. Sena\"}",
+      "organization_id": null
+    },
+    {
+      "name": "James B. Eldridge",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"James B. Eldridge\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Tara T. Hong",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Tara T. Hong\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Bruce E. Tarr",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Bruce E. Tarr\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Antonio F. D. Cabral",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Antonio F. D. Cabral\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Adrianne Pusateri Ramos",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Adrianne Pusateri Ramos\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [
+    {
+      "identifier": "HD 3454",
+      "legislative_session": "194th",
+      "relation_type": "replaces"
+    }
+  ],
+  "versions": [
+    {
+      "note": "Bill Text",
+      "links": [
+        {
+          "url": "https://malegislature.gov/Bills/194/H3333.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://malegislature.gov/Bills/194/H3333",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ma/government",
+    "name": "Massachusetts",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ma"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-26T04:18:35Z"
+  }
+}

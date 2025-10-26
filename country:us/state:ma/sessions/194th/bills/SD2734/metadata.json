@@ -1,0 +1,136 @@
+{
+  "legislative_session": "194th",
+  "identifier": "SD2734",
+  "title": "An Act to extend the open meeting law requirements for remote meeting participation",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "proposed bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "summary",
+      "abstract": "By Mr. Tarr, a petition (accompanied by bill) (subject to Joint Rule 12) of Bruce E. Tarr and Todd M. Smola for legislation to extend remote participation in the open meeting law.  State Administration and Regulatory Oversight."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Referred to the committee on Rules of the two branches, acting concurrently",
+      "date": "2025-03-10",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "committee on Rules of the two branches, acting concurrently",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2025-10-26T04:18:31Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Bruce E. Tarr",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Bruce E. Tarr\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Todd M. Smola",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Todd M. Smola\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Bradley H. Jones, Jr.",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Bradley H. Jones, Jr.\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Kimberly N. Ferguson",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Kimberly N. Ferguson\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Hannah Kane",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Hannah Kane\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Shirley B. Arriaga",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Shirley B. Arriaga\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Kristin E. Kassner",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Kristin E. Kassner\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Norman J. Orrall",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Norman J. Orrall\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Bill Text",
+      "links": [
+        {
+          "url": "https://malegislature.gov/Bills/194/SD2734.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://malegislature.gov/Bills/194/SD2734",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ma/government",
+    "name": "Massachusetts",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ma"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-26T04:18:31Z"
+  }
+}

@@ -1,0 +1,136 @@
+{
+  "legislative_session": "194th",
+  "identifier": "H4020",
+  "title": "An Act relative to owner occupancy requirement for accessory dwelling units",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "summary",
+      "abstract": "By Representative Kearney of Scituate, a petition (accompanied by bill, House, No. 4020) of Patrick Joseph Kearney relative to owner occupancy requirement for accessory dwelling units.  Municipalities and Regional Government."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Referred to the committee on Municipalities and Regional Government",
+      "date": "2025-04-10",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "committee on Municipalities and Regional Government",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2025-10-26T04:18:34Z"
+      }
+    },
+    {
+      "description": "Senate concurred",
+      "date": "2025-04-14",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-26T04:18:34Z"
+      }
+    },
+    {
+      "description": "Hearing scheduled for 07/29/2025 from 01:00 PM-05:00 PM in Gardner Auditorium",
+      "date": "2025-07-17",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-26T04:18:34Z"
+      }
+    },
+    {
+      "description": "Hearing rescheduled to 07/29/2025 from 01:00 PM-06:00 PM in Gardner Auditorium                                               and Virtual Hearing updated to New End Time",
+      "date": "2025-07-29",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-26T04:18:34Z"
+      }
+    },
+    {
+      "description": "Hearing rescheduled to 07/29/2025 from 01:00 PM-06:15 PM in Gardner Auditorium                                               and Virtual Hearing updated to New End Time",
+      "date": "2025-07-29",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-26T04:18:34Z"
+      }
+    },
+    {
+      "description": "Hearing rescheduled to 07/29/2025 from 01:00 PM-06:05 PM in Gardner Auditorium                                               and Virtual Hearing updated to New End Time",
+      "date": "2025-07-29",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-26T04:18:34Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Patrick Joseph Kearney",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Patrick Joseph Kearney\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [
+    {
+      "identifier": "HD 991",
+      "legislative_session": "194th",
+      "relation_type": "replaces"
+    }
+  ],
+  "versions": [
+    {
+      "note": "Bill Text",
+      "links": [
+        {
+          "url": "https://malegislature.gov/Bills/194/H4020.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://malegislature.gov/Bills/194/H4020",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ma/government",
+    "name": "Massachusetts",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ma"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-26T04:18:34Z"
+  }
+}

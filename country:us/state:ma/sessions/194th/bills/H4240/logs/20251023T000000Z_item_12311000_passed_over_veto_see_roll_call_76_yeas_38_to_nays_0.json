@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Item 1231-1000 passed over veto -see   Roll Call #76 (Yeas 38 to Nays 0)",
+    "date": "2025-10-23",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "veto-override-passage"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "H4240"
+}

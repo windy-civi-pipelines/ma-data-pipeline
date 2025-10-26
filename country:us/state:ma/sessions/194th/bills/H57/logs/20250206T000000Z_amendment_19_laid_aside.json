@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Amendment 19 laid aside",
+    "date": "2025-02-06",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "amendment-deferral"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "H57"
+}

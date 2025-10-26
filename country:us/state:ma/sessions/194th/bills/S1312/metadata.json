@@ -1,0 +1,226 @@
+{
+  "legislative_session": "194th",
+  "identifier": "S1312",
+  "title": "An Act ensuring domestic violence victims' protections for all employees in the commonwealth",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "summary",
+      "abstract": "By Mr. Fattman, a petition (accompanied by bill, Senate, No. 1312) of Ryan C. Fattman, Joseph D. McKenna, Alyson M. Sullivan-Almeida and Bruce E. Tarr for legislation to ensure domestic violence victims' protections for all employees in the commonwealth.  Labor and Workforce Development."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Referred to the committee on Labor and Workforce Development",
+      "date": "2025-02-27",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "committee on Labor and Workforce Development",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2025-10-26T04:18:35Z"
+      }
+    },
+    {
+      "description": "House concurred",
+      "date": "2025-02-27",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-26T04:18:35Z"
+      }
+    },
+    {
+      "description": "Hearing scheduled for 05/13/2025 from 11:00 AM-01:00 PM in B-1",
+      "date": "2025-05-07",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-26T04:18:35Z"
+      }
+    },
+    {
+      "description": "Bill reported favorably by committee and referred to the committee on Senate Ways and Means",
+      "date": "2025-08-07",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage-favorable",
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "the committee on Senate Ways and Means",
+          "entity_type": "organization",
+          "organization_id": null
+        },
+        {
+          "name": "committee on Senate Ways and Means",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2025-10-26T04:18:35Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Ryan C. Fattman",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Ryan C. Fattman\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Joseph D. McKenna",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Joseph D. McKenna\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Alyson M. Sullivan-Almeida",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Alyson M. Sullivan-Almeida\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Bruce E. Tarr",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Bruce E. Tarr\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Bradley H. Jones, Jr.",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Bradley H. Jones, Jr.\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Patrick M. O'Connor",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Patrick M. O'Connor\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Steven S. Howitt",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Steven S. Howitt\"}",
+      "organization_id": null
+    },
+    {
+      "name": "John J. Marsi",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"John J. Marsi\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Marcus S. Vaughn",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Marcus S. Vaughn\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Paul K. Frost",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Paul K. Frost\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Todd M. Smola",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Todd M. Smola\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Kelly A. Dooner",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Kelly A. Dooner\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Peter J. Durant",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Peter J. Durant\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [
+    {
+      "identifier": "SD 574",
+      "legislative_session": "194th",
+      "relation_type": "replaces"
+    }
+  ],
+  "versions": [
+    {
+      "note": "Bill Text",
+      "links": [
+        {
+          "url": "https://malegislature.gov/Bills/194/S1312.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://malegislature.gov/Bills/194/S1312",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ma/government",
+    "name": "Massachusetts",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ma"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-26T04:18:35Z"
+  }
+}

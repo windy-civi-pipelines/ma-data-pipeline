@@ -1,0 +1,350 @@
+{
+  "legislative_session": "194th",
+  "identifier": "S2522",
+  "title": "An Act strengthening health care protections in the Commonwealth",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "summary",
+      "abstract": "By Ms. Friedman, a petition (accompanied by bill, Senate, No. 2522) (subject to Joint Rule 12) of Cindy F. Friedman, Andrea Joy Campbell, Attorney General , Joanne M. Comerford, Julian Cyr and other members of the General Court for legislation to strengthen health care protections in the Commonwealth.  Health Care Financing."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Senate Rule 20 and Joint Rule 12 suspended",
+      "date": "2025-04-14",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-26T04:18:36Z"
+      }
+    },
+    {
+      "description": "Referred to the committee on Health Care Financing",
+      "date": "2025-04-14",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "committee on Health Care Financing",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2025-10-26T04:18:36Z"
+      }
+    },
+    {
+      "description": "Rules suspended",
+      "date": "2025-05-27",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-26T04:18:36Z"
+      }
+    },
+    {
+      "description": "House NON-concurred in the reference",
+      "date": "2025-05-27",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-26T04:18:36Z"
+      }
+    },
+    {
+      "description": "Referred to the committee on the Judiciary",
+      "date": "2025-05-27",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "committee on the Judiciary",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2025-10-26T04:18:36Z"
+      }
+    },
+    {
+      "description": "Rules suspended",
+      "date": "2025-05-29",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-26T04:18:36Z"
+      }
+    },
+    {
+      "description": "Senate receded from its referral to the committee on Health Care Financing",
+      "date": "2025-05-29",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-26T04:18:36Z"
+      }
+    },
+    {
+      "description": "Senate concurs in the reference to the committee on The Judiciary",
+      "date": "2025-05-29",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-26T04:18:36Z"
+      }
+    },
+    {
+      "description": "Hearing scheduled for 06/03/2025 from 01:00 PM-05:00 PM in A-2",
+      "date": "2025-05-29",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-26T04:18:36Z"
+      }
+    },
+    {
+      "description": "Bill reported favorably by committee and referred to the committee on Senate Ways and Means",
+      "date": "2025-06-16",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage-favorable",
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "the committee on Senate Ways and Means",
+          "entity_type": "organization",
+          "organization_id": null
+        },
+        {
+          "name": "committee on Senate Ways and Means",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2025-10-26T04:18:36Z"
+      }
+    },
+    {
+      "description": "Committee recommended ought to pass with an amendment, substituting a new draft, see S2538",
+      "date": "2025-06-18",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-26T04:18:36Z"
+      }
+    },
+    {
+      "description": "Order relative to subject matter adopted",
+      "date": "2025-06-18",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-26T04:18:36Z"
+      }
+    },
+    {
+      "description": "Placed in the Orders of the Day for Thursday, June 26, 2025",
+      "date": "2025-06-18",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-26T04:18:36Z"
+      }
+    },
+    {
+      "description": "Read second",
+      "date": "2025-06-26",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-26T04:18:36Z"
+      }
+    },
+    {
+      "description": "New draft substituted, see S2538",
+      "date": "2025-06-26",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-26T04:18:36Z"
+      }
+    },
+    {
+      "description": "Hearing scheduled for 06/03/2025 from 01:00 PM-09:00 PM in A-2",
+      "date": "2025-10-20",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-26T04:18:36Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Cindy F. Friedman",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Cindy F. Friedman\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Andrea Joy Campbell",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Andrea Joy Campbell\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Joanne M. Comerford",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Joanne M. Comerford\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Julian Cyr",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Julian Cyr\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Jacob R. Oliveira",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Jacob R. Oliveira\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Rebecca L. Rausch",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Rebecca L. Rausch\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Carmine Lawrence Gentile",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Carmine Lawrence Gentile\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Erika Uyterhoeven",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Erika Uyterhoeven\"}",
+      "organization_id": null
+    },
+    {
+      "name": "David M. Rogers",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"David M. Rogers\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Pavel M. Payano",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Pavel M. Payano\"}",
+      "organization_id": null
+    },
+    {
+      "name": "John Francis Moran",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"John Francis Moran\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Jason M. Lewis",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Jason M. Lewis\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [
+    {
+      "identifier": "SD 2808",
+      "legislative_session": "194th",
+      "relation_type": "replaces"
+    }
+  ],
+  "versions": [
+    {
+      "note": "Bill Text",
+      "links": [
+        {
+          "url": "https://malegislature.gov/Bills/194/S2522.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://malegislature.gov/Bills/194/S2522",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ma/government",
+    "name": "Massachusetts",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ma"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-26T04:18:36Z"
+  }
+}

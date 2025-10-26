@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "The following amendments were considered as one and adopted:408, 411, 412, 414, 415, 416, 417, 418, 419, 420, 421, 431, 432, 434, 436, 439, 440, 441, 444, 460, 462, 465, 473, 475, 478, 485, 486, 489, 497, 502, 506, 509, 512, 516, 521, 525, 529, 532, 533, 537, 538, 539, 548, 558, 561, 562, 563, 567, 569, 573, 577, 578, 591, 596",
+    "date": "2025-05-20",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "amendment-passage"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "S3"
+}

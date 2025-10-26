@@ -1,0 +1,196 @@
+{
+  "legislative_session": "194th",
+  "identifier": "H3494",
+  "title": "An Act to improve outdoor lighting, conserve energy, and increase dark-sky visibility",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "summary",
+      "abstract": "By Representatives Garballey of Arlington and Cataldo of Concord, a petition (accompanied by bill, House, No. 3494) of Sean Garballey, Simon Cataldo and others relative to improving outdoor lighting and increasing dark-sky visibility.  Telecommunications, Utilities and Energy."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Referred to the committee on Telecommunications, Utilities and Energy",
+      "date": "2025-02-27",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "committee on Telecommunications, Utilities and Energy",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2025-10-26T04:18:35Z"
+      }
+    },
+    {
+      "description": "Senate concurred",
+      "date": "2025-02-27",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-26T04:18:35Z"
+      }
+    },
+    {
+      "description": "Hearing scheduled for 09/25/2025 from 01:00 PM-05:00 PM in A-1",
+      "date": "2025-09-15",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-26T04:18:35Z"
+      }
+    },
+    {
+      "description": "Hearing rescheduled to 09/25/2025 from 01:00 PM-04:30 PM in A-1                                                                                                                   and Virtual Hearing updated to New End Time",
+      "date": "2025-09-25",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-26T04:18:35Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Sean Garballey",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Sean Garballey\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Simon Cataldo",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Simon Cataldo\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Natalie M. Blais",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Natalie M. Blais\"}",
+      "organization_id": null
+    },
+    {
+      "name": "James B. Eldridge",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"James B. Eldridge\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Bruce E. Tarr",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Bruce E. Tarr\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Margaret R. Scarsdale",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Margaret R. Scarsdale\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Mike Connolly",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Mike Connolly\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Edward J. Kennedy",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Edward J. Kennedy\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Christine P. Barber",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Christine P. Barber\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Danillo A. Sena",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Danillo A. Sena\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Joseph D. McKenna",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Joseph D. McKenna\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [
+    {
+      "identifier": "HD 2800",
+      "legislative_session": "194th",
+      "relation_type": "replaces"
+    }
+  ],
+  "versions": [
+    {
+      "note": "Bill Text",
+      "links": [
+        {
+          "url": "https://malegislature.gov/Bills/194/H3494.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://malegislature.gov/Bills/194/H3494",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ma/government",
+    "name": "Massachusetts",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ma"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-26T04:18:35Z"
+  }
+}

@@ -1,0 +1,220 @@
+{
+  "legislative_session": "194th",
+  "identifier": "H1542",
+  "title": "An Act to study single-stair residential buildings",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "summary",
+      "abstract": "By Representative Kilcoyne of Clinton, a petition (accompanied by bill, House, No. 1542) of Meghan K. Kilcoyne and others for legislation to establish a special commission to study and define conditions under which single-stair multi-family residential buildings up to six stories shall be legalized.  Housing."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Referred to the committee on Housing",
+      "date": "2025-02-27",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "committee on Housing",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2025-10-26T04:18:32Z"
+      }
+    },
+    {
+      "description": "Senate concurred",
+      "date": "2025-02-27",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-26T04:18:32Z"
+      }
+    },
+    {
+      "description": "Hearing scheduled for 06/25/2025 from 01:00 PM-05:00 PM in B-1",
+      "date": "2025-06-18",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-26T04:18:32Z"
+      }
+    },
+    {
+      "description": "Reporting date extended to Friday, October 31, 2025",
+      "date": "2025-09-18",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-26T04:18:32Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Meghan K. Kilcoyne",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Meghan K. Kilcoyne\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Steven Owens",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Steven Owens\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Christine P. Barber",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Christine P. Barber\"}",
+      "organization_id": null
+    },
+    {
+      "name": "John Francis Moran",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"John Francis Moran\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Marjorie C. Decker",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Marjorie C. Decker\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Samantha Monta\u00f1o",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Samantha Monta\\u00f1o\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Mike Connolly",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Mike Connolly\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Lindsay N. Sabadosa",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Lindsay N. Sabadosa\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Manny Cruz",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Manny Cruz\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Natalie M. Higgins",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Natalie M. Higgins\"}",
+      "organization_id": null
+    },
+    {
+      "name": "James B. Eldridge",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"James B. Eldridge\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Christopher M. Markey",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Christopher M. Markey\"}",
+      "organization_id": null
+    },
+    {
+      "name": "James C. Arena-DeRosa",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"James C. Arena-DeRosa\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Kevin G. Honan",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Kevin G. Honan\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [
+    {
+      "identifier": "HD 1392",
+      "legislative_session": "194th",
+      "relation_type": "replaces"
+    }
+  ],
+  "versions": [
+    {
+      "note": "Bill Text",
+      "links": [
+        {
+          "url": "https://malegislature.gov/Bills/194/H1542.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://malegislature.gov/Bills/194/H1542",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ma/government",
+    "name": "Massachusetts",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ma"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-26T04:18:32Z"
+  }
+}

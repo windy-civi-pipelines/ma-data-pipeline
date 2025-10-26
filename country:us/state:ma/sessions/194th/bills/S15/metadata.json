@@ -1,0 +1,414 @@
+{
+  "legislative_session": "194th",
+  "identifier": "S15",
+  "title": "Proposed Joint Rules for the Senate and House of Representatives for the 2025-2026 Legislative Session.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "summary",
+      "abstract": "Senate, February 6, 2026 -- Text of the proposed Joint Rules recommended by the Temporary Committee on Rules to be adopted as the Joint Rules governing the 2025-2026 legislative session."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Reported from the Temporary Committee on Rules",
+      "date": "2025-02-06",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-26T04:18:31Z"
+      }
+    },
+    {
+      "description": "Order relative to subject matter adopted",
+      "date": "2025-02-06",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-26T04:18:31Z"
+      }
+    },
+    {
+      "description": "Placed in the Orders of the Day for Wednesday, February 12, 2025",
+      "date": "2025-02-06",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-26T04:18:31Z"
+      }
+    },
+    {
+      "description": "Amendment #1 (Tarr) rejected",
+      "date": "2025-02-12",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-failure"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-26T04:18:31Z"
+      }
+    },
+    {
+      "description": "Amendment #2 (Tarr) rejected -see   Roll Call #2 (Yeas 5 to Nays 33)",
+      "date": "2025-02-12",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-failure"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-26T04:18:31Z"
+      }
+    },
+    {
+      "description": "Amendment #3 (Tarr) rejected",
+      "date": "2025-02-12",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-failure"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-26T04:18:31Z"
+      }
+    },
+    {
+      "description": "Amendment #4 (Tarr) rejected",
+      "date": "2025-02-12",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-failure"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-26T04:18:31Z"
+      }
+    },
+    {
+      "description": "Amendment #5 (Tarr) adopted",
+      "date": "2025-02-12",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-26T04:18:31Z"
+      }
+    },
+    {
+      "description": "Amendment #7 (Tarr) rejected",
+      "date": "2025-02-12",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-failure"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-26T04:18:31Z"
+      }
+    },
+    {
+      "description": "Amendment #8 (Tarr) rejected",
+      "date": "2025-02-12",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-failure"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-26T04:18:31Z"
+      }
+    },
+    {
+      "description": "Amendment #9 (Tarr) rejected  -see   Roll Call #3 (Yeas 6 to Nays 32)",
+      "date": "2025-02-12",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-failure"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-26T04:18:31Z"
+      }
+    },
+    {
+      "description": "Amendment #10 (Tarr) rejected -see   Roll Call #4 (Yeas 5 to Nays 33)",
+      "date": "2025-02-12",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-failure"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-26T04:18:31Z"
+      }
+    },
+    {
+      "description": "Amendment #11 (Tarr) rejected",
+      "date": "2025-02-12",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-failure"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-26T04:18:31Z"
+      }
+    },
+    {
+      "description": "Amendment #12 (Tarr) rejected",
+      "date": "2025-02-12",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-failure"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-26T04:18:31Z"
+      }
+    },
+    {
+      "description": "Amendment #13 (Tarr) rejected  -see   Roll Call #5 (Yeas 6 to Nays 32)",
+      "date": "2025-02-12",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-failure"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-26T04:18:31Z"
+      }
+    },
+    {
+      "description": "Amendment #14 (Tarr) rejected",
+      "date": "2025-02-12",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-failure"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-26T04:18:31Z"
+      }
+    },
+    {
+      "description": "Amendment #19 (Jehlen) rejected",
+      "date": "2025-02-12",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-failure"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-26T04:18:31Z"
+      }
+    },
+    {
+      "description": "Amendment #21 (Keenan) rejected",
+      "date": "2025-02-12",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-failure"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-26T04:18:31Z"
+      }
+    },
+    {
+      "description": "Amendment #22 (Keenan) rejected -see   Roll Call #6 (Yeas 9 to Nays 29)",
+      "date": "2025-02-12",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-failure"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-26T04:18:31Z"
+      }
+    },
+    {
+      "description": "Amendment #24 (Tarr) rejected",
+      "date": "2025-02-12",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-failure"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-26T04:18:31Z"
+      }
+    },
+    {
+      "description": "Amendment #25 (Feeney) rejected",
+      "date": "2025-02-12",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-failure"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-26T04:18:31Z"
+      }
+    },
+    {
+      "description": "Amendment #26 (Keenan) adopted  -see   Roll Call #7 (Yeas 38 to Nays 0)",
+      "date": "2025-02-12",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-26T04:18:31Z"
+      }
+    },
+    {
+      "description": "Amendment #27 (Keenan) rejected",
+      "date": "2025-02-12",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-failure"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-26T04:18:31Z"
+      }
+    },
+    {
+      "description": "Amendment #28 (Keenan) rejected",
+      "date": "2025-02-12",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-failure"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-26T04:18:31Z"
+      }
+    },
+    {
+      "description": "Amendment #29 (Keenan) rejected  -see   Roll Call #8 (Yeas 6 to Nays 32)",
+      "date": "2025-02-12",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-failure"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-26T04:18:31Z"
+      }
+    },
+    {
+      "description": "Amendment #20 (Jehlen) adopted",
+      "date": "2025-02-13",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-26T04:18:31Z"
+      }
+    },
+    {
+      "description": "Amendment #16 (Rausch) rejected",
+      "date": "2025-02-13",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-failure"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-26T04:18:31Z"
+      }
+    },
+    {
+      "description": "Amendment #17 (Rausch) adopted",
+      "date": "2025-02-13",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-26T04:18:31Z"
+      }
+    },
+    {
+      "description": "Amendment #15 (Lovely) adopted",
+      "date": "2025-02-13",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-26T04:18:31Z"
+      }
+    },
+    {
+      "description": "Reprinted as amended, see S18",
+      "date": "2025-02-13",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-26T04:18:31Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Temporary Senate Committee on Rules",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"Temporary Senate Committee on Rules\"}"
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Bill Text",
+      "links": [
+        {
+          "url": "https://malegislature.gov/Bills/194/S15.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://malegislature.gov/Bills/194/S15",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ma/government",
+    "name": "Massachusetts",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ma"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-26T04:18:31Z"
+  }
+}

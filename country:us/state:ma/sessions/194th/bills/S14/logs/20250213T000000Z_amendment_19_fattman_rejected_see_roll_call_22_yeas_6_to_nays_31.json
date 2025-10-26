@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Amendment #19 (Fattman) rejected -see   Roll Call #22 (Yeas 6 to Nays 31)",
+    "date": "2025-02-13",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "amendment-failure"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "S14"
+}

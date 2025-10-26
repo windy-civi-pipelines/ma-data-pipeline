@@ -1,0 +1,106 @@
+{
+  "legislative_session": "194th",
+  "identifier": "H4375",
+  "title": "An Act to preserve and advance Massachusetts\u2019 competitiveness in discovery, research, and innovation for a vibrant economy",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "summary",
+      "abstract": "Message from Her Excellency the Governor recommending legislation relative to preserve and advance Massachusetts\u2019 competitiveness in discovery, research, and innovation for a vibrant economy"
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Referred to the committee on Economic Development and Emerging Technologies",
+      "date": "2025-08-04",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "committee on Economic Development and Emerging Technologies",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2025-10-26T04:18:32Z"
+      }
+    },
+    {
+      "description": "Senate concurred",
+      "date": "2025-08-07",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-26T04:18:32Z"
+      }
+    },
+    {
+      "description": "Hearing scheduled for 10/30/2025 from 12:30 PM-02:30 PM in A-1",
+      "date": "2025-10-08",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-26T04:18:32Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Maura T. Healey",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"Maura T. Healey\"}"
+    }
+  ],
+  "related_bills": [
+    {
+      "identifier": "HD 4990",
+      "legislative_session": "194th",
+      "relation_type": "replaces"
+    }
+  ],
+  "versions": [
+    {
+      "note": "Bill Text",
+      "links": [
+        {
+          "url": "https://malegislature.gov/Bills/194/H4375.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://malegislature.gov/Bills/194/H4375",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ma/government",
+    "name": "Massachusetts",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ma"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-26T04:18:32Z"
+  }
+}

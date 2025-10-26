@@ -1,0 +1,114 @@
+{
+  "legislative_session": "194th",
+  "identifier": "H4571",
+  "title": "An Act authorizing the town of Arlington to prohibit use of second generation anti-coagulant rodenticides by commercial pesticide applicators",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "summary",
+      "abstract": "By Representative Garballey of Arlington and Senator Friedman, a joint petition (accompanied by bill, House, No. 4571) of Sean Garballey and Cindy F. Friedman (by vote of the town) that the town of Arlington be authorized to prohibit use of second generation anti-coagulant rodenticides by commercial pesticide applicators in said town.  Environment and Natural Resources.  [Local Approval Received.]"
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Referred to the committee on Environment and Natural Resources",
+      "date": "2025-09-29",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "committee on Environment and Natural Resources",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2025-10-26T04:18:34Z"
+      }
+    },
+    {
+      "description": "Senate concurred",
+      "date": "2025-10-02",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-26T04:18:34Z"
+      }
+    },
+    {
+      "description": "Hearing scheduled for 10/27/2025 from 01:00 PM-05:00 PM in A-1",
+      "date": "2025-10-23",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-26T04:18:34Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Sean Garballey",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Sean Garballey\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Cindy F. Friedman",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Cindy F. Friedman\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [
+    {
+      "identifier": "HD 5188",
+      "legislative_session": "194th",
+      "relation_type": "replaces"
+    }
+  ],
+  "versions": [
+    {
+      "note": "Bill Text",
+      "links": [
+        {
+          "url": "https://malegislature.gov/Bills/194/H4571.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://malegislature.gov/Bills/194/H4571",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ma/government",
+    "name": "Massachusetts",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ma"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-26T04:18:34Z"
+  }
+}

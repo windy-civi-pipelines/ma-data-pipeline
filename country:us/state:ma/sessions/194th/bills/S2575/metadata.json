@@ -1,0 +1,196 @@
+{
+  "legislative_session": "194th",
+  "identifier": "S2575",
+  "title": "An Act making appropriations for the fiscal year 2025 to provide for supplementing certain existing appropriations and for certain other activities and projects",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "summary",
+      "abstract": "Report of the committee of conference on the disagreeing votes of the two branches with reference to the House amendment to the Senate Bill making appropriations for the fiscal year 2025 to provide for supplementing certain existing appropriations and for certain other activities and projects (Senate, No. 2540) (amended by the House by striking out all after the enacting clause and inserting in place thereof the text of House document numbered 4265),-- reports, in part, a \u201cBill making appropriations for the fiscal year 2025 to provide for supplementing certain existing appropriations and for certain other activities and projects.\u201d (Senate, No. 2575)."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Reported (in part) from a committee  of conference",
+      "date": "2025-07-31",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-26T04:18:39Z"
+      }
+    },
+    {
+      "description": "Reported on a part of S2540",
+      "date": "2025-07-31",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-26T04:18:39Z"
+      }
+    },
+    {
+      "description": "Committee of conference report accepted",
+      "date": "2025-07-31",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-26T04:18:39Z"
+      }
+    },
+    {
+      "description": "Referred to the committee on House Steering, Policy and Scheduling",
+      "date": "2025-07-31",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "committee on House Steering, Policy and Scheduling",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2025-10-26T04:18:39Z"
+      }
+    },
+    {
+      "description": "Rules suspended",
+      "date": "2025-07-31",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-26T04:18:39Z"
+      }
+    },
+    {
+      "description": "Committee reported that the matter be placed in the Orders of the Day for the next sitting, the question being on acceptance",
+      "date": "2025-07-31",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-26T04:18:39Z"
+      }
+    },
+    {
+      "description": "Committee of conference report accepted, in concurrence - 150 YEAS to 6 NAYS (See YEA and NAY No. 71 )",
+      "date": "2025-07-31",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-26T04:18:39Z"
+      }
+    },
+    {
+      "description": "Emergency preamble adopted",
+      "date": "2025-07-31",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-26T04:18:39Z"
+      }
+    },
+    {
+      "description": "Emergency preamble adopted",
+      "date": "2025-07-31",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-26T04:18:39Z"
+      }
+    },
+    {
+      "description": "Enacted",
+      "date": "2025-07-31",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-26T04:18:39Z"
+      }
+    },
+    {
+      "description": "Enacted and laid before the Governor",
+      "date": "2025-07-31",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-26T04:18:39Z"
+      }
+    },
+    {
+      "description": "Signed by the Governor, Chapter 14 of the Acts of 2025",
+      "date": "2025-08-05",
+      "organization_id": "~{\"classification\": \"executive\"}",
+      "classification": [
+        "executive-signature"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-26T04:18:39Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Supplemental Appropriations Bill",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"Supplemental Appropriations Bill\"}"
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Bill Text",
+      "links": [
+        {
+          "url": "https://malegislature.gov/Bills/194/S2575.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://malegislature.gov/Bills/194/S2575",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ma/government",
+    "name": "Massachusetts",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ma"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-26T04:18:39Z"
+  }
+}

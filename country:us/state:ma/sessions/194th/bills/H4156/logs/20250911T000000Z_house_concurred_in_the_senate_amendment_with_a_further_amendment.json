@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "House concurred in the Senate amendment with a further amendment",
+    "date": "2025-09-11",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "H4156"
+}

@@ -1,0 +1,184 @@
+{
+  "legislative_session": "194th",
+  "identifier": "SD1301",
+  "title": "An Act to strengthen representation and promote democratic, transparent, and efficient lawmaking",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "proposed bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "summary",
+      "abstract": "A petition (accompanied by bill) of Jonathan Hecht, John Lippitt, Mary Connaughton, Peter Enrich and others for legislation to strengthen representation and promote democratic, transparent, and efficient lawmaking."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Placed on file",
+      "date": "2025-01-21",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-26T04:18:37Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Jonathan Hecht",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Jonathan Hecht\"}",
+      "organization_id": null
+    },
+    {
+      "name": "John Lippitt",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"John Lippitt\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Mary Connaughton",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Mary Connaughton\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Peter Enrich",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Peter Enrich\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Scotia Hille",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Scotia Hille\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Jay Kaufman",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Jay Kaufman\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Jeanne Kempthorne",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Jeanne Kempthorne\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Jennifer Nassour",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Jennifer Nassour\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Jordan Berg Powers",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Jordan Berg Powers\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Lisa Baci",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Lisa Baci\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Elizabeth Bradt",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Elizabeth Bradt\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Douglas Cannon",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Douglas Cannon\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Cathleen Cavell",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Cathleen Cavell\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Jeanne Krieger",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Jeanne Krieger\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Mary Ann Stewart",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Mary Ann Stewart\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Bill Text",
+      "links": [
+        {
+          "url": "https://malegislature.gov/Bills/194/SD1301.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://malegislature.gov/Bills/194/SD1301",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ma/government",
+    "name": "Massachusetts",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ma"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-26T04:18:37Z"
+  }
+}

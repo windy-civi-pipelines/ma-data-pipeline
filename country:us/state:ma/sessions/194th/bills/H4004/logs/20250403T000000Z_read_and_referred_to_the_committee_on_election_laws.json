@@ -1,0 +1,23 @@
+{
+  "action": {
+    "description": "Read; and referred to the committee on Election Laws",
+    "date": "2025-04-03",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "referral-committee"
+    ],
+    "related_entities": [
+      {
+        "name": "committee on Election Laws",
+        "entity_type": "organization",
+        "organization_id": null
+      },
+      {
+        "name": "the committee on Election Laws",
+        "entity_type": "organization",
+        "organization_id": null
+      }
+    ]
+  },
+  "bill_id": "H4004"
+}

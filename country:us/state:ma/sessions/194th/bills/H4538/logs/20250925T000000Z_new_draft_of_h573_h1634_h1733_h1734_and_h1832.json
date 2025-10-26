@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "New draft of H573, H1634, H1733, H1734 and H1832",
+    "date": "2025-09-25",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "H4538"
+}

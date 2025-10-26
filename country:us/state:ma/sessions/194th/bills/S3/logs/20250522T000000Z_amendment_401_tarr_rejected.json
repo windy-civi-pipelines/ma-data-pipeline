@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Amendment #401 (Tarr) rejected",
+    "date": "2025-05-22",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "amendment-failure"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "S3"
+}

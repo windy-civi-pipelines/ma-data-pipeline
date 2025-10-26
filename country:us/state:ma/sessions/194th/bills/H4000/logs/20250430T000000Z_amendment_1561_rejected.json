@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Amendment 1561 rejected",
+    "date": "2025-04-30",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "amendment-failure"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "H4000"
+}

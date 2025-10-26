@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "New draft of H235, H236, H246, H249, H258, H259, H265 and H266",
+    "date": "2025-10-15",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "H4599"
+}

@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Reporting date extended to Tuesday, October 21, 2025",
+    "date": "2025-09-11",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "H2401"
+}

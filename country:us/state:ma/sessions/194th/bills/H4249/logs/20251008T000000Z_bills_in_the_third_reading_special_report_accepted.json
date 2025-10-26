@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Bills in the Third Reading special report accepted",
+    "date": "2025-10-08",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "H4249"
+}

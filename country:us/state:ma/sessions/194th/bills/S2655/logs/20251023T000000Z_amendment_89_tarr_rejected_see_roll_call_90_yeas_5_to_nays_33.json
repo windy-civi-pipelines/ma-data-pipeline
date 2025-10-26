@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Amendment #89 (Tarr) rejected -see   Roll Call #90 (Yeas 5 to Nays 33)",
+    "date": "2025-10-23",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "amendment-failure"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "S2655"
+}

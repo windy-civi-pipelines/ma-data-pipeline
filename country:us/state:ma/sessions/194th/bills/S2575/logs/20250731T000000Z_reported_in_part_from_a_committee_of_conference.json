@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Reported (in part) from a committee  of conference",
+    "date": "2025-07-31",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "S2575"
+}

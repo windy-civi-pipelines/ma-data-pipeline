@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Placed in the Orders of the Day for Wednesday, February 12, 2025",
+    "date": "2025-02-10",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "H58"
+}

@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Hearing scheduled for 07/01/2025 from 01:00 PM-03:30 PM in Gardner Auditorium",
+    "date": "2025-06-24",
+    "organization_id": "~{\"classification\": \"legislature\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "S879"
+}

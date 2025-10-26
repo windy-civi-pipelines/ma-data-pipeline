@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Amendment 403 laid aside",
+    "date": "2025-04-29",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "amendment-deferral"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "H4000"
+}

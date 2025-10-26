@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Amendment #21 (Rausch) rejected  -see   Roll Call #14 (Yeas 10 to Nays 28)",
+    "date": "2025-02-12",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "amendment-failure"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "S16"
+}

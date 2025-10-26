@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Amended by substitution of a bill with the same title, see H4645",
+    "date": "2025-10-22",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "amendment-passage"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "H1877"
+}

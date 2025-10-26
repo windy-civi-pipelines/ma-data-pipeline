@@ -1,0 +1,24 @@
+{
+  "action": {
+    "description": "Bill reported favorably by committee and referred to the committee on Senate Ways and Means",
+    "date": "2025-09-11",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "committee-passage-favorable",
+      "referral-committee"
+    ],
+    "related_entities": [
+      {
+        "name": "the committee on Senate Ways and Means",
+        "entity_type": "organization",
+        "organization_id": null
+      },
+      {
+        "name": "committee on Senate Ways and Means",
+        "entity_type": "organization",
+        "organization_id": null
+      }
+    ]
+  },
+  "bill_id": "S1422"
+}

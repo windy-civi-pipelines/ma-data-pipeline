@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Substituted for H2269",
+    "date": "2025-09-29",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "H4569"
+}

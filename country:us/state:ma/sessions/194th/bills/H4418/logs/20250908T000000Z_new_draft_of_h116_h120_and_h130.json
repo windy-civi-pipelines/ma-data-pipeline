@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "New draft of H116, H120 and H130",
+    "date": "2025-09-08",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "H4418"
+}

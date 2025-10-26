@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Signed by the Governor, Chapter 8 of the Ats of 2025",
+    "date": "2025-07-01",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "executive-signature"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "H4237"
+}

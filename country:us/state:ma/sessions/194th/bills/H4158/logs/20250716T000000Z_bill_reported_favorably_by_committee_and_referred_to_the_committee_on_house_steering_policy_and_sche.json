@@ -1,0 +1,24 @@
+{
+  "action": {
+    "description": "Bill reported favorably by committee and referred to the committee on House Steering, Policy and Scheduling",
+    "date": "2025-07-16",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "committee-passage-favorable",
+      "referral-committee"
+    ],
+    "related_entities": [
+      {
+        "name": "committee on House Steering, Policy and Scheduling",
+        "entity_type": "organization",
+        "organization_id": null
+      },
+      {
+        "name": "the committee on House Steering, Policy and Scheduling",
+        "entity_type": "organization",
+        "organization_id": null
+      }
+    ]
+  },
+  "bill_id": "H4158"
+}

@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Proposal for Constitutional Amendment reported favorably by committee and placed on file",
+    "date": "2025-05-01",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "committee-passage-favorable"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "S11"
+}

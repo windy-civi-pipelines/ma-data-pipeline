@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Order relative to subject matter adopted",
+    "date": "2025-10-09",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "S2640"
+}

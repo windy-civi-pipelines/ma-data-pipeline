@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Amendment 1 pending",
+    "date": "2025-02-25",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "amendment-deferral"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "H2024"
+}

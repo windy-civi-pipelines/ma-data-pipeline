@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "The following amendments were considered as one and adopted:609, 620, 621, 625, 631, 632, 634, 635, 638, 647, 649, 650, 660, 664, 666, 675, 677, 678, 682, 684, 690, 691, 695, 696, 699, 704, 706, 711, 713, 721, 723, 725, 726, 733, 735, 737, 738, 748, 750, 754, 762, 763, 768, 777, 779, 780, 783, 789",
+    "date": "2025-05-20",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "amendment-passage"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "S3"
+}

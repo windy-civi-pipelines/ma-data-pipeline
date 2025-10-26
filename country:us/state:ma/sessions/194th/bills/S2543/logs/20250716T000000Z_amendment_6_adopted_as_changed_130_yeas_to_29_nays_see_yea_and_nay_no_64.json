@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Amendment 6 adopted, as changed - 130 YEAS to 29 NAYS (See YEA and NAY No. 64 )",
+    "date": "2025-07-16",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "amendment-passage"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "S2543"
+}

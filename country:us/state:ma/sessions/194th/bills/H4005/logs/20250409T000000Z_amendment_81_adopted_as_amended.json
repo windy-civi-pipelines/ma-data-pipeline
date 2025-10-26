@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Amendment 81 adopted, as amended",
+    "date": "2025-04-09",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "amendment-passage"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "H4005"
+}

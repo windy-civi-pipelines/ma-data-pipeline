@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Item 7002-1091 passed over veto - 142 YEAS to 13 NAYS (See YEA and NAY No. 82 )",
+    "date": "2025-10-08",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "veto-override-passage"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "H4240"
+}

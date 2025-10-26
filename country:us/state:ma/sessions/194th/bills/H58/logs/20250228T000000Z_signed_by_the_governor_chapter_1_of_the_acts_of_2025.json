@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Signed by the Governor, Chapter 1 of the Acts of 2025",
+    "date": "2025-02-28",
+    "organization_id": "~{\"classification\": \"executive\"}",
+    "classification": [
+      "executive-signature"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "H58"
+}

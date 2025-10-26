@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Committee of conference report accepted -\r\n139 YEAS to 6 NAYS (See YEA and NAY No. 61 )",
+    "date": "2025-06-30",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "H4240"
+}

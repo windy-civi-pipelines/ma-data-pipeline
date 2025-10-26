@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Point of Order well taken",
+    "date": "2025-10-22",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "H4644"
+}

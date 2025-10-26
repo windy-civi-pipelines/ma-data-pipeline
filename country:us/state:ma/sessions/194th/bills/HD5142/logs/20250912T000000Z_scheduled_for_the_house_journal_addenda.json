@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Scheduled for the House Journal Addenda",
+    "date": "2025-09-12",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "HD5142"
+}

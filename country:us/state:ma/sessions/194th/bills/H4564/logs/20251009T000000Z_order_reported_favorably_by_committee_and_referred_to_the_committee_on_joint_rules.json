@@ -1,0 +1,24 @@
+{
+  "action": {
+    "description": "Order reported favorably by committee and referred to the committee on Joint Rules",
+    "date": "2025-10-09",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "committee-passage-favorable",
+      "referral-committee"
+    ],
+    "related_entities": [
+      {
+        "name": "the committee on Joint Rules",
+        "entity_type": "organization",
+        "organization_id": null
+      },
+      {
+        "name": "committee on Joint Rules",
+        "entity_type": "organization",
+        "organization_id": null
+      }
+    ]
+  },
+  "bill_id": "H4564"
+}

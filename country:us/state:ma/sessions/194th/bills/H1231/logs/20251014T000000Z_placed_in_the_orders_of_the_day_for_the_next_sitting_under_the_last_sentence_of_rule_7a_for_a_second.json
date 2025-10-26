@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Placed in the Orders of the Day for the next sitting (under the last sentence of Rule 7A) for a second reading",
+    "date": "2025-10-14",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "H1231"
+}

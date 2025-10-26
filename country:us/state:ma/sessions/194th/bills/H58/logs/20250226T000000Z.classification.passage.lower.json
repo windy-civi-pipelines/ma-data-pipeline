@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Enacted - 127 YEAS to 23 NAYS (See YEA and NAY No. 25 )",
+    "date": "2025-02-26",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "passage"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "H58"
+}

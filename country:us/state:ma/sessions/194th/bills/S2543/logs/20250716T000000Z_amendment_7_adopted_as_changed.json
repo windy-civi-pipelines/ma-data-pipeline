@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Amendment 7 adopted, as changed",
+    "date": "2025-07-16",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "amendment-passage"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "S2543"
+}

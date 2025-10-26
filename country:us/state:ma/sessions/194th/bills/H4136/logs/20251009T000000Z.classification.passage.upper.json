@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Enacted and laid before the Governor",
+    "date": "2025-10-09",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "passage"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "H4136"
+}

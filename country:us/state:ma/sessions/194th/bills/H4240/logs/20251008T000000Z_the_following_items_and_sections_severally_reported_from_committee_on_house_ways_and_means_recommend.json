@@ -1,0 +1,23 @@
+{
+  "action": {
+    "description": "The following items and sections severally reported from committee on House Ways and Means recommending, in each instance, that the action of the General Court stand; and the items and sections severally were referred to the committee on House Steering, Policy and Scheduling",
+    "date": "2025-10-08",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "referral-committee"
+    ],
+    "related_entities": [
+      {
+        "name": "committee on House Steering, Policy and Scheduling",
+        "entity_type": "organization",
+        "organization_id": null
+      },
+      {
+        "name": "the committee on House Steering, Policy and Scheduling",
+        "entity_type": "organization",
+        "organization_id": null
+      }
+    ]
+  },
+  "bill_id": "H4240"
+}

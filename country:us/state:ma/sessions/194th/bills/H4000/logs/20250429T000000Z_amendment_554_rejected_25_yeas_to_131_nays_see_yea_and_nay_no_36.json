@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Amendment 554 rejected -\r\n25 YEAS to 131 NAYS (See YEA and NAY No. 36 )",
+    "date": "2025-04-29",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "amendment-failure"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "H4000"
+}

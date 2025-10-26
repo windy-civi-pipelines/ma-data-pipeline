@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Hearing canceled \u2013 new hearing TBD",
+    "date": "2025-07-14",
+    "organization_id": "~{\"classification\": \"legislature\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "H3211"
+}

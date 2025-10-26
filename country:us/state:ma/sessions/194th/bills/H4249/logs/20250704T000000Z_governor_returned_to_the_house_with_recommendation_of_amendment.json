@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Governor returned to the House with recommendation of amendment",
+    "date": "2025-07-04",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "H4249"
+}

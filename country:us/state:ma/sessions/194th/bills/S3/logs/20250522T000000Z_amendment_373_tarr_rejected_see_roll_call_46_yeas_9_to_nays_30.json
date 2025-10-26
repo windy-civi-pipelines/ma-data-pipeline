@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Amendment #373 (Tarr) rejected -see   Roll Call #46 (Yeas 9 to Nays 30)",
+    "date": "2025-05-22",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "amendment-failure"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "S3"
+}

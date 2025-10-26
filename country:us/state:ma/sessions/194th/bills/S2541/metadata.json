@@ -1,0 +1,106 @@
+{
+  "legislative_session": "194th",
+  "identifier": "S2541",
+  "title": "An Act to reduce plastics",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "summary",
+      "abstract": "Senate, June 23, 2025 -- The committee on Environment and Natural Resources, to whom was referred the petitions (accompanied by bill, Senate, No. 543) of Michael J. Barrett for legislation to reduce disposable plastic straw waste; (accompanied by bill, Senate, No. 554) of Cynthia Stone Creem for legislation to establish the Sustainable Food Service Ware Act; (accompanied by bill, Senate, No. 589) of James B. Eldridge and Steven Owens for legislation to protect wastewater and sewerage systems through the labeling of non-flushable wipes; (accompanied by bill, Senate, No. 590) of James B. Eldridge and Joanne M. Comerford for legislation relative to plastic bag reduction; (accompanied by bill, Senate, No. 609) of John F. Keenan for legislation to prohibit hotels from providing plastic-packaged personal care products; (accompanied by bill, Senate, No. 629) of Jason M. Lewis and Joanne M. Comerford for legislation to reduce the use of polystyrene, opting for reusable alternatives to protect the environment; (accompanied by bill, Senate, No. 630) of Jason M. Lewis, Joanne M. Comerford and James B. Eldridge for legislation to reduce single-use plastics from the environment; (accompanied by bill, Senate, No. 643) of Michael O. Moore for legislation to define recyclable beverage containers; and (accompanied by bill, Senate, No. 654) of Rebecca L. Rausch, Edward R. Philips, Joanne M. Comerford, Brian W. Murray and other members of the General Court for legislation to reduce plastics, report the accompanying bill (Senate, No. 2541)."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Reported from the committee on Environment and Natural Resources",
+      "date": "2025-06-23",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-26T04:18:34Z"
+      }
+    },
+    {
+      "description": "New draft of S543, S554, S589, S590, S609, S629, S630, S643 and S654",
+      "date": "2025-06-23",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-26T04:18:34Z"
+      }
+    },
+    {
+      "description": "Bill reported favorably by committee and referred to the committee on Senate Ways and Means",
+      "date": "2025-06-23",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage-favorable",
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "the committee on Senate Ways and Means",
+          "entity_type": "organization",
+          "organization_id": null
+        },
+        {
+          "name": "committee on Senate Ways and Means",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2025-10-26T04:18:34Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Joint Committee on Environment and Natural Resources",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"Joint Committee on Environment and Natural Resources\"}"
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Bill Text",
+      "links": [
+        {
+          "url": "https://malegislature.gov/Bills/194/S2541.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://malegislature.gov/Bills/194/S2541",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ma/government",
+    "name": "Massachusetts",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ma"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-26T04:18:34Z"
+  }
+}

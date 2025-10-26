@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Amendment #1 (Walsh) adopted",
+    "date": "2025-09-18",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "amendment-passage"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "H2244"
+}

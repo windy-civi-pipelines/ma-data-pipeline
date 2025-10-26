@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Hearing rescheduled to 09/10/2025 from 10:00 AM-01:35 PM in B-2                        and Virtual Hearing updated to New End Time",
+    "date": "2025-09-10",
+    "organization_id": "~{\"classification\": \"legislature\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "S1616"
+}

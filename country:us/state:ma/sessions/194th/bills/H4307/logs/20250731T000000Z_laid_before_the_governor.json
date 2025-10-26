@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Laid before the Governor",
+    "date": "2025-07-31",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "H4307"
+}

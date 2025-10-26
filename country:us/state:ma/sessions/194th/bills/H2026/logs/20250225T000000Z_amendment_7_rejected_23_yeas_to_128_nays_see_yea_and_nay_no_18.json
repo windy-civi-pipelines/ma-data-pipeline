@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Amendment 7 rejected - 23 YEAS to 128 NAYS (See YEA and NAY No. 18 )",
+    "date": "2025-02-25",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "amendment-failure"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "H2026"
+}

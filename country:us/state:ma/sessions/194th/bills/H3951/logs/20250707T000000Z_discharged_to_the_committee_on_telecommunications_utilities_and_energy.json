@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Discharged to the committee on Telecommunications, Utilities and Energy",
+    "date": "2025-07-07",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "referral-committee"
+    ],
+    "related_entities": [
+      {
+        "name": "Telecommunications, Utilities and Energy",
+        "entity_type": "organization",
+        "organization_id": null
+      }
+    ]
+  },
+  "bill_id": "H3951"
+}

@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Accompanied H622",
+    "date": "2025-09-15",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "H663"
+}

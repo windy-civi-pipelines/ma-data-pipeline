@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Amendment (as recommended by the committee on Senate Ways and Means) adopted, as amended",
+    "date": "2025-10-17",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "amendment-passage"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "S2547"
+}

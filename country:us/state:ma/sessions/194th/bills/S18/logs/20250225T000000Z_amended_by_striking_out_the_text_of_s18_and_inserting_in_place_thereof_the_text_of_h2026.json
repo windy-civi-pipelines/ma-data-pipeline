@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Amended by striking out the text of S18 and inserting in place thereof the text of H2026",
+    "date": "2025-02-25",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "amendment-passage"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "S18"
+}

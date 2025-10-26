@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Amendment #44 (Montigny) rejected",
+    "date": "2025-09-25",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "amendment-failure"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "S2608"
+}

@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Amendment 24 adopted, as changed - 152 YEAS to 0 NAYS (See YEA and NAY No. 8 )",
+    "date": "2025-02-06",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "amendment-passage"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "H57"
+}

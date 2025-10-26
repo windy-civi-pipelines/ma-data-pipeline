@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "House concurred in the Senate amendment - 132 YEAS to 24 NAYS (See YEA and NAY No. 70 )",
+    "date": "2025-07-31",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "S2543"
+}

@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Amendment #37 (Tarr) rejected",
+    "date": "2025-06-18",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "amendment-failure"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "S2529"
+}

@@ -1,0 +1,14 @@
+{
+  "action": {
+    "description": "Read second, amended (as recommended by the committee on Senate Rules), ordered to a third reading, read third and passed to be engrossed",
+    "date": "2025-10-20",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "passage",
+      "reading-2",
+      "reading-3"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "H1024"
+}

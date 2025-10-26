@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Committee of conference (Rodrigues-Comerford-O'Connor) appointed",
+    "date": "2025-07-14",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "S2540"
+}

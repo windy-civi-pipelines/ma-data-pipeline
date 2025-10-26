@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Committee reported that the matter be placed in the Orders of the Day for the next sitting",
+    "date": "2025-08-28",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "H3896"
+}

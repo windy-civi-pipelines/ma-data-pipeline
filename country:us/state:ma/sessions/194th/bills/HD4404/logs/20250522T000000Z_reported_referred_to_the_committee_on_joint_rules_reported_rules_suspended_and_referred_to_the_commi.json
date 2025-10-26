@@ -1,0 +1,23 @@
+{
+  "action": {
+    "description": "Reported, referred to the committee on Joint Rules, reported, rules suspended and referred to the committee on The Judiciary",
+    "date": "2025-05-22",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "referral-committee"
+    ],
+    "related_entities": [
+      {
+        "name": "the committee on Joint Rules, reported, rules suspended and referred to the committee on The Judiciary",
+        "entity_type": "organization",
+        "organization_id": null
+      },
+      {
+        "name": "committee on Joint Rules, reported, rules suspended and referred to the committee on The Judiciary",
+        "entity_type": "organization",
+        "organization_id": null
+      }
+    ]
+  },
+  "bill_id": "HD4404"
+}

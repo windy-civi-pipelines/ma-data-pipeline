@@ -1,0 +1,13 @@
+{
+  "action": {
+    "description": "Read second, ordered to a third reading, rules suspended and read third",
+    "date": "2025-06-30",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "reading-2",
+      "reading-3"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "H4237"
+}

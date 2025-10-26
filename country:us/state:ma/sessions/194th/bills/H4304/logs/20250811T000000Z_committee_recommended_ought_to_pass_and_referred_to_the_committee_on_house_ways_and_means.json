@@ -1,0 +1,24 @@
+{
+  "action": {
+    "description": "Committee recommended ought to pass and referred to the committee on House Ways and Means",
+    "date": "2025-08-11",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "committee-passage-favorable",
+      "referral-committee"
+    ],
+    "related_entities": [
+      {
+        "name": "the committee on House Ways and Means",
+        "entity_type": "organization",
+        "organization_id": null
+      },
+      {
+        "name": "committee on House Ways and Means",
+        "entity_type": "organization",
+        "organization_id": null
+      }
+    ]
+  },
+  "bill_id": "H4304"
+}

@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "New draft substituted, see S2603",
+    "date": "2025-09-11",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "S2367"
+}

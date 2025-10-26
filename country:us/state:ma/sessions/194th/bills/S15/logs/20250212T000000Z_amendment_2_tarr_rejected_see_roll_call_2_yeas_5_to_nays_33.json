@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Amendment #2 (Tarr) rejected -see   Roll Call #2 (Yeas 5 to Nays 33)",
+    "date": "2025-02-12",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "amendment-failure"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "S15"
+}

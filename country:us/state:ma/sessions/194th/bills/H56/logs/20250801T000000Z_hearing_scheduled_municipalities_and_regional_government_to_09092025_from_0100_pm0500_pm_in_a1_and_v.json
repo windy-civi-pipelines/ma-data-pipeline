@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Hearing scheduled (Municipalities and Regional Government) to 09/09/2025 from 01:00 PM-05:00 PM in A-1 and Virtual",
+    "date": "2025-08-01",
+    "organization_id": "~{\"classification\": \"legislature\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "H56"
+}

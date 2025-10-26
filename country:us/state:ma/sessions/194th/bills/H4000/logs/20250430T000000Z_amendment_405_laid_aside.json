@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Amendment 405 laid aside",
+    "date": "2025-04-30",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "amendment-deferral"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "H4000"
+}

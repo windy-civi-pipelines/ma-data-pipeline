@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "New draft of H1053",
+    "date": "2025-10-09",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "H4591"
+}

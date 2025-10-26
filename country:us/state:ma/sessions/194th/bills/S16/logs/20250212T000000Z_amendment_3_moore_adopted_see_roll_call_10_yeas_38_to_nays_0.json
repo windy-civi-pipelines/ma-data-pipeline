@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Amendment #3 (Moore) adopted -see   Roll Call #10 (Yeas 38 to Nays 0)",
+    "date": "2025-02-12",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "amendment-passage"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "S16"
+}

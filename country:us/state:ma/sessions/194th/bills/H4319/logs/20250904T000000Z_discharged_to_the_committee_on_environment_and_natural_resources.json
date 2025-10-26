@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Discharged to the committee on Environment and Natural Resources",
+    "date": "2025-09-04",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "referral-committee"
+    ],
+    "related_entities": [
+      {
+        "name": "Environment and Natural Resources",
+        "entity_type": "organization",
+        "organization_id": null
+      }
+    ]
+  },
+  "bill_id": "H4319"
+}

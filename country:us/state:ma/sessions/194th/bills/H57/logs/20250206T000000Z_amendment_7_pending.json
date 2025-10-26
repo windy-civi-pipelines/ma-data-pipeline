@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Amendment 7 pending",
+    "date": "2025-02-06",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "amendment-deferral"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "H57"
+}

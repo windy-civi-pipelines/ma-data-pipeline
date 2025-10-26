@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Amendment #1 (Keenan) adopted",
+    "date": "2025-10-16",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "amendment-passage"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "S2642"
+}

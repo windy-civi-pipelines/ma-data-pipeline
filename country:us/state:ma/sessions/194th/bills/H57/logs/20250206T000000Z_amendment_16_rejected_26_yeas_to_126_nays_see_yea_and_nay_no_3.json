@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Amendment 16 rejected - 26 YEAS to 126 NAYS (See YEA and NAY No. 3 )",
+    "date": "2025-02-06",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "amendment-failure"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "H57"
+}

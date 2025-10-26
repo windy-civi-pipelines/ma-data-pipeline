@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Amendment 6 laid aside",
+    "date": "2025-10-22",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "amendment-deferral"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "H4644"
+}

@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Committee recommended ought to pass",
+    "date": "2025-10-09",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "committee-passage-favorable"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "S2141"
+}

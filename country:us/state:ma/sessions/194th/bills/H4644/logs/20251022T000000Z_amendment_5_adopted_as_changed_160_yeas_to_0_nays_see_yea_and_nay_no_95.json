@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Amendment 5 adopted, as changed - 160 YEAS to 0 NAYS (See YEA and NAY No. 95 )",
+    "date": "2025-10-22",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "amendment-passage"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "H4644"
+}

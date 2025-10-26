@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Accompanied by S501, S502, S508, S510, S512, S513, S518, S519, S520, S529 and S532",
+    "date": "2025-07-31",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "S2567"
+}

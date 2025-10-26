@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Further amendment adopted, precluding vote",
+    "date": "2025-04-28",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "amendment-passage"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "H4000"
+}

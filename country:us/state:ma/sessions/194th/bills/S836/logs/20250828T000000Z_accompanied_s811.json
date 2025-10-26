@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Accompanied S811",
+    "date": "2025-08-28",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "S836"
+}

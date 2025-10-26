@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Amendment #21 (Tarr) rejected -see   Roll Call #56 (Yeas 5 to Nays 34)",
+    "date": "2025-06-26",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "amendment-failure"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "S2538"
+}

@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Amendment 556 rejected -\r\n25 YEAS to 132 NAYS (See YEA and NAY No. 30 )",
+    "date": "2025-04-28",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "amendment-failure"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "H4000"
+}

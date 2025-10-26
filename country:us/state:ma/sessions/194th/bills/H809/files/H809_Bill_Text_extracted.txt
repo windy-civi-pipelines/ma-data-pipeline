@@ -1,0 +1,360 @@
+Title: To the Honorable Senate and House of Representatives of the Commonwealth of Massachusetts in General
+Official Title: To the Honorable Senate and House of Representatives of the Commonwealth of Massachusetts in General
+Number of Sections: 1
+Source: versions - Bill Text
+Media Type: application/pdf
+Strikethrough Detection: 8 sections found
+
+================================================================================
+
+Section 1:
+HOUSE DOCKET, NO. 966 FILED ON: 1/14/2025
+HOUSE . . . . . . . . . . . . . . . No. 809
+The Commonwealth of Massachusetts
+_________________
+PRESENTED BY:
+Michelle L. Ciccolo
+_________________
+Court assembled:
+The undersigned legislators and/or citizens respectfully petition for the adoption of the accompanying bill:
+An Act establishing ranked choice voting for certain offices in the town of Lexington.
+_______________
+PETITION OF:
+NAME: DISTRICT/ADDRESS: DATE ADDED:
+Michelle L. Ciccolo 15th Middlesex 1/14/2025
+Cindy F. Friedman Fourth Middlesex 3/17/2025
+Margaret R. Scarsdale 1st Middlesex 5/29/2025
+1 of 1
+HOUSE DOCKET, NO. 966 FILED ON: 1/14/2025
+HOUSE . . . . . . . . . . . . . . . No. 809
+By Representative Ciccolo of Lexington, a petition (accompanied by bill, House, No. 809) of
+Michelle L. Ciccolo (by vote of the town) that the town of Lexington be authorized to establish
+ranked choice voting for certain offices in said town. Election Laws. [Local Approval
+Received.]
+[SIMILAR MATTER FILED IN PREVIOUS SESSION
+SEE HOUSE, NO. 4223 OF 2023-2024.]
+The Commonwealth of Massachusetts
+_______________
+In the One Hundred and Ninety-Fourth General Court
+(2025-2026)
+_______________
+An Act establishing ranked choice voting for certain offices in the town of Lexington.
+Be it enacted by the Senate and House of Representatives in General Court assembled, and by the authority
+of the same, as follows:
+1 SECTION 1. Effectiveness of this Act
+2 This act shall take effect upon its passage, and elections for the Town offices described
+3 herein shall take place in accordance with this Act on or after January 1, 2025. The provisions of
+4 this Act shall supersede all inconsistent provisions of Chapter 753 of the Acts of 1968, as
+5 amended as of January 1, 2025.
+6 SECTION 2. Definitions
+1 of 7
+7 Chapter 753 of the Acts of 1968, as amended by Chapter 284 of the Acts of 1976,
+8 Chapter 120 of the Acts of 1985, Chapter 117 of the Acts of 2019, and Chapter 3 of the Acts of
+9 2020 is hereby amended by inserting Sections 1A and 1B as follows:
+10 Section 1A
+11 The terms below shall have the following meanings for the purposes of Sections 1A and
+12 1B:
+13 “Batch elimination,” the simultaneous defeat of multiple candidates, as provided in
+14 Section 1B(d).
+15 “Concluded ballot,” a ballot that does not rank any continuing candidate or that contains
+16 an overvote at the highest-ranked continuing candidate.
+17 “Continuing candidate,” a candidate who has not been defeated or elected.
+18 “Elected candidate,” a candidate who has obtained sufficient votes to be elected, whether
+19 there are additional election rounds before the election has concluded, or the election concluded
+20 after the vote during which they were elected.
+21 “Election threshold,” the number of votes sufficient for a candidate to be elected in a
+22 multi-seat election. It
+23 is calculated by dividing the total number of votes counting for continuing candidates in
+24 the first round by the sum of the number of seats to be elected plus one, disregarding any
+25 fractions, and then adding one.
+2 of 7
+26 “Highest-ranked continuing candidate,” the continuing candidate with the highest ranking
+27 on a voter's ballot.
+28 “Last-place candidate,” (i) the candidate with the lowest vote total in a round of the
+29 ranked- choice voting tabulation; or (ii) a candidate that is defeated in batch elimination.
+30 “Overvote,” a circumstance in which a voter ranks more than one candidate at the same
+31 ranking. “Plurality voting,” the voting system in which the candidate receiving the most votes is
+32 declared the winner, even if such candidate does not receive a majority of the votes cast in the
+33 election.
+34 “Ranked choice voting,” a method of casting and tabulating ballots in which voters rank
+35 candidates for office in order of preference.
+36 “Ranking,” means the number assigned on a ballot by a voter to a candidate to express
+37 the voter's preference for that candidate. Ranking number one shall be the highest ranking,
+38 ranking number two shall be the next-highest ranking, and so on.
+39 “Skipped ranking,” a circumstance in which a vote does not use a ranking and ranks a
+40 candidate with a subsequent ranking (e.g., a voter casts their votes as follows: (1) Jane Doe; (2)
+41 Michael Smith; (4) Mary Johnson).
+42 “Surplus fraction,” the number equal to the difference between an elected candidate’s
+43 vote total and the election threshold, divided by the candidate’s vote total.
+44 “Transfer value,” the proportion of a vote that a ballot will count to its highest-ranked
+45 continuing candidate. Each ballot shall begin with a transfer value of one. If a ballot counts to the
+46 election of a candidate under subsection 1B(d)(1), it receives a lower transfer value.
+3 of 7
+47 Section 1B
+48 (a) Notwithstanding the provisions of Section 1, or any other special or general law to the
+49 contrary, on or after January 1, 2025, the following town offices shall be elected by ranked
+50 choice voting, except for (1) a single-seat office when the number of certified candidates is less
+51 than or equal to two, or (2) a multi-seat office when the number of certified candidates is less
+52 than or equal to the number of seats to be elected, provided that this Section 1B shall not affect
+53 the term of office of any such elected official or elected member of such board, committee or
+54 authority elected on or before December 31, 2024.
+55 (1) moderator;
+56 (2) select board;
+57 (3) school committee;
+58 (4) Lexington housing authority; and
+59 (5) planning board.
+60 (b) In any single-seat election, each round shall begin by counting the number of votes
+61 for each continuing candidate. Each ballot shall count as one vote for its highest-ranked
+62 continuing candidate. Concluded ballots shall not be counted for any continuing candidate. Each
+63 round shall end with one of the following two outcomes:
+64 (1) If there are more than two continuing candidates, no candidate may win the seat
+65 outright by a
+4 of 7
+66 plurality or majority vote and instead, after a vote, (i) the last-place candidate shall be
+67 defeated; or (ii) the last-place candidates shall be defeated in batch elimination, and a new round
+68 shall begin; or
+69 (2) If there are two continuing candidates, the candidate with the fewest votes shall be
+70 defeated, the candidate with the most votes shall be elected, and tabulation shall be complete.
+71 (c) In any multi-seat election, each round shall begin by counting the number of votes for
+72 each continuing candidate. Each ballot shall count, at its current transfer value, for its highest-
+73 ranked continuing candidate. Concluded ballots shall not count for any continuing candidate. In
+74 the first round only, the election threshold shall then be calculated. Each round shall proceed as
+75 follows:
+76 (1) Any continuing candidate who meets or exceeds the election threshold shall be
+77 elected. Each ballot counting for an elected candidate shall be assigned a new transfer value by
+78 multiplying the ballot’s current transfer value by the surplus fraction for the candidate. Each
+79 elected candidate shall be deemed to have a number of votes equal to the election threshold in all
+80 future rounds, and a new round shall begin; each candidate having exceeded the Election
+81 Threshold in the initial ballot shall be removed or listed as “ELECTED” on all subsequent
+82 ballots for continuing candidates until the election is complete;
+83 (2) If no continuing candidate has more votes than the election threshold and the sum of
+84 the number of elected candidates and continuing candidates is more than the sum of the number
+85 of seats to be elected plus one, the last-place candidate shall be defeated or the last-place
+86 candidates shall be defeated in batch elimination, and a new round shall begin; or
+5 of 7
+87 (3) If no continuing candidate has more votes than the election threshold and the sum of
+88 the number of elected candidates and continuing candidates is equal to the sum of the number of
+89 seats to be elected plus one, the continuing candidate with fewest votes shall be defeated, all
+90 other continuing candidates shall be elected, and the election is complete.
+91 (d) Batch elimination shall apply to the largest possible group of continuing candidates
+92 such that the sum of the votes for batch-eliminated candidates is less than the individual number
+93 of votes for every continuing candidate not in the group; provided that the number of continuing
+94 candidates not batch-eliminated is at least one more than the remaining number of positions to
+95 elect.
+96 (e) Ties shall be resolved as follows:
+97 (1) If two or more last-place candidates are tied and batch elimination applies, each tied
+98 candidate to whom batch elimination applies shall be defeated accordingly.
+99 (2) If two or more continuing candidates are tied but are not in last place, the order of
+100 said tied continuing candidates shall be determined by the number of votes received by each tied
+101 candidate in the prior round; or
+102 (3) If two or more last-place continuing candidates are tied and batch elimination does
+103 not apply, the continuing candidate with the fewest votes in the prior round shall be defeated. If
+104 two or more continuing candidates were also tied in the prior round (i.e., two continuing
+105 candidates were tied in the previous round, but batch elimination did not then apply), the
+106 continuing candidate with the fewest votes in the next-prior round shall be eliminated. If two
+107 last-place continuing candidates are tied at the end of the first round and batch elimination does
+108 not apply, then the two tied continuing candidates shall have a run-off before the next round. The
+6 of 7
+109 continuing candidate with fewer votes in the runoff will be defeated, and any remaining rounds
+110 in the election will proceed according to this Section 1B. This process shall be applied
+111 successively as many times as necessary, a tie shown in any prior round shall be decided by
+112 referring to the standing of the candidates in the round immediately preceding the tie.
+113 (f) The Town Clerk may, at the Town Clerk’s discretion, publish guidance or rules on the
+114 administration of elections conducted according to this Act; provided that any such guidance or
+115 rules shall be limited to logistical, accessibility, or other similar guidance or rules that are purely
+116 administrative in nature; and provided further that any guidance or rules hereunder published
+117 shall be limited to ensuring the integrity and efficient functioning of the election.
+118 (g) In any election conducted in accordance with the provisions of this Section 1A and
+119 Section 1B, the Town Clerk shall publish election results that show the tabulations by round,
+120 along with any additional information that may be required by applicable law.
+7 of 7
+[DELETED: :D/A:DAEITDSA Do1x1nFx3e1x5]
+[DELETED: SThtaS]
+[DELETED: CC20S1T213“4S5“6a7“8“9t0a1“2m3i4t5f]
+[DELETED: 6“7o8“9r0“1r2d3e4“5c6“7t8r9“0c1M2“3v4“5c6e]
+[DELETED: 7S8(9c0c1t2t3t4a5(6(7(8(9(0(1f2c3r4(5o]
+[DELETED: 6p7d8s9(0d1(2e3r4t5f6(7e8m9e0f1T2b3(4t5o6c]
+[DELETED: 7(8t9s0o1(2s3o4c5e6(7(8c9(0s1c2(3n4t5c6c7l8n]
+[DELETED: 9c0i1s2r3(4a5r6a7s8(9S0a]
+
+
+================================================================================
+
+Raw Text:
+HOUSE DOCKET, NO. 966 FILED ON: 1/14/2025
+HOUSE . . . . . . . . . . . . . . . No. 809
+The Commonwealth of Massachusetts
+_________________
+PRESENTED BY:
+Michelle L. Ciccolo
+_________________
+To the Honorable Senate and House of Representatives of the Commonwealth of Massachusetts in General
+Court assembled:
+The undersigned legislators and/or citizens respectfully petition for the adoption of the accompanying bill:
+An Act establishing ranked choice voting for certain offices in the town of Lexington.
+_______________
+PETITION OF:
+NAME: DISTRICT/ADDRESS: DATE ADDED:
+Michelle L. Ciccolo 15th Middlesex 1/14/2025
+Cindy F. Friedman Fourth Middlesex 3/17/2025
+Margaret R. Scarsdale 1st Middlesex 5/29/2025
+1 of 1
+
+HOUSE DOCKET, NO. 966 FILED ON: 1/14/2025
+HOUSE . . . . . . . . . . . . . . . No. 809
+By Representative Ciccolo of Lexington, a petition (accompanied by bill, House, No. 809) of
+Michelle L. Ciccolo (by vote of the town) that the town of Lexington be authorized to establish
+ranked choice voting for certain offices in said town. Election Laws. [Local Approval
+Received.]
+[SIMILAR MATTER FILED IN PREVIOUS SESSION
+SEE HOUSE, NO. 4223 OF 2023-2024.]
+The Commonwealth of Massachusetts
+_______________
+In the One Hundred and Ninety-Fourth General Court
+(2025-2026)
+_______________
+An Act establishing ranked choice voting for certain offices in the town of Lexington.
+Be it enacted by the Senate and House of Representatives in General Court assembled, and by the authority
+of the same, as follows:
+1 SECTION 1. Effectiveness of this Act
+2 This act shall take effect upon its passage, and elections for the Town offices described
+3 herein shall take place in accordance with this Act on or after January 1, 2025. The provisions of
+4 this Act shall supersede all inconsistent provisions of Chapter 753 of the Acts of 1968, as
+5 amended as of January 1, 2025.
+6 SECTION 2. Definitions
+1 of 7
+
+7 Chapter 753 of the Acts of 1968, as amended by Chapter 284 of the Acts of 1976,
+8 Chapter 120 of the Acts of 1985, Chapter 117 of the Acts of 2019, and Chapter 3 of the Acts of
+9 2020 is hereby amended by inserting Sections 1A and 1B as follows:
+10 Section 1A
+11 The terms below shall have the following meanings for the purposes of Sections 1A and
+12 1B:
+13 “Batch elimination,” the simultaneous defeat of multiple candidates, as provided in
+14 Section 1B(d).
+15 “Concluded ballot,” a ballot that does not rank any continuing candidate or that contains
+16 an overvote at the highest-ranked continuing candidate.
+17 “Continuing candidate,” a candidate who has not been defeated or elected.
+18 “Elected candidate,” a candidate who has obtained sufficient votes to be elected, whether
+19 there are additional election rounds before the election has concluded, or the election concluded
+20 after the vote during which they were elected.
+21 “Election threshold,” the number of votes sufficient for a candidate to be elected in a
+22 multi-seat election. It
+23 is calculated by dividing the total number of votes counting for continuing candidates in
+24 the first round by the sum of the number of seats to be elected plus one, disregarding any
+25 fractions, and then adding one.
+2 of 7
+
+26 “Highest-ranked continuing candidate,” the continuing candidate with the highest ranking
+27 on a voter's ballot.
+28 “Last-place candidate,” (i) the candidate with the lowest vote total in a round of the
+29 ranked- choice voting tabulation; or (ii) a candidate that is defeated in batch elimination.
+30 “Overvote,” a circumstance in which a voter ranks more than one candidate at the same
+31 ranking. “Plurality voting,” the voting system in which the candidate receiving the most votes is
+32 declared the winner, even if such candidate does not receive a majority of the votes cast in the
+33 election.
+34 “Ranked choice voting,” a method of casting and tabulating ballots in which voters rank
+35 candidates for office in order of preference.
+36 “Ranking,” means the number assigned on a ballot by a voter to a candidate to express
+37 the voter's preference for that candidate. Ranking number one shall be the highest ranking,
+38 ranking number two shall be the next-highest ranking, and so on.
+39 “Skipped ranking,” a circumstance in which a vote does not use a ranking and ranks a
+40 candidate with a subsequent ranking (e.g., a voter casts their votes as follows: (1) Jane Doe; (2)
+41 Michael Smith; (4) Mary Johnson).
+42 “Surplus fraction,” the number equal to the difference between an elected candidate’s
+43 vote total and the election threshold, divided by the candidate’s vote total.
+44 “Transfer value,” the proportion of a vote that a ballot will count to its highest-ranked
+45 continuing candidate. Each ballot shall begin with a transfer value of one. If a ballot counts to the
+46 election of a candidate under subsection 1B(d)(1), it receives a lower transfer value.
+3 of 7
+
+47 Section 1B
+48 (a) Notwithstanding the provisions of Section 1, or any other special or general law to the
+49 contrary, on or after January 1, 2025, the following town offices shall be elected by ranked
+50 choice voting, except for (1) a single-seat office when the number of certified candidates is less
+51 than or equal to two, or (2) a multi-seat office when the number of certified candidates is less
+52 than or equal to the number of seats to be elected, provided that this Section 1B shall not affect
+53 the term of office of any such elected official or elected member of such board, committee or
+54 authority elected on or before December 31, 2024.
+55 (1) moderator;
+56 (2) select board;
+57 (3) school committee;
+58 (4) Lexington housing authority; and
+59 (5) planning board.
+60 (b) In any single-seat election, each round shall begin by counting the number of votes
+61 for each continuing candidate. Each ballot shall count as one vote for its highest-ranked
+62 continuing candidate. Concluded ballots shall not be counted for any continuing candidate. Each
+63 round shall end with one of the following two outcomes:
+64 (1) If there are more than two continuing candidates, no candidate may win the seat
+65 outright by a
+4 of 7
+
+66 plurality or majority vote and instead, after a vote, (i) the last-place candidate shall be
+67 defeated; or (ii) the last-place candidates shall be defeated in batch elimination, and a new round
+68 shall begin; or
+69 (2) If there are two continuing candidates, the candidate with the fewest votes shall be
+70 defeated, the candidate with the most votes shall be elected, and tabulation shall be complete.
+71 (c) In any multi-seat election, each round shall begin by counting the number of votes for
+72 each continuing candidate. Each ballot shall count, at its current transfer value, for its highest-
+73 ranked continuing candidate. Concluded ballots shall not count for any continuing candidate. In
+74 the first round only, the election threshold shall then be calculated. Each round shall proceed as
+75 follows:
+76 (1) Any continuing candidate who meets or exceeds the election threshold shall be
+77 elected. Each ballot counting for an elected candidate shall be assigned a new transfer value by
+78 multiplying the ballot’s current transfer value by the surplus fraction for the candidate. Each
+79 elected candidate shall be deemed to have a number of votes equal to the election threshold in all
+80 future rounds, and a new round shall begin; each candidate having exceeded the Election
+81 Threshold in the initial ballot shall be removed or listed as “ELECTED” on all subsequent
+82 ballots for continuing candidates until the election is complete;
+83 (2) If no continuing candidate has more votes than the election threshold and the sum of
+84 the number of elected candidates and continuing candidates is more than the sum of the number
+85 of seats to be elected plus one, the last-place candidate shall be defeated or the last-place
+86 candidates shall be defeated in batch elimination, and a new round shall begin; or
+5 of 7
+
+87 (3) If no continuing candidate has more votes than the election threshold and the sum of
+88 the number of elected candidates and continuing candidates is equal to the sum of the number of
+89 seats to be elected plus one, the continuing candidate with fewest votes shall be defeated, all
+90 other continuing candidates shall be elected, and the election is complete.
+91 (d) Batch elimination shall apply to the largest possible group of continuing candidates
+92 such that the sum of the votes for batch-eliminated candidates is less than the individual number
+93 of votes for every continuing candidate not in the group; provided that the number of continuing
+94 candidates not batch-eliminated is at least one more than the remaining number of positions to
+95 elect.
+96 (e) Ties shall be resolved as follows:
+97 (1) If two or more last-place candidates are tied and batch elimination applies, each tied
+98 candidate to whom batch elimination applies shall be defeated accordingly.
+99 (2) If two or more continuing candidates are tied but are not in last place, the order of
+100 said tied continuing candidates shall be determined by the number of votes received by each tied
+101 candidate in the prior round; or
+102 (3) If two or more last-place continuing candidates are tied and batch elimination does
+103 not apply, the continuing candidate with the fewest votes in the prior round shall be defeated. If
+104 two or more continuing candidates were also tied in the prior round (i.e., two continuing
+105 candidates were tied in the previous round, but batch elimination did not then apply), the
+106 continuing candidate with the fewest votes in the next-prior round shall be eliminated. If two
+107 last-place continuing candidates are tied at the end of the first round and batch elimination does
+108 not apply, then the two tied continuing candidates shall have a run-off before the next round. The
+6 of 7
+
+109 continuing candidate with fewer votes in the runoff will be defeated, and any remaining rounds
+110 in the election will proceed according to this Section 1B. This process shall be applied
+111 successively as many times as necessary, a tie shown in any prior round shall be decided by
+112 referring to the standing of the candidates in the round immediately preceding the tie.
+113 (f) The Town Clerk may, at the Town Clerk’s discretion, publish guidance or rules on the
+114 administration of elections conducted according to this Act; provided that any such guidance or
+115 rules shall be limited to logistical, accessibility, or other similar guidance or rules that are purely
+116 administrative in nature; and provided further that any guidance or rules hereunder published
+117 shall be limited to ensuring the integrity and efficient functioning of the election.
+118 (g) In any election conducted in accordance with the provisions of this Section 1A and
+119 Section 1B, the Town Clerk shall publish election results that show the tabulations by round,
+120 along with any additional information that may be required by applicable law.
+7 of 7
+
+[DELETED: :D/A:DAEITDSA Do1x1nFx3e1x5]
+[DELETED: SThtaS]
+[DELETED: CC20S1T213“4S5“6a7“8“9t0a1“2m3i4t5f]
+[DELETED: 6“7o8“9r0“1r2d3e4“5c6“7t8r9“0c1M2“3v4“5c6e]
+[DELETED: 7S8(9c0c1t2t3t4a5(6(7(8(9(0(1f2c3r4(5o]
+[DELETED: 6p7d8s9(0d1(2e3r4t5f6(7e8m9e0f1T2b3(4t5o6c]
+[DELETED: 7(8t9s0o1(2s3o4c5e6(7(8c9(0s1c2(3n4t5c6c7l8n]
+[DELETED: 9c0i1s2r3(4a5r6a7s8(9S0a]

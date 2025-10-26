@@ -1,0 +1,1377 @@
+Title: Executive Office of Housing and Livable Communities
+Official Title: Executive Office of Housing and Livable Communities
+Number of Sections: 15
+Source: versions - Bill Text
+Media Type: application/pdf
+Strikethrough Detection: 13 sections found
+
+================================================================================
+
+Section 1:
+Emergency Assistance Family Shelter Program
+Background Check Feasibility Study
+100 Cambridge Street | Boston, MA 02114
+July 1, 2025
+1
+Table of Contents
+
+Section 2:
+1. Executive Summary
+
+Section 3:
+2. Context
+a. History of the Emergency Assistance Family Shelter Program
+b. Background of Criminal History Checks in the EA Family Shelter Program
+c. Overview of Nationwide Practices for Criminal Background Checks for
+Homeless Shelters
+
+Section 4:
+3. The Federal System and Approval Process
+a. Federal Information Sharing
+
+Section 5:
+4. Requirements
+a. Existing EA Family Shelter Requirements
+b. Impact of Existing Requirements
+
+Section 6:
+5. Operational and Fiscal Impacts of Implementation
+a. Two Potential Options for Implementation
+b. Operational Impacts
+c. Staffing Requirements
+d. Transportation Requirements
+e. Technology Requirements
+f. Cost Projections
+
+Section 7:
+6. Conclusion
+2
+Executive Summary
+Chapter 1, § 12 of the Acts of 20251 requires the Executive Office of Housing and Livable
+Communities (EOHLC) to complete the following:
+The executive office of housing and livable communities, in coordination with the
+department of state police, shall study the feasibility of conducting a background check
+through the National Crime Information Center for each adult applicant or beneficiary
+placed in the emergency housing assistance program. The study shall include, but not
+be limited to, information on: (i) federal approvals necessary to conduct such
+background checks; (ii) projected costs for conducting such background checks; and
+(iii) any impediments to conducting such background checks, as determined by the
+executive office in consultation with the department of state police in the course of the
+study. The executive office of housing and livable communities shall submit a report
+summarizing the results of the study to the clerks of the senate and house of
+representatives and the senate and house committees on ways and means not later
+than July 1, 2025.
+In recent months, EOHLC has engaged with the Executive Office of Public Safety and
+Security (EOPSS), the Massachusetts State Police, the Department of Criminal Justice
+Information Services (DCJIS), the Executive Office of Health and Human Services, the
+Department of Children and Families (DCF), the Executive Office of Education, and the
+Department of Early Education and Care (EEC) to study background checks conducted
+through the National Crime Information Center (NCIC). EOHLC also reviewed applicable
+federal and state laws, as well as the policies and procedures of other shelter programs
+across the country, including those in New York, California, Illinois, and Colorado.
+We considered the following categories and topics:
+(1) The need to ensure safety and security at shelter sites;
+(2) Operational feasibility, including the impact on the eligibility determination and
+application processes;
+(3) Financial feasibility, analyzing the fiscal impediments throughout the lifecycle of an
+applicant to the EA Family Shelter program; and
+(4) Potential outcomes for families.
+This feasibility study fulfills EOHLC’s statutory obligation.
+1 An Act Making Appropriations for the Fiscal Year 2025 to Provide for Supplementing Certain Existing
+Appropriations and for Certain Other Activities and Projects, St. 2025, c. 1 (February 28, 2025).
+3
+Context
+History of the Emergency Assistance Family Shelter Program
+In 1983, Massachusetts created a one-of-a-kind family shelter system that provides
+temporary emergency shelter for families with children and pregnant individuals
+experiencing homelessness. The statute under which the program is administered, Section
+30 of Chapter 23B of the Massachusetts General Laws, has been amended several times,
+and the modern iteration of this shelter system is the Emergency Assistance (“EA”) Family
+Shelter program. The EA Family Shelter program has contributed to one of the lowest rates
+of unsheltered family homelessness in the country. The mission of the program is to make
+homelessness rare, brief, and nonrecurring.
+There are two tracks within the EA Family Shelter system – the Rapid Shelter Track and the
+Bridge Shelter Track. The Rapid Shelter Track provides 30 business days of shelter, absent
+specific waivers, serving families who have strengths and needs that allow them to find
+self-sufficient permanent housing more quickly with high intensity support. The Bridge
+Shelter Track is for families who have higher risks and more complex needs, and a family
+can stay at a shelter for up to six months, absent specific extensions or waivers. In either
+track, families are connected to shelter provider staff to help with case management,
+searching for housing, finding job placements and classes, and using stabilization services
+like HomeBASE.
+In recent years, the EA Family Shelter program experienced an unprecedented surge in
+families seeking emergency shelter, driven both by federal policies on immigration and
+work authorization and a shortage of affordable housing in Massachusetts. The EA system
+that the Healey-Driscoll Administration inherited was not equipped to handle this surge. In
+August 2023, Governor Healey declared a state of emergency, as the EA Family Shelter
+program was projected to expand to over 13,000 families by the following year. Governor
+Healey implemented major policy reforms, including establishing a capacity limit, waitlist,
+and prioritization process; introducing a length of stay limit; requiring that all family
+members prove Massachusetts residency and intent to remain in Massachusetts;
+extending qualifying immigration status requirements to all family members, with limited
+exceptions; and requiring that all adults undergo a Criminal Offender Record Information
+(CORI) criminal background check and disclose prior criminal convictions prior to
+placement in shelter.
+Over the course of 2024, the EA Family Shelter program served over 10,000 families, which
+is an increase over the more than 8,000 families served in the EA Family Shelter program
+over the course of 2023.
+4
+Background of Criminal History Checks in the EA Family Shelter Program
+Prior to the Healey-Driscoll Administration, the EA Family Shelter program conducted
+checks for outstanding warrants and Sex Offender Registry Board (SORB) checks, but did
+not conduct a criminal history screening for applicants or participants.
+SORB and Warrant Checks
+Prior to placement, all individuals over the age of 10 are run through the SORB electronic
+database. Once in shelter, pursuant to 760 CMR 67.02(11), EOHLC conducts regular
+checks in the Massachusetts Warrant Management System, through electronic access
+facilitated by EOPSS and DCJIS, and requires individuals receiving benefits to resolve
+outstanding default or arrest warrants within five business days to continue receiving EA
+Family Shelter benefits.
+CORI Checks
+In January 2025, Governor Healey directed EOHLC to begin requiring CORI checks for all
+adults, 18 years of age or older, currently in the EA Family Shelter program and all new
+applicants, 18 years of age or older. 2,3,4 Chapter 1, § 3 of the Acts of 2025 created a
+M.G.L. Ch. 23B, § 30(C½) to add the following:
+(1) The executive office shall require each individual adult applicant or beneficiary to
+disclose on their initial or subsequent application for emergency housing assistance
+benefits all prior criminal convictions and any pending charges for serious crimes,
+as defined by the executive office, whether in the commonwealth or another
+jurisdiction. The executive office shall not require prior convictions that have been
+sealed or expunged to be disclosed. Any adult applicant or beneficiary who fails to
+disclose prior criminal convictions and pending charges for serious crimes, as
+defined by the executive office, consistent with this paragraph shall not be eligible
+for benefits and any existing benefits shall be terminated.
+(2) The executive office shall obtain criminal offender record information from the
+department of criminal justice information services for each individual adult
+applicant or beneficiary prior to placement into the emergency housing assistance
+2 Criminal Offender Record Information Policy for the Emergency Assistance Family Shelter Program:
+https://www.mass.gov/doc/ea-cori-policy-1/download (April 11, 2025).
+3 EOHLC is granted access to CORI by DCJIS to screen applicants and participants of the EA Family Shelter
+Program. M.G.L. Ch. 6, § 172(a)(6); 803 CMR 2.09(2).
+4 EOHLC has Commissioner-approved CORI access. 803 CMR 2.05. This means, EOHLC receives
+Massachusetts criminal records for the following: all pending criminal charges, including cases continued
+without a finding of guilt until they are dismissed; all adult misdemeanor convictions and felony convictions;
+offenses for which the subject was adjudicated as an adult; and all convictions for murder, voluntary
+manslaughter, involuntary manslaughter, and sex offenses (as defined by M.G.L. c. 6, § 178C) punishable by a
+term of incarceration in state prison, unless sealed. 803 CMR 2.05.
+5
+program. An adult applicant or beneficiary who fails to consent to the executive
+office obtaining such criminal offender record information consistent with this
+paragraph shall not be eligible for benefits and any existing benefits shall be
+terminated. The executive office shall establish, through regulations, protocols on
+information received from the department of criminal justice information services.
+(3) The executive office shall promulgate regulations placing limitations or exclusions
+on individuals found to have criminal convictions or pending charges for serious
+crimes, as defined by the executive office by regulation.
+On March 14, 2025, EOHLC filed an emergency amendment to the regulations governing
+the EA Family Shelter program, 760 CMR 67.00, pursuant to M.G.L. Ch. 23B, § 30(C½). The
+amendments were permanently adopted on June 6, 2025. The regulation provides
+procedures for review and analysis of all crimes. Certain serious crimes or pending
+charges result in mandatory exclusion from the EA Family Shelter program.
+760 CMR 67.02(14). Other crimes or pending charges result in a presumptive exclusion
+from the EA Family Shelter program, with an opportunity for the applicant to provide
+reliable evidence demonstrating that they do not pose an unacceptable risk of harm to
+others in the EA Family Shelter Program. 760 CMR 67.02(15).
+Additionally, in January 2025, EOHLC added questions to the EA Family Shelter program
+application and a self-attestation related to criminal history of adult applicants in any
+jurisdiction. For the period of April 15, 2025, to June 15, 2025, a total of 1,308 adults 18
+years of age or older applied as a head of household or as a member of a family to the EA
+Family Shelter Program and submitted to CORI checks. Of those, 1.5% (20) were denied
+entry into shelter based on criminal convictions or pending charges pursuant to
+760 CMR 67.02(14), (15).
+To further strengthen safety and security practices throughout the EA Family Shelter
+program, Governor Healey asked the Edward Davis Company (EDC) to conduct a thorough
+investigation of existing practices. The policy changes summarized above, and others not
+detailed in this study, align with recommendations put forward in the “Massachusetts
+Emergency Assistance Shelter Security Assessment” conducted by the EDC. The report
+also included a recommendation to “develop and clearly communicate a standardized
+policy and procedure to process information from CORI and SORI checks to guide EOHLC
+resident placement decisions.”5 On January 27, 2025, EOHLC published the “Criminal
+Offender Record Information Policy for the Emergency Assistance Family Shelter Program”
+(CORI Policy). The CORI Policy is available on the EOHLC website6 and is translated into the
+five most commonly spoken languages among applicants to the EA Family Shelter
+program.
+5 Massachusetts Emergency Assistance Shelter Security Assessment: EDC-EA-Shelter-Security-Assessment-
+
+Section 8:
+022725.pdf (February 27, 2025).
+6 Criminal Offender Record Information Policy for the Emergency Assistance Family Shelter Program:
+https://www.mass.gov/doc/ea-cori-policy-1/download (April 11, 2025).
+6
+Overview of Nationwide Practices for Criminal Background Checks for
+Homeless Shelters
+As part of the analysis for this study, EOHLC considered the practices of other state or city
+homeless shelter programs. Below is a summary of our findings:
+• New York offers a wide array of homeless shelters and services to support
+individuals and families facing housing instability, though the state as a whole does
+not have a guaranteed “right to shelter.” New York City, however, does operate under
+a legal “right to shelter” mandate, which states that all residents, including
+homeless individuals as well as families, immigrants and new arrivals, have a right
+to a safe place to sleep. Within the requirements for accessing temporary
+emergency shelter, there are no criminal background check requirements.
+• In California, there are no right to shelter laws. Los Angeles’ guaranteed access to
+emergency shelter appears to be limited to extreme weather. This process is
+triggered by a qualifying extreme weather event, then individuals experiencing
+homelessness have 24 hours of housing with three meals included. The program
+does not require a background check to access this service.
+• Illinois does not have right to shelter laws. For emergency shelter, in Chicago, an
+individual calls a hotline where they take an individual’s information and locate an
+emergency placement. The placement can take a couple of hours to a couple of
+days to secure. The program does not appear to require a criminal background
+check.
+• In Colorado, there are no right to shelter laws. Denver, specifically, has some
+facilities that are available for emergency shelter. However, similar to Chicago, the
+state has an emergency hotline where individuals call and are connected with
+numerous resources. Utilizing the hotline does not guarantee placement, instead it
+serves as a centralized database. It appears that Denver defers to each shelter’s
+preference for application requirements for emergency shelter. EOHLC found no
+evidence of shelters first requiring a criminal background check prior to placement
+or thereafter.
+The Federal System and Approval Process
+The National Crime Information Center (NCIC), operated by the Federal Bureau of
+Investigation (FBI), is a digital index of criminal legal information, including nationwide
+information related to criminal record history,7 fugitives, stolen properties, and missing
+7 The criminal history record information maintained in the system excludes arrests and court actions
+concerning nonserious offenses, such as disturbing the peace, loitering, or traffic violations, if not
+accompanied by an includable offense throughout the United States. 28 C.F.R. § 20.32. Moreover, though the
+system can show warrants, it does not show all outstanding warrants. Similarly, a CORI would not show a
+warrant for which the individual has not yet been arraigned in court.
+7
+persons.8 The data is a combination of information provided by the FBI, federal, state, and
+local agencies, and authorized courts. Agencies enter their records into NCIC, and they are
+maintained by the Criminal Justice Information Services (CJIS) Division of the FBI. The goal
+of the NCIC is to allow for prompt transmission of information about crimes or criminals to
+other agencies conducting an inquiry aiding in various agencies executing their duties.
+Federal Public Law 92-544 states that, prior to initiating nationwide background checks
+through the NCIC for licensing or employment (i.e., non-criminal justice agency) purposes,
+states must follow a two-step process: First, states must show that they are legislatively
+authorized to conduct nationwide background checks through the NCIC for the purpose at
+issue as a matter of state law. Second, and if so authorized, states must seek and receive
+approval from the FBI.9
+Since 1972, the FBI, with the assistance of the United States Department of Justice, has
+determined the parameters of Pub. L. 92-544. The criteria are as follows:
+(1) The statute must exist as a result of a legislative enactment;
+(2) It must require the fingerprinting of applicants who are to be subjected to a
+national criminal history background check;
+(3) It must, expressly (“submit to the FBI”) or by implication (“submit for a national
+check”), authorize the use of FBI records for the screening of applicants;
+(4) It must identify the specific category(ies) of licensees/employees falling within its
+purview, thereby avoiding overbreadth;
+(5) It must not be against public policy; and
+(6) It may not authorize receipt of the CHRI by a private entity.
+The FBI Office of the General Counsel, Criminal Justice Information Law Unit (CJILU)
+reviews state statutes seeking access to FBI criminal history record information (CHRI).10
+State agencies wishing to submit statutes for review must work through their State
+Identification Bureau or appointed CJIS systems officer.11
+The FBI’s review of state statutes is also guided by 28 C.F.R. § 20.33(a), which describes the
+permissible uses of CHRI in the NCIC. As most relevant here, 28 C.F.R. § 20.33(a)(3)
+authorizes access to CHRI for licensing and employment purposes and for other uses for
+which dissemination is authorized by federal law. 28 C.F.R. § 20.33(a)(4) authorizes access
+to CHRI for “publicity designed to effect the apprehension of wanted persons in connection
+8 Law Enforcement Resources: National Crime Information Center (NCIC), https://le.fbi.gov/informational-
+tools/ncic (last visited June 23, 2025).
+9 The FBI’s authority to collect this information is granted through 28 U.S.C. 534 and regulated through 28
+C.F.R. § 20, which provides authority on what records can be acquired, how they can be shared, and who can
+access the information. 28 C.F.R. § 20 (2025). The laws for states utilizing the FBIs criminal history record
+information (CHRI) are primarily focused on statutes where this data is requested for licensing, employment,
+and banking institutions that are federally insured to maintain security.
+10 Public Law 92-544.
+11 In Massachusetts, this is the State Police.
+8
+with serious or significant offenses.” 28 C.F.R. § 20.33(a)(5) authorizes access to CHRI for
+“noncriminal justice governmental agencies performing criminal justice dispatching
+functions or data processing/ information services for criminal justice agencies.”
+34 U.S.C. § 40102(a)(1) permits states to establish, via statute or regulation, authority to
+request a nationwide background check for the “purpose of determining whether a covered
+individual has been convicted of a crime that bears upon the covered individual’s fitness to
+have responsibility for the safety and well-being of children, the elderly, or individuals with
+disabilities.” 42 U.S.C. § 1437d(q) authorizes the use of NCIC background checks for federal
+public housing benefits.
+In Massachusetts, EEC and DCF are two agencies that currently conduct nationwide
+background checks as part of their background check procedures. EEC runs the check for
+individuals applying for licenses for childcare centers and for all staff for group and school
+age childcare, residential programs, and placement agencies. DCF runs the checks for
+applicants to be foster parents. EEC and DCF use existing federal regulations specific to
+licensing and employment. M.G.L. Ch. 6, § 172O is the statute under which DCF conducts
+nationwide background checks, pursuant to 34 U.S.C. § 40102(a)(1). M.G.L. Ch. 15D, §§ 7,
+8 are the statutes under which EEC conducts nationwide background checks, pursuant to
+34 U.S.C. § 40102(a)(1).
+In summary, and as a matter of federal law, EOHLC could begin NCIC background
+checks for individuals in the EA Family Shelter program only if: (1) a new state law
+authorizing such background checks is enacted; and (2) the FBI reviews the enacted
+statute and determines that the language properly authorizes the background checks
+in accordance with federal statute and/or regulation.12
+Federal Information Sharing
+In general, under 5 U.S.C. § 552a(b)(7) and 28 U.S.C. § 534, criminal justice agencies—
+including local, state, and federal departments —maintain full access to the NCIC,
+including the ability to query NCIC files. These statutes broadly authorize the Attorney
+General of the United States, through the FBI, to collect and exchange criminal history and
+biometric data with federal, state, and local agencies for official law enforcement use.
+In addition, 8 U.S.C. § 1722(a)(2) mandates certain automatic data sharing, including
+automatic sharing of fingerprint data, from the FBI (via NCIC) to systems such as the
+Department of Homeland Security’s (DHS) Automated Biometric Identification System
+(IDENT), the Department of State’s Consular Consolidated Database, and the Department
+of Defense’s Automated Biometric Identification System (ABIS). With respect to DHS, this
+data-sharing framework is implemented through what is known as the “Secure
+Communities” program. Makowski v. United States, 27 F. Supp. 3d 901 (2014). Under this
+12 The FBI approval process can be time intensive. For example, the Massachusetts Gaming Commission
+waited for FBI approval for three years after their background check statute was enacted.
+9
+program, each time fingerprints are submitted to NCIC by a state or local agency, a second,
+simultaneous biometric search is run against DHS’s IDENT system, providing automatic
+notification to ICE if an individual sought by that agency for immigration enforcement
+purposes has been fingerprinted. State and local agencies have no ability to limit this
+information sharing, and courts have upheld the legality of this process. City of
+Philadelphia v. Sessions, 309 F. Supp. 3d 289 (2018).
+Requirements
+To inform this feasibility study, EOHLC conducted informational conversations with subject
+matter experts from other Massachusetts state agencies, referenced above, currently using
+information obtained from NCIC.
+While some of the state agencies consulted also provide social benefit programs, none
+utilize the check as a prerequisite to receiving public benefits. State agencies do use the
+NCIC as a prerequisite for employment or other activities related to the suitability to take
+responsibility over a child.
+The below section outlines existing requirements and impacts on families prior to a
+determination on eligibility.
+Existing EA Family Shelter Requirements
+To be determined eligible for the EA Family Shelter program, families are required to meet
+several criteria, including but not limited to the following:
+• The family must include a pregnant person or a child under the age of 21;
+• The members of the family are residents of Massachusetts;
+• The family’s gross income must be at or below 115% of the Federal Poverty
+Guidelines for their family size;
+• The family’s assets (excluding a first car) must not exceed $5000;
+• The reason the family is applying for shelter must be one of the following:
+No fault fire, flood, natural disaster;
+o
+Fleeing or at risk of domestic violence;
+o
+No-fault eviction, condemnation, or foreclosure; or
+o
+The family’s children are exposed to a substantial health or safety risk; and
+o
+• The family has no feasible, alternative housing available to them.
+EOHLC requires families to submit the following types of documents in order to verify
+identity and the relationship between applicant family members, and to verify statements
+families make in applying for the EA Family Shelter program. Required documents include:
+• Proof of identity;
+• Proof of familial relationship (or pregnancy, as applicable);
+• Massachusetts residency;
+10
+• Citizenship or Immigration documents;
+• Documents supporting the cause of homelessness; and
+• Financial information on assets and income.
+In addition to the eligibility requirements, as referenced above, since January 2025, EOHLC
+has required a CORI check for all applicants for the EA Family Shelter program aged 18 or
+older, as well as for all individuals 18 years of age or older participating in the program.
+Impact of Existing Requirements
+Historically, applications to the EA Family Shelter program were primarily completed in
+person in one of ten (10) area offices located throughout Massachusetts, except in limited
+circumstances, for those at imminent risk of domestic violence, which were often
+conducted over the telephone. For several families, including those without reliable
+transportation, those in rural areas, and those with family members with disabilities or
+complex medical conditions, the requirement to apply for the program in person was a
+barrier.
+During the COVID-19 pandemic, EOHLC (then as DHCD) expanded the use of the existing
+telephone services and began to allow for a larger portion of the application process to be
+conducted virtually.
+In December 2024, EOHLC launched an online portal, Housing Help Hub, that allows
+families to apply for EA Family Shelter online, either on their own or with the assistance of a
+delegated advocate. Access to the online portal is available 24 hours a day, 7 days a week,
+and does not require travel or waiting in line to seek support. Using the tool, families can
+upload documents for verification that they would otherwise have needed to bring to an
+office to be reviewed and scanned. Families can still apply in person, but most apply
+virtually, which allows for quicker determination of eligibility.
+Beginning in January 2025, pursuant to the CORI policy and statutory requirements under
+M.G.L. Ch. 23B, § 30(C½), EOHLC introduced a mandatory in-person component of the
+application process, which brought at least adult members of all families back into the
+area offices, including those who applied online. To complete the required CORI check, an
+adult applicant aged 18 or older must complete the following steps in person at an area
+office13:
+
+Section 9:
+1. Each adult family member must verify their identity by presenting a valid photo ID14
+or another approved document or set of documents to an EOHLC employee for
+review;
+13 EOHLC pays for the cost of travel to and from the EOHLC Field Office.
+14 Acceptable forms of identification are defined by DCJIS, 803 CMR 2.11, and the Criminal Offender Record
+Information Policy for the Emergency Assistance Family Shelter Program: https://www.mass.gov/doc/ea-cori-
+policy-1/download (April 11, 2025).
+11
+
+Section 10:
+2. After the identity of the adult family member has been verified, they must then sign a
+CORI Acknowledgement Form, authorizing EOHLC to conduct a CORI check against
+the information they provided verified by their documentation.
+Only after these two in-person steps are completed can EOHLC conduct a CORI check.15
+EOHLC cannot determine whether a family is eligible for the program or place a family in
+shelter until all eligibility criteria are met, including the completion of the CORI check.16
+Once a family is in shelter, their length of stay is six months for the Bridge Shelter Track and
+30 business days for the Rapid Shelter Track, absent specific waivers or extensions.17
+Operational and Fiscal Impacts of Implementation
+Based on how other state agencies have implemented nationwide background checks and
+assumptions about the number of individuals accessing EA Family Shelter who would
+require NCIC background checks, EOHLC analyzed the operational and fiscal impacts of
+implementation. As set forth below, implementation would require approximately $430k-
+$765k in startup costs and $2.6M-$4.1M in annual operating costs and involve certain
+operational impacts to the eligibility process.
+Two Potential Options for Implementation
+Based on fact-finding conducted with other state agencies, it appears that EOHLC would
+have two distinct options for how to implement background checks for applicants 18 years
+of age or older through the NCIC for the EA Family Shelter program.
+
+Section 11:
+1. EOHLC Directly Manages the Process. EOHLC would need to purchase fingerprint
+scanning equipment, develop appropriate protocols, hire additional staff, train staff
+to implement those protocols, and submit fingerprints directly.
+
+Section 12:
+2. EOHLC Engages a Third-Party Vendor to Complete the Process. EOHLC would
+need to procure and contract with a suitable third-party vendor on statewide
+contract, such as Idemia, the vendor currently under contract for similar work with
+other state agencies. EOHLC would need to instruct families how to schedule
+appointments and coordinate transportation for adults in applicant families to and
+from the background check locations, and this would require additional staff.
+EOHLC would also need to develop appropriate protocols and train staff to
+implement those protocols correctly.
+15 Alternatively, families can pay to have their form notarized. A small number of families elect to do so and
+then transmit or hand-deliver the notarized form(s) to the EOHLC area office.
+16 760 CMR 67.06(1)(c) defines several narrow exceptions.
+17 In February 2025, the Legislature established a 6-month time limit on a family’s eligibility for EA Family
+Shelter, amending the prior 9-month limit. Section 3 of Chapter 1 of the Acts of 2025 amended M. G.L. Ch.
+23B, § 30, which is the statute governing the EA program.
+12
+Both options would entail one-time and ongoing expenses as further detailed below.
+Operational Impacts
+Over the course of 2024, EOHLC served over 10,000 families and an estimate of
+approximately 20,000 total adults over 18 in EA family shelter. This amounted to an average
+of more than 40 families, or 80 individuals, per business day. In 2025, EOHLC data suggests
+an average of 30 individuals requiring CORI checks per business day, which is another
+indication of the number of NCIC background checks that would be needed.
+Averaging this data indicates that—if nationwide background checks were in place—
+EOHLC could need to provide fingerprint services to an average of 55 individual adults per
+day. As demand for the EA Family Shelter program fluctuates week to week and day to day
+with some considerable variance, the operation of NCIC would need to service peak
+demand for background checks at higher levels.
+To pursue the implementation of nationwide background checks for adult applicants to the
+EA Family Shelter program, it will be necessary to select from the two options the path that
+introduces the fewest operational impediments and the lowest cost, while mitigating
+additional delays to families’ ability to access emergency shelter.
+Regardless of the implementation option selected, the process for completing fingerprint
+analysis can be time-consuming. Based on fact-gathering research with other
+Massachusetts state agencies, EOHLC has learned that when working with a third-party
+vendor, it can often take constituents more than 24 hours before they can successfully
+schedule an appointment to complete the identity verification and fingerprinting processes
+needed for national background checks. After the fingerprinting is complete, whether a
+third-party vendor was used or not, the prints are electronically transmitted to the
+Massachusetts State Police and the FBI to be processed. The results of the search are
+subsequently returned electronically to EOPSS/DCJIS’ system, Statewide Automated
+Fingerprint Information System (SAFIS), before being made available to the government
+agency making the request. This multi-step process takes between 5 to 21 business
+days to complete.
+Families eligible for EA Family Shelter without prioritized risk factors are typically assigned
+to the Rapid Shelter Track, which has a length of stay durational limit of 30 business days. If
+EOHLC were to implement NCIC checks and require such checks as a condition to entry,
+some families might have to wait nearly as long to complete the background check
+process, including time to schedule and wait for an appointment, as the total number of
+days that they would receive the shelter benefit itself.
+13
+Staffing Requirements
+Under either option, EOHLC would need a dedicated team to process the results of the
+background checks of applicants and make decisions about eligibility based on the results.
+Other state agencies that implement background checks have dedicated teams to manage
+the processing of both CORIs and background checks. EEC has a team of 36 staff to
+manage an annual application caseload of 85,000, which is a staff to applicant ratio of
+1:2,361.
+Applying the same logic to an EOHLC CORI and background check team, EOHLC’s Division
+of Housing Stabilization would require 6 staff fully dedicated to this effort, to review and
+process the results of background checks. We estimate this new cost to be $525,000 to
+$636,000 per year.
+EOHLC would require additional staff to input data from SAFIS without an additional secure
+data platform to receive the NCIC background check data from SAFIS and transmit the
+determinations to Housing Help Hub, the EOHLC Salesforce platform that manages
+applications. DCF has hired analysts to manually review and input the data from SAFIS into
+their existing database and have 20 analysts for an annual caseload of 10,000 applications,
+for a staff ratio of one analyst per 500 applications. These staff analyze the results of
+background checks, in addition to several other safety checks. If EOHLC pursues this
+option for the estimated 13,750-individual volume of background checks annually, this
+would require an estimated 14 staff to review and input data from background check
+results (at a ratio of 1:1,000 applications), instead of 6 staff. We estimate this would cost
+$1.2M-$1.5M per year in staffing costs instead of $525k-$636k.
+Transportation Requirements
+A significant number of families applying to the EA Family Shelter program do not have their
+own means of transportation. EOHLC provides support and funding for transportation to
+EOHLC offices for families who do not have other options and would need to do so for
+families to complete nationwide background check authorizations and fingerprinting.
+If EOHLC engages a third-party vendor to complete the process, EOHLC could need to
+arrange and pay for transportation to and from the vendor location18 to complete the
+necessary authorizations and fingerprinting. Assuming 28 families, or 55 individuals require
+background checks each day, that would assume at least 28 round-trip rides per day to and
+from the vendor locations. Some families have their own vehicles or may access public
+transportation, which would reduce the number of rides required, while some families may
+not be able to coordinate the adults in their family going to the vendor location at the same
+time due to timing conflicts such as work, childcare, or school pick-up/drop-off. For this
+18 A review of the IdentiGo by Idemia website demonstrates that most sites are not well-serviced by frequent
+public transportation, even for the Greater Boston locations.
+14
+option, we estimate that EOHLC would need to coordinate an average of 34 round-trip rides
+per day at an average rate of $110 per round-trip ride for an average cost of $3,781 per day
+or $945,313 per year. We estimate requiring an additional two full-time field staff to
+coordinate appointments and transportation, requiring an additional $175,000-$200,000 in
+annual staffing costs.
+If EOHLC directly manages the process, EOHLC would not need to coordinate
+transportation to a third-party vendor but would still need to expend additional funds to
+provide more rides for applicants. Currently, adults aged 18 and older in applicant families
+need to present themselves in person to verify their identity and consent to a CORI check.
+EOHLC currently organizes an average of two trips per business day to field offices for
+families who do not have their own transportation. Assuming EOHLC would need to
+organize and cover costs of a similar number of families per day to get an NCIC check at an
+EOHLC office, and assuming an average rate of $110 per round-trip ride, EOHLC would
+incur additional costs of $220 per day, or $55,000 per year.
+Technology Requirements
+Regardless of the proposed implementation option, EOHLC would need to invest in
+technology to operate NCIC checks. Whether fingerprinting is conducted in-house or by a
+third-party vendor, data from the background check would still come in through DCJIS, and
+EOHLC would require technology to connect application information from EOHLC’s
+Housing Help Hub system to the data DCJIS receives from the background check. EEC uses
+a platform called the Background Clearinghouse Enterprise Exchange (BigChex) and a
+secure in-house data platform system called Viewer to make and integrate determinations
+from the background check. DCF, rather, employs 20 analysts (1 analyst per 500 checks) to
+manually check the data in the SAFIS and input it into DCF data systems.
+If EOHLC directly manages the process, the agency would need to purchase and maintain
+fingerprint scanners of at least one per area office (minimum of 10, one for each area
+office), as well as the software and licenses required to check the data against the national
+databases. Demand for EA Family Shelter is not equally distributed among EOHLC’s area
+offices, and additional scanners may be required, either to account for increased demand
+or as reserve devices to ensure continuity of operations should any scanners fail during the
+course of normal business. EOHLC would need to plan for annual recurring equipment
+maintenance costs, as the equipment ages and needs fixing or replacement. This annual
+maintenance cost, assuming replacement of one or two machines, is estimated at
+$10,000-$20,000. In addition, the agency would need to pay one-time and ongoing costs
+for necessary data integration between the devices and systems required to engage the
+NCIC check process and EOHLC’s existing systems of record.
+The agency would also need to hire additional staff to run this process at field offices and
+make start-up investments in training to prepare staff. This additional staffing costs
+approximately $875,000 per year.
+15
+If EOHLC engages a third-party vendor to complete the process, the agency would need to
+invest in the appropriate system integration solutions required to ingest the background
+check data from the third-party vendor into EOHLC’s existing systems of record.
+BigChex was built for the Commonwealth of Massachusetts as part of a broader
+background record check project funded by the Executive Office of Technology Services
+and Security (EOTSS). The BigChex application is available to any agency, not just EEC, for
+its Navigator solution. BigChex connects to DCJIS through an application programming
+interface (API). Using the example of EEC, their Navigator program sends its request to
+BigChex which then routes the information to DCJIS. On the return trip, DCJIS sends data
+to BigChex and BigChex routes the information back to EEC’s Navigator, which then further
+pushes the information to EEC’s Viewer system.
+If EOHLC sought to build a background record check technological process, it may be
+feasible to use the BigChex solution and leverage the existing API connection between
+BigChex and DCJIS. Some adjustment might be required to differentiate or account for the
+different sources of the information. To use BigChex, EOHLC would incur some minimal
+costs to help cover the program’s API infrastructure. EOHLC would need to build its own
+secure data platform to receive the background check results from BigChex, review these
+results, and make determinations. These determinations would then integrate into
+EOHLC’s existing Housing Help Hub platform, which manages application review and
+decisions. While the precise cost has not yet been established, such reconfiguration and
+software build is estimated to come at a cost.
+Regardless of which path is pursued, EOHLC would need to make additional investments in
+technology to implement nationwide background checks. EOHLC anticipates the need to
+integrate new software with the existing applicant management system, Housing Help Hub,
+which is built on a Salesforce platform, and the need to build additional data fields and
+workflows required to ingest and action decisions based on additional nationwide criminal
+background check information. This would require one to two months of development and
+testing on the part of the agency’s Salesforce implementer, which would be estimated at
+$82,500 for a one-month build cycle. Utilizing one to two months of development would
+also delay other technological improvements that are critical for the EA system.19 If
+integrating NCIC data into the Housing Help Hub solution ultimately requires additional or
+different visibility restrictions than those already in place, that could warrant the
+expenditure of significantly more time and money to further reconfigure the existing
+system, thereby delaying other planned and important improvements to the platform. In
+addition to one-time development costs, ongoing expenses are anticipated, specifically for
+data use and data integration.
+19 Housing Help Hub rollout began in November 2024 and continues to date. EOHLC is presently transitioning
+from Phase 1 to Phase 2. The rollout is anticipant to continue through the next fiscal year.
+16
+Cost Projections
+There is an individual fee for each NCIC Check conducted, ranging from $35 to $55 per
+applicant. The exact fee would be set in the enabling statute but could not be waived in full
+as they are essential to the operation of the system. EOHLC could sign an ISA with the
+EOPSS to cover these fees for individuals applying to EA shelter. The fees are divided as
+follows:
+
+Section 13:
+1. FBI fee to process the background check;
+
+Section 14:
+2. Fee collected by the vendor to facilitate the collection and submission of the
+background checks; and
+
+Section 15:
+3. Payment to the Commonwealth to maintain and support the system.
+With the assumptions about annual application numbers and individual fees, the individual
+fees would incur an annual cost of $481,250-$756,250.
+Based on the assumptions about number of adults requiring a background check and unit
+costs for operational needs outlined in the sections above, EOHLC has calculated a range
+of estimated ongoing costs for the two options explored: using a third-party vendor for
+fingerprinting or developing in-house capabilities. For option one, using a third-party
+vendor, annual recurring costs are estimated to be $2.63M-$3.36M. For option two, EOHLC
+staff directly managing the check, annual recurring costs are estimated to be $2.45M-
+$3.29M.
+Table 1: Estimated Recurring Expenditures by Option
+Ongoing Costs Estimated Recurring Expenditures
+Option 1: Third-party vendor Option 2: Managed directly by
+EOHLC staff
+Staffing $525,000-$636,000 $525,000-$636,000
+(6 full-time employees to (6 full-time employees to
+process the results of background process the results of
+checks) background checks)
+$175,000-$200,000 $875,000-$1M
+(Additional EOHLC staffing costs (additional annual staffing
+(2 full-time employees) to coordinate costs (10 full-time
+appointments and transport) employees) to conduct
+fingerprinting if EOHLC
+directly manages the process)
+17
+Transportation $945,313 $55,000
+(~53 round trip rides/day ~250 work (~2 round trip rides/day into field
+days/yr * est. cost/ride ($110) offices)
+~250 work days/yr * est. cost/ride
+($110)
+Technology or $500,000-$821,500 $500,000-$821,500
+additional staff
+to integrate (Annual cost of tech integration or (Annual cost of tech integration
+background additional 8 data staff) or additional 8 data staff)
+check data
+Background $481,250-$756,250 $481,250-$756,250
+Check ($35-$55 per applicant, ($35-$55 per applicant, 13,750
+Expenses 13,750 applicants) applicants)
+Total $2.63M-$3.36M $2.45M-$3.29M
+We project one-time start-up costs of $432,500-$565,000 to implement option one,
+engaging a third-party vendor to conduct fingerprinting for background checks. We project
+start-up costs of $632,500-$765,000 to implement option two, the development of in-
+house capabilities for fingerprinting and background checks. A full breakdown of one-time
+start-up costs are in the table below.
+Table 2: Estimated Start-Up Costs by Option
+Start-Up Cost Estimated Start-Up Costs
+Categories
+Option 1: Third-party vendor Option 2: Managed directly by
+EOHLC staff
+Staffing $350,000-$400,000 $450,000-$500,000
+(.5 year of staff time – 4-5 full-time (.5 year of staff time – 6-7 full-
+employees - to operationalize and time employees - to
+train) operationalize and train)
+Equipment N/A $100,000
+(Purchase and installation of
+fingerprinting machines at field
+offices)
+Technology $82,500-$165,000 $82,500-$165,000
+(technology integration into existing (technology integration into
+application platform) existing application platform)
+Total $432,500-$565,000 $632,500-$765,000
+18
+Conclusion
+Conducting proper eligibility determination and background checks is an important
+element of operating a safe and operationally and fiscally sustainable EA Family Shelter
+program. Implementing nationwide background checks for those in the EA Family Shelter
+program would first require new state legislation and then federal approval by the FBI.
+Projected costs for implementation range from $430k-$765k in startup costs and $2.45M-
+$3.36M in annual operating costs. As noted above, the FBI may take 5 to 21 business days
+to process and return results for a nationwide background check, which could increase
+wait times for placement into shelter for some families as compared to current baselines.
+19
+[DELETED: .E.C.H.B.O.T.F.R.E.I.O.T.O.S.T.T.C.C]
+[DELETED: 5 )T)O)F)P]
+[DELETED: . )T)T]
+[DELETED: ) ” e ]
+[DELETED: , ]
+[DELETED: . . )T)I)I)I)I)I.. ]
+[DELETED: . ]
+[DELETED: e:.ED]
+[DELETED: .A.. ..E.E]
+[DELETED: n ]
+[DELETED: . ]
+[DELETED: .F.F.P EO O $ $ ( p b  $ ( c e]
+[DELETED:  $ $ ( o~ $ $   ( ( a o $ $ ( ( 1 a $ $ EO O $ $ ( t o N $ $ $ ( e $ $]
+
+
+================================================================================
+
+Raw Text:
+Emergency Assistance Family Shelter Program
+Background Check Feasibility Study
+Executive Office of Housing and Livable Communities
+100 Cambridge Street | Boston, MA 02114
+July 1, 2025
+1
+
+Table of Contents
+1. Executive Summary
+2. Context
+a. History of the Emergency Assistance Family Shelter Program
+b. Background of Criminal History Checks in the EA Family Shelter Program
+c. Overview of Nationwide Practices for Criminal Background Checks for
+Homeless Shelters
+3. The Federal System and Approval Process
+a. Federal Information Sharing
+4. Requirements
+a. Existing EA Family Shelter Requirements
+b. Impact of Existing Requirements
+5. Operational and Fiscal Impacts of Implementation
+a. Two Potential Options for Implementation
+b. Operational Impacts
+c. Staffing Requirements
+d. Transportation Requirements
+e. Technology Requirements
+f. Cost Projections
+6. Conclusion
+2
+
+Executive Summary
+Chapter 1, § 12 of the Acts of 20251 requires the Executive Office of Housing and Livable
+Communities (EOHLC) to complete the following:
+The executive office of housing and livable communities, in coordination with the
+department of state police, shall study the feasibility of conducting a background check
+through the National Crime Information Center for each adult applicant or beneficiary
+placed in the emergency housing assistance program. The study shall include, but not
+be limited to, information on: (i) federal approvals necessary to conduct such
+background checks; (ii) projected costs for conducting such background checks; and
+(iii) any impediments to conducting such background checks, as determined by the
+executive office in consultation with the department of state police in the course of the
+study. The executive office of housing and livable communities shall submit a report
+summarizing the results of the study to the clerks of the senate and house of
+representatives and the senate and house committees on ways and means not later
+than July 1, 2025.
+In recent months, EOHLC has engaged with the Executive Office of Public Safety and
+Security (EOPSS), the Massachusetts State Police, the Department of Criminal Justice
+Information Services (DCJIS), the Executive Office of Health and Human Services, the
+Department of Children and Families (DCF), the Executive Office of Education, and the
+Department of Early Education and Care (EEC) to study background checks conducted
+through the National Crime Information Center (NCIC). EOHLC also reviewed applicable
+federal and state laws, as well as the policies and procedures of other shelter programs
+across the country, including those in New York, California, Illinois, and Colorado.
+We considered the following categories and topics:
+(1) The need to ensure safety and security at shelter sites;
+(2) Operational feasibility, including the impact on the eligibility determination and
+application processes;
+(3) Financial feasibility, analyzing the fiscal impediments throughout the lifecycle of an
+applicant to the EA Family Shelter program; and
+(4) Potential outcomes for families.
+This feasibility study fulfills EOHLC’s statutory obligation.
+1 An Act Making Appropriations for the Fiscal Year 2025 to Provide for Supplementing Certain Existing
+Appropriations and for Certain Other Activities and Projects, St. 2025, c. 1 (February 28, 2025).
+3
+
+Context
+History of the Emergency Assistance Family Shelter Program
+In 1983, Massachusetts created a one-of-a-kind family shelter system that provides
+temporary emergency shelter for families with children and pregnant individuals
+experiencing homelessness. The statute under which the program is administered, Section
+30 of Chapter 23B of the Massachusetts General Laws, has been amended several times,
+and the modern iteration of this shelter system is the Emergency Assistance (“EA”) Family
+Shelter program. The EA Family Shelter program has contributed to one of the lowest rates
+of unsheltered family homelessness in the country. The mission of the program is to make
+homelessness rare, brief, and nonrecurring.
+There are two tracks within the EA Family Shelter system – the Rapid Shelter Track and the
+Bridge Shelter Track. The Rapid Shelter Track provides 30 business days of shelter, absent
+specific waivers, serving families who have strengths and needs that allow them to find
+self-sufficient permanent housing more quickly with high intensity support. The Bridge
+Shelter Track is for families who have higher risks and more complex needs, and a family
+can stay at a shelter for up to six months, absent specific extensions or waivers. In either
+track, families are connected to shelter provider staff to help with case management,
+searching for housing, finding job placements and classes, and using stabilization services
+like HomeBASE.
+In recent years, the EA Family Shelter program experienced an unprecedented surge in
+families seeking emergency shelter, driven both by federal policies on immigration and
+work authorization and a shortage of affordable housing in Massachusetts. The EA system
+that the Healey-Driscoll Administration inherited was not equipped to handle this surge. In
+August 2023, Governor Healey declared a state of emergency, as the EA Family Shelter
+program was projected to expand to over 13,000 families by the following year. Governor
+Healey implemented major policy reforms, including establishing a capacity limit, waitlist,
+and prioritization process; introducing a length of stay limit; requiring that all family
+members prove Massachusetts residency and intent to remain in Massachusetts;
+extending qualifying immigration status requirements to all family members, with limited
+exceptions; and requiring that all adults undergo a Criminal Offender Record Information
+(CORI) criminal background check and disclose prior criminal convictions prior to
+placement in shelter.
+Over the course of 2024, the EA Family Shelter program served over 10,000 families, which
+is an increase over the more than 8,000 families served in the EA Family Shelter program
+over the course of 2023.
+4
+
+Background of Criminal History Checks in the EA Family Shelter Program
+Prior to the Healey-Driscoll Administration, the EA Family Shelter program conducted
+checks for outstanding warrants and Sex Offender Registry Board (SORB) checks, but did
+not conduct a criminal history screening for applicants or participants.
+SORB and Warrant Checks
+Prior to placement, all individuals over the age of 10 are run through the SORB electronic
+database. Once in shelter, pursuant to 760 CMR 67.02(11), EOHLC conducts regular
+checks in the Massachusetts Warrant Management System, through electronic access
+facilitated by EOPSS and DCJIS, and requires individuals receiving benefits to resolve
+outstanding default or arrest warrants within five business days to continue receiving EA
+Family Shelter benefits.
+CORI Checks
+In January 2025, Governor Healey directed EOHLC to begin requiring CORI checks for all
+adults, 18 years of age or older, currently in the EA Family Shelter program and all new
+applicants, 18 years of age or older. 2,3,4 Chapter 1, § 3 of the Acts of 2025 created a
+M.G.L. Ch. 23B, § 30(C½) to add the following:
+(1) The executive office shall require each individual adult applicant or beneficiary to
+disclose on their initial or subsequent application for emergency housing assistance
+benefits all prior criminal convictions and any pending charges for serious crimes,
+as defined by the executive office, whether in the commonwealth or another
+jurisdiction. The executive office shall not require prior convictions that have been
+sealed or expunged to be disclosed. Any adult applicant or beneficiary who fails to
+disclose prior criminal convictions and pending charges for serious crimes, as
+defined by the executive office, consistent with this paragraph shall not be eligible
+for benefits and any existing benefits shall be terminated.
+(2) The executive office shall obtain criminal offender record information from the
+department of criminal justice information services for each individual adult
+applicant or beneficiary prior to placement into the emergency housing assistance
+2 Criminal Offender Record Information Policy for the Emergency Assistance Family Shelter Program:
+https://www.mass.gov/doc/ea-cori-policy-1/download (April 11, 2025).
+3 EOHLC is granted access to CORI by DCJIS to screen applicants and participants of the EA Family Shelter
+Program. M.G.L. Ch. 6, § 172(a)(6); 803 CMR 2.09(2).
+4 EOHLC has Commissioner-approved CORI access. 803 CMR 2.05. This means, EOHLC receives
+Massachusetts criminal records for the following: all pending criminal charges, including cases continued
+without a finding of guilt until they are dismissed; all adult misdemeanor convictions and felony convictions;
+offenses for which the subject was adjudicated as an adult; and all convictions for murder, voluntary
+manslaughter, involuntary manslaughter, and sex offenses (as defined by M.G.L. c. 6, § 178C) punishable by a
+term of incarceration in state prison, unless sealed. 803 CMR 2.05.
+5
+
+program. An adult applicant or beneficiary who fails to consent to the executive
+office obtaining such criminal offender record information consistent with this
+paragraph shall not be eligible for benefits and any existing benefits shall be
+terminated. The executive office shall establish, through regulations, protocols on
+information received from the department of criminal justice information services.
+(3) The executive office shall promulgate regulations placing limitations or exclusions
+on individuals found to have criminal convictions or pending charges for serious
+crimes, as defined by the executive office by regulation.
+On March 14, 2025, EOHLC filed an emergency amendment to the regulations governing
+the EA Family Shelter program, 760 CMR 67.00, pursuant to M.G.L. Ch. 23B, § 30(C½). The
+amendments were permanently adopted on June 6, 2025. The regulation provides
+procedures for review and analysis of all crimes. Certain serious crimes or pending
+charges result in mandatory exclusion from the EA Family Shelter program.
+760 CMR 67.02(14). Other crimes or pending charges result in a presumptive exclusion
+from the EA Family Shelter program, with an opportunity for the applicant to provide
+reliable evidence demonstrating that they do not pose an unacceptable risk of harm to
+others in the EA Family Shelter Program. 760 CMR 67.02(15).
+Additionally, in January 2025, EOHLC added questions to the EA Family Shelter program
+application and a self-attestation related to criminal history of adult applicants in any
+jurisdiction. For the period of April 15, 2025, to June 15, 2025, a total of 1,308 adults 18
+years of age or older applied as a head of household or as a member of a family to the EA
+Family Shelter Program and submitted to CORI checks. Of those, 1.5% (20) were denied
+entry into shelter based on criminal convictions or pending charges pursuant to
+760 CMR 67.02(14), (15).
+To further strengthen safety and security practices throughout the EA Family Shelter
+program, Governor Healey asked the Edward Davis Company (EDC) to conduct a thorough
+investigation of existing practices. The policy changes summarized above, and others not
+detailed in this study, align with recommendations put forward in the “Massachusetts
+Emergency Assistance Shelter Security Assessment” conducted by the EDC. The report
+also included a recommendation to “develop and clearly communicate a standardized
+policy and procedure to process information from CORI and SORI checks to guide EOHLC
+resident placement decisions.”5 On January 27, 2025, EOHLC published the “Criminal
+Offender Record Information Policy for the Emergency Assistance Family Shelter Program”
+(CORI Policy). The CORI Policy is available on the EOHLC website6 and is translated into the
+five most commonly spoken languages among applicants to the EA Family Shelter
+program.
+5 Massachusetts Emergency Assistance Shelter Security Assessment: EDC-EA-Shelter-Security-Assessment-
+022725.pdf (February 27, 2025).
+6 Criminal Offender Record Information Policy for the Emergency Assistance Family Shelter Program:
+https://www.mass.gov/doc/ea-cori-policy-1/download (April 11, 2025).
+6
+
+Overview of Nationwide Practices for Criminal Background Checks for
+Homeless Shelters
+As part of the analysis for this study, EOHLC considered the practices of other state or city
+homeless shelter programs. Below is a summary of our findings:
+• New York offers a wide array of homeless shelters and services to support
+individuals and families facing housing instability, though the state as a whole does
+not have a guaranteed “right to shelter.” New York City, however, does operate under
+a legal “right to shelter” mandate, which states that all residents, including
+homeless individuals as well as families, immigrants and new arrivals, have a right
+to a safe place to sleep. Within the requirements for accessing temporary
+emergency shelter, there are no criminal background check requirements.
+• In California, there are no right to shelter laws. Los Angeles’ guaranteed access to
+emergency shelter appears to be limited to extreme weather. This process is
+triggered by a qualifying extreme weather event, then individuals experiencing
+homelessness have 24 hours of housing with three meals included. The program
+does not require a background check to access this service.
+• Illinois does not have right to shelter laws. For emergency shelter, in Chicago, an
+individual calls a hotline where they take an individual’s information and locate an
+emergency placement. The placement can take a couple of hours to a couple of
+days to secure. The program does not appear to require a criminal background
+check.
+• In Colorado, there are no right to shelter laws. Denver, specifically, has some
+facilities that are available for emergency shelter. However, similar to Chicago, the
+state has an emergency hotline where individuals call and are connected with
+numerous resources. Utilizing the hotline does not guarantee placement, instead it
+serves as a centralized database. It appears that Denver defers to each shelter’s
+preference for application requirements for emergency shelter. EOHLC found no
+evidence of shelters first requiring a criminal background check prior to placement
+or thereafter.
+The Federal System and Approval Process
+The National Crime Information Center (NCIC), operated by the Federal Bureau of
+Investigation (FBI), is a digital index of criminal legal information, including nationwide
+information related to criminal record history,7 fugitives, stolen properties, and missing
+7 The criminal history record information maintained in the system excludes arrests and court actions
+concerning nonserious offenses, such as disturbing the peace, loitering, or traffic violations, if not
+accompanied by an includable offense throughout the United States. 28 C.F.R. § 20.32. Moreover, though the
+system can show warrants, it does not show all outstanding warrants. Similarly, a CORI would not show a
+warrant for which the individual has not yet been arraigned in court.
+7
+
+persons.8 The data is a combination of information provided by the FBI, federal, state, and
+local agencies, and authorized courts. Agencies enter their records into NCIC, and they are
+maintained by the Criminal Justice Information Services (CJIS) Division of the FBI. The goal
+of the NCIC is to allow for prompt transmission of information about crimes or criminals to
+other agencies conducting an inquiry aiding in various agencies executing their duties.
+Federal Public Law 92-544 states that, prior to initiating nationwide background checks
+through the NCIC for licensing or employment (i.e., non-criminal justice agency) purposes,
+states must follow a two-step process: First, states must show that they are legislatively
+authorized to conduct nationwide background checks through the NCIC for the purpose at
+issue as a matter of state law. Second, and if so authorized, states must seek and receive
+approval from the FBI.9
+Since 1972, the FBI, with the assistance of the United States Department of Justice, has
+determined the parameters of Pub. L. 92-544. The criteria are as follows:
+(1) The statute must exist as a result of a legislative enactment;
+(2) It must require the fingerprinting of applicants who are to be subjected to a
+national criminal history background check;
+(3) It must, expressly (“submit to the FBI”) or by implication (“submit for a national
+check”), authorize the use of FBI records for the screening of applicants;
+(4) It must identify the specific category(ies) of licensees/employees falling within its
+purview, thereby avoiding overbreadth;
+(5) It must not be against public policy; and
+(6) It may not authorize receipt of the CHRI by a private entity.
+The FBI Office of the General Counsel, Criminal Justice Information Law Unit (CJILU)
+reviews state statutes seeking access to FBI criminal history record information (CHRI).10
+State agencies wishing to submit statutes for review must work through their State
+Identification Bureau or appointed CJIS systems officer.11
+The FBI’s review of state statutes is also guided by 28 C.F.R. § 20.33(a), which describes the
+permissible uses of CHRI in the NCIC. As most relevant here, 28 C.F.R. § 20.33(a)(3)
+authorizes access to CHRI for licensing and employment purposes and for other uses for
+which dissemination is authorized by federal law. 28 C.F.R. § 20.33(a)(4) authorizes access
+to CHRI for “publicity designed to effect the apprehension of wanted persons in connection
+8 Law Enforcement Resources: National Crime Information Center (NCIC), https://le.fbi.gov/informational-
+tools/ncic (last visited June 23, 2025).
+9 The FBI’s authority to collect this information is granted through 28 U.S.C. 534 and regulated through 28
+C.F.R. § 20, which provides authority on what records can be acquired, how they can be shared, and who can
+access the information. 28 C.F.R. § 20 (2025). The laws for states utilizing the FBIs criminal history record
+information (CHRI) are primarily focused on statutes where this data is requested for licensing, employment,
+and banking institutions that are federally insured to maintain security.
+10 Public Law 92-544.
+11 In Massachusetts, this is the State Police.
+8
+
+with serious or significant offenses.” 28 C.F.R. § 20.33(a)(5) authorizes access to CHRI for
+“noncriminal justice governmental agencies performing criminal justice dispatching
+functions or data processing/ information services for criminal justice agencies.”
+34 U.S.C. § 40102(a)(1) permits states to establish, via statute or regulation, authority to
+request a nationwide background check for the “purpose of determining whether a covered
+individual has been convicted of a crime that bears upon the covered individual’s fitness to
+have responsibility for the safety and well-being of children, the elderly, or individuals with
+disabilities.” 42 U.S.C. § 1437d(q) authorizes the use of NCIC background checks for federal
+public housing benefits.
+In Massachusetts, EEC and DCF are two agencies that currently conduct nationwide
+background checks as part of their background check procedures. EEC runs the check for
+individuals applying for licenses for childcare centers and for all staff for group and school
+age childcare, residential programs, and placement agencies. DCF runs the checks for
+applicants to be foster parents. EEC and DCF use existing federal regulations specific to
+licensing and employment. M.G.L. Ch. 6, § 172O is the statute under which DCF conducts
+nationwide background checks, pursuant to 34 U.S.C. § 40102(a)(1). M.G.L. Ch. 15D, §§ 7,
+8 are the statutes under which EEC conducts nationwide background checks, pursuant to
+34 U.S.C. § 40102(a)(1).
+In summary, and as a matter of federal law, EOHLC could begin NCIC background
+checks for individuals in the EA Family Shelter program only if: (1) a new state law
+authorizing such background checks is enacted; and (2) the FBI reviews the enacted
+statute and determines that the language properly authorizes the background checks
+in accordance with federal statute and/or regulation.12
+Federal Information Sharing
+In general, under 5 U.S.C. § 552a(b)(7) and 28 U.S.C. § 534, criminal justice agencies—
+including local, state, and federal departments —maintain full access to the NCIC,
+including the ability to query NCIC files. These statutes broadly authorize the Attorney
+General of the United States, through the FBI, to collect and exchange criminal history and
+biometric data with federal, state, and local agencies for official law enforcement use.
+In addition, 8 U.S.C. § 1722(a)(2) mandates certain automatic data sharing, including
+automatic sharing of fingerprint data, from the FBI (via NCIC) to systems such as the
+Department of Homeland Security’s (DHS) Automated Biometric Identification System
+(IDENT), the Department of State’s Consular Consolidated Database, and the Department
+of Defense’s Automated Biometric Identification System (ABIS). With respect to DHS, this
+data-sharing framework is implemented through what is known as the “Secure
+Communities” program. Makowski v. United States, 27 F. Supp. 3d 901 (2014). Under this
+12 The FBI approval process can be time intensive. For example, the Massachusetts Gaming Commission
+waited for FBI approval for three years after their background check statute was enacted.
+9
+
+program, each time fingerprints are submitted to NCIC by a state or local agency, a second,
+simultaneous biometric search is run against DHS’s IDENT system, providing automatic
+notification to ICE if an individual sought by that agency for immigration enforcement
+purposes has been fingerprinted. State and local agencies have no ability to limit this
+information sharing, and courts have upheld the legality of this process. City of
+Philadelphia v. Sessions, 309 F. Supp. 3d 289 (2018).
+Requirements
+To inform this feasibility study, EOHLC conducted informational conversations with subject
+matter experts from other Massachusetts state agencies, referenced above, currently using
+information obtained from NCIC.
+While some of the state agencies consulted also provide social benefit programs, none
+utilize the check as a prerequisite to receiving public benefits. State agencies do use the
+NCIC as a prerequisite for employment or other activities related to the suitability to take
+responsibility over a child.
+The below section outlines existing requirements and impacts on families prior to a
+determination on eligibility.
+Existing EA Family Shelter Requirements
+To be determined eligible for the EA Family Shelter program, families are required to meet
+several criteria, including but not limited to the following:
+• The family must include a pregnant person or a child under the age of 21;
+• The members of the family are residents of Massachusetts;
+• The family’s gross income must be at or below 115% of the Federal Poverty
+Guidelines for their family size;
+• The family’s assets (excluding a first car) must not exceed $5000;
+• The reason the family is applying for shelter must be one of the following:
+No fault fire, flood, natural disaster;
+o
+Fleeing or at risk of domestic violence;
+o
+No-fault eviction, condemnation, or foreclosure; or
+o
+The family’s children are exposed to a substantial health or safety risk; and
+o
+• The family has no feasible, alternative housing available to them.
+EOHLC requires families to submit the following types of documents in order to verify
+identity and the relationship between applicant family members, and to verify statements
+families make in applying for the EA Family Shelter program. Required documents include:
+• Proof of identity;
+• Proof of familial relationship (or pregnancy, as applicable);
+• Massachusetts residency;
+10
+
+• Citizenship or Immigration documents;
+• Documents supporting the cause of homelessness; and
+• Financial information on assets and income.
+In addition to the eligibility requirements, as referenced above, since January 2025, EOHLC
+has required a CORI check for all applicants for the EA Family Shelter program aged 18 or
+older, as well as for all individuals 18 years of age or older participating in the program.
+Impact of Existing Requirements
+Historically, applications to the EA Family Shelter program were primarily completed in
+person in one of ten (10) area offices located throughout Massachusetts, except in limited
+circumstances, for those at imminent risk of domestic violence, which were often
+conducted over the telephone. For several families, including those without reliable
+transportation, those in rural areas, and those with family members with disabilities or
+complex medical conditions, the requirement to apply for the program in person was a
+barrier.
+During the COVID-19 pandemic, EOHLC (then as DHCD) expanded the use of the existing
+telephone services and began to allow for a larger portion of the application process to be
+conducted virtually.
+In December 2024, EOHLC launched an online portal, Housing Help Hub, that allows
+families to apply for EA Family Shelter online, either on their own or with the assistance of a
+delegated advocate. Access to the online portal is available 24 hours a day, 7 days a week,
+and does not require travel or waiting in line to seek support. Using the tool, families can
+upload documents for verification that they would otherwise have needed to bring to an
+office to be reviewed and scanned. Families can still apply in person, but most apply
+virtually, which allows for quicker determination of eligibility.
+Beginning in January 2025, pursuant to the CORI policy and statutory requirements under
+M.G.L. Ch. 23B, § 30(C½), EOHLC introduced a mandatory in-person component of the
+application process, which brought at least adult members of all families back into the
+area offices, including those who applied online. To complete the required CORI check, an
+adult applicant aged 18 or older must complete the following steps in person at an area
+office13:
+1. Each adult family member must verify their identity by presenting a valid photo ID14
+or another approved document or set of documents to an EOHLC employee for
+review;
+13 EOHLC pays for the cost of travel to and from the EOHLC Field Office.
+14 Acceptable forms of identification are defined by DCJIS, 803 CMR 2.11, and the Criminal Offender Record
+Information Policy for the Emergency Assistance Family Shelter Program: https://www.mass.gov/doc/ea-cori-
+policy-1/download (April 11, 2025).
+11
+
+2. After the identity of the adult family member has been verified, they must then sign a
+CORI Acknowledgement Form, authorizing EOHLC to conduct a CORI check against
+the information they provided verified by their documentation.
+Only after these two in-person steps are completed can EOHLC conduct a CORI check.15
+EOHLC cannot determine whether a family is eligible for the program or place a family in
+shelter until all eligibility criteria are met, including the completion of the CORI check.16
+Once a family is in shelter, their length of stay is six months for the Bridge Shelter Track and
+30 business days for the Rapid Shelter Track, absent specific waivers or extensions.17
+Operational and Fiscal Impacts of Implementation
+Based on how other state agencies have implemented nationwide background checks and
+assumptions about the number of individuals accessing EA Family Shelter who would
+require NCIC background checks, EOHLC analyzed the operational and fiscal impacts of
+implementation. As set forth below, implementation would require approximately $430k-
+$765k in startup costs and $2.6M-$4.1M in annual operating costs and involve certain
+operational impacts to the eligibility process.
+Two Potential Options for Implementation
+Based on fact-finding conducted with other state agencies, it appears that EOHLC would
+have two distinct options for how to implement background checks for applicants 18 years
+of age or older through the NCIC for the EA Family Shelter program.
+1. EOHLC Directly Manages the Process. EOHLC would need to purchase fingerprint
+scanning equipment, develop appropriate protocols, hire additional staff, train staff
+to implement those protocols, and submit fingerprints directly.
+2. EOHLC Engages a Third-Party Vendor to Complete the Process. EOHLC would
+need to procure and contract with a suitable third-party vendor on statewide
+contract, such as Idemia, the vendor currently under contract for similar work with
+other state agencies. EOHLC would need to instruct families how to schedule
+appointments and coordinate transportation for adults in applicant families to and
+from the background check locations, and this would require additional staff.
+EOHLC would also need to develop appropriate protocols and train staff to
+implement those protocols correctly.
+15 Alternatively, families can pay to have their form notarized. A small number of families elect to do so and
+then transmit or hand-deliver the notarized form(s) to the EOHLC area office.
+16 760 CMR 67.06(1)(c) defines several narrow exceptions.
+17 In February 2025, the Legislature established a 6-month time limit on a family’s eligibility for EA Family
+Shelter, amending the prior 9-month limit. Section 3 of Chapter 1 of the Acts of 2025 amended M. G.L. Ch.
+23B, § 30, which is the statute governing the EA program.
+12
+
+Both options would entail one-time and ongoing expenses as further detailed below.
+Operational Impacts
+Over the course of 2024, EOHLC served over 10,000 families and an estimate of
+approximately 20,000 total adults over 18 in EA family shelter. This amounted to an average
+of more than 40 families, or 80 individuals, per business day. In 2025, EOHLC data suggests
+an average of 30 individuals requiring CORI checks per business day, which is another
+indication of the number of NCIC background checks that would be needed.
+Averaging this data indicates that—if nationwide background checks were in place—
+EOHLC could need to provide fingerprint services to an average of 55 individual adults per
+day. As demand for the EA Family Shelter program fluctuates week to week and day to day
+with some considerable variance, the operation of NCIC would need to service peak
+demand for background checks at higher levels.
+To pursue the implementation of nationwide background checks for adult applicants to the
+EA Family Shelter program, it will be necessary to select from the two options the path that
+introduces the fewest operational impediments and the lowest cost, while mitigating
+additional delays to families’ ability to access emergency shelter.
+Regardless of the implementation option selected, the process for completing fingerprint
+analysis can be time-consuming. Based on fact-gathering research with other
+Massachusetts state agencies, EOHLC has learned that when working with a third-party
+vendor, it can often take constituents more than 24 hours before they can successfully
+schedule an appointment to complete the identity verification and fingerprinting processes
+needed for national background checks. After the fingerprinting is complete, whether a
+third-party vendor was used or not, the prints are electronically transmitted to the
+Massachusetts State Police and the FBI to be processed. The results of the search are
+subsequently returned electronically to EOPSS/DCJIS’ system, Statewide Automated
+Fingerprint Information System (SAFIS), before being made available to the government
+agency making the request. This multi-step process takes between 5 to 21 business
+days to complete.
+Families eligible for EA Family Shelter without prioritized risk factors are typically assigned
+to the Rapid Shelter Track, which has a length of stay durational limit of 30 business days. If
+EOHLC were to implement NCIC checks and require such checks as a condition to entry,
+some families might have to wait nearly as long to complete the background check
+process, including time to schedule and wait for an appointment, as the total number of
+days that they would receive the shelter benefit itself.
+13
+
+Staffing Requirements
+Under either option, EOHLC would need a dedicated team to process the results of the
+background checks of applicants and make decisions about eligibility based on the results.
+Other state agencies that implement background checks have dedicated teams to manage
+the processing of both CORIs and background checks. EEC has a team of 36 staff to
+manage an annual application caseload of 85,000, which is a staff to applicant ratio of
+1:2,361.
+Applying the same logic to an EOHLC CORI and background check team, EOHLC’s Division
+of Housing Stabilization would require 6 staff fully dedicated to this effort, to review and
+process the results of background checks. We estimate this new cost to be $525,000 to
+$636,000 per year.
+EOHLC would require additional staff to input data from SAFIS without an additional secure
+data platform to receive the NCIC background check data from SAFIS and transmit the
+determinations to Housing Help Hub, the EOHLC Salesforce platform that manages
+applications. DCF has hired analysts to manually review and input the data from SAFIS into
+their existing database and have 20 analysts for an annual caseload of 10,000 applications,
+for a staff ratio of one analyst per 500 applications. These staff analyze the results of
+background checks, in addition to several other safety checks. If EOHLC pursues this
+option for the estimated 13,750-individual volume of background checks annually, this
+would require an estimated 14 staff to review and input data from background check
+results (at a ratio of 1:1,000 applications), instead of 6 staff. We estimate this would cost
+$1.2M-$1.5M per year in staffing costs instead of $525k-$636k.
+Transportation Requirements
+A significant number of families applying to the EA Family Shelter program do not have their
+own means of transportation. EOHLC provides support and funding for transportation to
+EOHLC offices for families who do not have other options and would need to do so for
+families to complete nationwide background check authorizations and fingerprinting.
+If EOHLC engages a third-party vendor to complete the process, EOHLC could need to
+arrange and pay for transportation to and from the vendor location18 to complete the
+necessary authorizations and fingerprinting. Assuming 28 families, or 55 individuals require
+background checks each day, that would assume at least 28 round-trip rides per day to and
+from the vendor locations. Some families have their own vehicles or may access public
+transportation, which would reduce the number of rides required, while some families may
+not be able to coordinate the adults in their family going to the vendor location at the same
+time due to timing conflicts such as work, childcare, or school pick-up/drop-off. For this
+18 A review of the IdentiGo by Idemia website demonstrates that most sites are not well-serviced by frequent
+public transportation, even for the Greater Boston locations.
+14
+
+option, we estimate that EOHLC would need to coordinate an average of 34 round-trip rides
+per day at an average rate of $110 per round-trip ride for an average cost of $3,781 per day
+or $945,313 per year. We estimate requiring an additional two full-time field staff to
+coordinate appointments and transportation, requiring an additional $175,000-$200,000 in
+annual staffing costs.
+If EOHLC directly manages the process, EOHLC would not need to coordinate
+transportation to a third-party vendor but would still need to expend additional funds to
+provide more rides for applicants. Currently, adults aged 18 and older in applicant families
+need to present themselves in person to verify their identity and consent to a CORI check.
+EOHLC currently organizes an average of two trips per business day to field offices for
+families who do not have their own transportation. Assuming EOHLC would need to
+organize and cover costs of a similar number of families per day to get an NCIC check at an
+EOHLC office, and assuming an average rate of $110 per round-trip ride, EOHLC would
+incur additional costs of $220 per day, or $55,000 per year.
+Technology Requirements
+Regardless of the proposed implementation option, EOHLC would need to invest in
+technology to operate NCIC checks. Whether fingerprinting is conducted in-house or by a
+third-party vendor, data from the background check would still come in through DCJIS, and
+EOHLC would require technology to connect application information from EOHLC’s
+Housing Help Hub system to the data DCJIS receives from the background check. EEC uses
+a platform called the Background Clearinghouse Enterprise Exchange (BigChex) and a
+secure in-house data platform system called Viewer to make and integrate determinations
+from the background check. DCF, rather, employs 20 analysts (1 analyst per 500 checks) to
+manually check the data in the SAFIS and input it into DCF data systems.
+If EOHLC directly manages the process, the agency would need to purchase and maintain
+fingerprint scanners of at least one per area office (minimum of 10, one for each area
+office), as well as the software and licenses required to check the data against the national
+databases. Demand for EA Family Shelter is not equally distributed among EOHLC’s area
+offices, and additional scanners may be required, either to account for increased demand
+or as reserve devices to ensure continuity of operations should any scanners fail during the
+course of normal business. EOHLC would need to plan for annual recurring equipment
+maintenance costs, as the equipment ages and needs fixing or replacement. This annual
+maintenance cost, assuming replacement of one or two machines, is estimated at
+$10,000-$20,000. In addition, the agency would need to pay one-time and ongoing costs
+for necessary data integration between the devices and systems required to engage the
+NCIC check process and EOHLC’s existing systems of record.
+The agency would also need to hire additional staff to run this process at field offices and
+make start-up investments in training to prepare staff. This additional staffing costs
+approximately $875,000 per year.
+15
+
+If EOHLC engages a third-party vendor to complete the process, the agency would need to
+invest in the appropriate system integration solutions required to ingest the background
+check data from the third-party vendor into EOHLC’s existing systems of record.
+BigChex was built for the Commonwealth of Massachusetts as part of a broader
+background record check project funded by the Executive Office of Technology Services
+and Security (EOTSS). The BigChex application is available to any agency, not just EEC, for
+its Navigator solution. BigChex connects to DCJIS through an application programming
+interface (API). Using the example of EEC, their Navigator program sends its request to
+BigChex which then routes the information to DCJIS. On the return trip, DCJIS sends data
+to BigChex and BigChex routes the information back to EEC’s Navigator, which then further
+pushes the information to EEC’s Viewer system.
+If EOHLC sought to build a background record check technological process, it may be
+feasible to use the BigChex solution and leverage the existing API connection between
+BigChex and DCJIS. Some adjustment might be required to differentiate or account for the
+different sources of the information. To use BigChex, EOHLC would incur some minimal
+costs to help cover the program’s API infrastructure. EOHLC would need to build its own
+secure data platform to receive the background check results from BigChex, review these
+results, and make determinations. These determinations would then integrate into
+EOHLC’s existing Housing Help Hub platform, which manages application review and
+decisions. While the precise cost has not yet been established, such reconfiguration and
+software build is estimated to come at a cost.
+Regardless of which path is pursued, EOHLC would need to make additional investments in
+technology to implement nationwide background checks. EOHLC anticipates the need to
+integrate new software with the existing applicant management system, Housing Help Hub,
+which is built on a Salesforce platform, and the need to build additional data fields and
+workflows required to ingest and action decisions based on additional nationwide criminal
+background check information. This would require one to two months of development and
+testing on the part of the agency’s Salesforce implementer, which would be estimated at
+$82,500 for a one-month build cycle. Utilizing one to two months of development would
+also delay other technological improvements that are critical for the EA system.19 If
+integrating NCIC data into the Housing Help Hub solution ultimately requires additional or
+different visibility restrictions than those already in place, that could warrant the
+expenditure of significantly more time and money to further reconfigure the existing
+system, thereby delaying other planned and important improvements to the platform. In
+addition to one-time development costs, ongoing expenses are anticipated, specifically for
+data use and data integration.
+19 Housing Help Hub rollout began in November 2024 and continues to date. EOHLC is presently transitioning
+from Phase 1 to Phase 2. The rollout is anticipant to continue through the next fiscal year.
+16
+
+Cost Projections
+There is an individual fee for each NCIC Check conducted, ranging from $35 to $55 per
+applicant. The exact fee would be set in the enabling statute but could not be waived in full
+as they are essential to the operation of the system. EOHLC could sign an ISA with the
+EOPSS to cover these fees for individuals applying to EA shelter. The fees are divided as
+follows:
+1. FBI fee to process the background check;
+2. Fee collected by the vendor to facilitate the collection and submission of the
+background checks; and
+3. Payment to the Commonwealth to maintain and support the system.
+With the assumptions about annual application numbers and individual fees, the individual
+fees would incur an annual cost of $481,250-$756,250.
+Based on the assumptions about number of adults requiring a background check and unit
+costs for operational needs outlined in the sections above, EOHLC has calculated a range
+of estimated ongoing costs for the two options explored: using a third-party vendor for
+fingerprinting or developing in-house capabilities. For option one, using a third-party
+vendor, annual recurring costs are estimated to be $2.63M-$3.36M. For option two, EOHLC
+staff directly managing the check, annual recurring costs are estimated to be $2.45M-
+$3.29M.
+Table 1: Estimated Recurring Expenditures by Option
+Ongoing Costs Estimated Recurring Expenditures
+Option 1: Third-party vendor Option 2: Managed directly by
+EOHLC staff
+Staffing $525,000-$636,000 $525,000-$636,000
+(6 full-time employees to (6 full-time employees to
+process the results of background process the results of
+checks) background checks)
+$175,000-$200,000 $875,000-$1M
+(Additional EOHLC staffing costs (additional annual staffing
+(2 full-time employees) to coordinate costs (10 full-time
+appointments and transport) employees) to conduct
+fingerprinting if EOHLC
+directly manages the process)
+17
+
+Transportation $945,313 $55,000
+(~53 round trip rides/day ~250 work (~2 round trip rides/day into field
+days/yr * est. cost/ride ($110) offices)
+~250 work days/yr * est. cost/ride
+($110)
+Technology or $500,000-$821,500 $500,000-$821,500
+additional staff
+to integrate (Annual cost of tech integration or (Annual cost of tech integration
+background additional 8 data staff) or additional 8 data staff)
+check data
+Background $481,250-$756,250 $481,250-$756,250
+Check ($35-$55 per applicant, ($35-$55 per applicant, 13,750
+Expenses 13,750 applicants) applicants)
+Total $2.63M-$3.36M $2.45M-$3.29M
+We project one-time start-up costs of $432,500-$565,000 to implement option one,
+engaging a third-party vendor to conduct fingerprinting for background checks. We project
+start-up costs of $632,500-$765,000 to implement option two, the development of in-
+house capabilities for fingerprinting and background checks. A full breakdown of one-time
+start-up costs are in the table below.
+Table 2: Estimated Start-Up Costs by Option
+Start-Up Cost Estimated Start-Up Costs
+Categories
+Option 1: Third-party vendor Option 2: Managed directly by
+EOHLC staff
+Staffing $350,000-$400,000 $450,000-$500,000
+(.5 year of staff time – 4-5 full-time (.5 year of staff time – 6-7 full-
+employees - to operationalize and time employees - to
+train) operationalize and train)
+Equipment N/A $100,000
+(Purchase and installation of
+fingerprinting machines at field
+offices)
+Technology $82,500-$165,000 $82,500-$165,000
+(technology integration into existing (technology integration into
+application platform) existing application platform)
+Total $432,500-$565,000 $632,500-$765,000
+18
+
+Conclusion
+Conducting proper eligibility determination and background checks is an important
+element of operating a safe and operationally and fiscally sustainable EA Family Shelter
+program. Implementing nationwide background checks for those in the EA Family Shelter
+program would first require new state legislation and then federal approval by the FBI.
+Projected costs for implementation range from $430k-$765k in startup costs and $2.45M-
+$3.36M in annual operating costs. As noted above, the FBI may take 5 to 21 business days
+to process and return results for a nationwide background check, which could increase
+wait times for placement into shelter for some families as compared to current baselines.
+19
+
+[DELETED: .E.C.H.B.O.T.F.R.E.I.O.T.O.S.T.T.C.C]
+[DELETED: 5 )T)O)F)P]
+[DELETED: . )T)T]
+[DELETED: ) ” e ]
+[DELETED: , ]
+[DELETED: . . )T)I)I)I)I)I.. ]
+[DELETED: . ]
+[DELETED: e:.ED]
+[DELETED: .A.. ..E.E]
+[DELETED: n ]
+[DELETED: . ]
+[DELETED: .F.F.P EO O $ $ ( p b  $ ( c e]
+[DELETED:  $ $ ( o~ $ $   ( ( a o $ $ ( ( 1 a $ $ EO O $ $ ( t o N $ $ $ ( e $ $]

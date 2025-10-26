@@ -1,0 +1,597 @@
+Title: To the Honorable Senate and House of Representatives of the Commonwealth of Massachusetts in General
+Official Title: To the Honorable Senate and House of Representatives of the Commonwealth of Massachusetts in General
+Number of Sections: 1
+Source: versions - Bill Text
+Media Type: application/pdf
+Strikethrough Detection: 13 sections found
+
+================================================================================
+
+Section 1:
+HOUSE DOCKET, NO. 3553 FILED ON: 1/17/2025
+HOUSE . . . . . . . . . . . . . . . No. 361
+The Commonwealth of Massachusetts
+_________________
+PRESENTED BY:
+Patricia A. Duffy, (BY REQUEST)
+_________________
+Court assembled:
+The undersigned legislators and/or citizens respectfully petition for the adoption of the accompanying bill:
+An Act reducing electromagnetic radiation emitted by technology through settings, design, and
+specific limits.
+_______________
+PETITION OF:
+NAME: DISTRICT/ADDRESS: DATE ADDED:
+Kirstin Beatty 149 Central Park Drive, Holyoke, MA 1/17/2025
+01040
+1 of 1
+HOUSE DOCKET, NO. 3553 FILED ON: 1/17/2025
+HOUSE . . . . . . . . . . . . . . . No. 361
+By Representative Duffy of Holyoke (by request), a petition (accompanied by bill, House, No.
+361) of Kirstin Beatty relative to corporate radiation limits. Consumer Protection and
+Professional Licensure.
+The Commonwealth of Massachusetts
+_______________
+In the One Hundred and Ninety-Fourth General Court
+(2025-2026)
+_______________
+An Act reducing electromagnetic radiation emitted by technology through settings, design, and
+specific limits.
+Be it enacted by the Senate and House of Representatives in General Court assembled, and by the authority
+of the same, as follows:
+1 SECTION 1. The legislature finds and confirms all of the following:-
+2 Whereas, the International Commission on the Biological Effects of Electromagnetic
+3 Fields (ICBE-EMF.org) has provided simple software and hardware solutions that could
+4 dramatically reduce our wireless exposures, while noting that even if such exposures continue
+5 they are harmful.
+6 Whereas, cellphones are typically the largest individual exposure to radiofrequency
+7 radiation, exceeding that of far field cell towers, with requirements to utilize cellphones in all
+8 facets of life have increased since 2004.
+9 Whereas, studies show proximity to cell towers increases cancer, such as a study finding
+10 10.5 times greater cancer incidence for women after only the second year of a cell tower
+11 installation, despite electromagnetic radiofrequency exposures 1000 times less that U.S. FCC
+1 of 12
+12 limits; or another study finding cancer death rates significantly elevated within 500 meters of a
+13 cell tower (Wolf & Wolf, 2004; Dode et al, 2011)
+14 Whereas, scientists Henry Lai and Narendra Singh decades ago found that radiation
+15 comparable to cellphones could cause DNA breaks, but then faced propaganda from industry to
+16 discredit their work; Lai has since then compiled peer-reviewed studies to show that most studies
+17 find DNA damage, neurological effects, genetic effects, etc., as listed at the Bioinitiative (.org), a
+18 scientific project which industry has also sought to discredit.
+19 Whereas, the scientific literature reveals serious threats to life from current wireless
+20 exposures such as numerous studies finding damage to sperm and ovaries; DNA damage that can
+21 cause germ line mutations in following generations; and infertility in mice after a few
+22 generations of wireless radiation exposure (Magdas & Xenos, 1997).
+23 Whereas, reducing power density may reduce some mechanisms of harm as may
+24 increasing off-line functionality of wireless devices, but scientific studies also show that
+25 extremely low power density exposure allows serious biological effects that still must otherwise
+26 be addressed, beginning with limits on particularly vulnerable populations such as children and
+27 pregnant women.
+28 Resolved, that the policy goals of this act shall be to limit electromagnetic radiation from
+29 0 hertz through 300 gigahertz that is emitted by technology by requiring:
+30 (a) technology companies to add design modifications in products that reduce wireless
+31 exposures such as improving off-line functionality and limiting transmissions;
+2 of 12
+32 (b) technology companies to include design modifications that reduce electric and
+33 magnetic fields such as shielding and quality filtering;
+34 (c) best practices for settings, selection, and installation of technology software,
+35 equipment, and infrastructure;
+36 (d) future-proofing products and equipment to enable wired functionality with reduced
+37 electromagnetic emissions.
+38 SECTION 2. The General Laws are hereby amended by inserting after chapter 166A the
+39 following new chapter:
+40 CHAPTER 166B.
+41 CORPORATE RADIATION LIMITS
+42 Section 1.
+43 (a) As used in this section, the following terms shall have the following meanings:
+44 "As Safe As Reasonable and Achievable" or "ASARAA" means that when humans or the
+45 environment are exposed to radiation from technology, the exposure should be as safe as is
+46 reasonable and achievable with respect to all software design, installation, and technological
+47 aspects, such as with regard to but not limited to non-use (an elimination of exposure), pulsing,
+48 modulation, frequencies, resonance, power density, polarization, power quality, distance of
+49 reach, shielding, filters, grounding, and synergism between frequencies or other bio-active
+50 substances.
+3 of 12
+51 "Reasonable" means within the term ASARAA a prioritization of safety and does not
+52 refer to a risk and benefits analysis - reasonable refers to the fact that prioritizing safety is
+53 reasonable. Reasonable design means that non-use or elimination of radiation applies when a
+54 potential for great danger to the public or environment exists as judged by a reasonable
+55 interpretation of available science, expert warnings, or when effects are unknown.
+56 "Electromagnetic radiation" or "radiation" means all radiation emitted by technology,
+57 whether intentionally or unintentionally, and includes the radiative fields emitted by electricity,
+58 including from poor power quality, and the radiating frequencies that are emitted by wireless
+59 technologies.
+60 (b) Corporations which design, manufacture, install, or maintain digital, internet, or
+61 wireless infrastructure, technological products, or their respective services must within their
+62 purview make design and technological choices that limit harm from electromagnetic radiation -
+63 exposures from technology must be ‘As Safe as Reasonable and Achievable’, which will
+64 hereafter be called ‘ASARAA’. Where products or services are actually intended to operate
+65 wirelessly or otherwise intentionally emit radiation, such corporations are to minimize harm with
+66 ASARAA design, selection, and best practices.
+67 This directive for ASARAA design refers to all new products, services, installations,
+68 settings, infrastructure and, where compatibility exists, to service upgrades, product upgrades,
+69 repairs, and ongoing software updates.
+70 (c) General ASARAA design principles and more specific requirements are as follows:
+4 of 12
+71 (1) Limit consumer and work exposure to wireless radiation from personal devices,
+72 personal computers, and other radiating technologies including but not limited to the following
+73 requirements:
+74 i. Provide hard-wired integration options for wireless technologies and services so
+75 that any wireless antenna can be turned off when hard-wired transmission is preferred, including
+76 but not limited to smart entertainment systems that must have hard-wired functionality without
+77 wireless transmissions;
+78 ii. Automatically block wireless radiation emissions, but not reception, when
+79 positioned close to the head or body;
+80 iii. Include a soft key that easily allows all wireless transmissions to be turned on or
+81 halted at once;
+82 iv. Include a soft key for a mode that only receives and does not transmit;
+83 v. Set factory and default mode to wired connectivity, allowing updates, downloads,
+84 and installations to occur with wired instead of wireless connectivity and insuring that updates do
+85 not restart wireless transmissions that were preset as wired;
+86 vi. As related to messaging, data collection, and other applications, provide an
+87 application that allows consumers to turn off antenna transmissions individually as well as
+88 allows consumers to set transmissions to begin and end at certain times including as set on a
+89 regular basis and as set by the tap of a soft key or button that sets the signal to begin after a
+90 certain time and upon completion of transmission or as set by the user.
+91 vii. Provide a visible marker that indicates when wireless transmissions are occurring.
+5 of 12
+92 viii. Eliminate continuing transmissions of location so that transmissions only occur
+93 when expressly and actively sought by the user for an immediate, active use, for a time set by the
+94 user and easily halted.
+95 ix. Provide an application to turn on location services upon remote inquiry in order to
+96 find lost mobile devices.
+97 x. Set routers, wireless home phones, and other transmitting devices to only transmit
+98 on demand and even during a certain time frame, and to turn off when no longer in use by the
+99 consumer.
+100 xi. Where products and services, including utilities, use wireless transmissions,
+101 insure that all such transmissions are specific to the user's needs, such as payment for services,
+102 updates, or cybersecurity checks, and are not in any way extraneous to the product or service,
+103 such as but not limited to data collection for profiling and marketing.
+104 xii. Where utilities have placed more than 1 utility meter, such as but not limited to
+105 apartment buildings, utlities are to remove the wired functionality of these utility meters and
+106 replace the meters with analog meters or wired utility meters that best reduce electromagnetic
+107 radiation exposures.
+108 xiii. With respect to data collection, integration, and related work on the part of the
+109 user of a device, include simple, preferential functionality for inputing and collecting data offline
+110 and for use of wired connectivity for downloading and syncing onto any pertinent device,
+111 including a passive storage device.
+6 of 12
+112 xiv. With respect to wireless transmissions, use automated protocol-based reductions
+113 of all of the following: the number of emissions, emission duration, and the integrated dose.
+114 xv. Provide an easy to access, free application with personal wireless devices
+115 to limit call durations according to an estimation of the effective radiated power emitted by the
+116 device that allows: (A) users to track and further refine call duration limits beyond any default
+117 settings; (B) allow guardians to easily set limits for their children's devices, including
+118 disallowing wireless for times specified, with allowances to bypass only under specific
+119 conditions specified by the guardian except for allowing continuing access on mobile phones to
+120 dial relevant emergency and crisis numbers.
+121 xvi. Except where only wireless connectivity can provide functionality of a product or
+122 service, insure wired or offline functionality is available and comparable in quality or better than
+123 wireless functionality;
+124 xvii. Insure use of quality connectors that prevent leakage of radiation;
+125 xviii. Modify the antenna of personal mobile devices so the emission pattern is more
+126 hemispherical and radiates away from the head and the body.
+127 xix. With new personal computer, cellphone, and other wireless technology product
+128 sales, provide the connecting necessities and ports, with or without an Ethernet cord, for hard-
+129 wired functionality as part of the sales package so that users are not required to use wireless
+130 mice, headphones, etc., for functionality.
+131 xx. Provide simple, accessible information on how to hard-wire products such as
+132 routers, including generatlly where to get or buy the necessary equipment to do so;
+7 of 12
+133 xxi. If providing broadband or telecommunications services to a residence or
+134 business, provide at a minimum one hard-wired connection with cord and if the resident or client
+135 expects to use more than one hard-wired connection, provide an ethernet or comparable switch --
+136 additionally provide education on how to hard wire devices for connectivity;
+137 xxii. When installing, programming, or setting up relevant technology as part of an
+138 installation service, limit radiation wherever possible, using best practices such as but not limited
+139 to providing an installation option for hard-wired connectivity, providing distance from and
+140 labeling of any wireless antennas, selecting products which minimize all electromagnetic
+141 exposures; and providing guidance and labeling to maintain best practices to limit
+142 electromagnetic radiation.
+143 xxiii. Where installing broadband or telecommunications services for consumers,
+144 insure that the cost of wired, in contrast to wireless installation, is an add-on with a cost that
+145 does not exceed the costs of supplies and the hourly wage of installers by more than 1%.
+146 xxiv. Limit the number, reach or distance of, and the power density of antennas to only
+147 that necessary for functionality.
+148 xxv. If providing streaming services, provide downloadable options to reduce wireless
+149 exposures from streaming.
+150 xxvi. Provide large buttons or manual switches that clearly mark and easily turn off
+151 wireless transmissions on equipment such as but not limited to routers.
+8 of 12
+152 xxvii. Include a two to three meter cord with switch or another mechanism to to allow
+153 users to turn on and turn off transmissions at a distance from strong near field exposures from
+154 static consumer devices such as but not limited to routers.
+155 xxviii. Provide the location of antennas and sensors on wireless and digital technology
+156 within print and online manuals, and provide instructions for the removal of antennas or
+157 elimination of their transmissions such as but not limited to smart devices and appliances.
+158 xxix. Where services and products, including utilities, use wireless for payment or
+159 updating functionality that cannot easily or immediately be replaced by hard-wired connectivity,
+160 insure that the wireless transmission is set to minimize transmissions, including but not limited to
+161 using low power density, minimizing signal duration, and setting transmission time to occur with
+162 the minimum exposure possible, such as at a designated time set by the user or quarterly,
+163 including with notification to the user of expected transmission times
+164 xxx. For wireless transmissions such as updates and messaging, include information on
+165 how long the wireless signal is expected to take in advance of the transmission begins and
+166 provide a voluntary ring tone and visible sign that the wireless transmission is completed.
+167 xxxi. When using a wireless signal for transmission, automatically prefer use of
+168 antennas which require less power density for connectivity, such as Wi-Fi antennas.
+169 xxxii. Where wireless signals occur that are not related to the user's messaging, internet
+170 usage, necessary provider payments, or for necessary functionality and cybersecurity updates,
+171 provide an app that clearly identifies all the different signaling alongside accompanying options
+172 to eliminate each signal or choose to circumscribe the time of transmission.
+9 of 12
+173 xxxiii. Corporations selling products that unintentionally emit frequencies from 0 hertz
+174 through 300 gigahertz that cannot all be successfully remediated, such as but not limited to
+175 fiberoptic connectors, are to provide information on the packaging and in manual regarding any
+176 leakage of this electromagnetic radiation, including the amount, frequencies, and description of
+177 how time and use may impact leakage.
+178 xxxiv. When installing broadband or telecommunications access in early through higher
+179 education settings as well as in daycare, nursing homes, and hospitals, provide hard-wired ports
+180 and hard-wired connectivity that best reduces electromagnetic radiation, prioritizing such
+181 connectivity first in areas specific to babies, pregnancies, and children.
+182 (2) Limit consumer exposure to radiation from electric and magnetic fields with good
+183 design including the following requirements:
+184 i. Limit frequencies on electrical cords and infrastructure through the use of
+185 appropriate filters, connectors, and quality electrical design to prevent the addition of
+186 electromagnetic frequencies besides 60 hertz on the electrical lines and to comply with electrical
+187 code standard IEEE 519;
+188 ii. Limit electric and magnetic fields through the use of shielding, grounding,
+189 distance setbacks, and quality electrical design.
+190 iii. Corporations selling products which emit frequencies from 0 hertz through 300
+191 gigahertz or which continue to leak such frequencies despite quality filtering and remediation,
+192 including but not limited to lighting, are to provide information on the packaging and in the
+193 product manual regarding any intentional or unintentional emissions including leakage, including
+194 providing the amount, frequencies, and, for leakage, the effects of time and use on leakage.
+10 of 12
+195 (d) While subsection (c) above provides some specific requirements, the general principal
+196 of ASARAA means that corporations have a duty to be proactive in the prevention of harm
+197 through continuing investigation and application of findings to further additional modifications
+198 for the best, safest, future-proof design. Corporations have a duty to pay attention to critics,
+199 cautions and guidance from existing scientific knowledge around the world from past to present
+200 in order to craft safer technology - and a duty to avoid ignorance or compromised, inadequate
+201 research as an excuse to avoid responsibility. Recommended resources to guide design include
+202 the Building Biology Institute and the International Commission on the Biological Effects of
+203 Electromagnetic Fields.
+204 (e) The attorney general shall enforce good faith compliance of this section through
+205 adjudication of complaints alleging such violations in accordance with chapter 93A and with
+206 chapter 106, section 2-314. This remedy shall not be exclusive and shall be in addition to all
+207 other causes of action, remedies and penalties provided by law, and shall allow for a qui tam
+208 action as well as a private right of action for product liability and negligence. The office of the
+209 attorney general shall provide a mechanism for anonymous reporting of violations. Corporate
+210 whistle-blowers shall be provided comparable rewards and protections to that of the
+211 Massachusetts False Claims Act and the Massachusetts Whistleblower Protection Act.
+212 SECTION 3. This act shall take effect upon its passage. Upon the effective date of this
+213 section, compliance shall be in good faith with steps initiated to implement changes within a
+214 month and changes rolled out as soon as functional. Changes that can take place immediately,
+215 such as in the best practices for installation shall be implemented within one month of passage.
+216 Specific software requirements which require design modification shall be implemented at
+217 minimum within 2 years of passage unless sooner implementation is possible, in which case
+11 of 12
+218 sooner implementation shall take place. Those changes requiring manufacturing or hardware
+219 changes should at minimum take no more than 4 years to be enacted, unless sooner
+220 implementation is possible, in which case sooner implementation shall take place. Hardware and
+221 software changes should be reflected in the interim in the ongoing design of new models.
+222 SECTION 4. The provisions of this act are severable, and if any clause, sentence,
+223 paragraph or section of this law or an application thereof shall be adjudged by any court of
+224 competent jurisdiction to be invalid, such judgment shall not affect, impair, or invalidate the
+225 remainder thereof but shall be confined in its operation to the clause, sentence, paragraph,
+226 section or application adjudged invalid and such clause, sentence, paragraph, section or
+227 application shall be reformed and construed so that it would be valid to the maximum extent
+228 permitted.
+12 of 12
+[DELETED: :D/A:DAEITDSA Dy1 1]
+[DELETED: SWFdtWrfW011i]
+[DELETED: 2l3c4W5c6d7f8s9W0e1c2g3W4i5e6b7p8R900(1e]
+[DELETED: 2(3m4(5e6(7e8S9f0C1C2S3(4"5e6r7a8m9r0s]
+[DELETED: 1"2r3r4p5i6"7w8i9t0(1w2p3e4h5w6A7T8s9r0(]
+[DELETED: 1(2p3r4i.P5t6b7w8i.A9p0i.I1h2i.I3v.S4a5n6v.A7a8a9r0c1v.P]
+[DELETED: 2v.E3w4u5i.P6f7x.S8o9c0x.W1i2u3s4x.W5a6r7r8x.W9u0a1i]
+[DELETED: 2x.W3o4x. 5t6d7s8d9c0d1x.E2s3w4x. 5x.M6h7x.W8s9w0m1x.P2r]
+[DELETED: 3x. 4b5e6a7x. 8i9t0l1e2e3x. 4i5d6x.L7t8x.I9e0x.P1w]
+[DELETED: 2x.I3u4s5x.P6w7e8x.W9u0i1u2t3i4x.F5h6p7x.W8a9x.W0u1p2t]
+[DELETED: 3x.C4t5f6l7h8x. 9e0a1c2(3d4i.L5a6e7c8i.L9d0i.C1g2i3p4p]
+[DELETED: 5(6o7t8f9c0i1r2t3E4(5a6c7o8a9a0w1M2S3s4m5s6S7m]
+[DELETED: 8s9c0i1s2S3p4c5r6s7a8p]
+
+
+================================================================================
+
+Raw Text:
+HOUSE DOCKET, NO. 3553 FILED ON: 1/17/2025
+HOUSE . . . . . . . . . . . . . . . No. 361
+The Commonwealth of Massachusetts
+_________________
+PRESENTED BY:
+Patricia A. Duffy, (BY REQUEST)
+_________________
+To the Honorable Senate and House of Representatives of the Commonwealth of Massachusetts in General
+Court assembled:
+The undersigned legislators and/or citizens respectfully petition for the adoption of the accompanying bill:
+An Act reducing electromagnetic radiation emitted by technology through settings, design, and
+specific limits.
+_______________
+PETITION OF:
+NAME: DISTRICT/ADDRESS: DATE ADDED:
+Kirstin Beatty 149 Central Park Drive, Holyoke, MA 1/17/2025
+01040
+1 of 1
+
+HOUSE DOCKET, NO. 3553 FILED ON: 1/17/2025
+HOUSE . . . . . . . . . . . . . . . No. 361
+By Representative Duffy of Holyoke (by request), a petition (accompanied by bill, House, No.
+361) of Kirstin Beatty relative to corporate radiation limits. Consumer Protection and
+Professional Licensure.
+The Commonwealth of Massachusetts
+_______________
+In the One Hundred and Ninety-Fourth General Court
+(2025-2026)
+_______________
+An Act reducing electromagnetic radiation emitted by technology through settings, design, and
+specific limits.
+Be it enacted by the Senate and House of Representatives in General Court assembled, and by the authority
+of the same, as follows:
+1 SECTION 1. The legislature finds and confirms all of the following:-
+2 Whereas, the International Commission on the Biological Effects of Electromagnetic
+3 Fields (ICBE-EMF.org) has provided simple software and hardware solutions that could
+4 dramatically reduce our wireless exposures, while noting that even if such exposures continue
+5 they are harmful.
+6 Whereas, cellphones are typically the largest individual exposure to radiofrequency
+7 radiation, exceeding that of far field cell towers, with requirements to utilize cellphones in all
+8 facets of life have increased since 2004.
+9 Whereas, studies show proximity to cell towers increases cancer, such as a study finding
+10 10.5 times greater cancer incidence for women after only the second year of a cell tower
+11 installation, despite electromagnetic radiofrequency exposures 1000 times less that U.S. FCC
+1 of 12
+
+12 limits; or another study finding cancer death rates significantly elevated within 500 meters of a
+13 cell tower (Wolf & Wolf, 2004; Dode et al, 2011)
+14 Whereas, scientists Henry Lai and Narendra Singh decades ago found that radiation
+15 comparable to cellphones could cause DNA breaks, but then faced propaganda from industry to
+16 discredit their work; Lai has since then compiled peer-reviewed studies to show that most studies
+17 find DNA damage, neurological effects, genetic effects, etc., as listed at the Bioinitiative (.org), a
+18 scientific project which industry has also sought to discredit.
+19 Whereas, the scientific literature reveals serious threats to life from current wireless
+20 exposures such as numerous studies finding damage to sperm and ovaries; DNA damage that can
+21 cause germ line mutations in following generations; and infertility in mice after a few
+22 generations of wireless radiation exposure (Magdas & Xenos, 1997).
+23 Whereas, reducing power density may reduce some mechanisms of harm as may
+24 increasing off-line functionality of wireless devices, but scientific studies also show that
+25 extremely low power density exposure allows serious biological effects that still must otherwise
+26 be addressed, beginning with limits on particularly vulnerable populations such as children and
+27 pregnant women.
+28 Resolved, that the policy goals of this act shall be to limit electromagnetic radiation from
+29 0 hertz through 300 gigahertz that is emitted by technology by requiring:
+30 (a) technology companies to add design modifications in products that reduce wireless
+31 exposures such as improving off-line functionality and limiting transmissions;
+2 of 12
+
+32 (b) technology companies to include design modifications that reduce electric and
+33 magnetic fields such as shielding and quality filtering;
+34 (c) best practices for settings, selection, and installation of technology software,
+35 equipment, and infrastructure;
+36 (d) future-proofing products and equipment to enable wired functionality with reduced
+37 electromagnetic emissions.
+38 SECTION 2. The General Laws are hereby amended by inserting after chapter 166A the
+39 following new chapter:
+40 CHAPTER 166B.
+41 CORPORATE RADIATION LIMITS
+42 Section 1.
+43 (a) As used in this section, the following terms shall have the following meanings:
+44 "As Safe As Reasonable and Achievable" or "ASARAA" means that when humans or the
+45 environment are exposed to radiation from technology, the exposure should be as safe as is
+46 reasonable and achievable with respect to all software design, installation, and technological
+47 aspects, such as with regard to but not limited to non-use (an elimination of exposure), pulsing,
+48 modulation, frequencies, resonance, power density, polarization, power quality, distance of
+49 reach, shielding, filters, grounding, and synergism between frequencies or other bio-active
+50 substances.
+3 of 12
+
+51 "Reasonable" means within the term ASARAA a prioritization of safety and does not
+52 refer to a risk and benefits analysis - reasonable refers to the fact that prioritizing safety is
+53 reasonable. Reasonable design means that non-use or elimination of radiation applies when a
+54 potential for great danger to the public or environment exists as judged by a reasonable
+55 interpretation of available science, expert warnings, or when effects are unknown.
+56 "Electromagnetic radiation" or "radiation" means all radiation emitted by technology,
+57 whether intentionally or unintentionally, and includes the radiative fields emitted by electricity,
+58 including from poor power quality, and the radiating frequencies that are emitted by wireless
+59 technologies.
+60 (b) Corporations which design, manufacture, install, or maintain digital, internet, or
+61 wireless infrastructure, technological products, or their respective services must within their
+62 purview make design and technological choices that limit harm from electromagnetic radiation -
+63 exposures from technology must be ‘As Safe as Reasonable and Achievable’, which will
+64 hereafter be called ‘ASARAA’. Where products or services are actually intended to operate
+65 wirelessly or otherwise intentionally emit radiation, such corporations are to minimize harm with
+66 ASARAA design, selection, and best practices.
+67 This directive for ASARAA design refers to all new products, services, installations,
+68 settings, infrastructure and, where compatibility exists, to service upgrades, product upgrades,
+69 repairs, and ongoing software updates.
+70 (c) General ASARAA design principles and more specific requirements are as follows:
+4 of 12
+
+71 (1) Limit consumer and work exposure to wireless radiation from personal devices,
+72 personal computers, and other radiating technologies including but not limited to the following
+73 requirements:
+74 i. Provide hard-wired integration options for wireless technologies and services so
+75 that any wireless antenna can be turned off when hard-wired transmission is preferred, including
+76 but not limited to smart entertainment systems that must have hard-wired functionality without
+77 wireless transmissions;
+78 ii. Automatically block wireless radiation emissions, but not reception, when
+79 positioned close to the head or body;
+80 iii. Include a soft key that easily allows all wireless transmissions to be turned on or
+81 halted at once;
+82 iv. Include a soft key for a mode that only receives and does not transmit;
+83 v. Set factory and default mode to wired connectivity, allowing updates, downloads,
+84 and installations to occur with wired instead of wireless connectivity and insuring that updates do
+85 not restart wireless transmissions that were preset as wired;
+86 vi. As related to messaging, data collection, and other applications, provide an
+87 application that allows consumers to turn off antenna transmissions individually as well as
+88 allows consumers to set transmissions to begin and end at certain times including as set on a
+89 regular basis and as set by the tap of a soft key or button that sets the signal to begin after a
+90 certain time and upon completion of transmission or as set by the user.
+91 vii. Provide a visible marker that indicates when wireless transmissions are occurring.
+5 of 12
+
+92 viii. Eliminate continuing transmissions of location so that transmissions only occur
+93 when expressly and actively sought by the user for an immediate, active use, for a time set by the
+94 user and easily halted.
+95 ix. Provide an application to turn on location services upon remote inquiry in order to
+96 find lost mobile devices.
+97 x. Set routers, wireless home phones, and other transmitting devices to only transmit
+98 on demand and even during a certain time frame, and to turn off when no longer in use by the
+99 consumer.
+100 xi. Where products and services, including utilities, use wireless transmissions,
+101 insure that all such transmissions are specific to the user's needs, such as payment for services,
+102 updates, or cybersecurity checks, and are not in any way extraneous to the product or service,
+103 such as but not limited to data collection for profiling and marketing.
+104 xii. Where utilities have placed more than 1 utility meter, such as but not limited to
+105 apartment buildings, utlities are to remove the wired functionality of these utility meters and
+106 replace the meters with analog meters or wired utility meters that best reduce electromagnetic
+107 radiation exposures.
+108 xiii. With respect to data collection, integration, and related work on the part of the
+109 user of a device, include simple, preferential functionality for inputing and collecting data offline
+110 and for use of wired connectivity for downloading and syncing onto any pertinent device,
+111 including a passive storage device.
+6 of 12
+
+112 xiv. With respect to wireless transmissions, use automated protocol-based reductions
+113 of all of the following: the number of emissions, emission duration, and the integrated dose.
+114 xv. Provide an easy to access, free application with personal wireless devices
+115 to limit call durations according to an estimation of the effective radiated power emitted by the
+116 device that allows: (A) users to track and further refine call duration limits beyond any default
+117 settings; (B) allow guardians to easily set limits for their children's devices, including
+118 disallowing wireless for times specified, with allowances to bypass only under specific
+119 conditions specified by the guardian except for allowing continuing access on mobile phones to
+120 dial relevant emergency and crisis numbers.
+121 xvi. Except where only wireless connectivity can provide functionality of a product or
+122 service, insure wired or offline functionality is available and comparable in quality or better than
+123 wireless functionality;
+124 xvii. Insure use of quality connectors that prevent leakage of radiation;
+125 xviii. Modify the antenna of personal mobile devices so the emission pattern is more
+126 hemispherical and radiates away from the head and the body.
+127 xix. With new personal computer, cellphone, and other wireless technology product
+128 sales, provide the connecting necessities and ports, with or without an Ethernet cord, for hard-
+129 wired functionality as part of the sales package so that users are not required to use wireless
+130 mice, headphones, etc., for functionality.
+131 xx. Provide simple, accessible information on how to hard-wire products such as
+132 routers, including generatlly where to get or buy the necessary equipment to do so;
+7 of 12
+
+133 xxi. If providing broadband or telecommunications services to a residence or
+134 business, provide at a minimum one hard-wired connection with cord and if the resident or client
+135 expects to use more than one hard-wired connection, provide an ethernet or comparable switch --
+136 additionally provide education on how to hard wire devices for connectivity;
+137 xxii. When installing, programming, or setting up relevant technology as part of an
+138 installation service, limit radiation wherever possible, using best practices such as but not limited
+139 to providing an installation option for hard-wired connectivity, providing distance from and
+140 labeling of any wireless antennas, selecting products which minimize all electromagnetic
+141 exposures; and providing guidance and labeling to maintain best practices to limit
+142 electromagnetic radiation.
+143 xxiii. Where installing broadband or telecommunications services for consumers,
+144 insure that the cost of wired, in contrast to wireless installation, is an add-on with a cost that
+145 does not exceed the costs of supplies and the hourly wage of installers by more than 1%.
+146 xxiv. Limit the number, reach or distance of, and the power density of antennas to only
+147 that necessary for functionality.
+148 xxv. If providing streaming services, provide downloadable options to reduce wireless
+149 exposures from streaming.
+150 xxvi. Provide large buttons or manual switches that clearly mark and easily turn off
+151 wireless transmissions on equipment such as but not limited to routers.
+8 of 12
+
+152 xxvii. Include a two to three meter cord with switch or another mechanism to to allow
+153 users to turn on and turn off transmissions at a distance from strong near field exposures from
+154 static consumer devices such as but not limited to routers.
+155 xxviii. Provide the location of antennas and sensors on wireless and digital technology
+156 within print and online manuals, and provide instructions for the removal of antennas or
+157 elimination of their transmissions such as but not limited to smart devices and appliances.
+158 xxix. Where services and products, including utilities, use wireless for payment or
+159 updating functionality that cannot easily or immediately be replaced by hard-wired connectivity,
+160 insure that the wireless transmission is set to minimize transmissions, including but not limited to
+161 using low power density, minimizing signal duration, and setting transmission time to occur with
+162 the minimum exposure possible, such as at a designated time set by the user or quarterly,
+163 including with notification to the user of expected transmission times
+164 xxx. For wireless transmissions such as updates and messaging, include information on
+165 how long the wireless signal is expected to take in advance of the transmission begins and
+166 provide a voluntary ring tone and visible sign that the wireless transmission is completed.
+167 xxxi. When using a wireless signal for transmission, automatically prefer use of
+168 antennas which require less power density for connectivity, such as Wi-Fi antennas.
+169 xxxii. Where wireless signals occur that are not related to the user's messaging, internet
+170 usage, necessary provider payments, or for necessary functionality and cybersecurity updates,
+171 provide an app that clearly identifies all the different signaling alongside accompanying options
+172 to eliminate each signal or choose to circumscribe the time of transmission.
+9 of 12
+
+173 xxxiii. Corporations selling products that unintentionally emit frequencies from 0 hertz
+174 through 300 gigahertz that cannot all be successfully remediated, such as but not limited to
+175 fiberoptic connectors, are to provide information on the packaging and in manual regarding any
+176 leakage of this electromagnetic radiation, including the amount, frequencies, and description of
+177 how time and use may impact leakage.
+178 xxxiv. When installing broadband or telecommunications access in early through higher
+179 education settings as well as in daycare, nursing homes, and hospitals, provide hard-wired ports
+180 and hard-wired connectivity that best reduces electromagnetic radiation, prioritizing such
+181 connectivity first in areas specific to babies, pregnancies, and children.
+182 (2) Limit consumer exposure to radiation from electric and magnetic fields with good
+183 design including the following requirements:
+184 i. Limit frequencies on electrical cords and infrastructure through the use of
+185 appropriate filters, connectors, and quality electrical design to prevent the addition of
+186 electromagnetic frequencies besides 60 hertz on the electrical lines and to comply with electrical
+187 code standard IEEE 519;
+188 ii. Limit electric and magnetic fields through the use of shielding, grounding,
+189 distance setbacks, and quality electrical design.
+190 iii. Corporations selling products which emit frequencies from 0 hertz through 300
+191 gigahertz or which continue to leak such frequencies despite quality filtering and remediation,
+192 including but not limited to lighting, are to provide information on the packaging and in the
+193 product manual regarding any intentional or unintentional emissions including leakage, including
+194 providing the amount, frequencies, and, for leakage, the effects of time and use on leakage.
+10 of 12
+
+195 (d) While subsection (c) above provides some specific requirements, the general principal
+196 of ASARAA means that corporations have a duty to be proactive in the prevention of harm
+197 through continuing investigation and application of findings to further additional modifications
+198 for the best, safest, future-proof design. Corporations have a duty to pay attention to critics,
+199 cautions and guidance from existing scientific knowledge around the world from past to present
+200 in order to craft safer technology - and a duty to avoid ignorance or compromised, inadequate
+201 research as an excuse to avoid responsibility. Recommended resources to guide design include
+202 the Building Biology Institute and the International Commission on the Biological Effects of
+203 Electromagnetic Fields.
+204 (e) The attorney general shall enforce good faith compliance of this section through
+205 adjudication of complaints alleging such violations in accordance with chapter 93A and with
+206 chapter 106, section 2-314. This remedy shall not be exclusive and shall be in addition to all
+207 other causes of action, remedies and penalties provided by law, and shall allow for a qui tam
+208 action as well as a private right of action for product liability and negligence. The office of the
+209 attorney general shall provide a mechanism for anonymous reporting of violations. Corporate
+210 whistle-blowers shall be provided comparable rewards and protections to that of the
+211 Massachusetts False Claims Act and the Massachusetts Whistleblower Protection Act.
+212 SECTION 3. This act shall take effect upon its passage. Upon the effective date of this
+213 section, compliance shall be in good faith with steps initiated to implement changes within a
+214 month and changes rolled out as soon as functional. Changes that can take place immediately,
+215 such as in the best practices for installation shall be implemented within one month of passage.
+216 Specific software requirements which require design modification shall be implemented at
+217 minimum within 2 years of passage unless sooner implementation is possible, in which case
+11 of 12
+
+218 sooner implementation shall take place. Those changes requiring manufacturing or hardware
+219 changes should at minimum take no more than 4 years to be enacted, unless sooner
+220 implementation is possible, in which case sooner implementation shall take place. Hardware and
+221 software changes should be reflected in the interim in the ongoing design of new models.
+222 SECTION 4. The provisions of this act are severable, and if any clause, sentence,
+223 paragraph or section of this law or an application thereof shall be adjudged by any court of
+224 competent jurisdiction to be invalid, such judgment shall not affect, impair, or invalidate the
+225 remainder thereof but shall be confined in its operation to the clause, sentence, paragraph,
+226 section or application adjudged invalid and such clause, sentence, paragraph, section or
+227 application shall be reformed and construed so that it would be valid to the maximum extent
+228 permitted.
+12 of 12
+
+[DELETED: :D/A:DAEITDSA Dy1 1]
+[DELETED: SWFdtWrfW011i]
+[DELETED: 2l3c4W5c6d7f8s9W0e1c2g3W4i5e6b7p8R900(1e]
+[DELETED: 2(3m4(5e6(7e8S9f0C1C2S3(4"5e6r7a8m9r0s]
+[DELETED: 1"2r3r4p5i6"7w8i9t0(1w2p3e4h5w6A7T8s9r0(]
+[DELETED: 1(2p3r4i.P5t6b7w8i.A9p0i.I1h2i.I3v.S4a5n6v.A7a8a9r0c1v.P]
+[DELETED: 2v.E3w4u5i.P6f7x.S8o9c0x.W1i2u3s4x.W5a6r7r8x.W9u0a1i]
+[DELETED: 2x.W3o4x. 5t6d7s8d9c0d1x.E2s3w4x. 5x.M6h7x.W8s9w0m1x.P2r]
+[DELETED: 3x. 4b5e6a7x. 8i9t0l1e2e3x. 4i5d6x.L7t8x.I9e0x.P1w]
+[DELETED: 2x.I3u4s5x.P6w7e8x.W9u0i1u2t3i4x.F5h6p7x.W8a9x.W0u1p2t]
+[DELETED: 3x.C4t5f6l7h8x. 9e0a1c2(3d4i.L5a6e7c8i.L9d0i.C1g2i3p4p]
+[DELETED: 5(6o7t8f9c0i1r2t3E4(5a6c7o8a9a0w1M2S3s4m5s6S7m]
+[DELETED: 8s9c0i1s2S3p4c5r6s7a8p]

@@ -1,0 +1,1787 @@
+Title: To the Honorable Senate and House of Representatives of the Commonwealth of Massachusetts in General
+Official Title: To the Honorable Senate and House of Representatives of the Commonwealth of Massachusetts in General
+Number of Sections: 1
+Source: versions - Bill Text
+Media Type: application/pdf
+Strikethrough Detection: 37 sections found
+
+================================================================================
+
+Section 1:
+HOUSE DOCKET, NO. 2125 FILED ON: 1/15/2025
+HOUSE . . . . . . . . . . . . . . . No. 1130
+The Commonwealth of Massachusetts
+_________________
+PRESENTED BY:
+Marjorie C. Decker
+_________________
+Court assembled:
+The undersigned legislators and/or citizens respectfully petition for the adoption of the accompanying bill:
+An Act relative to telehealth and digital equity for patients.
+_______________
+PETITION OF:
+NAME: DISTRICT/ADDRESS: DATE ADDED:
+Marjorie C. Decker 25th Middlesex 1/15/2025
+Mindy Domb 3rd Hampshire 1/23/2025
+Natalie M. Higgins 4th Worcester 1/29/2025
+Samantha Montaño 15th Suffolk 2/3/2025
+Danillo A. Sena 37th Middlesex 2/3/2025
+Natalie M. Blais 1st Franklin 2/10/2025
+Manny Cruz 7th Essex 2/10/2025
+Erika Uyterhoeven 27th Middlesex 2/20/2025
+James C. Arena-DeRosa 8th Middlesex 3/3/2025
+Mike Connolly 26th Middlesex 3/11/2025
+Lindsay N. Sabadosa 1st Hampshire 3/11/2025
+Adrianne Pusateri Ramos 14th Essex 3/11/2025
+Kevin G. Honan 17th Suffolk 3/11/2025
+Tara T. Hong 18th Middlesex 3/19/2025
+Adam J. Scanlon 14th Bristol 3/26/2025
+Michael D. Brady Second Plymouth and Norfolk 6/11/2025
+Estela A. Reyes 4th Essex 5/28/2025
+Shirley B. Arriaga 8th Hampden 7/2/2025
+1 of 2
+Patricia A. Duffy 5th Hampden 7/9/2025
+John Francis Moran 9th Suffolk 9/3/2025
+Vanna Howard 17th Middlesex 9/3/2025
+Jack Patrick Lewis 7th Middlesex 9/8/2025
+Tram T. Nguyen 18th Essex 10/14/2025
+2 of 2
+HOUSE DOCKET, NO. 2125 FILED ON: 1/15/2025
+HOUSE . . . . . . . . . . . . . . . No. 1130
+By Representative Decker of Cambridge, a petition (accompanied by bill, House, No. 1130) of
+Marjorie C. Decker and others relative to telehealth and digital equity for patients. Financial
+Services.
+The Commonwealth of Massachusetts
+_______________
+In the One Hundred and Ninety-Fourth General Court
+(2025-2026)
+_______________
+An Act relative to telehealth and digital equity for patients.
+Be it enacted by the Senate and House of Representatives in General Court assembled, and by the authority
+of the same, as follows:
+1 SECTION 1. Section 18AA of Chapter 6A of the General Laws, as most recently inserted
+2 by Section 1 of Chapter 174 of the Acts of 2022, is hereby amended by inserting after the word
+3 “benefits” the last time it appears the following:
+4 The executive office of health and human services and the executive office of housing
+5 and economic development shall determine a method for the common application portal to also
+6 allow individuals to simultaneously apply to affordable broadband programs offered by
+7 telecommunications providers.
+8 SECTION 2. Section 30 of Chapter 32A of the General Laws, as most recently inserted
+9 by section 3 of Chapter 260 of the Acts of 2020, is hereby amended by inserting after the
+10 definition of “behavioral health services, the following:
+11 “E-consults”, asynchronous, consultative, provider-to-provider communications within a
+12 shared electronic health record (EHR) or web-based platform that are intended to improve access
+1 of 35
+13 to specialty expertise for patients and providers without the need for a face-to-face visit, focused
+14 on a specific question. E-consults are inclusive of the consult generated from one provider or
+15 other qualified health professional to another, and of communications before/after consultation
+16 back to the member and/or the member’s caregiver.
+17 “E-Visits”, patient-initiated, non face-to-face digital communications conducted via a
+18 HIPAA-compliant secure platform or patient portal including online digital evaluation and
+19 management services. Such communications involve clinical decision-making comparable to
+20 what would occur in an in-office visits.
+21 “Remote patient monitoring services”, personal health and medical data collection,
+22 transmission, retrieval, or messaging from a member in one location, which is then transmitted to
+23 a provider in a different location and is used primarily for the management, treatment, care and
+24 related support of ongoing health conditions via regular information inputs from members and
+25 member guidance outputs from healthcare providers, including the remote monitoring of a
+26 patient’s vital signs, biometric data, or other objective or subjective data by a device that
+27 transmits such data electronically to a healthcare practitioner.
+28 “Remote therapeutic monitoring services”, the collection, storage and transfer of non-
+29 physiologic data to a healthcare provider related to a therapeutic treatment including, but not
+30 limited to, data on a patient’s musculoskeletal or respiratory system, treatment adherence, and
+31 treatment response utilizing a connected electronic medical device.
+32 SECTION 3. Subsection (b) of Section 30 of Chapter 32A of the General Laws, as most
+33 recently inserted by section 3 of Chapter 260 of the Acts of 2020, is hereby amended by inserting
+34 at the end thereof after the word “providers.” the following:
+2 of 35
+35 Coverage for telehealth services shall include coverage and reimbursement for e-consults,
+36 e-visits, remote patient monitoring services and devices, and remote therapeutic monitoring
+37 services and devices.
+38 SECTION 4. Section 30 of Chapter 32A of the General Laws, as most recently inserted
+39 by section 3 of Chapter 260 of the Acts of 2020, is hereby amended by striking out subsection (c)
+40 and inserting in place thereof the following:
+41 (c) Coverage for telehealth services may include utilization review; provided, however,
+42 that any utilization review shall be made in the same manner as if the service was delivered in
+43 person. Carriers shall not impose any prior authorization requirements to obtain medically
+44 necessary health services via telehealth that would not apply to the receipt of those same services
+45 on an in-person basis. A carrier shall not be required to reimburse a health care provider for a
+46 health care service that is not a covered benefit under the plan or reimburse a health care
+47 provider not contracted under the plan except as provided for under subclause (i) of clause (4) of
+48 the second sentence of subsection (a) of section 6 of chapter 176O.
+49 SECTION 5. Section 30 of Chapter 32A of the General Laws, as most recently inserted
+50 by Section 3 of Chapter 260 of the Acts of 2020 is hereby amended by adding at the end thereof
+51 the following subsections:
+52 (i) Coverage for telehealth services shall include reimbursement for interpreter services
+53 for patients with limited English proficiency or those who are deaf or hard of hearing.
+54 (j) Carriers providing coverage to an active or retired employee of the commonwealth
+55 insured under the group insurance commission shall develop and maintain procedures to identify
+56 and offer digital health education to enrollees with low digital health literacy to assist them with
+3 of 35
+57 accessing any medical necessary covered telehealth benefits. These procedures shall include a
+58 digital health literacy screening program or other similar procedure to identify current enrollees
+59 with low digital health literacy and a digital health education program to educate insured
+60 members regarding the effective use of telehealth technology including but not limited to
+61 distributing educational materials about how to access certain telehealth technologies in multiple
+62 languages, including sign language, and in alternative formats; holding digital health literacy
+63 workshops; integrating digital health coaching; offering enrollees in-person digital health
+64 navigators; and partnering with local libraries and/or community centers that offer digital health
+65 education services and supports.
+66 (k) Carriers providing coverage to an active or retired employee of the commonwealth
+67 insured under the group insurance commission shall make information available to the
+68 commission regarding the procedures that they have implemented under subsection (j) including
+69 but not limited to statistics on the number of enrollees identified with low digital health literacy
+70 and receiving digital health education, manner(s) or method of digital health literacy screening
+71 and digital health education, financial impact of the programs, and evaluations of effectiveness
+72 of digital health literacy interventions.
+73 (l) Carriers providing coverage to an active or retired employee of the commonwealth
+74 insured under the group insurance commission shall not prohibit a physician licensed pursuant to
+75 Chapter 112 or otherwise authorized to provide healthcare services who is providing healthcare
+76 services to a patient who is physically located in Massachusetts at the time the healthcare
+77 services are provided via telehealth from providing such services from any location within
+78 Massachusetts or outside Massachusetts; provided, that the location from which the physician
+79 provides services does not compromise patient confidentiality and privacy and the location from
+4 of 35
+80 which the physician provides the services does not exceed restrictions placed on the physician’s
+81 specific license, including but not limited to, restrictions set by the hospital, institution, clinic or
+82 program in which a physician licensed pursuant to section 9 of Chapter 112 of the General Laws
+83 has been appointed.
+84 SECTION 6. Subsection (a) of Section 79 of Chapter 118E of the General Laws, as most
+85 recently amended by Section 40 of Chapter 260 of the Acts of 2020, is hereby amended by
+86 inserting after the definition of “behavioral health services” the following:
+87 “E-consults”, asynchronous, consultative, provider-to-provider communications within a
+88 shared electronic health record (EHR) or web-based platform that are intended to improve access
+89 to specialty expertise for patients and providers without the need for a face-to-face visit, focused
+90 on a specific question. E-consults are inclusive of the consult generated from one provider or
+91 other qualified health professional to another, and of communications before/after consultation
+92 back to the member and/or the member’s caregiver.
+93 “E-Visits”, patient-initiated, non face-to-face digital communications conducted via a
+94 HIPAA-compliant secure platform or patient portal including online digital evaluation and
+95 management services. Such communications involve clinical decision-making comparable to
+96 what would occur in an in-office visits. “Remote patient monitoring services”, personal health
+97 and medical data collection, transmission, retrieval, or messaging from a member in one
+98 location, which is then transmitted to a provider in a different location and is used primarily for
+99 the management, treatment, care and related support of ongoing health conditions via regular
+100 information inputs from members and member guidance outputs from healthcare providers,
+5 of 35
+101 including the remote monitoring of a patient’s vital signs, biometric data, or other objective or
+102 subjective data by a device that transmits such data electronically to a healthcare practitioner.
+103 “Remote therapeutic monitoring services”, the collection, storage and transfer of non-
+104 physiologic data to a healthcare provider related to a therapeutic treatment including, but not
+105 limited to, data on a patient’s musculoskeletal or respiratory system, treatment adherence, and
+106 treatment response utilizing a connected electronic medical device.
+107 SECTION 7. Subsection (b) of Section 79 of Chapter 118E of the General Laws, as most
+108 recently amended by Section 40 of Chapter 260 of the Acts of 2020, is hereby amended by
+109 inserting at the end thereof after the word “providers.” the following:
+110 Coverage for telehealth services shall include coverage and reimbursement for e-consults,
+111 e-visits, remote patient monitoring services and devices including but not limited to treatment for
+112 i) congenital heart diseases, ii) pulmonary conditions and lung diseases, iii) enteral nutrition and
+113 feeding needs, iv) failure to thrive and gain weight, and v) gastrointestinal conditions and remote
+114 therapeutic monitoring services, devices and associated professional care.
+115 SECTION 8. Section 79 of Chapter 118E of the General Laws, as most recently amended
+116 by Section 40 of Chapter 260 of the Acts of 2020, is hereby amended by striking subsection
+117 (c)and inserting in place thereof the following:
+118 (c) The division, a contracted health insurer, health plan, health maintenance
+119 organization, behavioral health management firm or third-party administrators under contract to
+120 a Medicaid managed care organization or primary care clinician plan shall not impose any
+121 utilization management requirements, including but not limited to, prior authorization
+122 requirements to obtain medically necessary health services via telehealth that would not apply to
+6 of 35
+123 the receipt of those same services on an in-person basis. The division, a contracted health insurer,
+124 health plan, health maintenance organization, behavioral health management firm or third-party
+125 administrator under contract to a Medicaid managed care organization or primary care clinician
+126 plan shall not be required to reimburse a health care provider for a health care service that is not
+127 a covered benefit under the plan or reimburse a health care provider not contracted under the
+128 plan except as provided for under subclause (i) of clause (4) of the second sentence of subsection
+129 (a) of section 6 of chapter 176O.
+130 SECTION 9. Section 79 of Chapter 118E of the General Laws, as most recently inserted
+131 by Section 40 of Chapter 260 of the Acts of 2020 is hereby amended by inserting at the end
+132 thereof the following subsections:
+133 (i) The division and its contracted health insurers, health plans, health maintenance
+134 organizations, behavioral health management firms and third-party administrators under contract
+135 to a Medicaid managed care organization, accountable care organization or primary care
+136 clinician plan shall include in its coverage for reimbursement for interpreter services for patients
+137 with limited English proficiency or those who are deaf or hard of hearing in its coverage for
+138 telehealth services.
+139 (j) The division and its contracted health insurers, health plans, health maintenance
+140 organizations, behavioral health management firms and third-party administrators under contract
+141 to a Medicaid managed care organization, accountable care organization or primary care
+142 clinician plan shall develop and maintain procedures to identify and offer digital health education
+143 to members with low digital health literacy to assist them with accessing any medical necessary
+144 covered telehealth benefits. These procedures shall include a digital health literacy screening
+7 of 35
+145 program or other similar procedure to identify new and current members with low digital health
+146 literacy and a digital health education program to educate insured members regarding the
+147 effective use of telehealth technology including but not limited to distributing educational
+148 materials about how to access certain telehealth technologies in multiple languages, including
+149 sign language, and in alternative formats; holding digital health literacy workshops; integrating
+150 digital health coaching; offering enrollees in-person digital health navigators; and partnering
+151 with local libraries and/or community centers that offer digital health education services and
+152 supports.
+153 (k) The division and its contracted health insurers, health plans, health maintenance
+154 organizations, behavioral health management firms and third-party administrators under contract
+155 to a Medicaid managed care organization, accountable care organization or primary care
+156 clinician plan shall publish information annually regarding the procedures that they have
+157 implemented under subsection (j) including but not limited to statistics on the number of
+158 members identified with low digital health literacy and receiving digital health education,
+159 manner(s) or method of digital health literacy screening and digital health education, financial
+160 impact of the programs, and evaluations of effectiveness of digital health literacy interventions.
+161 (l) The division and its contracted health insurers, health plans, health maintenance
+162 organizations, behavioral health management firms and third-party administrators under contract
+163 to a Medicaid managed care organization, accountable care organization or primary care
+164 clinician plan providing coverage to an active or retired employee of the commonwealth insured
+165 under the group insurance commission shall not prohibit a physician licensed pursuant to
+166 Chapter 112 or otherwise authorized to provide healthcare services who is providing healthcare
+167 services to a patient who is physically located in Massachusetts at the time the healthcare
+8 of 35
+168 services are provided via telehealth from providing such services from any location within
+169 Massachusetts or outside Massachusetts; provided, that the location from which the physician
+170 provides services does not compromise patient confidentiality and privacy and the location from
+171 which the physician provides the services does not exceed restrictions placed on the physician’s
+172 specific license, including but not limited to, restrictions set by the hospital, institution, clinic, or
+173 program in which a physician licensed pursuant to section 9 of Chapter 112 of the General Laws
+174 has been appointed.
+175 (m) The division and its contracted health insurers, health plans, health maintenance
+176 organizations, behavioral health management firms and third-party administrators under contract
+177 to a Medicaid managed care organization, accountable care organization or primary care
+178 clinician plan shall not impose any prior authorization requirements to obtain medically
+179 necessary remote patient monitoring services and devices or remote therapeutic monitoring
+180 services or devices.
+181 SECTION 10. Section 47MM of Chapter 175 of the General Laws, as most recently
+182 inserted by section 47 of Chapter 260 of the Acts of 2020, is hereby amended by inserting after
+183 the definition of “behavioral health services, the following:
+184 “E-consults”, asynchronous, consultative, provider-to-provider communications within a
+185 shared electronic health record (EHR) or web-based platform that are intended to improve access
+186 to specialty expertise for patients and providers without the need for a face-to-face visit, focused
+187 on a specific question. E-consults are inclusive of the consult generated from one provider or
+188 other qualified health professional to another, and of communications before/after consultation
+189 back to the member and/or the member’s caregiver.
+9 of 35
+190 “E-Visits”, patient-initiated, non face-to-face digital communications conducted via a
+191 HIPAA-compliant secure platform or patient portal including online digital evaluation and
+192 management services. Such communications involve clinical decision-making comparable to
+193 what would occur in an in-office visits.
+194 “Remote patient monitoring services”, personal health and medical data collection,
+195 transmission, retrieval, or messaging from a member in one location, which is then transmitted to
+196 a provider in a different location and is used primarily for the management, treatment, care and
+197 related support of ongoing health conditions via regular information inputs from members and
+198 member guidance outputs from healthcare providers, including the remote monitoring of a
+199 patient’s vital signs, biometric data, or other objective or subjective data by a device that
+200 transmits such data electronically to a healthcare practitioner.
+201 “Remote therapeutic monitoring services”, the collection, storage and transfer of non-
+202 physiologic data to a healthcare provider related to a therapeutic treatment including, but not
+203 limited to, data on a patient’s musculoskeletal or respiratory system, treatment adherence, and
+204 treatment response utilizing a connected electronic medical device.
+205 SECTION 11. Subsection (b) of Section 47MM of Chapter 175 of the General Laws, as
+206 most recently inserted by section 47 of Chapter 260 of the Acts of 2020, is hereby amended by
+207 inserting at the end thereof after the word “providers.” the following:
+208 Coverage for telehealth services shall include coverage and reimbursement for e-consults,
+209 e-visits, remote patient monitoring services and devices, and remote therapeutic monitoring
+210 services and devices.
+10 of 35
+211 SECTION 12. Section 47MM of Chapter 175 of the General Laws, as most recently
+212 amended by Section 47 of Chapter 260 of the Acts of 2020, is hereby amended by striking out
+213 subsection (c) and inserting place thereof the following:
+214 (c) Coverage for telehealth services may include utilization review; provided, however,
+215 that any utilization review shall be made in the same manner as if the service was delivered in
+216 person. A policy, contract, agreement, plan or certificate of insurance issued, delivered or
+217 renewed within or without the commonwealth shall not impose any prior authorization
+218 requirements to obtain medically necessary health services via telehealth that would not apply to
+219 the receipt of those same services on an in-person basis. A policy, contract, agreement, plan or
+220 certificate of insurance issued, delivered or renewed within or without the commonwealth shall
+221 not be required to reimburse a health care provider for a health care service that is not a covered
+222 benefit under the plan or reimburse a health care provider not contracted under the plan except as
+223 provided for under subclause (i) of clause (4) of the second sentence of subsection (a) of section
+224 6 of chapter 176O.
+225 SECTION 13. Section 47MM of Chapter 175 of the General Laws, as most recently
+226 inserted by Section 47 of Chapter 260 of the Acts of 2020 is hereby further amended by adding
+227 at the end thereof the following subsections:
+228 (i) A policy, contract, agreement, plan or certificate of insurance issued, delivered or
+229 renewed within the commonwealth that provides coverage for telehealth services shall include
+230 reimbursement for interpreter services for patients with limited English proficiency or those who
+231 are deaf or hard of hearing.
+11 of 35
+232 (j) A policy, contract, agreement, plan or certificate of insurance issued, delivered or
+233 renewed within the commonwealth shall develop and maintain procedures to identify and offer
+234 digital health education to subscribers with low digital health literacy to assist them with
+235 accessing any medical necessary covered telehealth benefits. These procedures shall include a
+236 digital health literacy screening program or other similar procedure to identify new and current
+237 subscribers with low digital health literacy and a digital health education program to educate
+238 insured subscribers regarding the effective use of telehealth technology including but not limited
+239 to distributing educational materials about how to access certain telehealth technologies in
+240 multiple languages, including sign language, and in alternative formats; holding digital health
+241 literacy workshops; integrating digital health coaching; offering subscribers in-person digital
+242 health navigators; and partnering with local libraries and/or community centers that offer digital
+243 health education services and supports.
+244 (k) A policy, contract, agreement, plan or certificate of insurance issued, delivered or
+245 renewed within the commonwealth shall publish information annually regarding the procedures
+246 that they have implemented under subsection (j) including but not limited to statistics on the
+247 number of subscribers identified with low digital health literacy and receiving digital health
+248 education, manner(s) or method of digital health literacy screening and digital health education,
+249 financial impact of the programs, and evaluations of effectiveness of digital health literacy
+250 interventions.
+251 (l) A policy, contract, agreement, plan or certificate of insurance issued, delivered or
+252 renewed within the commonwealth shall not prohibit a physician licensed pursuant to Chapter
+253 112 or otherwise authorized to provide healthcare services who is providing healthcare services
+254 to a patient who is physically located in Massachusetts at the time the healthcare services are
+12 of 35
+255 provided via telehealth from providing such services from any location within Massachusetts or
+256 outside Massachusetts; provided, that the location from which the physician provides services
+257 does not compromise patient confidentiality and privacy and the location from which the
+258 physician provides the services does not exceed restrictions placed on the physician’s specific
+259 license, including but not limited to, restrictions set by the hospital, institution, clinic or program
+260 in which a physician licensed pursuant to section 9 of Chapter 112 of the General Laws has been
+261 appointed.
+262 SECTION 14. Section 38 of Chapter 176A of the General Laws, as most recently inserted
+263 by section 49 of Chapter 260 of the Acts of 2020, is hereby amended by inserting after the
+264 definition of “behavioral health services, the following:
+265 “E-consults”, asynchronous, consultative, provider-to-provider communications within a
+266 shared electronic health record (EHR) or web-based platform that are intended to improve access
+267 to specialty expertise for patients and providers without the need for a face-to-face visit, focused
+268 on a specific question. E-consults are inclusive of the consult generated from one provider or
+269 other qualified health professional to another, and of communications before/after consultation
+270 back to the member and/or the member’s caregiver.
+271 “E-Visits”, patient-initiated, non face-to-face digital communications conducted via a
+272 HIPAA-compliant secure platform or patient portal including online digital evaluation and
+273 management services. Such communications involve clinical decision-making comparable to
+274 what would occur in an in-office visits.
+275 “Remote patient monitoring services”, personal health and medical data collection,
+276 transmission, retrieval, or messaging from a member in one location, which is then transmitted to
+13 of 35
+277 a provider in a different location and is used primarily for the management, treatment, care and
+278 related support of ongoing health conditions via regular information inputs from members and
+279 member guidance outputs from healthcare providers, including the remote monitoring of a
+280 patient’s vital signs, biometric data, or other objective or subjective data by a device that
+281 transmits such data electronically to a healthcare practitioner.
+282 “Remote therapeutic monitoring services”, the collection, storage and transfer of non-
+283 physiologic data to a healthcare provider related to a therapeutic treatment including, but not
+284 limited to, data on a patient’s musculoskeletal or respiratory system, treatment adherence, and
+285 treatment response utilizing a connected electronic medical device.
+286 SECTION 15. Subsection (b) of Section 38 of Chapter 176A of the General Laws, as
+287 most recently inserted by section 49 of Chapter 260 of the Acts of 2020, is hereby amended by
+288 inserting at the end thereof after the word “providers.” the following:
+289 Coverage for telehealth services shall include coverage and reimbursement for e-consults,
+290 e-visits, remote patient monitoring services and devices, and remote therapeutic monitoring
+291 services and devices.
+292 SECTION 16. Section 38 of Chapter 176A of the General Laws, as most recently
+293 amended by Section 49 of Chapter 260 of the Acts of 2020, is hereby further amended by
+294 striking subsection (c) and inserting in place thereof the following:
+295 (c) Coverage for telehealth services may include utilization review; provided, however,
+296 that any utilization review shall be made in the same manner as if the service was delivered in
+297 person. A carrier shall not impose any prior authorization requirements to obtain medically
+298 necessary health services via telehealth that would not apply to the receipt of those same services
+14 of 35
+299 on an in-person basis. A carrier shall not be required to reimburse a health care provider for a
+300 health care service that is not a covered benefit under the plan or reimburse a health care
+301 provider not contracted under the plan except as provided for under subclause (i) of clause (4) of
+302 the second sentence of subsection (a) of section 6 of chapter 176O.
+303 SECTION 17. Section 38 of Chapter 176A of the General Laws, as most recently inserted
+304 by Section 49 of Chapter 260 of the Acts of 2020, is hereby amended by adding at the end
+305 thereof the following subsections:
+306 (i) Coverage for telehealth services shall include reimbursement for interpreter services
+307 for patients with limited English proficiency or those who are deaf or hard of hearing.
+308 (j) Hospital service corporations shall develop and maintain procedures to identify and
+309 offer digital health education to subscribers with low digital health literacy to assist them with
+310 accessing any medical necessary covered telehealth benefits. These procedures shall include a
+311 digital health literacy screening program or other similar procedure to identify new and current
+312 subscribers with low digital health literacy and a digital health education program to educate
+313 insured subscribers regarding the effective use of telehealth technology including but not limited
+314 to distributing educational materials about how to access certain telehealth technologies in
+315 multiple languages, including sign language, and in alternative formats; holding digital health
+316 literacy workshops; integrating digital health coaching; offering subscribers in-person digital
+317 health navigators; and partnering with local libraries and/or community centers that offer digital
+318 health education services and supports.
+319 (k) Hospital service corporations shall publish information annually regarding the
+320 procedures that they have implemented under subsection (j) including but not limited to statistics
+15 of 35
+321 on the number of subscribers identified with low digital health literacy and receiving digital
+322 health education, manner(s) or method of digital health literacy screening and digital health
+323 education, financial impact of the programs, and evaluations of effectiveness of digital health
+324 literacy interventions.
+325 (l) Hospital service corporations providing coverage under this section shall not prohibit a
+326 physician licensed pursuant to Chapter 112 or otherwise authorized to provide healthcare
+327 services who is providing healthcare services to a patient who is physically located in
+328 Massachusetts at the time the healthcare services are provided via telehealth from providing such
+329 services from any location within Massachusetts or outside Massachusetts; provided, that the
+330 location from which the physician provides services does not compromise patient confidentiality
+331 and privacy and the location from which the physician provides the services does not exceed
+332 restrictions placed on the physician’s specific license, including but not limited to, restrictions set
+333 by the hospital, institution, clinic or program in which a physician licensed pursuant to section 9
+334 of Chapter 112 of the General Laws has been appointed.
+335 SECTION 18. Section 25 of Chapter 176B of the General Laws, as most recently inserted
+336 by section 51 of Chapter 260 of the Acts of 2020, is hereby amended by inserting after the
+337 definition of “behavioral health services, the following:
+338 “E-consults”, asynchronous, consultative, provider-to-provider communications within a
+339 shared electronic health record (EHR) or web-based platform that are intended to improve access
+340 to specialty expertise for patients and providers without the need for a face-to-face visit, focused
+341 on a specific question. E-consults are inclusive of the consult generated from one provider or
+16 of 35
+342 other qualified health professional to another, and of communications before/after consultation
+343 back to the member and/or the member’s caregiver.
+344 “E-Visits”, patient-initiated, non face-to-face digital communications conducted via a
+345 HIPAA-compliant secure platform or patient portal including online digital evaluation and
+346 management services. Such communications involve clinical decision-making comparable to
+347 what would occur in an in-office visits.
+348 “Remote patient monitoring services”, personal health and medical data collection,
+349 transmission, retrieval, or messaging from a member in one location, which is then transmitted to
+350 a provider in a different location and is used primarily for the management, treatment, care and
+351 related support of ongoing health conditions via regular information inputs from members and
+352 member guidance outputs from healthcare providers, including the remote monitoring of a
+353 patient’s vital signs, biometric data, or other objective or subjective data by a device that
+354 transmits such data electronically to a healthcare practitioner.
+355 “Remote therapeutic monitoring services”, the collection, storage and transfer of non-
+356 physiologic data to a healthcare provider related to a therapeutic treatment including, but not
+357 limited to, data on a patient’s musculoskeletal or respiratory system, treatment adherence, and
+358 treatment response utilizing a connected electronic medical device.
+359 SECTION 19. Subsection (b) of Section 25 of Chapter 176A of the General Laws, as
+360 most recently inserted by section 3 of Chapter 260 of the Acts of 2020, is hereby amended by
+361 inserting at the end thereof after the word “providers.” the following:
+17 of 35
+362 Coverage for telehealth services shall include coverage and reimbursement for e-consults,
+363 e-visits, remote patient monitoring services and devices, and remote therapeutic monitoring
+364 services and devices.
+365 SECTION 20. Section 25 of Chapter 176B of the General Laws, as most recently
+366 amended by Section 51 of Chapter 260 of the Acts of 2020, is hereby further amended by
+367 striking subsection (c) and inserting in place thereof the following:
+368 (c) Coverage for telehealth services may include utilization review; provided, however,
+369 that any utilization review shall be made in the same manner as if the service was delivered in
+370 person. A carrier shall not impose any prior authorization requirements to obtain medically
+371 necessary health services via telehealth that would not apply to the receipt of those same services
+372 on an in-person basis. A carrier shall not be required to reimburse a health care provider for a
+373 health care service that is not a covered benefit under the plan or reimburse a health care
+374 provider not contracted under the plan except as provided for under subclause (i) of clause (4) of
+375 the second sentence of subsection (a) of section 6 of chapter 176O.
+376 SECTION 21. Section 25 of Chapter 176B of the General Laws, as most recently
+377 inserted by Section 51 of Chapter 260 of the Acts of 2020, is hereby amended by adding at the
+378 end thereof the following subsections:
+379 (i) A contract that provides coverage for telehealth services shall include reimbursement
+380 for interpreter services for patients with limited English proficiency or those who are deaf or
+381 hard of hearing who require interpreter services.
+382 (j) Medical service corporations shall develop and maintain procedures to identify and
+383 offer digital health education to subscribers with low digital health literacy to assist them with
+18 of 35
+384 accessing any medical necessary covered telehealth benefits. These procedures shall include a
+385 digital health literacy screening program or other similar procedure to identify new and current
+386 subscribers with low digital health literacy and a digital health education program to educate
+387 insured subscribers regarding the effective use of telehealth technology including but not limited
+388 to distributing educational materials about how to access certain telehealth technologies in
+389 multiple languages, including sign language, and in alternative formats; holding digital health
+390 literacy workshops; integrating digital health coaching; offering subscribers in-person digital
+391 health navigators; and partnering with local libraries and/or community centers that offer digital
+392 health education services and supports.
+393 (k) Medical service corporations shall publish information annually regarding the
+394 procedures that they have implemented under subsection (j) including but not limited to statistics
+395 on the number of subscribers identified with low digital health literacy and receiving digital
+396 health education, manner(s) or method of digital health literacy screening and digital health
+397 education, financial impact of the programs, and evaluations of effectiveness of digital health
+398 literacy interventions.
+399 (l) Medical service corporations providing coverage under this section shall not prohibit a
+400 physician licensed pursuant to Chapter 112 or otherwise authorized to provide healthcare
+401 services who is providing healthcare services to a patient who is physically located in
+402 Massachusetts at the time the healthcare services are provided via telehealth from providing such
+403 services from any location within Massachusetts or outside Massachusetts; provided, that the
+404 location from which the physician provides services does not compromise patient confidentiality
+405 and privacy and the location from which the physician provides the services does not exceed
+406 restrictions placed on the physician’s specific license, including but not limited to, restrictions set
+19 of 35
+407 by the hospital, institution, clinic or program in which a physician licensed pursuant to section 9
+408 of Chapter 112 of the General Laws has been appointed.
+409 SECTION 22. Section 33 of Chapter 176G of the General Laws, as most recently inserted
+410 by section 53 of Chapter 260 of the Acts of 2020, is hereby amended by inserting after the
+411 definition of “behavioral health services, the following:
+412 “E-consults”, asynchronous, consultative, provider-to-provider communications within a
+413 shared electronic health record (EHR) or web-based platform that are intended to improve access
+414 to specialty expertise for patients and providers without the need for a face-to-face visit, focused
+415 on a specific question. E-consults are inclusive of the consult generated from one provider or
+416 other qualified health professional to another, and of communications before/after consultation
+417 back to the member and/or the member’s caregiver.
+418 “E-Visits”, patient-initiated, non face-to-face digital communications conducted via a
+419 HIPAA-compliant secure platform or patient portal including online digital evaluation and
+420 management services. Such communications involve clinical decision-making comparable to
+421 what would occur in an in-office visits.
+422 “Remote patient monitoring services”, personal health and medical data collection,
+423 transmission, retrieval, or messaging from a member in one location, which is then transmitted to
+424 a provider in a different location and is used primarily for the management, treatment, care and
+425 related support of ongoing health conditions via regular information inputs from members and
+426 member guidance outputs from healthcare providers, including the remote monitoring of a
+427 patient’s vital signs, biometric data, or other objective or subjective data by a device that
+428 transmits such data electronically to a healthcare practitioner.
+20 of 35
+429 “Remote therapeutic monitoring services”, the collection, storage and transfer of non-
+430 physiologic data to a healthcare provider related to a therapeutic treatment including, but not
+431 limited to, data on a patient’s musculoskeletal or respiratory system, treatment adherence, and
+432 treatment response utilizing a connected electronic medical device.
+433 SECTION 23. Subsection (b) of Section 33 of Chapter 176G of the General Laws, as
+434 most recently inserted by section 53 of Chapter 260 of the Acts of 2020, is hereby amended by
+435 inserting at the end thereof after the word “providers.” the following:
+436 Coverage for telehealth services shall include coverage and reimbursement for e-consults,
+437 e-visits, remote patient monitoring services and devices, and remote therapeutic monitoring
+438 services and devices.
+439 SECTION 24. Section 33 of Chapter 176G of the General Laws, as most recently
+440 amended by Section 53 of Chapter 260 of the Acts of 2020, is hereby further amended by
+441 striking subsection (c) and inserting in place thereof the following:
+442 (c) Coverage for telehealth services may include utilization review; provided, however,
+443 that any utilization review shall be made in the same manner as if the service was delivered in
+444 person. A health maintenance organization shall not impose any prior authorization requirements
+445 to obtain medically necessary health services via telehealth that would not apply to the receipt of
+446 those same services on an in-person basis. A health maintenance organization shall not be
+447 required to reimburse a health care provider for a health care service that is not a covered benefit
+448 under the plan or reimburse a health care provider not contracted under the plan except as
+449 provided for under subclause (i) of clause (4) of the second sentence of subsection (a) of section
+450 6 of chapter 176O.
+21 of 35
+451 SECTION 25. Section 33 of Chapter 176G of the General Laws, as most recently inserted
+452 by Section 53 of Chapter 260 of the Acts of 2020, is hereby amended by adding at the end
+453 thereof the following subsection:
+454 (i) A contract that provides coverage for telehealth services shall include reimbursement
+455 for interpreter services for patients with limited English proficiency or those who are deaf or
+456 hard of hearing.
+457 (j) Health maintenance organizations shall develop and maintain procedures to identify
+458 and offer digital health education to members with low digital health literacy to assist them with
+459 accessing any medical necessary covered telehealth benefits. These procedures shall include a
+460 digital health literacy screening program or other similar procedure to identify new and current
+461 members with low digital health literacy and a digital health education program to educate
+462 insured subscribers regarding the effective use of telehealth technology including but not limited
+463 to distributing educational materials about how to access certain telehealth technologies in
+464 multiple languages, including sign language, and in alternative formats; holding digital health
+465 literacy workshops; integrating digital health coaching; offering subscribers in-person digital
+466 health navigators; and partnering with local libraries and/or community centers that offer digital
+467 health education services and supports.
+468 (k) Health maintenance organizations shall publish information annually regarding the
+469 procedures that they have implemented under subsection (j) including but not limited to statistics
+470 on the number of subscribers identified with low digital health literacy and receiving digital
+471 health education, manner(s) or method of digital health literacy screening and digital health
+22 of 35
+472 education, financial impact of the programs, and evaluations of effectiveness of digital health
+473 literacy interventions.
+474 (l) Health maintenance organizations providing coverage under this section shall not
+475 prohibit a physician licensed pursuant to Chapter 112 or otherwise authorized to provide
+476 healthcare services who is providing healthcare services to a patient who is physically located in
+477 Massachusetts at the time the healthcare services are provided via telehealth from providing such
+478 services from any location within Massachusetts or outside Massachusetts; provided, that the
+479 location from which the physician provides services does not compromise patient confidentiality
+480 and privacy and the location from which the physician provides the services does not exceed
+481 restrictions placed on the physician’s specific license, including but not limited to, restrictions set
+482 by the hospital, institution, clinic or program in which a physician licensed pursuant to section 9
+483 of Chapter 112 of the General Laws has been appointed.
+484 SECTION 26. Section 13 of Chapter 176I of the General Laws, as most recently inserted
+485 by section 54 of Chapter 260 of the Acts of 2020, is hereby amended by inserting after the
+486 definition of “behavioral health services, the following:
+487 “E-consults”, asynchronous, consultative, provider-to-provider communications within a
+488 shared electronic health record (EHR) or web-based platform that are intended to improve access
+489 to specialty expertise for patients and providers without the need for a face-to-face visit, focused
+490 on a specific question. E-consults are inclusive of the consult generated from one provider or
+491 other qualified health professional to another, and of communications before/after consultation
+492 back to the member and/or the member’s caregiver.
+23 of 35
+493 “E-Visits”, patient-initiated, non face-to-face digital communications conducted via a
+494 HIPAA-compliant secure platform or patient portal including online digital evaluation and
+495 management services. Such communications involve clinical decision-making comparable to
+496 what would occur in an in-office visits.
+497 “Remote patient monitoring services”, personal health and medical data collection,
+498 transmission, retrieval, or messaging from a member in one location, which is then transmitted to
+499 a provider in a different location and is used primarily for the management, treatment, care and
+500 related support of ongoing health conditions via regular information inputs from members and
+501 member guidance outputs from healthcare providers, including the remote monitoring of a
+502 patient’s vital signs, biometric data, or other objective or subjective data by a device that
+503 transmits such data electronically to a healthcare practitioner.
+504 “Remote therapeutic monitoring services”, the collection, storage and transfer of non-
+505 physiologic data to a healthcare provider related to a therapeutic treatment including, but not
+506 limited to, data on a patient’s musculoskeletal or respiratory system, treatment adherence, and
+507 treatment response utilizing a connected electronic medical device.
+508 SECTION 27. Subsection (b) of Section 13 of Chapter 176I of the General Laws, as most
+509 recently inserted by section 54 of Chapter 260 of the Acts of 2020, is hereby amended by
+510 inserting at the end thereof after the word “providers.” the following:
+511 Coverage for telehealth services shall include coverage and reimbursement for e-consults,
+512 e-visits, remote patient monitoring services and devices, and remote therapeutic monitoring
+513 services and devices.
+24 of 35
+514 SECTION 28. Section 13 of Chapter 176I of the General Laws, as most recently
+515 amended by section 54 of Chapter 260 of the Acts of 2020, is hereby further amended by striking
+516 subsection (c) and inserting in place thereof the following:
+517 (c) Coverage for telehealth services may include utilization review; provided, however,
+518 that any utilization review shall be made in the same manner as if the service was delivered in
+519 person. An organization shall not impose any prior authorization requirements to obtain
+520 medically necessary health services via telehealth that would not apply to the receipt of those
+521 same services on an in-person basis. An organization shall not be required to reimburse a health
+522 care provider for a health care service that is not a covered benefit under the plan or reimburse a
+523 health care provider not contracted under the plan except as provided for under subclause (i) of
+524 clause (4) of the second sentence of subsection (a) of section 6 of chapter 176O.
+525 SECTION 29. Section 13 of Chapter 176I of the General Laws, as most recently inserted
+526 by Section 54 of Chapter 260 of the Acts of 2020, is hereby amended by adding at the end
+527 thereof the following subsection:
+528 (i) A preferred provider contract that provides coverage for telehealth services shall
+529 include reimbursement for interpreter services for patients with limited English proficiency or
+530 those who are deaf or hard of hearing.
+531 (j) Organizations shall develop and maintain procedures to identify and offer digital
+532 health education to covered persons with low digital health literacy to assist them with accessing
+533 any medical necessary covered telehealth benefits. These procedures shall include a digital
+534 health literacy screening program or other similar procedure to identify new and current covered
+535 persons with low digital health literacy and a digital health education program to educate covered
+25 of 35
+536 persons regarding the effective use of telehealth technology including but not limited to
+537 distributing educational materials about how to access certain telehealth technologies in multiple
+538 languages, including sign language, and in alternative formats; holding digital health literacy
+539 workshops; integrating digital health coaching; offering covered persons in-person digital health
+540 navigators; and partnering with local libraries and/or community centers that offer digital health
+541 education services and supports.
+542 (k) Organizations shall publish information annually regarding the procedures that they
+543 have implemented under subsection (j) including but not limited to statistics on the number of
+544 covered persons identified with low digital health literacy and receiving digital health education,
+545 manner(s) or method of digital health literacy screening and digital health education, financial
+546 impact of the programs, and evaluations of effectiveness of digital health literacy interventions.
+547 (l) Organizations providing coverage under this section shall not prohibit a physician
+548 licensed pursuant to Chapter 112 or otherwise authorized to provide healthcare services who is
+549 providing healthcare services to a patient who is physically located in Massachusetts at the time
+550 the healthcare services are provided via telehealth from providing such services from any
+551 location within Massachusetts or outside Massachusetts; provided, that the location from which
+552 the physician provides services does not compromise patient confidentiality and privacy and the
+553 location from which the physician provides the services does not exceed restrictions placed on
+554 the physician’s specific license, including but not limited to, restrictions set by the hospital,
+555 institution, clinic or program in which a physician licensed pursuant to section 9 of Chapter 112
+556 of the General Laws has been appointed.
+26 of 35
+557 SECTION 30. Section 26 of Chapter 176O of the General Laws is hereby amended by
+558 striking the current section and inserting in place thereof the following:
+559 Section . The commissioner shall establish standardized processes and procedures
+560 applicable to all health care providers and payers for the determination of a patient's health
+561 benefit plan eligibility at or prior to the time of service, including telehealth services. As part of
+562 such processes and procedures, the commissioner shall (i) require payers to implement
+563 automated approval systems such as decision support software in place of telephone approvals
+564 for specific types of services specified by the commissioner and (ii) require establishment of an
+565 electronic data exchange to allow providers to determine eligibility at or prior to the point of care
+566 and determine the insured’s cost share for a proposed telehealth service, including any
+567 copayment, deductible, coinsurance or other out of pocket amount for any covered telehealth
+568 services.
+569 SECTION 31. Notwithstanding any general or special law to the contrary, the health
+570 policy commission, in consultation with the center for health information and analysis, the
+571 executive office of health and human services and the division of insurance shall issue a report
+572 on the use of telehealth services in the commonwealth and the effect of telehealth on health care
+573 access and system cost. The report, along with a suggested plan to implement its
+574 recommendations in order to maximize access, quality of care and cost savings, shall be
+575 submitted to the joint committee on health care financing and the house and senate committees
+576 on ways and means not later than 2 years from the effective date of this act; provided, however,
+577 that not later than 1 year from the effective date of this act, the commission shall present a report
+578 on: i) the estimated impacts on costs and time spent by patients accessing healthcare services due
+579 to the use of telehealth; ii) the estimated impacts to access to healthcare services due to the use of
+27 of 35
+580 telehealth including employment productivity, transportation costs and school attendance; iii) the
+581 estimated impacts on healthcare costs due to the impacts of telehealth on COVID-19
+582 transmission and treatment; iv) the estimated impact on the costs of personal protective
+583 equipment for providers and healthcare facilities due to the use of telehealth; v) an estimate of
+584 the impact of health outcomes to those communities that have not been able to access telehealth
+585 services due to language or accessibility issues; and vi) an interim estimate of the fiscal impact of
+586 telehealth use in the commonwealth that shall include public health outcomes, increased access
+587 to services, reduction in transportation services and vehicle miles traveled, and reduction in
+588 hospitalizations. The report shall additionally include data regarding the number of telehealth
+589 visits utilizing an interpreter for those who are deaf and hard of hearing and for languages other
+590 than English and shall quantify the number of telehealth visits in each language.
+591 SECTION 32. Notwithstanding any general or special law to the contrary, the health
+592 policy commission shall establish a Digital Bridge Pilot Program to support telehealth services
+593 and devices and to provide funding for healthcare and human service providers and their patients
+594 and clients to support the purchase of telecommunications, information services and connected
+595 devices necessary to provide telehealth services to patients and clients. Communities that have
+596 had the highest prevalence of and been disproportionately affected by COVID-19 shall be
+597 prioritized for funding under this program in addition to communities that experience barriers in
+598 accessing telehealth services due to language constraints, socioeconomic constraints or other
+599 accessibility issues. Eligible programs may include but not be limited to public private
+600 partnerships with telecommunication providers, municipalities, healthcare providers and other
+601 organizations.
+28 of 35
+602 Eligible services may include, but not be limited to: telecommunications services;
+603 broadband and internet connectivity services including the purchase of broadband subscriptions
+604 and the establishment of wireless hotspots, so-called; voice services; remote patient monitoring
+605 platforms and services; patient reported outcome platforms; store and forward services, including
+606 the asynchronous transfer of patient images and data for interpretation by a physician; platforms
+607 and services to provide synchronous video consultation; tablets, smartphones, or connected
+608 devices to receive connected care services at home for patient or provider use; and telemedicine
+609 kiosks / carts for provider sites. Funding shall not be used for unconnected devices that patients
+610 utilize in the home and then manually report their results to providers.
+611 SECTION 33. (a) Notwithstanding any general or special law to the contrary, the health
+612 policy commission shall establish a Digital Health Navigator Tech Literacy Pilot Program,
+613 herein referred to as the program, to complement and work in conjunction with the Digital
+614 Bridge Pilot Program. The program shall establish telehealth digital health navigators including
+615 community health workers, medical assistants, and other healthcare professionals to assist
+616 patients with accessing telehealth services. The program and its funding shall prioritize
+617 populations who experience increased barriers in accessing healthcare and telehealth services,
+618 including those disproportionately affected by COVID-19, the elderly and those who may need
+619 assistance with telehealth services due to limited English proficiency or limited literacy with
+620 digital health tools. Entities receiving funding through this program will provide culturally and
+621 linguistically competent hands-on support to educate patients on how to access broadband and
+622 wireless services and subsequently utilize devices and online platforms to access telehealth
+623 services.
+29 of 35
+624 (b) The health policy commission shall publish a report, one year following the
+625 implementation of said Digital Bridge Health Navigator Tech Literacy Pilot Program, which
+626 shall include but not be limited to the following: (i) an identification of the program’s telehealth
+627 navigators disaggregated by healthcare profession; (ii) the resources required to provide literacy
+628 with digital health tools, including, but not limited to, the cost of operating said pilot program
+629 and additional workforce training for the program’s telehealth navigators; (iii) an identification
+630 of the populations served by the program disaggregated by demographics including, but not
+631 limited to, race, ethnicity, age, gender identity and primary language spoken; (iv) an
+632 identification of the regions served by the program across the commonwealth; and (v) an
+633 evaluation of the efficacy of the program in increasing the utilization of telehealth services
+634 disaggregated by patient demographics and including, but not limited to, the rate of attendance at
+635 telehealth visits.
+636 SECTION 34. a) Notwithstanding any general or special law to the contrary, the
+637 executive office of health and human services shall establish a task force to address barriers and
+638 impediments to the practice of telehealth across state lines. The task force shall consist of: the
+639 secretary of the executive office of health and human services or a designee who shall serve as
+640 chair; the commissioner of the department of public health or a designee; the commissioner of
+641 the department of mental health or a designee; the executive director of the board of registration
+642 in medicine or a designee; a representative of the bureau of health professions licensure at the
+643 department of public health; a representative from the health policy commission; a representative
+644 from the Massachusetts Medical Society; a representative from the Massachusetts Health and
+645 Hospital Association; and a representative from the Massachusetts League of Community Health
+646 Centers.
+30 of 35
+647 b) The task force shall conduct an analysis and issue a report evaluating the
+648 commonwealth’s options to facilitate appropriate interstate medical practice and the practice of
+649 telemedicine including consideration of the recommendations from the Federation of State
+650 Medical Boards Workgroup on telemedicine, the Telehealth Act developed by the Uniform Law
+651 Commission, model legislation developed by the American Medical Association, the interstate
+652 medical licensure compact, and/or other licensure reciprocity agreements, including the medical
+653 licensure reciprocity agreement between the states of Maryland and Virginia and the District of
+654 Columbia. The analysis and report shall include but not be limited to: (i) an analysis of physician
+655 job vacancies in the commonwealth broken down by practice specialization and projected
+656 vacancies based on the demographics of the commonwealth’s physician workforce and medical
+657 school graduate retention rates; (ii) an analysis of other states’ entry into the interstate medical
+658 licensure compact and any impact on quality of care resulting from entry; (iii) an analysis of the
+659 ability of physicians to provide follow-up care across state lines, including via telehealth; (iv) an
+660 analysis of registration models for providers who may provide care for patients via telehealth
+661 with the provider located in one state and the patient located in another state, provided that said
+662 analysis would include delineation of provider responsibilities for registration and reporting to
+663 state professional licensure boards; (v) an analysis of impacts to health care quality, cost and
+664 access resulting from other states’ entry into a medical licensure compact, as well as anticipated
+665 impacts to health care quality, cost and access associated with entry into an interstate medical
+666 licensure compact; (vi) evaluations of barriers and solutions regarding prescribing across state
+667 lines; (vii) evaluations of the feasibility of a regional reciprocity agreement allowing
+668 telemedicine across state lines both for existing patient provider relationships and/or the
+669 establishment of new relationships; (viii) evaluations of the feasibility of the establishment of
+31 of 35
+670 interstate proxy credentialing; (ix) recommendations to support the continuity of care for
+671 patients utilizing telehealth across state lines including but not limited to recommendations to
+672 support the continuity of care for people aged 25 and under when providing telehealth across
+673 state lines; (x) consideration of the recommendations from the Federation of State Medical
+674 Boards Workgroup on telemedicine, the Telehealth Act developed by the Uniform Law
+675 Commission, model legislation developed by the American Medical Association, the interstate
+676 medical licensure compact, and/or other reciprocity agreements including the medical licensure
+677 reciprocity agreement between the states of Maryland and Virginia and the District of Columbia.
+678 (c) The task force shall submit its recommendations to the governor and the clerks of the
+679 house of representatives and the senate not later than October 1, 2025.
+680 SECTION 35. (a) Notwithstanding any general or special law to the contrary, the
+681 executive office of health and human services shall establish a task force to address barriers and
+682 impediments to the practice of telehealth by health professionals across state lines including
+683 advanced practice registered nurses, physician assistants, behavioral and allied health
+684 professions, and other health professions licensed or certified by the Department of Public
+685 Health. The task force shall consist of: the secretary of the executive office of health and human
+686 services or a designee who shall serve as chair; the commissioner of the department of public
+687 health or a designee; the commissioner of the department of mental health or a designee; the
+688 executive director of the board of registration in nursing or a designee; a representative of the
+689 bureau of health professions licensure at the department of public health; and 12 persons to be
+690 appointed by the secretary of the executive office of health and human services representing
+691 organizations that represent advanced practice registered nurses, physician assistants, hospitals,
+32 of 35
+692 patients, social workers, behavioral health professions, allied health professions, telehealth and
+693 other healthcare professionals licensed or certified by the Department of Public Health.
+694 (b) The task force shall: i) investigate interstate license reciprocity models with other
+695 nearby states for advanced practice registered nurses, physician assistants, behavioral health,
+696 social workers, allied health and other health professionals licensed or certified by the
+697 Department of Public Health to ensure that there is sufficient access for professionals throughout
+698 the region and ensure that continuity of care for patients is achieved for patients that access
+699 services in state’s throughout the region; ii) consider recommendations to support the continuity
+700 of care for patients utilizing telehealth across state lines including but not limited to
+701 recommendations to support the continuity of care for children and adolescents when providing
+702 telehealth across state lines; and iii) examine registration models for providers who may provide
+703 care for patients via telehealth with the provider located in one state and the patient located in
+704 another state. Such examination would include delineation of provider responsibilities for
+705 registration and reporting to state professional licensure boards.
+706 (c) The task force shall submit its recommendations to the governor and the clerks of the
+707 house of representatives and the senate not later than February 1, 2026.
+708 SECTION 36. There shall be a special commission to study and make recommendations
+709 on ways to address the inequity of health outcomes and digital access through the recruitment
+710 and implementation of digital health navigators.
+711 The commission shall consist of: the chairs of the joint committee on economic
+712 development and emerging technologies and the joint committee on public health who shall
+713 serve as co-chairs; 1 member appointed by the speaker of the house of representatives; 1 member
+33 of 35
+714 appointed by the minority leader of the house of representatives; 1 member appointed by the
+715 senate president; 1 member appointed by the minority leader of the senate; the secretary of
+716 technology services and security or a designee; the chief information technology accessibility
+717 officer or a designee; the executive director of Mass Digital or a designee; 1 member who shall
+718 be a representative of the interoperable communications bureau within the executive office of
+719 technology services and security; 1 member who shall be a representative of the Massachusetts
+720 Broadband Institute;1 member who shall be a representative of the Department of Public Health;
+721 1 member who shall be a representative of the Executive Office of Aging and Independence; 3
+722 members appointed by the governor who shall be digital health navigators from diverse
+723 geographic backgrounds in Massachusetts; and 9 additional representatives, including, but not
+724 limited to, representatives from organizations advocating for digital equity in the western region
+725 of the commonwealth, behavioral health organizations, human service providers, community
+726 health workers, municipalities, hospitals and health systems, physician practices, community
+727 health centers, workforce boards, and patients who have utilized digital health navigation
+728 services.
+729 The commission shall consider:
+730 (i) defining how statewide residents’ needs can be met by digital health navigation
+731 services within the broader goal of digital equity;
+732 (ii) defining the scope, social determinants of health and quality of life outcomes, and
+733 methods for funding digital health navigators including private and public contracting and state
+734 grantmaking;
+34 of 35
+735 (iii) qualifications and standards of digital health navigator services, including a process
+736 for a statewide credentialing program for digital health navigators;
+737 (iv) conduct data collection of current regional initiatives across the state to understand
+738 opportunities, implementation design, and statewide efficiencies;
+739 (v) any other considerations determined to be relevant by the commission. The
+740 commission shall file a report and recommendations, including any legislation necessary to
+741 implement its recommendations, with the clerks of the house of representatives and the senate
+742 not later than June 30, 2026.
+743 SECTION 37. Sections 77 and 79 of Chapter 260 of the Acts of 2020 are hereby
+744 repealed.
+35 of 35
+[DELETED: :D/A:DAEITDSA Dr2x1b3e1s4r1o1k2a3x2s1n2z7x2n2x2a8x3y2x3a1e3s1x3n1k3g1x3n1l3ySk6s4x5a8n7]
+[DELETED: y5n7n9k9d1x9s7x9n1x1]
+[DELETED: Sb“TaatSb0d1“2s]
+[DELETED: 3t4o5o6b7“8H9m0w1“2t3a4r5m6p7t8“9p0l1t2S3r4a]
+[DELETED: 5C6e7s8S9b0a1(2t3p4n5o6h7p8t9S0b1t2(3f4(5i6a]
+[DELETED: 7a8d9w0m1d2l3w4n5e6(7i8c9b0a1a2o3(4i5C6s7s8M9p]
+[DELETED: 0w1s2p3h4S5r6i7“8s9t0o1o2b3“4H5m6w7a8l9t0i]
+[DELETED: 1i2s3“4p5l6t7S8r9i0C1e2i3f4t5S6b7(8(9o0a1u2r]
+[DELETED: 3t4h5a6p7a8p9(0S1b2t3(4o5t6c7w8t9(0o1t2c3t4c]
+[DELETED: 5p6l7e8m9s0d1w2s3(4o5t6c7i8m9m0i1(2o3t4c5u6C7s]
+[DELETED: 8s9M0p1w2s3p4h5(6o7t8c9n0s1S2i3t4“5s6t7o8o9b]
+[DELETED: 0“1H2m3w4“5t6a7r8m9p0t1“2p3l4t5S6m7i8C9e0s]
+[DELETED: 1S2a3s4(5t6p7r8r9t0c1n2b3p465S6i7a8(9r0r1a]
+[DELETED: 2(3r4d5a6d7s8i9t0m1l2h3h4(5r6t7n8e9f0i1(2r314t]
+[DELETED: 5p6o7d8p9l0i1a2S3b4d5“6s7t8o9o0b1“2H3m4w5“6t]
+[DELETED: 7a8r9m0p1t2“3p4l5t6S7m8i9C0e1s2S3a4s5(6t7p8n]
+[DELETED: 9o0h1p2t3S4b5t6(7f8(9o0a1d2s3i4t5m6l7h8h9(0p]
+[DELETED: 1o2h3e4l5(6p7s8M9s0l1a2r3b4o5S6b7d8“9s0t1o]
+[DELETED: 2o3b4“5H6m7w8“9t0a1r2m3p4t5“6p7l8t9S0m1i]
+[DELETED: 2C3e4s5S6a7s8(9t0p1n2o3h4p5t6S7i8e9(0f1h2(3o]
+[DELETED: 4a5d6s7i8t9m0l1h2h3(4p5o6h7e8l9(0p1s2M3s4l5a6r]
+[DELETED: 7b8o9S0b1d2“3s4t5o6o7b8“9H0m1w2“3t4a5r6m7p8t]
+[DELETED: 9“0p1l2t3S4m5i6C7e8s9S0a1s2(3t4p5t6t7r8u9p06]
+[DELETED: 1S2b3t4(5f6h7(8a9a0d1m2i3t4m5l6h7h8(9p0o1h]
+[DELETED: 2e3l4(5p6h7M8s9l0a1r2b3o4S5b6d7“8s9t0o1o2b]
+[DELETED: 3“4H5m6w7“8t9a0r1m2p3t4“5p6l7t8S9r0i1C2e3s]
+[DELETED: 4S5a6s7(8t9p0m1s2c3h4c5S6b7t8(9i0t1(2h3a4h5p]
+[DELETED: 6p7d8l9w0n1e2(3h4c5m6i7(8l9p0t1l2t3l4t5i6o]
+[DELETED: 7S8s9S0a1b2s3a4f5e6a7c8s9S0p1e2o3a4r5s6o7t8o9t]
+[DELETED: 0t1e2t3e4t5s6t7t8h9v0t1S2p3a4a5d6h7p8a9a0p1o]
+[DELETED: 2E3b4a5p6t7a8d9k0u1S2p3h4B5c6p7p8i9a0d1l2w3s]
+[DELETED: 4(5i6s7n8w9a0o1l2i3e4d5t6S7e8i9s0c1t2i3d4f5H6C]
+[DELETED: 7b8c9t0M1C2m3l4C5j6v7s8l9a0a1w2a3s4a5i6l7l8t9e]
+[DELETED: 0i1p2s3s4B5C6m7r8(9h0S1e2i3a4p5H6s7h8e9b0a1o]
+[DELETED: 2p3o4(5n6s7D8t9s0o1r2t3c4a5r6(7h8S9o0a1T2d3s]
+[DELETED: 4a5s6t7o8b9t0B112m3g4l5o6h7h8s9T0(1s2(3m4g]
+[DELETED: 5(6f7(8o9(0c1i2n3S4r]
+
+
+================================================================================
+
+Raw Text:
+HOUSE DOCKET, NO. 2125 FILED ON: 1/15/2025
+HOUSE . . . . . . . . . . . . . . . No. 1130
+The Commonwealth of Massachusetts
+_________________
+PRESENTED BY:
+Marjorie C. Decker
+_________________
+To the Honorable Senate and House of Representatives of the Commonwealth of Massachusetts in General
+Court assembled:
+The undersigned legislators and/or citizens respectfully petition for the adoption of the accompanying bill:
+An Act relative to telehealth and digital equity for patients.
+_______________
+PETITION OF:
+NAME: DISTRICT/ADDRESS: DATE ADDED:
+Marjorie C. Decker 25th Middlesex 1/15/2025
+Mindy Domb 3rd Hampshire 1/23/2025
+Natalie M. Higgins 4th Worcester 1/29/2025
+Samantha Montaño 15th Suffolk 2/3/2025
+Danillo A. Sena 37th Middlesex 2/3/2025
+Natalie M. Blais 1st Franklin 2/10/2025
+Manny Cruz 7th Essex 2/10/2025
+Erika Uyterhoeven 27th Middlesex 2/20/2025
+James C. Arena-DeRosa 8th Middlesex 3/3/2025
+Mike Connolly 26th Middlesex 3/11/2025
+Lindsay N. Sabadosa 1st Hampshire 3/11/2025
+Adrianne Pusateri Ramos 14th Essex 3/11/2025
+Kevin G. Honan 17th Suffolk 3/11/2025
+Tara T. Hong 18th Middlesex 3/19/2025
+Adam J. Scanlon 14th Bristol 3/26/2025
+Michael D. Brady Second Plymouth and Norfolk 6/11/2025
+Estela A. Reyes 4th Essex 5/28/2025
+Shirley B. Arriaga 8th Hampden 7/2/2025
+1 of 2
+
+Patricia A. Duffy 5th Hampden 7/9/2025
+John Francis Moran 9th Suffolk 9/3/2025
+Vanna Howard 17th Middlesex 9/3/2025
+Jack Patrick Lewis 7th Middlesex 9/8/2025
+Tram T. Nguyen 18th Essex 10/14/2025
+2 of 2
+
+HOUSE DOCKET, NO. 2125 FILED ON: 1/15/2025
+HOUSE . . . . . . . . . . . . . . . No. 1130
+By Representative Decker of Cambridge, a petition (accompanied by bill, House, No. 1130) of
+Marjorie C. Decker and others relative to telehealth and digital equity for patients. Financial
+Services.
+The Commonwealth of Massachusetts
+_______________
+In the One Hundred and Ninety-Fourth General Court
+(2025-2026)
+_______________
+An Act relative to telehealth and digital equity for patients.
+Be it enacted by the Senate and House of Representatives in General Court assembled, and by the authority
+of the same, as follows:
+1 SECTION 1. Section 18AA of Chapter 6A of the General Laws, as most recently inserted
+2 by Section 1 of Chapter 174 of the Acts of 2022, is hereby amended by inserting after the word
+3 “benefits” the last time it appears the following:
+4 The executive office of health and human services and the executive office of housing
+5 and economic development shall determine a method for the common application portal to also
+6 allow individuals to simultaneously apply to affordable broadband programs offered by
+7 telecommunications providers.
+8 SECTION 2. Section 30 of Chapter 32A of the General Laws, as most recently inserted
+9 by section 3 of Chapter 260 of the Acts of 2020, is hereby amended by inserting after the
+10 definition of “behavioral health services, the following:
+11 “E-consults”, asynchronous, consultative, provider-to-provider communications within a
+12 shared electronic health record (EHR) or web-based platform that are intended to improve access
+1 of 35
+
+13 to specialty expertise for patients and providers without the need for a face-to-face visit, focused
+14 on a specific question. E-consults are inclusive of the consult generated from one provider or
+15 other qualified health professional to another, and of communications before/after consultation
+16 back to the member and/or the member’s caregiver.
+17 “E-Visits”, patient-initiated, non face-to-face digital communications conducted via a
+18 HIPAA-compliant secure platform or patient portal including online digital evaluation and
+19 management services. Such communications involve clinical decision-making comparable to
+20 what would occur in an in-office visits.
+21 “Remote patient monitoring services”, personal health and medical data collection,
+22 transmission, retrieval, or messaging from a member in one location, which is then transmitted to
+23 a provider in a different location and is used primarily for the management, treatment, care and
+24 related support of ongoing health conditions via regular information inputs from members and
+25 member guidance outputs from healthcare providers, including the remote monitoring of a
+26 patient’s vital signs, biometric data, or other objective or subjective data by a device that
+27 transmits such data electronically to a healthcare practitioner.
+28 “Remote therapeutic monitoring services”, the collection, storage and transfer of non-
+29 physiologic data to a healthcare provider related to a therapeutic treatment including, but not
+30 limited to, data on a patient’s musculoskeletal or respiratory system, treatment adherence, and
+31 treatment response utilizing a connected electronic medical device.
+32 SECTION 3. Subsection (b) of Section 30 of Chapter 32A of the General Laws, as most
+33 recently inserted by section 3 of Chapter 260 of the Acts of 2020, is hereby amended by inserting
+34 at the end thereof after the word “providers.” the following:
+2 of 35
+
+35 Coverage for telehealth services shall include coverage and reimbursement for e-consults,
+36 e-visits, remote patient monitoring services and devices, and remote therapeutic monitoring
+37 services and devices.
+38 SECTION 4. Section 30 of Chapter 32A of the General Laws, as most recently inserted
+39 by section 3 of Chapter 260 of the Acts of 2020, is hereby amended by striking out subsection (c)
+40 and inserting in place thereof the following:
+41 (c) Coverage for telehealth services may include utilization review; provided, however,
+42 that any utilization review shall be made in the same manner as if the service was delivered in
+43 person. Carriers shall not impose any prior authorization requirements to obtain medically
+44 necessary health services via telehealth that would not apply to the receipt of those same services
+45 on an in-person basis. A carrier shall not be required to reimburse a health care provider for a
+46 health care service that is not a covered benefit under the plan or reimburse a health care
+47 provider not contracted under the plan except as provided for under subclause (i) of clause (4) of
+48 the second sentence of subsection (a) of section 6 of chapter 176O.
+49 SECTION 5. Section 30 of Chapter 32A of the General Laws, as most recently inserted
+50 by Section 3 of Chapter 260 of the Acts of 2020 is hereby amended by adding at the end thereof
+51 the following subsections:
+52 (i) Coverage for telehealth services shall include reimbursement for interpreter services
+53 for patients with limited English proficiency or those who are deaf or hard of hearing.
+54 (j) Carriers providing coverage to an active or retired employee of the commonwealth
+55 insured under the group insurance commission shall develop and maintain procedures to identify
+56 and offer digital health education to enrollees with low digital health literacy to assist them with
+3 of 35
+
+57 accessing any medical necessary covered telehealth benefits. These procedures shall include a
+58 digital health literacy screening program or other similar procedure to identify current enrollees
+59 with low digital health literacy and a digital health education program to educate insured
+60 members regarding the effective use of telehealth technology including but not limited to
+61 distributing educational materials about how to access certain telehealth technologies in multiple
+62 languages, including sign language, and in alternative formats; holding digital health literacy
+63 workshops; integrating digital health coaching; offering enrollees in-person digital health
+64 navigators; and partnering with local libraries and/or community centers that offer digital health
+65 education services and supports.
+66 (k) Carriers providing coverage to an active or retired employee of the commonwealth
+67 insured under the group insurance commission shall make information available to the
+68 commission regarding the procedures that they have implemented under subsection (j) including
+69 but not limited to statistics on the number of enrollees identified with low digital health literacy
+70 and receiving digital health education, manner(s) or method of digital health literacy screening
+71 and digital health education, financial impact of the programs, and evaluations of effectiveness
+72 of digital health literacy interventions.
+73 (l) Carriers providing coverage to an active or retired employee of the commonwealth
+74 insured under the group insurance commission shall not prohibit a physician licensed pursuant to
+75 Chapter 112 or otherwise authorized to provide healthcare services who is providing healthcare
+76 services to a patient who is physically located in Massachusetts at the time the healthcare
+77 services are provided via telehealth from providing such services from any location within
+78 Massachusetts or outside Massachusetts; provided, that the location from which the physician
+79 provides services does not compromise patient confidentiality and privacy and the location from
+4 of 35
+
+80 which the physician provides the services does not exceed restrictions placed on the physician’s
+81 specific license, including but not limited to, restrictions set by the hospital, institution, clinic or
+82 program in which a physician licensed pursuant to section 9 of Chapter 112 of the General Laws
+83 has been appointed.
+84 SECTION 6. Subsection (a) of Section 79 of Chapter 118E of the General Laws, as most
+85 recently amended by Section 40 of Chapter 260 of the Acts of 2020, is hereby amended by
+86 inserting after the definition of “behavioral health services” the following:
+87 “E-consults”, asynchronous, consultative, provider-to-provider communications within a
+88 shared electronic health record (EHR) or web-based platform that are intended to improve access
+89 to specialty expertise for patients and providers without the need for a face-to-face visit, focused
+90 on a specific question. E-consults are inclusive of the consult generated from one provider or
+91 other qualified health professional to another, and of communications before/after consultation
+92 back to the member and/or the member’s caregiver.
+93 “E-Visits”, patient-initiated, non face-to-face digital communications conducted via a
+94 HIPAA-compliant secure platform or patient portal including online digital evaluation and
+95 management services. Such communications involve clinical decision-making comparable to
+96 what would occur in an in-office visits. “Remote patient monitoring services”, personal health
+97 and medical data collection, transmission, retrieval, or messaging from a member in one
+98 location, which is then transmitted to a provider in a different location and is used primarily for
+99 the management, treatment, care and related support of ongoing health conditions via regular
+100 information inputs from members and member guidance outputs from healthcare providers,
+5 of 35
+
+101 including the remote monitoring of a patient’s vital signs, biometric data, or other objective or
+102 subjective data by a device that transmits such data electronically to a healthcare practitioner.
+103 “Remote therapeutic monitoring services”, the collection, storage and transfer of non-
+104 physiologic data to a healthcare provider related to a therapeutic treatment including, but not
+105 limited to, data on a patient’s musculoskeletal or respiratory system, treatment adherence, and
+106 treatment response utilizing a connected electronic medical device.
+107 SECTION 7. Subsection (b) of Section 79 of Chapter 118E of the General Laws, as most
+108 recently amended by Section 40 of Chapter 260 of the Acts of 2020, is hereby amended by
+109 inserting at the end thereof after the word “providers.” the following:
+110 Coverage for telehealth services shall include coverage and reimbursement for e-consults,
+111 e-visits, remote patient monitoring services and devices including but not limited to treatment for
+112 i) congenital heart diseases, ii) pulmonary conditions and lung diseases, iii) enteral nutrition and
+113 feeding needs, iv) failure to thrive and gain weight, and v) gastrointestinal conditions and remote
+114 therapeutic monitoring services, devices and associated professional care.
+115 SECTION 8. Section 79 of Chapter 118E of the General Laws, as most recently amended
+116 by Section 40 of Chapter 260 of the Acts of 2020, is hereby amended by striking subsection
+117 (c)and inserting in place thereof the following:
+118 (c) The division, a contracted health insurer, health plan, health maintenance
+119 organization, behavioral health management firm or third-party administrators under contract to
+120 a Medicaid managed care organization or primary care clinician plan shall not impose any
+121 utilization management requirements, including but not limited to, prior authorization
+122 requirements to obtain medically necessary health services via telehealth that would not apply to
+6 of 35
+
+123 the receipt of those same services on an in-person basis. The division, a contracted health insurer,
+124 health plan, health maintenance organization, behavioral health management firm or third-party
+125 administrator under contract to a Medicaid managed care organization or primary care clinician
+126 plan shall not be required to reimburse a health care provider for a health care service that is not
+127 a covered benefit under the plan or reimburse a health care provider not contracted under the
+128 plan except as provided for under subclause (i) of clause (4) of the second sentence of subsection
+129 (a) of section 6 of chapter 176O.
+130 SECTION 9. Section 79 of Chapter 118E of the General Laws, as most recently inserted
+131 by Section 40 of Chapter 260 of the Acts of 2020 is hereby amended by inserting at the end
+132 thereof the following subsections:
+133 (i) The division and its contracted health insurers, health plans, health maintenance
+134 organizations, behavioral health management firms and third-party administrators under contract
+135 to a Medicaid managed care organization, accountable care organization or primary care
+136 clinician plan shall include in its coverage for reimbursement for interpreter services for patients
+137 with limited English proficiency or those who are deaf or hard of hearing in its coverage for
+138 telehealth services.
+139 (j) The division and its contracted health insurers, health plans, health maintenance
+140 organizations, behavioral health management firms and third-party administrators under contract
+141 to a Medicaid managed care organization, accountable care organization or primary care
+142 clinician plan shall develop and maintain procedures to identify and offer digital health education
+143 to members with low digital health literacy to assist them with accessing any medical necessary
+144 covered telehealth benefits. These procedures shall include a digital health literacy screening
+7 of 35
+
+145 program or other similar procedure to identify new and current members with low digital health
+146 literacy and a digital health education program to educate insured members regarding the
+147 effective use of telehealth technology including but not limited to distributing educational
+148 materials about how to access certain telehealth technologies in multiple languages, including
+149 sign language, and in alternative formats; holding digital health literacy workshops; integrating
+150 digital health coaching; offering enrollees in-person digital health navigators; and partnering
+151 with local libraries and/or community centers that offer digital health education services and
+152 supports.
+153 (k) The division and its contracted health insurers, health plans, health maintenance
+154 organizations, behavioral health management firms and third-party administrators under contract
+155 to a Medicaid managed care organization, accountable care organization or primary care
+156 clinician plan shall publish information annually regarding the procedures that they have
+157 implemented under subsection (j) including but not limited to statistics on the number of
+158 members identified with low digital health literacy and receiving digital health education,
+159 manner(s) or method of digital health literacy screening and digital health education, financial
+160 impact of the programs, and evaluations of effectiveness of digital health literacy interventions.
+161 (l) The division and its contracted health insurers, health plans, health maintenance
+162 organizations, behavioral health management firms and third-party administrators under contract
+163 to a Medicaid managed care organization, accountable care organization or primary care
+164 clinician plan providing coverage to an active or retired employee of the commonwealth insured
+165 under the group insurance commission shall not prohibit a physician licensed pursuant to
+166 Chapter 112 or otherwise authorized to provide healthcare services who is providing healthcare
+167 services to a patient who is physically located in Massachusetts at the time the healthcare
+8 of 35
+
+168 services are provided via telehealth from providing such services from any location within
+169 Massachusetts or outside Massachusetts; provided, that the location from which the physician
+170 provides services does not compromise patient confidentiality and privacy and the location from
+171 which the physician provides the services does not exceed restrictions placed on the physician’s
+172 specific license, including but not limited to, restrictions set by the hospital, institution, clinic, or
+173 program in which a physician licensed pursuant to section 9 of Chapter 112 of the General Laws
+174 has been appointed.
+175 (m) The division and its contracted health insurers, health plans, health maintenance
+176 organizations, behavioral health management firms and third-party administrators under contract
+177 to a Medicaid managed care organization, accountable care organization or primary care
+178 clinician plan shall not impose any prior authorization requirements to obtain medically
+179 necessary remote patient monitoring services and devices or remote therapeutic monitoring
+180 services or devices.
+181 SECTION 10. Section 47MM of Chapter 175 of the General Laws, as most recently
+182 inserted by section 47 of Chapter 260 of the Acts of 2020, is hereby amended by inserting after
+183 the definition of “behavioral health services, the following:
+184 “E-consults”, asynchronous, consultative, provider-to-provider communications within a
+185 shared electronic health record (EHR) or web-based platform that are intended to improve access
+186 to specialty expertise for patients and providers without the need for a face-to-face visit, focused
+187 on a specific question. E-consults are inclusive of the consult generated from one provider or
+188 other qualified health professional to another, and of communications before/after consultation
+189 back to the member and/or the member’s caregiver.
+9 of 35
+
+190 “E-Visits”, patient-initiated, non face-to-face digital communications conducted via a
+191 HIPAA-compliant secure platform or patient portal including online digital evaluation and
+192 management services. Such communications involve clinical decision-making comparable to
+193 what would occur in an in-office visits.
+194 “Remote patient monitoring services”, personal health and medical data collection,
+195 transmission, retrieval, or messaging from a member in one location, which is then transmitted to
+196 a provider in a different location and is used primarily for the management, treatment, care and
+197 related support of ongoing health conditions via regular information inputs from members and
+198 member guidance outputs from healthcare providers, including the remote monitoring of a
+199 patient’s vital signs, biometric data, or other objective or subjective data by a device that
+200 transmits such data electronically to a healthcare practitioner.
+201 “Remote therapeutic monitoring services”, the collection, storage and transfer of non-
+202 physiologic data to a healthcare provider related to a therapeutic treatment including, but not
+203 limited to, data on a patient’s musculoskeletal or respiratory system, treatment adherence, and
+204 treatment response utilizing a connected electronic medical device.
+205 SECTION 11. Subsection (b) of Section 47MM of Chapter 175 of the General Laws, as
+206 most recently inserted by section 47 of Chapter 260 of the Acts of 2020, is hereby amended by
+207 inserting at the end thereof after the word “providers.” the following:
+208 Coverage for telehealth services shall include coverage and reimbursement for e-consults,
+209 e-visits, remote patient monitoring services and devices, and remote therapeutic monitoring
+210 services and devices.
+10 of 35
+
+211 SECTION 12. Section 47MM of Chapter 175 of the General Laws, as most recently
+212 amended by Section 47 of Chapter 260 of the Acts of 2020, is hereby amended by striking out
+213 subsection (c) and inserting place thereof the following:
+214 (c) Coverage for telehealth services may include utilization review; provided, however,
+215 that any utilization review shall be made in the same manner as if the service was delivered in
+216 person. A policy, contract, agreement, plan or certificate of insurance issued, delivered or
+217 renewed within or without the commonwealth shall not impose any prior authorization
+218 requirements to obtain medically necessary health services via telehealth that would not apply to
+219 the receipt of those same services on an in-person basis. A policy, contract, agreement, plan or
+220 certificate of insurance issued, delivered or renewed within or without the commonwealth shall
+221 not be required to reimburse a health care provider for a health care service that is not a covered
+222 benefit under the plan or reimburse a health care provider not contracted under the plan except as
+223 provided for under subclause (i) of clause (4) of the second sentence of subsection (a) of section
+224 6 of chapter 176O.
+225 SECTION 13. Section 47MM of Chapter 175 of the General Laws, as most recently
+226 inserted by Section 47 of Chapter 260 of the Acts of 2020 is hereby further amended by adding
+227 at the end thereof the following subsections:
+228 (i) A policy, contract, agreement, plan or certificate of insurance issued, delivered or
+229 renewed within the commonwealth that provides coverage for telehealth services shall include
+230 reimbursement for interpreter services for patients with limited English proficiency or those who
+231 are deaf or hard of hearing.
+11 of 35
+
+232 (j) A policy, contract, agreement, plan or certificate of insurance issued, delivered or
+233 renewed within the commonwealth shall develop and maintain procedures to identify and offer
+234 digital health education to subscribers with low digital health literacy to assist them with
+235 accessing any medical necessary covered telehealth benefits. These procedures shall include a
+236 digital health literacy screening program or other similar procedure to identify new and current
+237 subscribers with low digital health literacy and a digital health education program to educate
+238 insured subscribers regarding the effective use of telehealth technology including but not limited
+239 to distributing educational materials about how to access certain telehealth technologies in
+240 multiple languages, including sign language, and in alternative formats; holding digital health
+241 literacy workshops; integrating digital health coaching; offering subscribers in-person digital
+242 health navigators; and partnering with local libraries and/or community centers that offer digital
+243 health education services and supports.
+244 (k) A policy, contract, agreement, plan or certificate of insurance issued, delivered or
+245 renewed within the commonwealth shall publish information annually regarding the procedures
+246 that they have implemented under subsection (j) including but not limited to statistics on the
+247 number of subscribers identified with low digital health literacy and receiving digital health
+248 education, manner(s) or method of digital health literacy screening and digital health education,
+249 financial impact of the programs, and evaluations of effectiveness of digital health literacy
+250 interventions.
+251 (l) A policy, contract, agreement, plan or certificate of insurance issued, delivered or
+252 renewed within the commonwealth shall not prohibit a physician licensed pursuant to Chapter
+253 112 or otherwise authorized to provide healthcare services who is providing healthcare services
+254 to a patient who is physically located in Massachusetts at the time the healthcare services are
+12 of 35
+
+255 provided via telehealth from providing such services from any location within Massachusetts or
+256 outside Massachusetts; provided, that the location from which the physician provides services
+257 does not compromise patient confidentiality and privacy and the location from which the
+258 physician provides the services does not exceed restrictions placed on the physician’s specific
+259 license, including but not limited to, restrictions set by the hospital, institution, clinic or program
+260 in which a physician licensed pursuant to section 9 of Chapter 112 of the General Laws has been
+261 appointed.
+262 SECTION 14. Section 38 of Chapter 176A of the General Laws, as most recently inserted
+263 by section 49 of Chapter 260 of the Acts of 2020, is hereby amended by inserting after the
+264 definition of “behavioral health services, the following:
+265 “E-consults”, asynchronous, consultative, provider-to-provider communications within a
+266 shared electronic health record (EHR) or web-based platform that are intended to improve access
+267 to specialty expertise for patients and providers without the need for a face-to-face visit, focused
+268 on a specific question. E-consults are inclusive of the consult generated from one provider or
+269 other qualified health professional to another, and of communications before/after consultation
+270 back to the member and/or the member’s caregiver.
+271 “E-Visits”, patient-initiated, non face-to-face digital communications conducted via a
+272 HIPAA-compliant secure platform or patient portal including online digital evaluation and
+273 management services. Such communications involve clinical decision-making comparable to
+274 what would occur in an in-office visits.
+275 “Remote patient monitoring services”, personal health and medical data collection,
+276 transmission, retrieval, or messaging from a member in one location, which is then transmitted to
+13 of 35
+
+277 a provider in a different location and is used primarily for the management, treatment, care and
+278 related support of ongoing health conditions via regular information inputs from members and
+279 member guidance outputs from healthcare providers, including the remote monitoring of a
+280 patient’s vital signs, biometric data, or other objective or subjective data by a device that
+281 transmits such data electronically to a healthcare practitioner.
+282 “Remote therapeutic monitoring services”, the collection, storage and transfer of non-
+283 physiologic data to a healthcare provider related to a therapeutic treatment including, but not
+284 limited to, data on a patient’s musculoskeletal or respiratory system, treatment adherence, and
+285 treatment response utilizing a connected electronic medical device.
+286 SECTION 15. Subsection (b) of Section 38 of Chapter 176A of the General Laws, as
+287 most recently inserted by section 49 of Chapter 260 of the Acts of 2020, is hereby amended by
+288 inserting at the end thereof after the word “providers.” the following:
+289 Coverage for telehealth services shall include coverage and reimbursement for e-consults,
+290 e-visits, remote patient monitoring services and devices, and remote therapeutic monitoring
+291 services and devices.
+292 SECTION 16. Section 38 of Chapter 176A of the General Laws, as most recently
+293 amended by Section 49 of Chapter 260 of the Acts of 2020, is hereby further amended by
+294 striking subsection (c) and inserting in place thereof the following:
+295 (c) Coverage for telehealth services may include utilization review; provided, however,
+296 that any utilization review shall be made in the same manner as if the service was delivered in
+297 person. A carrier shall not impose any prior authorization requirements to obtain medically
+298 necessary health services via telehealth that would not apply to the receipt of those same services
+14 of 35
+
+299 on an in-person basis. A carrier shall not be required to reimburse a health care provider for a
+300 health care service that is not a covered benefit under the plan or reimburse a health care
+301 provider not contracted under the plan except as provided for under subclause (i) of clause (4) of
+302 the second sentence of subsection (a) of section 6 of chapter 176O.
+303 SECTION 17. Section 38 of Chapter 176A of the General Laws, as most recently inserted
+304 by Section 49 of Chapter 260 of the Acts of 2020, is hereby amended by adding at the end
+305 thereof the following subsections:
+306 (i) Coverage for telehealth services shall include reimbursement for interpreter services
+307 for patients with limited English proficiency or those who are deaf or hard of hearing.
+308 (j) Hospital service corporations shall develop and maintain procedures to identify and
+309 offer digital health education to subscribers with low digital health literacy to assist them with
+310 accessing any medical necessary covered telehealth benefits. These procedures shall include a
+311 digital health literacy screening program or other similar procedure to identify new and current
+312 subscribers with low digital health literacy and a digital health education program to educate
+313 insured subscribers regarding the effective use of telehealth technology including but not limited
+314 to distributing educational materials about how to access certain telehealth technologies in
+315 multiple languages, including sign language, and in alternative formats; holding digital health
+316 literacy workshops; integrating digital health coaching; offering subscribers in-person digital
+317 health navigators; and partnering with local libraries and/or community centers that offer digital
+318 health education services and supports.
+319 (k) Hospital service corporations shall publish information annually regarding the
+320 procedures that they have implemented under subsection (j) including but not limited to statistics
+15 of 35
+
+321 on the number of subscribers identified with low digital health literacy and receiving digital
+322 health education, manner(s) or method of digital health literacy screening and digital health
+323 education, financial impact of the programs, and evaluations of effectiveness of digital health
+324 literacy interventions.
+325 (l) Hospital service corporations providing coverage under this section shall not prohibit a
+326 physician licensed pursuant to Chapter 112 or otherwise authorized to provide healthcare
+327 services who is providing healthcare services to a patient who is physically located in
+328 Massachusetts at the time the healthcare services are provided via telehealth from providing such
+329 services from any location within Massachusetts or outside Massachusetts; provided, that the
+330 location from which the physician provides services does not compromise patient confidentiality
+331 and privacy and the location from which the physician provides the services does not exceed
+332 restrictions placed on the physician’s specific license, including but not limited to, restrictions set
+333 by the hospital, institution, clinic or program in which a physician licensed pursuant to section 9
+334 of Chapter 112 of the General Laws has been appointed.
+335 SECTION 18. Section 25 of Chapter 176B of the General Laws, as most recently inserted
+336 by section 51 of Chapter 260 of the Acts of 2020, is hereby amended by inserting after the
+337 definition of “behavioral health services, the following:
+338 “E-consults”, asynchronous, consultative, provider-to-provider communications within a
+339 shared electronic health record (EHR) or web-based platform that are intended to improve access
+340 to specialty expertise for patients and providers without the need for a face-to-face visit, focused
+341 on a specific question. E-consults are inclusive of the consult generated from one provider or
+16 of 35
+
+342 other qualified health professional to another, and of communications before/after consultation
+343 back to the member and/or the member’s caregiver.
+344 “E-Visits”, patient-initiated, non face-to-face digital communications conducted via a
+345 HIPAA-compliant secure platform or patient portal including online digital evaluation and
+346 management services. Such communications involve clinical decision-making comparable to
+347 what would occur in an in-office visits.
+348 “Remote patient monitoring services”, personal health and medical data collection,
+349 transmission, retrieval, or messaging from a member in one location, which is then transmitted to
+350 a provider in a different location and is used primarily for the management, treatment, care and
+351 related support of ongoing health conditions via regular information inputs from members and
+352 member guidance outputs from healthcare providers, including the remote monitoring of a
+353 patient’s vital signs, biometric data, or other objective or subjective data by a device that
+354 transmits such data electronically to a healthcare practitioner.
+355 “Remote therapeutic monitoring services”, the collection, storage and transfer of non-
+356 physiologic data to a healthcare provider related to a therapeutic treatment including, but not
+357 limited to, data on a patient’s musculoskeletal or respiratory system, treatment adherence, and
+358 treatment response utilizing a connected electronic medical device.
+359 SECTION 19. Subsection (b) of Section 25 of Chapter 176A of the General Laws, as
+360 most recently inserted by section 3 of Chapter 260 of the Acts of 2020, is hereby amended by
+361 inserting at the end thereof after the word “providers.” the following:
+17 of 35
+
+362 Coverage for telehealth services shall include coverage and reimbursement for e-consults,
+363 e-visits, remote patient monitoring services and devices, and remote therapeutic monitoring
+364 services and devices.
+365 SECTION 20. Section 25 of Chapter 176B of the General Laws, as most recently
+366 amended by Section 51 of Chapter 260 of the Acts of 2020, is hereby further amended by
+367 striking subsection (c) and inserting in place thereof the following:
+368 (c) Coverage for telehealth services may include utilization review; provided, however,
+369 that any utilization review shall be made in the same manner as if the service was delivered in
+370 person. A carrier shall not impose any prior authorization requirements to obtain medically
+371 necessary health services via telehealth that would not apply to the receipt of those same services
+372 on an in-person basis. A carrier shall not be required to reimburse a health care provider for a
+373 health care service that is not a covered benefit under the plan or reimburse a health care
+374 provider not contracted under the plan except as provided for under subclause (i) of clause (4) of
+375 the second sentence of subsection (a) of section 6 of chapter 176O.
+376 SECTION 21. Section 25 of Chapter 176B of the General Laws, as most recently
+377 inserted by Section 51 of Chapter 260 of the Acts of 2020, is hereby amended by adding at the
+378 end thereof the following subsections:
+379 (i) A contract that provides coverage for telehealth services shall include reimbursement
+380 for interpreter services for patients with limited English proficiency or those who are deaf or
+381 hard of hearing who require interpreter services.
+382 (j) Medical service corporations shall develop and maintain procedures to identify and
+383 offer digital health education to subscribers with low digital health literacy to assist them with
+18 of 35
+
+384 accessing any medical necessary covered telehealth benefits. These procedures shall include a
+385 digital health literacy screening program or other similar procedure to identify new and current
+386 subscribers with low digital health literacy and a digital health education program to educate
+387 insured subscribers regarding the effective use of telehealth technology including but not limited
+388 to distributing educational materials about how to access certain telehealth technologies in
+389 multiple languages, including sign language, and in alternative formats; holding digital health
+390 literacy workshops; integrating digital health coaching; offering subscribers in-person digital
+391 health navigators; and partnering with local libraries and/or community centers that offer digital
+392 health education services and supports.
+393 (k) Medical service corporations shall publish information annually regarding the
+394 procedures that they have implemented under subsection (j) including but not limited to statistics
+395 on the number of subscribers identified with low digital health literacy and receiving digital
+396 health education, manner(s) or method of digital health literacy screening and digital health
+397 education, financial impact of the programs, and evaluations of effectiveness of digital health
+398 literacy interventions.
+399 (l) Medical service corporations providing coverage under this section shall not prohibit a
+400 physician licensed pursuant to Chapter 112 or otherwise authorized to provide healthcare
+401 services who is providing healthcare services to a patient who is physically located in
+402 Massachusetts at the time the healthcare services are provided via telehealth from providing such
+403 services from any location within Massachusetts or outside Massachusetts; provided, that the
+404 location from which the physician provides services does not compromise patient confidentiality
+405 and privacy and the location from which the physician provides the services does not exceed
+406 restrictions placed on the physician’s specific license, including but not limited to, restrictions set
+19 of 35
+
+407 by the hospital, institution, clinic or program in which a physician licensed pursuant to section 9
+408 of Chapter 112 of the General Laws has been appointed.
+409 SECTION 22. Section 33 of Chapter 176G of the General Laws, as most recently inserted
+410 by section 53 of Chapter 260 of the Acts of 2020, is hereby amended by inserting after the
+411 definition of “behavioral health services, the following:
+412 “E-consults”, asynchronous, consultative, provider-to-provider communications within a
+413 shared electronic health record (EHR) or web-based platform that are intended to improve access
+414 to specialty expertise for patients and providers without the need for a face-to-face visit, focused
+415 on a specific question. E-consults are inclusive of the consult generated from one provider or
+416 other qualified health professional to another, and of communications before/after consultation
+417 back to the member and/or the member’s caregiver.
+418 “E-Visits”, patient-initiated, non face-to-face digital communications conducted via a
+419 HIPAA-compliant secure platform or patient portal including online digital evaluation and
+420 management services. Such communications involve clinical decision-making comparable to
+421 what would occur in an in-office visits.
+422 “Remote patient monitoring services”, personal health and medical data collection,
+423 transmission, retrieval, or messaging from a member in one location, which is then transmitted to
+424 a provider in a different location and is used primarily for the management, treatment, care and
+425 related support of ongoing health conditions via regular information inputs from members and
+426 member guidance outputs from healthcare providers, including the remote monitoring of a
+427 patient’s vital signs, biometric data, or other objective or subjective data by a device that
+428 transmits such data electronically to a healthcare practitioner.
+20 of 35
+
+429 “Remote therapeutic monitoring services”, the collection, storage and transfer of non-
+430 physiologic data to a healthcare provider related to a therapeutic treatment including, but not
+431 limited to, data on a patient’s musculoskeletal or respiratory system, treatment adherence, and
+432 treatment response utilizing a connected electronic medical device.
+433 SECTION 23. Subsection (b) of Section 33 of Chapter 176G of the General Laws, as
+434 most recently inserted by section 53 of Chapter 260 of the Acts of 2020, is hereby amended by
+435 inserting at the end thereof after the word “providers.” the following:
+436 Coverage for telehealth services shall include coverage and reimbursement for e-consults,
+437 e-visits, remote patient monitoring services and devices, and remote therapeutic monitoring
+438 services and devices.
+439 SECTION 24. Section 33 of Chapter 176G of the General Laws, as most recently
+440 amended by Section 53 of Chapter 260 of the Acts of 2020, is hereby further amended by
+441 striking subsection (c) and inserting in place thereof the following:
+442 (c) Coverage for telehealth services may include utilization review; provided, however,
+443 that any utilization review shall be made in the same manner as if the service was delivered in
+444 person. A health maintenance organization shall not impose any prior authorization requirements
+445 to obtain medically necessary health services via telehealth that would not apply to the receipt of
+446 those same services on an in-person basis. A health maintenance organization shall not be
+447 required to reimburse a health care provider for a health care service that is not a covered benefit
+448 under the plan or reimburse a health care provider not contracted under the plan except as
+449 provided for under subclause (i) of clause (4) of the second sentence of subsection (a) of section
+450 6 of chapter 176O.
+21 of 35
+
+451 SECTION 25. Section 33 of Chapter 176G of the General Laws, as most recently inserted
+452 by Section 53 of Chapter 260 of the Acts of 2020, is hereby amended by adding at the end
+453 thereof the following subsection:
+454 (i) A contract that provides coverage for telehealth services shall include reimbursement
+455 for interpreter services for patients with limited English proficiency or those who are deaf or
+456 hard of hearing.
+457 (j) Health maintenance organizations shall develop and maintain procedures to identify
+458 and offer digital health education to members with low digital health literacy to assist them with
+459 accessing any medical necessary covered telehealth benefits. These procedures shall include a
+460 digital health literacy screening program or other similar procedure to identify new and current
+461 members with low digital health literacy and a digital health education program to educate
+462 insured subscribers regarding the effective use of telehealth technology including but not limited
+463 to distributing educational materials about how to access certain telehealth technologies in
+464 multiple languages, including sign language, and in alternative formats; holding digital health
+465 literacy workshops; integrating digital health coaching; offering subscribers in-person digital
+466 health navigators; and partnering with local libraries and/or community centers that offer digital
+467 health education services and supports.
+468 (k) Health maintenance organizations shall publish information annually regarding the
+469 procedures that they have implemented under subsection (j) including but not limited to statistics
+470 on the number of subscribers identified with low digital health literacy and receiving digital
+471 health education, manner(s) or method of digital health literacy screening and digital health
+22 of 35
+
+472 education, financial impact of the programs, and evaluations of effectiveness of digital health
+473 literacy interventions.
+474 (l) Health maintenance organizations providing coverage under this section shall not
+475 prohibit a physician licensed pursuant to Chapter 112 or otherwise authorized to provide
+476 healthcare services who is providing healthcare services to a patient who is physically located in
+477 Massachusetts at the time the healthcare services are provided via telehealth from providing such
+478 services from any location within Massachusetts or outside Massachusetts; provided, that the
+479 location from which the physician provides services does not compromise patient confidentiality
+480 and privacy and the location from which the physician provides the services does not exceed
+481 restrictions placed on the physician’s specific license, including but not limited to, restrictions set
+482 by the hospital, institution, clinic or program in which a physician licensed pursuant to section 9
+483 of Chapter 112 of the General Laws has been appointed.
+484 SECTION 26. Section 13 of Chapter 176I of the General Laws, as most recently inserted
+485 by section 54 of Chapter 260 of the Acts of 2020, is hereby amended by inserting after the
+486 definition of “behavioral health services, the following:
+487 “E-consults”, asynchronous, consultative, provider-to-provider communications within a
+488 shared electronic health record (EHR) or web-based platform that are intended to improve access
+489 to specialty expertise for patients and providers without the need for a face-to-face visit, focused
+490 on a specific question. E-consults are inclusive of the consult generated from one provider or
+491 other qualified health professional to another, and of communications before/after consultation
+492 back to the member and/or the member’s caregiver.
+23 of 35
+
+493 “E-Visits”, patient-initiated, non face-to-face digital communications conducted via a
+494 HIPAA-compliant secure platform or patient portal including online digital evaluation and
+495 management services. Such communications involve clinical decision-making comparable to
+496 what would occur in an in-office visits.
+497 “Remote patient monitoring services”, personal health and medical data collection,
+498 transmission, retrieval, or messaging from a member in one location, which is then transmitted to
+499 a provider in a different location and is used primarily for the management, treatment, care and
+500 related support of ongoing health conditions via regular information inputs from members and
+501 member guidance outputs from healthcare providers, including the remote monitoring of a
+502 patient’s vital signs, biometric data, or other objective or subjective data by a device that
+503 transmits such data electronically to a healthcare practitioner.
+504 “Remote therapeutic monitoring services”, the collection, storage and transfer of non-
+505 physiologic data to a healthcare provider related to a therapeutic treatment including, but not
+506 limited to, data on a patient’s musculoskeletal or respiratory system, treatment adherence, and
+507 treatment response utilizing a connected electronic medical device.
+508 SECTION 27. Subsection (b) of Section 13 of Chapter 176I of the General Laws, as most
+509 recently inserted by section 54 of Chapter 260 of the Acts of 2020, is hereby amended by
+510 inserting at the end thereof after the word “providers.” the following:
+511 Coverage for telehealth services shall include coverage and reimbursement for e-consults,
+512 e-visits, remote patient monitoring services and devices, and remote therapeutic monitoring
+513 services and devices.
+24 of 35
+
+514 SECTION 28. Section 13 of Chapter 176I of the General Laws, as most recently
+515 amended by section 54 of Chapter 260 of the Acts of 2020, is hereby further amended by striking
+516 subsection (c) and inserting in place thereof the following:
+517 (c) Coverage for telehealth services may include utilization review; provided, however,
+518 that any utilization review shall be made in the same manner as if the service was delivered in
+519 person. An organization shall not impose any prior authorization requirements to obtain
+520 medically necessary health services via telehealth that would not apply to the receipt of those
+521 same services on an in-person basis. An organization shall not be required to reimburse a health
+522 care provider for a health care service that is not a covered benefit under the plan or reimburse a
+523 health care provider not contracted under the plan except as provided for under subclause (i) of
+524 clause (4) of the second sentence of subsection (a) of section 6 of chapter 176O.
+525 SECTION 29. Section 13 of Chapter 176I of the General Laws, as most recently inserted
+526 by Section 54 of Chapter 260 of the Acts of 2020, is hereby amended by adding at the end
+527 thereof the following subsection:
+528 (i) A preferred provider contract that provides coverage for telehealth services shall
+529 include reimbursement for interpreter services for patients with limited English proficiency or
+530 those who are deaf or hard of hearing.
+531 (j) Organizations shall develop and maintain procedures to identify and offer digital
+532 health education to covered persons with low digital health literacy to assist them with accessing
+533 any medical necessary covered telehealth benefits. These procedures shall include a digital
+534 health literacy screening program or other similar procedure to identify new and current covered
+535 persons with low digital health literacy and a digital health education program to educate covered
+25 of 35
+
+536 persons regarding the effective use of telehealth technology including but not limited to
+537 distributing educational materials about how to access certain telehealth technologies in multiple
+538 languages, including sign language, and in alternative formats; holding digital health literacy
+539 workshops; integrating digital health coaching; offering covered persons in-person digital health
+540 navigators; and partnering with local libraries and/or community centers that offer digital health
+541 education services and supports.
+542 (k) Organizations shall publish information annually regarding the procedures that they
+543 have implemented under subsection (j) including but not limited to statistics on the number of
+544 covered persons identified with low digital health literacy and receiving digital health education,
+545 manner(s) or method of digital health literacy screening and digital health education, financial
+546 impact of the programs, and evaluations of effectiveness of digital health literacy interventions.
+547 (l) Organizations providing coverage under this section shall not prohibit a physician
+548 licensed pursuant to Chapter 112 or otherwise authorized to provide healthcare services who is
+549 providing healthcare services to a patient who is physically located in Massachusetts at the time
+550 the healthcare services are provided via telehealth from providing such services from any
+551 location within Massachusetts or outside Massachusetts; provided, that the location from which
+552 the physician provides services does not compromise patient confidentiality and privacy and the
+553 location from which the physician provides the services does not exceed restrictions placed on
+554 the physician’s specific license, including but not limited to, restrictions set by the hospital,
+555 institution, clinic or program in which a physician licensed pursuant to section 9 of Chapter 112
+556 of the General Laws has been appointed.
+26 of 35
+
+557 SECTION 30. Section 26 of Chapter 176O of the General Laws is hereby amended by
+558 striking the current section and inserting in place thereof the following:
+559 Section . The commissioner shall establish standardized processes and procedures
+560 applicable to all health care providers and payers for the determination of a patient's health
+561 benefit plan eligibility at or prior to the time of service, including telehealth services. As part of
+562 such processes and procedures, the commissioner shall (i) require payers to implement
+563 automated approval systems such as decision support software in place of telephone approvals
+564 for specific types of services specified by the commissioner and (ii) require establishment of an
+565 electronic data exchange to allow providers to determine eligibility at or prior to the point of care
+566 and determine the insured’s cost share for a proposed telehealth service, including any
+567 copayment, deductible, coinsurance or other out of pocket amount for any covered telehealth
+568 services.
+569 SECTION 31. Notwithstanding any general or special law to the contrary, the health
+570 policy commission, in consultation with the center for health information and analysis, the
+571 executive office of health and human services and the division of insurance shall issue a report
+572 on the use of telehealth services in the commonwealth and the effect of telehealth on health care
+573 access and system cost. The report, along with a suggested plan to implement its
+574 recommendations in order to maximize access, quality of care and cost savings, shall be
+575 submitted to the joint committee on health care financing and the house and senate committees
+576 on ways and means not later than 2 years from the effective date of this act; provided, however,
+577 that not later than 1 year from the effective date of this act, the commission shall present a report
+578 on: i) the estimated impacts on costs and time spent by patients accessing healthcare services due
+579 to the use of telehealth; ii) the estimated impacts to access to healthcare services due to the use of
+27 of 35
+
+580 telehealth including employment productivity, transportation costs and school attendance; iii) the
+581 estimated impacts on healthcare costs due to the impacts of telehealth on COVID-19
+582 transmission and treatment; iv) the estimated impact on the costs of personal protective
+583 equipment for providers and healthcare facilities due to the use of telehealth; v) an estimate of
+584 the impact of health outcomes to those communities that have not been able to access telehealth
+585 services due to language or accessibility issues; and vi) an interim estimate of the fiscal impact of
+586 telehealth use in the commonwealth that shall include public health outcomes, increased access
+587 to services, reduction in transportation services and vehicle miles traveled, and reduction in
+588 hospitalizations. The report shall additionally include data regarding the number of telehealth
+589 visits utilizing an interpreter for those who are deaf and hard of hearing and for languages other
+590 than English and shall quantify the number of telehealth visits in each language.
+591 SECTION 32. Notwithstanding any general or special law to the contrary, the health
+592 policy commission shall establish a Digital Bridge Pilot Program to support telehealth services
+593 and devices and to provide funding for healthcare and human service providers and their patients
+594 and clients to support the purchase of telecommunications, information services and connected
+595 devices necessary to provide telehealth services to patients and clients. Communities that have
+596 had the highest prevalence of and been disproportionately affected by COVID-19 shall be
+597 prioritized for funding under this program in addition to communities that experience barriers in
+598 accessing telehealth services due to language constraints, socioeconomic constraints or other
+599 accessibility issues. Eligible programs may include but not be limited to public private
+600 partnerships with telecommunication providers, municipalities, healthcare providers and other
+601 organizations.
+28 of 35
+
+602 Eligible services may include, but not be limited to: telecommunications services;
+603 broadband and internet connectivity services including the purchase of broadband subscriptions
+604 and the establishment of wireless hotspots, so-called; voice services; remote patient monitoring
+605 platforms and services; patient reported outcome platforms; store and forward services, including
+606 the asynchronous transfer of patient images and data for interpretation by a physician; platforms
+607 and services to provide synchronous video consultation; tablets, smartphones, or connected
+608 devices to receive connected care services at home for patient or provider use; and telemedicine
+609 kiosks / carts for provider sites. Funding shall not be used for unconnected devices that patients
+610 utilize in the home and then manually report their results to providers.
+611 SECTION 33. (a) Notwithstanding any general or special law to the contrary, the health
+612 policy commission shall establish a Digital Health Navigator Tech Literacy Pilot Program,
+613 herein referred to as the program, to complement and work in conjunction with the Digital
+614 Bridge Pilot Program. The program shall establish telehealth digital health navigators including
+615 community health workers, medical assistants, and other healthcare professionals to assist
+616 patients with accessing telehealth services. The program and its funding shall prioritize
+617 populations who experience increased barriers in accessing healthcare and telehealth services,
+618 including those disproportionately affected by COVID-19, the elderly and those who may need
+619 assistance with telehealth services due to limited English proficiency or limited literacy with
+620 digital health tools. Entities receiving funding through this program will provide culturally and
+621 linguistically competent hands-on support to educate patients on how to access broadband and
+622 wireless services and subsequently utilize devices and online platforms to access telehealth
+623 services.
+29 of 35
+
+624 (b) The health policy commission shall publish a report, one year following the
+625 implementation of said Digital Bridge Health Navigator Tech Literacy Pilot Program, which
+626 shall include but not be limited to the following: (i) an identification of the program’s telehealth
+627 navigators disaggregated by healthcare profession; (ii) the resources required to provide literacy
+628 with digital health tools, including, but not limited to, the cost of operating said pilot program
+629 and additional workforce training for the program’s telehealth navigators; (iii) an identification
+630 of the populations served by the program disaggregated by demographics including, but not
+631 limited to, race, ethnicity, age, gender identity and primary language spoken; (iv) an
+632 identification of the regions served by the program across the commonwealth; and (v) an
+633 evaluation of the efficacy of the program in increasing the utilization of telehealth services
+634 disaggregated by patient demographics and including, but not limited to, the rate of attendance at
+635 telehealth visits.
+636 SECTION 34. a) Notwithstanding any general or special law to the contrary, the
+637 executive office of health and human services shall establish a task force to address barriers and
+638 impediments to the practice of telehealth across state lines. The task force shall consist of: the
+639 secretary of the executive office of health and human services or a designee who shall serve as
+640 chair; the commissioner of the department of public health or a designee; the commissioner of
+641 the department of mental health or a designee; the executive director of the board of registration
+642 in medicine or a designee; a representative of the bureau of health professions licensure at the
+643 department of public health; a representative from the health policy commission; a representative
+644 from the Massachusetts Medical Society; a representative from the Massachusetts Health and
+645 Hospital Association; and a representative from the Massachusetts League of Community Health
+646 Centers.
+30 of 35
+
+647 b) The task force shall conduct an analysis and issue a report evaluating the
+648 commonwealth’s options to facilitate appropriate interstate medical practice and the practice of
+649 telemedicine including consideration of the recommendations from the Federation of State
+650 Medical Boards Workgroup on telemedicine, the Telehealth Act developed by the Uniform Law
+651 Commission, model legislation developed by the American Medical Association, the interstate
+652 medical licensure compact, and/or other licensure reciprocity agreements, including the medical
+653 licensure reciprocity agreement between the states of Maryland and Virginia and the District of
+654 Columbia. The analysis and report shall include but not be limited to: (i) an analysis of physician
+655 job vacancies in the commonwealth broken down by practice specialization and projected
+656 vacancies based on the demographics of the commonwealth’s physician workforce and medical
+657 school graduate retention rates; (ii) an analysis of other states’ entry into the interstate medical
+658 licensure compact and any impact on quality of care resulting from entry; (iii) an analysis of the
+659 ability of physicians to provide follow-up care across state lines, including via telehealth; (iv) an
+660 analysis of registration models for providers who may provide care for patients via telehealth
+661 with the provider located in one state and the patient located in another state, provided that said
+662 analysis would include delineation of provider responsibilities for registration and reporting to
+663 state professional licensure boards; (v) an analysis of impacts to health care quality, cost and
+664 access resulting from other states’ entry into a medical licensure compact, as well as anticipated
+665 impacts to health care quality, cost and access associated with entry into an interstate medical
+666 licensure compact; (vi) evaluations of barriers and solutions regarding prescribing across state
+667 lines; (vii) evaluations of the feasibility of a regional reciprocity agreement allowing
+668 telemedicine across state lines both for existing patient provider relationships and/or the
+669 establishment of new relationships; (viii) evaluations of the feasibility of the establishment of
+31 of 35
+
+670 interstate proxy credentialing; (ix) recommendations to support the continuity of care for
+671 patients utilizing telehealth across state lines including but not limited to recommendations to
+672 support the continuity of care for people aged 25 and under when providing telehealth across
+673 state lines; (x) consideration of the recommendations from the Federation of State Medical
+674 Boards Workgroup on telemedicine, the Telehealth Act developed by the Uniform Law
+675 Commission, model legislation developed by the American Medical Association, the interstate
+676 medical licensure compact, and/or other reciprocity agreements including the medical licensure
+677 reciprocity agreement between the states of Maryland and Virginia and the District of Columbia.
+678 (c) The task force shall submit its recommendations to the governor and the clerks of the
+679 house of representatives and the senate not later than October 1, 2025.
+680 SECTION 35. (a) Notwithstanding any general or special law to the contrary, the
+681 executive office of health and human services shall establish a task force to address barriers and
+682 impediments to the practice of telehealth by health professionals across state lines including
+683 advanced practice registered nurses, physician assistants, behavioral and allied health
+684 professions, and other health professions licensed or certified by the Department of Public
+685 Health. The task force shall consist of: the secretary of the executive office of health and human
+686 services or a designee who shall serve as chair; the commissioner of the department of public
+687 health or a designee; the commissioner of the department of mental health or a designee; the
+688 executive director of the board of registration in nursing or a designee; a representative of the
+689 bureau of health professions licensure at the department of public health; and 12 persons to be
+690 appointed by the secretary of the executive office of health and human services representing
+691 organizations that represent advanced practice registered nurses, physician assistants, hospitals,
+32 of 35
+
+692 patients, social workers, behavioral health professions, allied health professions, telehealth and
+693 other healthcare professionals licensed or certified by the Department of Public Health.
+694 (b) The task force shall: i) investigate interstate license reciprocity models with other
+695 nearby states for advanced practice registered nurses, physician assistants, behavioral health,
+696 social workers, allied health and other health professionals licensed or certified by the
+697 Department of Public Health to ensure that there is sufficient access for professionals throughout
+698 the region and ensure that continuity of care for patients is achieved for patients that access
+699 services in state’s throughout the region; ii) consider recommendations to support the continuity
+700 of care for patients utilizing telehealth across state lines including but not limited to
+701 recommendations to support the continuity of care for children and adolescents when providing
+702 telehealth across state lines; and iii) examine registration models for providers who may provide
+703 care for patients via telehealth with the provider located in one state and the patient located in
+704 another state. Such examination would include delineation of provider responsibilities for
+705 registration and reporting to state professional licensure boards.
+706 (c) The task force shall submit its recommendations to the governor and the clerks of the
+707 house of representatives and the senate not later than February 1, 2026.
+708 SECTION 36. There shall be a special commission to study and make recommendations
+709 on ways to address the inequity of health outcomes and digital access through the recruitment
+710 and implementation of digital health navigators.
+711 The commission shall consist of: the chairs of the joint committee on economic
+712 development and emerging technologies and the joint committee on public health who shall
+713 serve as co-chairs; 1 member appointed by the speaker of the house of representatives; 1 member
+33 of 35
+
+714 appointed by the minority leader of the house of representatives; 1 member appointed by the
+715 senate president; 1 member appointed by the minority leader of the senate; the secretary of
+716 technology services and security or a designee; the chief information technology accessibility
+717 officer or a designee; the executive director of Mass Digital or a designee; 1 member who shall
+718 be a representative of the interoperable communications bureau within the executive office of
+719 technology services and security; 1 member who shall be a representative of the Massachusetts
+720 Broadband Institute;1 member who shall be a representative of the Department of Public Health;
+721 1 member who shall be a representative of the Executive Office of Aging and Independence; 3
+722 members appointed by the governor who shall be digital health navigators from diverse
+723 geographic backgrounds in Massachusetts; and 9 additional representatives, including, but not
+724 limited to, representatives from organizations advocating for digital equity in the western region
+725 of the commonwealth, behavioral health organizations, human service providers, community
+726 health workers, municipalities, hospitals and health systems, physician practices, community
+727 health centers, workforce boards, and patients who have utilized digital health navigation
+728 services.
+729 The commission shall consider:
+730 (i) defining how statewide residents’ needs can be met by digital health navigation
+731 services within the broader goal of digital equity;
+732 (ii) defining the scope, social determinants of health and quality of life outcomes, and
+733 methods for funding digital health navigators including private and public contracting and state
+734 grantmaking;
+34 of 35
+
+735 (iii) qualifications and standards of digital health navigator services, including a process
+736 for a statewide credentialing program for digital health navigators;
+737 (iv) conduct data collection of current regional initiatives across the state to understand
+738 opportunities, implementation design, and statewide efficiencies;
+739 (v) any other considerations determined to be relevant by the commission. The
+740 commission shall file a report and recommendations, including any legislation necessary to
+741 implement its recommendations, with the clerks of the house of representatives and the senate
+742 not later than June 30, 2026.
+743 SECTION 37. Sections 77 and 79 of Chapter 260 of the Acts of 2020 are hereby
+744 repealed.
+35 of 35
+
+[DELETED: :D/A:DAEITDSA Dr2x1b3e1s4r1o1k2a3x2s1n2z7x2n2x2a8x3y2x3a1e3s1x3n1k3g1x3n1l3ySk6s4x5a8n7]
+[DELETED: y5n7n9k9d1x9s7x9n1x1]
+[DELETED: Sb“TaatSb0d1“2s]
+[DELETED: 3t4o5o6b7“8H9m0w1“2t3a4r5m6p7t8“9p0l1t2S3r4a]
+[DELETED: 5C6e7s8S9b0a1(2t3p4n5o6h7p8t9S0b1t2(3f4(5i6a]
+[DELETED: 7a8d9w0m1d2l3w4n5e6(7i8c9b0a1a2o3(4i5C6s7s8M9p]
+[DELETED: 0w1s2p3h4S5r6i7“8s9t0o1o2b3“4H5m6w7a8l9t0i]
+[DELETED: 1i2s3“4p5l6t7S8r9i0C1e2i3f4t5S6b7(8(9o0a1u2r]
+[DELETED: 3t4h5a6p7a8p9(0S1b2t3(4o5t6c7w8t9(0o1t2c3t4c]
+[DELETED: 5p6l7e8m9s0d1w2s3(4o5t6c7i8m9m0i1(2o3t4c5u6C7s]
+[DELETED: 8s9M0p1w2s3p4h5(6o7t8c9n0s1S2i3t4“5s6t7o8o9b]
+[DELETED: 0“1H2m3w4“5t6a7r8m9p0t1“2p3l4t5S6m7i8C9e0s]
+[DELETED: 1S2a3s4(5t6p7r8r9t0c1n2b3p465S6i7a8(9r0r1a]
+[DELETED: 2(3r4d5a6d7s8i9t0m1l2h3h4(5r6t7n8e9f0i1(2r314t]
+[DELETED: 5p6o7d8p9l0i1a2S3b4d5“6s7t8o9o0b1“2H3m4w5“6t]
+[DELETED: 7a8r9m0p1t2“3p4l5t6S7m8i9C0e1s2S3a4s5(6t7p8n]
+[DELETED: 9o0h1p2t3S4b5t6(7f8(9o0a1d2s3i4t5m6l7h8h9(0p]
+[DELETED: 1o2h3e4l5(6p7s8M9s0l1a2r3b4o5S6b7d8“9s0t1o]
+[DELETED: 2o3b4“5H6m7w8“9t0a1r2m3p4t5“6p7l8t9S0m1i]
+[DELETED: 2C3e4s5S6a7s8(9t0p1n2o3h4p5t6S7i8e9(0f1h2(3o]
+[DELETED: 4a5d6s7i8t9m0l1h2h3(4p5o6h7e8l9(0p1s2M3s4l5a6r]
+[DELETED: 7b8o9S0b1d2“3s4t5o6o7b8“9H0m1w2“3t4a5r6m7p8t]
+[DELETED: 9“0p1l2t3S4m5i6C7e8s9S0a1s2(3t4p5t6t7r8u9p06]
+[DELETED: 1S2b3t4(5f6h7(8a9a0d1m2i3t4m5l6h7h8(9p0o1h]
+[DELETED: 2e3l4(5p6h7M8s9l0a1r2b3o4S5b6d7“8s9t0o1o2b]
+[DELETED: 3“4H5m6w7“8t9a0r1m2p3t4“5p6l7t8S9r0i1C2e3s]
+[DELETED: 4S5a6s7(8t9p0m1s2c3h4c5S6b7t8(9i0t1(2h3a4h5p]
+[DELETED: 6p7d8l9w0n1e2(3h4c5m6i7(8l9p0t1l2t3l4t5i6o]
+[DELETED: 7S8s9S0a1b2s3a4f5e6a7c8s9S0p1e2o3a4r5s6o7t8o9t]
+[DELETED: 0t1e2t3e4t5s6t7t8h9v0t1S2p3a4a5d6h7p8a9a0p1o]
+[DELETED: 2E3b4a5p6t7a8d9k0u1S2p3h4B5c6p7p8i9a0d1l2w3s]
+[DELETED: 4(5i6s7n8w9a0o1l2i3e4d5t6S7e8i9s0c1t2i3d4f5H6C]
+[DELETED: 7b8c9t0M1C2m3l4C5j6v7s8l9a0a1w2a3s4a5i6l7l8t9e]
+[DELETED: 0i1p2s3s4B5C6m7r8(9h0S1e2i3a4p5H6s7h8e9b0a1o]
+[DELETED: 2p3o4(5n6s7D8t9s0o1r2t3c4a5r6(7h8S9o0a1T2d3s]
+[DELETED: 4a5s6t7o8b9t0B112m3g4l5o6h7h8s9T0(1s2(3m4g]
+[DELETED: 5(6f7(8o9(0c1i2n3S4r]

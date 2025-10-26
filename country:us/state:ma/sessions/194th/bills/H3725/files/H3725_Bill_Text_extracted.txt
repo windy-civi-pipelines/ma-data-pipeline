@@ -1,0 +1,268 @@
+Title: To the Honorable Senate and House of Representatives of the Commonwealth of Massachusetts in General
+Official Title: To the Honorable Senate and House of Representatives of the Commonwealth of Massachusetts in General
+Number of Sections: 1
+Source: versions - Bill Text
+Media Type: application/pdf
+Strikethrough Detection: 6 sections found
+
+================================================================================
+
+Section 1:
+HOUSE DOCKET, NO. 2307 FILED ON: 1/16/2025
+HOUSE . . . . . . . . . . . . . . . No. 3725
+The Commonwealth of Massachusetts
+_________________
+PRESENTED BY:
+Jack Patrick Lewis
+_________________
+Court assembled:
+The undersigned legislators and/or citizens respectfully petition for the adoption of the accompanying bill:
+An Act providing for mobile driver’s licenses in the commonwealth.
+_______________
+PETITION OF:
+NAME: DISTRICT/ADDRESS: DATE ADDED:
+Jack Patrick Lewis 7th Middlesex 1/16/2025
+1 of 1
+HOUSE DOCKET, NO. 2307 FILED ON: 1/16/2025
+HOUSE . . . . . . . . . . . . . . . No. 3725
+By Representative Lewis of Framingham, a petition (accompanied by bill, House, No. 3725) of
+Jack Patrick Lewis that the Registrar of Motor Vehicles establish an electronic credential system.
+Transportation.
+The Commonwealth of Massachusetts
+_______________
+In the One Hundred and Ninety-Fourth General Court
+(2025-2026)
+_______________
+An Act providing for mobile driver’s licenses in the commonwealth.
+Be it enacted by the Senate and House of Representatives in General Court assembled, and by the authority
+of the same, as follows:
+1 SECTION 1. Chapter 90 of the General Laws is hereby amended by inserting after
+2 section 8N the following section:-
+3 Section 8O. (a) For purposes of this section, the following words shall, unless the context
+4 clearly requires otherwise, have the following meanings:-
+5 “AAMVA”, the American Association of Motor Vehicle Administrators.
+6 “Credential”, a license issued pursuant to section 8, a learner’s permit issued under
+7 section 8B or an identification card issued under section 8E.
+8 “Credential holder”, the individual that has been issued a physical or electronic
+9 credential.
+10 “Data element”, a distinct component of a customer’s information that is found on a
+11 registrar’s customer record.
+1 of 5
+12 “Electronic credential”, an electronic extension of a physical credential that conveys
+13 identity and driving privilege information for purposes of displaying the credential on a mobile
+14 telephone or other electronic device and is in compliance with AAMVA’s Mobile Driver License
+15 Implementation Guidelines and the ISO/IEC 18013-5 standard.
+16 “Electronic credential system” or “system”, a digital process that includes a method for
+17 provisioning electronic credentials, requesting and transmitting electronic credential data
+18 elements, and performing tasks to maintain the system.
+19 “ISO”, the International Organization for Standardization, which creates uniform
+20 processes and procedures.
+21 “Physical credential”, a credential issued by the registrar in its physical form.
+22 “Provision”, the initial loading of an electronic credential onto a device.
+23 “Relying party”, the entity to which the credential holder is presenting the electronic
+24 credential.
+25 “Verification Process”, a method of authenticating the electronic credential through the
+26 use of secure encrypted communication.
+27 (b) (1) The registrar shall establish an electronic credential system subject to the
+28 requirements of this section.
+29 (2) The system shall require the registrar to issue an electronic credential to any
+30 individual who is otherwise eligible to hold a physical credential. The electronic credential shall
+31 be issued in addition to, and not instead of, a physical credential. The data elements used to build
+2 of 5
+32 an electronic credential shall match the data elements used by the registrar for that individual’s
+33 physical credential.
+34 (3) An electronic credential shall be valid for a specific period of time, to be established
+35 by the registrar.
+36 (4) The registrar may contract with one or more entities to develop and maintain the
+37 electronic credential system.
+38 (5) The registrar may enter into an agreement or contract with another department of the
+39 commonwealth, another state, the United States or a third party to facilitate the issuance, use or
+40 verification of an electronic credential issued under the system.
+41 (6) An electronic credential issued by the registrar shall be in accordance with the most
+42 recent AAMVA standards.
+43 (7) The registrar may assess a fee for the application and provisioning of an electronic
+44 credential.
+45 (c) The registrar shall ensure that the:
+46 (i) electronic credential data and the verification process complies with all data security
+47 and privacy protection laws of the commonwealth and the United States; and
+48 (ii) verification process requires the relying party to: (A) authenticate electronic
+49 credentials in accordance with applicable AAMVA standards prior to acceptance of the
+50 electronic credential; and (B) request only electronic credential data elements that are necessary
+51 to complete the transaction for which that data is being requested.
+3 of 5
+52 (d) (1) Relying Parties shall only retain electronic credential data elements for which the
+53 relying party explicitly obtained consent from the electronic credential holder. Relying parties
+54 shall inform the electronic credential holder of the use and retention period of the electronic data
+55 elements.
+56 (2) The electronic credential system shall be designed to maximize the privacy of the
+57 credential holder in accordance with state and federal law and shall not track or compile
+58 information without the credential holder’s consent. The registrar shall only compile or disclose
+59 information regarding use of the credential as required by state or federal law.
+60 (e) (1) The electronic credential holder shall be required to have their physical credential
+61 on their person while operating a motor vehicle.
+62 (2) The electronic credential system shall be designed so that there is no requirement for
+63 the electronic credential holder to display or relinquish possession of their mobile or electronic
+64 device to relying parties for the acceptance of an electronic credential.
+65 (3) Upon request by law enforcement, an electronic credential holder must provide their
+66 physical credential.
+67 (4) Any law or regulation that requires an individual to surrender their physical credential
+68 to law enforcement does not apply to the device on which an electronic credential has been
+69 provisioned.
+70 (f) (1) The display of an electronic credential shall not serve as consent or authorization
+71 for a law enforcement officer, or any person, to search, view or access any other data or
+72 application on the mobile device. If a person presents a mobile or electronic device to a law
+4 of 5
+73 enforcement officer for purposes of displaying an electronic credential, the officer shall promptly
+74 return the device to the person once the officer has had an opportunity to verify the identity of
+75 the person.
+76 (2) Except for willful and wanton misconduct, any law enforcement office, court or
+77 officer of the court presented with a mobile or electronic device for purposes of displaying an
+78 electronic credential shall be immune from any liability resulting from damage to the mobile or
+79 electronic device.
+80 (g) The registrar shall promulgate rules and regulations to implement this section.
+81 SECTION 2. The regulations required under subsection (g) of section 8O of chapter 90 of
+82 the General Laws, inserted by section 1, shall be promulgated within 270 days after passage of
+83 this act.
+84 SECTION 3. Section 1 shall take effect 270 days after passage of this act.
+5 of 5
+[DELETED: :D/A:DAEITDSA Ds7x1]
+[DELETED: Ss c““s“c0“1r]
+[DELETED: 2“3i4t5I6“7p8e9“0p1“2“3“4c5“6u7(8r9(0i1b]
+[DELETED: 2a3p4(5b6(7e8(9c0v1(2r3(4c5(6(7a8(9c0e1t]
+[DELETED: 2(3r4s5e6(7c8i9i0(1o2(3t4d5(6p7(8t9p0(1f2a]
+[DELETED: 3e4r5t6(7o8e9e0(1S2t3t4S]
+
+
+================================================================================
+
+Raw Text:
+HOUSE DOCKET, NO. 2307 FILED ON: 1/16/2025
+HOUSE . . . . . . . . . . . . . . . No. 3725
+The Commonwealth of Massachusetts
+_________________
+PRESENTED BY:
+Jack Patrick Lewis
+_________________
+To the Honorable Senate and House of Representatives of the Commonwealth of Massachusetts in General
+Court assembled:
+The undersigned legislators and/or citizens respectfully petition for the adoption of the accompanying bill:
+An Act providing for mobile driver’s licenses in the commonwealth.
+_______________
+PETITION OF:
+NAME: DISTRICT/ADDRESS: DATE ADDED:
+Jack Patrick Lewis 7th Middlesex 1/16/2025
+1 of 1
+
+HOUSE DOCKET, NO. 2307 FILED ON: 1/16/2025
+HOUSE . . . . . . . . . . . . . . . No. 3725
+By Representative Lewis of Framingham, a petition (accompanied by bill, House, No. 3725) of
+Jack Patrick Lewis that the Registrar of Motor Vehicles establish an electronic credential system.
+Transportation.
+The Commonwealth of Massachusetts
+_______________
+In the One Hundred and Ninety-Fourth General Court
+(2025-2026)
+_______________
+An Act providing for mobile driver’s licenses in the commonwealth.
+Be it enacted by the Senate and House of Representatives in General Court assembled, and by the authority
+of the same, as follows:
+1 SECTION 1. Chapter 90 of the General Laws is hereby amended by inserting after
+2 section 8N the following section:-
+3 Section 8O. (a) For purposes of this section, the following words shall, unless the context
+4 clearly requires otherwise, have the following meanings:-
+5 “AAMVA”, the American Association of Motor Vehicle Administrators.
+6 “Credential”, a license issued pursuant to section 8, a learner’s permit issued under
+7 section 8B or an identification card issued under section 8E.
+8 “Credential holder”, the individual that has been issued a physical or electronic
+9 credential.
+10 “Data element”, a distinct component of a customer’s information that is found on a
+11 registrar’s customer record.
+1 of 5
+
+12 “Electronic credential”, an electronic extension of a physical credential that conveys
+13 identity and driving privilege information for purposes of displaying the credential on a mobile
+14 telephone or other electronic device and is in compliance with AAMVA’s Mobile Driver License
+15 Implementation Guidelines and the ISO/IEC 18013-5 standard.
+16 “Electronic credential system” or “system”, a digital process that includes a method for
+17 provisioning electronic credentials, requesting and transmitting electronic credential data
+18 elements, and performing tasks to maintain the system.
+19 “ISO”, the International Organization for Standardization, which creates uniform
+20 processes and procedures.
+21 “Physical credential”, a credential issued by the registrar in its physical form.
+22 “Provision”, the initial loading of an electronic credential onto a device.
+23 “Relying party”, the entity to which the credential holder is presenting the electronic
+24 credential.
+25 “Verification Process”, a method of authenticating the electronic credential through the
+26 use of secure encrypted communication.
+27 (b) (1) The registrar shall establish an electronic credential system subject to the
+28 requirements of this section.
+29 (2) The system shall require the registrar to issue an electronic credential to any
+30 individual who is otherwise eligible to hold a physical credential. The electronic credential shall
+31 be issued in addition to, and not instead of, a physical credential. The data elements used to build
+2 of 5
+
+32 an electronic credential shall match the data elements used by the registrar for that individual’s
+33 physical credential.
+34 (3) An electronic credential shall be valid for a specific period of time, to be established
+35 by the registrar.
+36 (4) The registrar may contract with one or more entities to develop and maintain the
+37 electronic credential system.
+38 (5) The registrar may enter into an agreement or contract with another department of the
+39 commonwealth, another state, the United States or a third party to facilitate the issuance, use or
+40 verification of an electronic credential issued under the system.
+41 (6) An electronic credential issued by the registrar shall be in accordance with the most
+42 recent AAMVA standards.
+43 (7) The registrar may assess a fee for the application and provisioning of an electronic
+44 credential.
+45 (c) The registrar shall ensure that the:
+46 (i) electronic credential data and the verification process complies with all data security
+47 and privacy protection laws of the commonwealth and the United States; and
+48 (ii) verification process requires the relying party to: (A) authenticate electronic
+49 credentials in accordance with applicable AAMVA standards prior to acceptance of the
+50 electronic credential; and (B) request only electronic credential data elements that are necessary
+51 to complete the transaction for which that data is being requested.
+3 of 5
+
+52 (d) (1) Relying Parties shall only retain electronic credential data elements for which the
+53 relying party explicitly obtained consent from the electronic credential holder. Relying parties
+54 shall inform the electronic credential holder of the use and retention period of the electronic data
+55 elements.
+56 (2) The electronic credential system shall be designed to maximize the privacy of the
+57 credential holder in accordance with state and federal law and shall not track or compile
+58 information without the credential holder’s consent. The registrar shall only compile or disclose
+59 information regarding use of the credential as required by state or federal law.
+60 (e) (1) The electronic credential holder shall be required to have their physical credential
+61 on their person while operating a motor vehicle.
+62 (2) The electronic credential system shall be designed so that there is no requirement for
+63 the electronic credential holder to display or relinquish possession of their mobile or electronic
+64 device to relying parties for the acceptance of an electronic credential.
+65 (3) Upon request by law enforcement, an electronic credential holder must provide their
+66 physical credential.
+67 (4) Any law or regulation that requires an individual to surrender their physical credential
+68 to law enforcement does not apply to the device on which an electronic credential has been
+69 provisioned.
+70 (f) (1) The display of an electronic credential shall not serve as consent or authorization
+71 for a law enforcement officer, or any person, to search, view or access any other data or
+72 application on the mobile device. If a person presents a mobile or electronic device to a law
+4 of 5
+
+73 enforcement officer for purposes of displaying an electronic credential, the officer shall promptly
+74 return the device to the person once the officer has had an opportunity to verify the identity of
+75 the person.
+76 (2) Except for willful and wanton misconduct, any law enforcement office, court or
+77 officer of the court presented with a mobile or electronic device for purposes of displaying an
+78 electronic credential shall be immune from any liability resulting from damage to the mobile or
+79 electronic device.
+80 (g) The registrar shall promulgate rules and regulations to implement this section.
+81 SECTION 2. The regulations required under subsection (g) of section 8O of chapter 90 of
+82 the General Laws, inserted by section 1, shall be promulgated within 270 days after passage of
+83 this act.
+84 SECTION 3. Section 1 shall take effect 270 days after passage of this act.
+5 of 5
+
+[DELETED: :D/A:DAEITDSA Ds7x1]
+[DELETED: Ss c““s“c0“1r]
+[DELETED: 2“3i4t5I6“7p8e9“0p1“2“3“4c5“6u7(8r9(0i1b]
+[DELETED: 2a3p4(5b6(7e8(9c0v1(2r3(4c5(6(7a8(9c0e1t]
+[DELETED: 2(3r4s5e6(7c8i9i0(1o2(3t4d5(6p7(8t9p0(1f2a]
+[DELETED: 3e4r5t6(7o8e9e0(1S2t3t4S]

@@ -1,0 +1,270 @@
+Title: Overview of Quarterly Population Report for the Individual Massachusetts Sheriffs' Offices
+Official Title: Overview of Quarterly Population Report for the Individual Massachusetts Sheriffs' Offices
+Number of Sections: 2
+Source: versions - Bill Text
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+Massachusetts Sheriffs’ Association
+Chapter 126, Section 40
+Quarterly Population Report
+Q2 2024
+Dukes County
+Sheriff's Office
+Page 1 of 4
+In compliance with the Massachusetts General Laws, Part I, Title XVIII, Chapter 126, Section 40:
+Recording and reporting of data on population of jails and houses of correction
+
+Section 2:
+Section 40. The sheriff shall record, without limitation, the following data for each person committed to
+a jail or house of correction: (i) probation central file number; (ii) fingerprint-based state identification
+number, if available; (iii) race and ethnicity; (iv) offense-based tracking number; (v) type of release; (vi)
+type of admission; (vii) length of sentence; (viii) jail credit from pretrial incarceration; (ix) earned time;
+(x) program participation and outcome during incarceration; (xi) case disposition; and (xii) bail amount
+or reason if no bail set.
+Aggregate data on the population of each jail and house of correction shall be assembled into a
+quarterly report with the reported data covering the entire quarterly period. The reports prepared by
+the sheriff shall contain no identifying information relating to an individual inmate or detainee.
+Each quarter the sheriff shall deliver the report from each jail and house of correction to the secretary
+of public safety and security, the house and senate chairs of the joint committee on the judiciary, the
+house and senate chairs of the joint committee on public safety and homeland security and the clerks
+of the house of representatives and the senate.
+This report was produced in partnership with the Executive Office of Public Safety & Security by
+utilizing data from the Commonwealth of Massachusetts Criminal Justice Cross-Tracking System.
+Data Definitions:
+Probation Central File (PCF) Number: A number assigned for identification purposes to an individual by the
+Massachusetts Probation Service. The PCF is not supported by fingerprint-based identification.
+State Identification Number (SID): A unique ten-character alphanumerical identifier supported by fingerprint
+identification assigned to an individual by the Department of State Police through the Automated Fingerprint
+Identification System (AFIS). The SID is created upon the fingerprinting of a person by a Criminal Justice Agency.
+Offense-Based Tracking Number (OBTN): A unique identifier for a specific fingerprint/arrest/custody event that links
+the individual to fingerprints taken. An individual may have multiple OBTNs on file when they have multiple events.
+Important Data Note:
+The statute requires three specific data points that are not owned by the Sheriffs' Offices. These three include: case
+disposition, bail amount, and reason if no bail set, which originate with the Trial Court. As such, the Sheriffs are
+unable to populate these fields. The MSA, in consultation with the Trial Court and EOPSS, are working to refine these
+metrics so that they can be retrieved from the Cross-Tracking System and reported on electronically.
+Page 2 of 4
+ADMISSIONS AND RELEASES
+LENGTH OF JAIL
+SHERIFF'S BOOKING RELEASE EARNED TIME
+PCF SID OBTN RACE ETHNICITY SENTENCE CREDIT IN
+OFFICE DATE DATE IN DAYS
+IN DAYS DAYS
+Dukes 5642109 MA21275101 Other/Unknown Hispanic/Latino 4/3/24
+Dukes 2512051 MA09998029 White Hispanic/Latino 4/12/24
+Dukes 1868065 White Not Hispanic/Latino 4/12/24
+Dukes 2512051 MA09998029 White Hispanic/Latino 4/19/24
+Dukes 934977 MA09506146 White Not Hispanic/Latino 4/29/24 5 545 169
+Dukes 3178229 MA21282953 White Not Hispanic/Latino 4/29/24
+Dukes 823202 ma10185837 White Not Hispanic/Latino 4/29/24
+Dukes 2074112 MA10151398 White Not Hispanic/Latino 4/29/24 5 90 47
+Dukes 2566829 ma10266482 White Not Hispanic/Latino 5/8/24 17 910
+Dukes 5400595 MA21285192 White Not Hispanic/Latino 5/28/24
+Dukes 5620704 MA21257768 White Not Hispanic/Latino 5/30/24
+Dukes 5187691 MA10568499 White Not Hispanic/Latino 5/31/24
+Dukes 5453849 MA21132815 Black/African American Not Hispanic/Latino 5/31/24
+Dukes 460352 RI08907875 White Hispanic/Latino 6/3/24
+Dukes 3129115 MA10507737 Black/African American Not Hispanic/Latino 6/4/24
+Dukes 968834 MA09303982 White Not Hispanic/Latino 6/4/24
+Dukes 5251576 MA10631963 White Not Hispanic/Latino 6/6/24 365 192
+Dukes 1759208 MA09212455 White Not Hispanic/Latino 6/10/24
+Dukes 1585019 White Not Hispanic/Latino 6/13/24
+Dukes 3066013 ma10325418 White Not Hispanic/Latino 6/14/24
+Dukes 1570077 White Not Hispanic/Latino 6/24/24 30 5
+Dukes 2637818 MA10043782 White Hispanic/Latino 6/25/24
+Dukes 968834 MA09303982 White Not Hispanic/Latino 6/26/24
+Dukes Other/Unknown Not Hispanic/Latino 4/1/24
+Dukes 2512051 MA09998029 White Hispanic/Latino 4/2/24 30 25
+Dukes 5273834 MA21120242 White Not Hispanic/Latino 4/3/24
+Dukes 2499426 MA10513107 White Not Hispanic/Latino 4/5/24
+Dukes 5642109 MA21275101 Other/Unknown Hispanic/Latino 4/5/24
+Dukes 2512051 MA09998029 White Hispanic/Latino 4/17/24
+Dukes 1868065 White Not Hispanic/Latino 4/19/24
+Dukes 2512051 MA09998029 White Hispanic/Latino 4/25/24
+Dukes 823202 ma10185837 White Not Hispanic/Latino 5/2/24
+Dukes 3178229 MA21282953 White Not Hispanic/Latino 5/13/24
+Dukes 5251576 MA10631963 White Not Hispanic/Latino 5/17/24
+Dukes 5620704 MA21257768 White Not Hispanic/Latino 5/30/24
+Dukes 3129115 MA10507737 Black/African American Not Hispanic/Latino 6/4/24
+Dukes 460352 RI08907875 White Hispanic/Latino 6/4/24
+Dukes 5187691 MA10568499 White Not Hispanic/Latino 6/5/24
+Dukes 5453849 MA21132815 Black/African American Not Hispanic/Latino 6/5/24
+Dukes 1759208 MA09212455 White Not Hispanic/Latino 6/10/24
+Dukes 968834 MA09303982 White Not Hispanic/Latino 6/13/24
+Dukes 1585019 White Not Hispanic/Latino 6/13/24
+Dukes 3066013 ma10325418 White Not Hispanic/Latino 6/14/24
+Dukes 2734226 MA10443669 White Not Hispanic/Latino 6/24/24
+Dukes 2637818 MA10043782 White Hispanic/Latino 6/27/24
+Dukes 968834 MA09303982 White Not Hispanic/Latino 6/28/24
+Page 3 of 4
+PROGRAMMING
+SHERIFF'S PROGRAM PARTICIPANT
+PCF SID OBTN RACE ETHNICITY ADMIT TYPE PROGRAM NAME
+OFFICE REGISTERED DATE STATUS
+Dukes 5273834 MA21120242 White Not Hispanic/Latino Pre-Trial 4/2/24 Education Participated
+Dukes 5273834 MA21120242 White Not Hispanic/Latino Pre-Trial 4/3/24 Substance Use as a Chronic Condition Released
+Dukes 5183435 MA10563870 White Not Hispanic/Latino Sentenced 4/4/24 Alcoholics Anonymous Released
+Dukes 2734226 MA10443669 White Not Hispanic/Latino Pre-Trial 4/10/24 BHJI - Individual sessions Released
+Dukes 1868065 White Not Hispanic/Latino Pre-Trial 4/16/24 Education Participated
+Dukes 2512051 MA09998029 White Hispanic/Latino Pre-Trial 4/16/24 Education Released
+Dukes 2512051 MA09998029 White Hispanic/Latino Pre-Trial 4/21/24 Bible Study w/ John Meade Released
+Dukes 2512051 MA09998029 White Hispanic/Latino Pre-Trial 4/22/24 Alcoholics Anonymous Released
+Dukes 2512051 MA09998029 White Hispanic/Latino Pre-Trial 4/23/24 Education Participated
+Dukes 823202 ma10185837 White Not Hispanic/Latino Pre-Trial 4/30/24 Education Participated
+Dukes 2074112 MA10151398 White Not Hispanic/Latino Pre-Trial 4/30/24 Education Participated
+Dukes 5587867 MA21232597 Other/Unknown Hispanic/Latino Sentenced 5/2/24 Alcoholics Anonymous Released
+Dukes 5587867 MA21232597 Other/Unknown Hispanic/Latino Sentenced 5/5/24 Bible Study w/ John Meade Released
+Dukes 5251576 MA10631963 White Not Hispanic/Latino Pre-Trial 5/8/24 BHJI - Individual sessions Released
+Dukes 3178229 MA21282953 White Not Hispanic/Latino Pre-Trial 5/8/24 BHJI - Individual sessions Released
+Dukes 2566829 ma10266482 White Not Hispanic/Latino Sentenced 5/9/24 Education Participated
+Dukes 5587867 MA21232597 Other/Unknown Hispanic/Latino Sentenced 5/10/24 Substance Use as a Chronic Condition Released
+Dukes 3178229 MA21282953 White Not Hispanic/Latino Pre-Trial 5/10/24 Substance Use as a Chronic Condition Released
+Dukes 2566829 ma10266482 White Not Hispanic/Latino Sentenced 5/10/24 Substance Use as a Chronic Condition Participated
+Dukes 2566829 ma10266482 White Not Hispanic/Latino Sentenced 5/16/24 Alcoholics Anonymous Participated
+Dukes 5183435 MA10563870 White Not Hispanic/Latino Sentenced 5/22/24 Chess Released
+Dukes 2566829 ma10266482 White Not Hispanic/Latino Sentenced 5/22/24 Chess Participated
+Dukes 934977 MA09506146 White Not Hispanic/Latino Pre-Trial 5/30/24 Education Participated
+Dukes 934977 MA09506146 White Not Hispanic/Latino Pre-Trial 6/7/24 BHJI - Individual sessions Participated
+Dukes 2730188 MA10334836 White Not Hispanic/Latino Sentenced 6/7/24 BHJI - Individual sessions Participated
+Dukes 934977 MA09506146 White Not Hispanic/Latino Pre-Trial 6/20/24 Alcoholics Anonymous Participated
+Page 4 of 4
+[DELETED:  B R EEDEDEIFSDONREEYS C JSDs59M1OnHo4s21M9WeHo4s15WeNo4s21M9WeHo4s97M6WeNo445551s39M3WeNo4s82m7WeNo4s22M8WeNo445904s29m2WeNo54179s55M2WeNo5s54M8WeNo5s51M9WeNo5s59M5BnNo5s42R5WeHo6s35M7BnNo6s94M2WeNo6s56M3WeNo64351s18M5WeNo6s19WeNo6s33m8WeNo6s17WeNo6430s28M2WeHo6s94M2WeNo6sOnNo4s21M9WeHo44302s54M2WeNo4s26M7WeNo4s59M1OnHo4s21M9WeHo4s15WeNo4s21M9WeHo4s82m7WeNo5s39M3WeNo5s56M3WeNo5s54M8WeNo5s35M7BnNo6s42R5WeHo6s51M9WeNo6s59M5BnNo6s18M5WeNo6s94M2WeNo6s19WeNo6s33m8WeNo6s26M9WeNo6s28M2WeHo6s94M2WeNo6]
+[DELETED:  P PERESFSDONREEYAEPs54M2WeNoPl44EnPs54M2WeNoPl44SnRs55M0WeNoSd44AsRs26M9WeNoPl44BsRs15WeNoPl44EnPs21M9WeHoPl44EnRs21M9WeHoPl44BeRs21M9WeHoPl44AsRs21M9WeHoPl44EnPs82m7WeNoPl44EnPs22M8WeNoPl44EnPs57M7OnHoSd54AsRs57M7OnHoSd54BeRs56M3WeNoPl54BsRs39M3WeNoPl54BsRs29m2WeNoSd54EnPs57M7OnHoSd54SnRs39M3WeNoPl54SnRs29m2WeNoSd54SnPs29m2WeNoSd54AsPs55M0WeNoSd54CsRs29m2WeNoSd54CsPs97M6WeNoPl54EnPs97M6WeNoPl64BsPs28M6WeNoSd64BsPs97M6WeNoPl64AsP]
+
+
+================================================================================
+
+Raw Text:
+Massachusetts Sheriffs’ Association
+Chapter 126, Section 40
+Quarterly Population Report
+Q2 2024
+Dukes County
+Sheriff's Office
+Page 1 of 4
+
+Overview of Quarterly Population Report for the Individual Massachusetts Sheriffs' Offices
+In compliance with the Massachusetts General Laws, Part I, Title XVIII, Chapter 126, Section 40:
+Recording and reporting of data on population of jails and houses of correction
+Section 40. The sheriff shall record, without limitation, the following data for each person committed to
+a jail or house of correction: (i) probation central file number; (ii) fingerprint-based state identification
+number, if available; (iii) race and ethnicity; (iv) offense-based tracking number; (v) type of release; (vi)
+type of admission; (vii) length of sentence; (viii) jail credit from pretrial incarceration; (ix) earned time;
+(x) program participation and outcome during incarceration; (xi) case disposition; and (xii) bail amount
+or reason if no bail set.
+Aggregate data on the population of each jail and house of correction shall be assembled into a
+quarterly report with the reported data covering the entire quarterly period. The reports prepared by
+the sheriff shall contain no identifying information relating to an individual inmate or detainee.
+Each quarter the sheriff shall deliver the report from each jail and house of correction to the secretary
+of public safety and security, the house and senate chairs of the joint committee on the judiciary, the
+house and senate chairs of the joint committee on public safety and homeland security and the clerks
+of the house of representatives and the senate.
+This report was produced in partnership with the Executive Office of Public Safety & Security by
+utilizing data from the Commonwealth of Massachusetts Criminal Justice Cross-Tracking System.
+Data Definitions:
+Probation Central File (PCF) Number: A number assigned for identification purposes to an individual by the
+Massachusetts Probation Service. The PCF is not supported by fingerprint-based identification.
+State Identification Number (SID): A unique ten-character alphanumerical identifier supported by fingerprint
+identification assigned to an individual by the Department of State Police through the Automated Fingerprint
+Identification System (AFIS). The SID is created upon the fingerprinting of a person by a Criminal Justice Agency.
+Offense-Based Tracking Number (OBTN): A unique identifier for a specific fingerprint/arrest/custody event that links
+the individual to fingerprints taken. An individual may have multiple OBTNs on file when they have multiple events.
+Important Data Note:
+The statute requires three specific data points that are not owned by the Sheriffs' Offices. These three include: case
+disposition, bail amount, and reason if no bail set, which originate with the Trial Court. As such, the Sheriffs are
+unable to populate these fields. The MSA, in consultation with the Trial Court and EOPSS, are working to refine these
+metrics so that they can be retrieved from the Cross-Tracking System and reported on electronically.
+Page 2 of 4
+
+ADMISSIONS AND RELEASES
+LENGTH OF JAIL
+SHERIFF'S BOOKING RELEASE EARNED TIME
+PCF SID OBTN RACE ETHNICITY SENTENCE CREDIT IN
+OFFICE DATE DATE IN DAYS
+IN DAYS DAYS
+Dukes 5642109 MA21275101 Other/Unknown Hispanic/Latino 4/3/24
+Dukes 2512051 MA09998029 White Hispanic/Latino 4/12/24
+Dukes 1868065 White Not Hispanic/Latino 4/12/24
+Dukes 2512051 MA09998029 White Hispanic/Latino 4/19/24
+Dukes 934977 MA09506146 White Not Hispanic/Latino 4/29/24 5 545 169
+Dukes 3178229 MA21282953 White Not Hispanic/Latino 4/29/24
+Dukes 823202 ma10185837 White Not Hispanic/Latino 4/29/24
+Dukes 2074112 MA10151398 White Not Hispanic/Latino 4/29/24 5 90 47
+Dukes 2566829 ma10266482 White Not Hispanic/Latino 5/8/24 17 910
+Dukes 5400595 MA21285192 White Not Hispanic/Latino 5/28/24
+Dukes 5620704 MA21257768 White Not Hispanic/Latino 5/30/24
+Dukes 5187691 MA10568499 White Not Hispanic/Latino 5/31/24
+Dukes 5453849 MA21132815 Black/African American Not Hispanic/Latino 5/31/24
+Dukes 460352 RI08907875 White Hispanic/Latino 6/3/24
+Dukes 3129115 MA10507737 Black/African American Not Hispanic/Latino 6/4/24
+Dukes 968834 MA09303982 White Not Hispanic/Latino 6/4/24
+Dukes 5251576 MA10631963 White Not Hispanic/Latino 6/6/24 365 192
+Dukes 1759208 MA09212455 White Not Hispanic/Latino 6/10/24
+Dukes 1585019 White Not Hispanic/Latino 6/13/24
+Dukes 3066013 ma10325418 White Not Hispanic/Latino 6/14/24
+Dukes 1570077 White Not Hispanic/Latino 6/24/24 30 5
+Dukes 2637818 MA10043782 White Hispanic/Latino 6/25/24
+Dukes 968834 MA09303982 White Not Hispanic/Latino 6/26/24
+Dukes Other/Unknown Not Hispanic/Latino 4/1/24
+Dukes 2512051 MA09998029 White Hispanic/Latino 4/2/24 30 25
+Dukes 5273834 MA21120242 White Not Hispanic/Latino 4/3/24
+Dukes 2499426 MA10513107 White Not Hispanic/Latino 4/5/24
+Dukes 5642109 MA21275101 Other/Unknown Hispanic/Latino 4/5/24
+Dukes 2512051 MA09998029 White Hispanic/Latino 4/17/24
+Dukes 1868065 White Not Hispanic/Latino 4/19/24
+Dukes 2512051 MA09998029 White Hispanic/Latino 4/25/24
+Dukes 823202 ma10185837 White Not Hispanic/Latino 5/2/24
+Dukes 3178229 MA21282953 White Not Hispanic/Latino 5/13/24
+Dukes 5251576 MA10631963 White Not Hispanic/Latino 5/17/24
+Dukes 5620704 MA21257768 White Not Hispanic/Latino 5/30/24
+Dukes 3129115 MA10507737 Black/African American Not Hispanic/Latino 6/4/24
+Dukes 460352 RI08907875 White Hispanic/Latino 6/4/24
+Dukes 5187691 MA10568499 White Not Hispanic/Latino 6/5/24
+Dukes 5453849 MA21132815 Black/African American Not Hispanic/Latino 6/5/24
+Dukes 1759208 MA09212455 White Not Hispanic/Latino 6/10/24
+Dukes 968834 MA09303982 White Not Hispanic/Latino 6/13/24
+Dukes 1585019 White Not Hispanic/Latino 6/13/24
+Dukes 3066013 ma10325418 White Not Hispanic/Latino 6/14/24
+Dukes 2734226 MA10443669 White Not Hispanic/Latino 6/24/24
+Dukes 2637818 MA10043782 White Hispanic/Latino 6/27/24
+Dukes 968834 MA09303982 White Not Hispanic/Latino 6/28/24
+Page 3 of 4
+
+PROGRAMMING
+SHERIFF'S PROGRAM PARTICIPANT
+PCF SID OBTN RACE ETHNICITY ADMIT TYPE PROGRAM NAME
+OFFICE REGISTERED DATE STATUS
+Dukes 5273834 MA21120242 White Not Hispanic/Latino Pre-Trial 4/2/24 Education Participated
+Dukes 5273834 MA21120242 White Not Hispanic/Latino Pre-Trial 4/3/24 Substance Use as a Chronic Condition Released
+Dukes 5183435 MA10563870 White Not Hispanic/Latino Sentenced 4/4/24 Alcoholics Anonymous Released
+Dukes 2734226 MA10443669 White Not Hispanic/Latino Pre-Trial 4/10/24 BHJI - Individual sessions Released
+Dukes 1868065 White Not Hispanic/Latino Pre-Trial 4/16/24 Education Participated
+Dukes 2512051 MA09998029 White Hispanic/Latino Pre-Trial 4/16/24 Education Released
+Dukes 2512051 MA09998029 White Hispanic/Latino Pre-Trial 4/21/24 Bible Study w/ John Meade Released
+Dukes 2512051 MA09998029 White Hispanic/Latino Pre-Trial 4/22/24 Alcoholics Anonymous Released
+Dukes 2512051 MA09998029 White Hispanic/Latino Pre-Trial 4/23/24 Education Participated
+Dukes 823202 ma10185837 White Not Hispanic/Latino Pre-Trial 4/30/24 Education Participated
+Dukes 2074112 MA10151398 White Not Hispanic/Latino Pre-Trial 4/30/24 Education Participated
+Dukes 5587867 MA21232597 Other/Unknown Hispanic/Latino Sentenced 5/2/24 Alcoholics Anonymous Released
+Dukes 5587867 MA21232597 Other/Unknown Hispanic/Latino Sentenced 5/5/24 Bible Study w/ John Meade Released
+Dukes 5251576 MA10631963 White Not Hispanic/Latino Pre-Trial 5/8/24 BHJI - Individual sessions Released
+Dukes 3178229 MA21282953 White Not Hispanic/Latino Pre-Trial 5/8/24 BHJI - Individual sessions Released
+Dukes 2566829 ma10266482 White Not Hispanic/Latino Sentenced 5/9/24 Education Participated
+Dukes 5587867 MA21232597 Other/Unknown Hispanic/Latino Sentenced 5/10/24 Substance Use as a Chronic Condition Released
+Dukes 3178229 MA21282953 White Not Hispanic/Latino Pre-Trial 5/10/24 Substance Use as a Chronic Condition Released
+Dukes 2566829 ma10266482 White Not Hispanic/Latino Sentenced 5/10/24 Substance Use as a Chronic Condition Participated
+Dukes 2566829 ma10266482 White Not Hispanic/Latino Sentenced 5/16/24 Alcoholics Anonymous Participated
+Dukes 5183435 MA10563870 White Not Hispanic/Latino Sentenced 5/22/24 Chess Released
+Dukes 2566829 ma10266482 White Not Hispanic/Latino Sentenced 5/22/24 Chess Participated
+Dukes 934977 MA09506146 White Not Hispanic/Latino Pre-Trial 5/30/24 Education Participated
+Dukes 934977 MA09506146 White Not Hispanic/Latino Pre-Trial 6/7/24 BHJI - Individual sessions Participated
+Dukes 2730188 MA10334836 White Not Hispanic/Latino Sentenced 6/7/24 BHJI - Individual sessions Participated
+Dukes 934977 MA09506146 White Not Hispanic/Latino Pre-Trial 6/20/24 Alcoholics Anonymous Participated
+Page 4 of 4
+
+[DELETED:  B R EEDEDEIFSDONREEYS C JSDs59M1OnHo4s21M9WeHo4s15WeNo4s21M9WeHo4s97M6WeNo445551s39M3WeNo4s82m7WeNo4s22M8WeNo445904s29m2WeNo54179s55M2WeNo5s54M8WeNo5s51M9WeNo5s59M5BnNo5s42R5WeHo6s35M7BnNo6s94M2WeNo6s56M3WeNo64351s18M5WeNo6s19WeNo6s33m8WeNo6s17WeNo6430s28M2WeHo6s94M2WeNo6sOnNo4s21M9WeHo44302s54M2WeNo4s26M7WeNo4s59M1OnHo4s21M9WeHo4s15WeNo4s21M9WeHo4s82m7WeNo5s39M3WeNo5s56M3WeNo5s54M8WeNo5s35M7BnNo6s42R5WeHo6s51M9WeNo6s59M5BnNo6s18M5WeNo6s94M2WeNo6s19WeNo6s33m8WeNo6s26M9WeNo6s28M2WeHo6s94M2WeNo6]
+[DELETED:  P PERESFSDONREEYAEPs54M2WeNoPl44EnPs54M2WeNoPl44SnRs55M0WeNoSd44AsRs26M9WeNoPl44BsRs15WeNoPl44EnPs21M9WeHoPl44EnRs21M9WeHoPl44BeRs21M9WeHoPl44AsRs21M9WeHoPl44EnPs82m7WeNoPl44EnPs22M8WeNoPl44EnPs57M7OnHoSd54AsRs57M7OnHoSd54BeRs56M3WeNoPl54BsRs39M3WeNoPl54BsRs29m2WeNoSd54EnPs57M7OnHoSd54SnRs39M3WeNoPl54SnRs29m2WeNoSd54SnPs29m2WeNoSd54AsPs55M0WeNoSd54CsRs29m2WeNoSd54CsPs97M6WeNoPl54EnPs97M6WeNoPl64BsPs28M6WeNoSd64BsPs97M6WeNoPl64AsP]

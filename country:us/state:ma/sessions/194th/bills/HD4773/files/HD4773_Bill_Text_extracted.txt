@@ -1,0 +1,1996 @@
+Title: Overview of Quarterly Population Report for the Individual Massachusetts Sheriffs' Offices
+Official Title: Overview of Quarterly Population Report for the Individual Massachusetts Sheriffs' Offices
+Number of Sections: 2
+Source: versions - Bill Text
+Media Type: application/pdf
+Strikethrough Detection: 14 sections found
+
+================================================================================
+
+Section 1:
+Massachusetts Sheriffs’ Association
+Chapter 126, Section 40
+Quarterly Population Report
+Q4 2024
+Barnstable County
+Sheriff's Office
+Page 1 of 16
+In compliance with the Massachusetts General Laws, Part I, Title XVIII, Chapter 126, Section 40:
+Recording and reporting of data on population of jails and houses of correction
+
+Section 2:
+Section 40. The sheriff shall record, without limitation, the following data for each person committed to
+a jail or house of correction: (i) probation central file number; (ii) fingerprint-based state identification
+number, if available; (iii) race and ethnicity; (iv) offense-based tracking number; (v) type of release; (vi)
+type of admission; (vii) length of sentence; (viii) jail credit from pretrial incarceration; (ix) earned time;
+(x) program participation and outcome during incarceration; (xi) case disposition; and (xii) bail amount
+or reason if no bail set.
+Aggregate data on the population of each jail and house of correction shall be assembled into a
+quarterly report with the reported data covering the entire quarterly period. The reports prepared by the
+sheriff shall contain no identifying information relating to an individual inmate or detainee.
+Each quarter the sheriff shall deliver the report from each jail and house of correction to the secretary
+of public safety and security, the house and senate chairs of the joint committee on the judiciary, the
+house and senate chairs of the joint committee on public safety and homeland security and the clerks
+of the house of representatives and the senate.
+This report was produced in partnership with the Executive Office of Public Safety & Security by
+utilizing data from the Commonwealth of Massachusetts Criminal Justice Cross-Tracking System.
+Data Definitions & Disclaimer:
+Probation Central File (PCF) Number: A number assigned for identification purposes to an individual by the
+Massachusetts Probation Service. The PCF is not supported by fingerprint-based identification.
+State Identification Number (SID): A unique ten-character alphanumerical identifier supported by fingerprint
+identification assigned to an individual by the Department of State Police through the Automated Fingerprint
+Identification System (AFIS). The SID is created upon the fingerprinting of a person by a Criminal Justice Agency.
+Offense-Based Tracking Number (OBTN): A unique identifier for a specific fingerprint/arrest/custody event that links
+the individual to fingerprints taken. An individual may have multiple OBTNs on file when they have multiple events.
+Disclaimer: The SID, PCF, and OBTN are generated during an individual’s first interaction with the criminal justice
+system. There is often a lag time before the FBI can produce these numbers and they are not immediately available
+during intake. Officers manually add this information once it is received, but some SIDs, PCFs, and OBTNs may not be
+included in this report due to when the data was extracted.
+Important Data Note:
+The statute requires three specific data points that are not owned by the Sheriffs' Offices. These three include: case
+disposition, bail amount, and reason if no bail set, which originate with the Trial Court. As such, the Sheriffs are
+unable to populate these fields. The MSA, in consultation with the Trial Court and EOPSS, are working to refine these
+metrics so that they can be retrieved from the Cross-Tracking System and reported on electronically.
+Page 2 of 16
+ADMISSIONS AND RELEASES
+LENGTH OF
+SHERIFF'S BOOKING RELEASE EARNED TIME JAIL CREDIT
+PCF SID OBTN RACE ETHNICITY SENTENCE IN
+OFFICE DATE DATE IN DAYS IN DAYS
+DAYS
+Barnstable 2296030 MA10108137 JBS21J2408218 White Hispanic/Latino 10/1/24 22.5 365 223
+Barnstable 1094129 MA09412449 JBS21J2408336 Black/African American Not Hispanic/Latino 10/1/24
+Barnstable 5045073 MA10399774 JBS21J2408339 White Not Hispanic/Latino 10/1/24
+Barnstable 5146610 MA21294781 JBS22J2408340 White Not Hispanic/Latino 10/1/24
+Barnstable 5575898 MA21224233 JBS21J2408035 Black/African American Not Hispanic/Latino 10/2/24 26.5 365 70
+Barnstable 2442394 MA09835082 White Hispanic/Latino 10/2/24
+Barnstable 3191043 MA21101031 JBS21J2408345 White Hispanic/Latino 10/2/24
+Barnstable 5099903 MA10468765 JBS21J2408274 White Not Hispanic/Latino 10/2/24 7.5 60 16
+Barnstable 2635107 MA10071417 JBS21J2408346 White Not Hispanic/Latino 10/2/24
+Barnstable 5248846 MA10656885 JBS21J2408343 White Not Hispanic/Latino 10/2/24
+Barnstable 5248239 MA10660398 JBS21J2408258 White Not Hispanic/Latino 10/2/24 17.5 180 23
+Barnstable 2843444 MA10164519 HBS22H2408342 White Not Hispanic/Latino 10/2/24 25 120
+Barnstable 5103412 MA10098188 JBS22J2408350 White Not Hispanic/Latino 10/3/24
+Barnstable 5086719 MA10567841 JBS21J2408349 Black/African American Not Hispanic/Latino 10/3/24
+Barnstable 5666304 MA21294935 JBS21J2408351 White Hispanic/Latino 10/3/24
+Barnstable 2649544 MA10027522 JBS21J2408219 White Not Hispanic/Latino 10/3/24 10.5 90 30
+Barnstable 5666405 MA21295085 JBS21J2408355 Asian/Pacific Islander Not Hispanic/Latino 10/4/24
+Barnstable 5660182 MA21291901 JBS21J2408357 White Not Hispanic/Latino 10/4/24
+Barnstable 5011536 MA10507590 JBS21J2408092 White Not Hispanic/Latino 10/4/24 16 120 56
+Barnstable MA21295082 JBS21J2408358 White Not Hispanic/Latino 10/4/24
+Barnstable 2572099 MA10028137 JBS21J2408356 White Not Hispanic/Latino 10/4/24
+Barnstable 2191874 MA09723515 JBS21J2408353 Black/African American Hispanic/Latino 10/4/24
+Barnstable 2978632 MA10582464 White Not Hispanic/Latino 10/4/24
+Barnstable 2670041 MA10042919 JBS21J2408369 White Not Hispanic/Latino 10/7/24
+Barnstable 5464883 MA21258825 JBS22J2408359 White Not Hispanic/Latino 10/7/24
+Barnstable 5120661 MA10492833 JBS21J2407851 White Not Hispanic/Latino 10/7/24 8.5 180 119
+Barnstable 5666490 MA21295247 JBS21J2408366 White Not Hispanic/Latino 10/7/24
+Barnstable 3003152 MA10363573 JBS23J2408364 White Not Hispanic/Latino 10/7/24
+Barnstable 1759208 MA09212455 JBS21J2408362 White Not Hispanic/Latino 10/7/24
+Barnstable 1998765 MA10310918 JBS21J2408368 White Not Hispanic/Latino 10/7/24
+Barnstable 2225962 MA10584792 JBS21J2408367 White Not Hispanic/Latino 10/7/24
+Barnstable 3104852 MA21206660 JBS21J2408365 White Not Hispanic/Latino 10/7/24
+Barnstable 3115519 MA21000072 JBS21J2408256 White Not Hispanic/Latino 10/8/24 5.5 90 28
+Barnstable 837111 MA09737325 JBS21J2408363 White Not Hispanic/Latino 10/8/24
+Barnstable 3129446 MA21020153 JBS21J2408372 Asian/Pacific Islander Not Hispanic/Latino 10/8/24
+Barnstable 2401282 MA10009146 JBS21J2408371 White Not Hispanic/Latino 10/8/24
+Barnstable 5357595 MA21154301 HBS21H2408373 Black/African American Not Hispanic/Latino 10/9/24 4.5 375 105
+Barnstable 3050770 MA10314289 JBS21J2407626 White Not Hispanic/Latino 10/9/24 22.5 374 187
+Barnstable 2795553 MA10552447 JBS21J2408377 White Hispanic/Latino 10/10/24
+Barnstable 2175615 MA09620235 JBS21J2408378 Black/African American Not Hispanic/Latino 10/10/24
+Barnstable 2626086 MA10016773 JBS21J2408374 White Hispanic/Latino 10/10/24
+Barnstable 5397466 MA21090112 JBS21J2408376 White Not Hispanic/Latino 10/10/24
+Barnstable 5533719 MA21211929 JBS21J2408379 Black/African American Not Hispanic/Latino 10/11/24
+Barnstable 5651007 MA21295584 JBS21J2408381 White Not Hispanic/Latino 10/11/24
+Barnstable 5572855 MA21221855 JBS21J2408383 White Not Hispanic/Latino 10/11/24
+Barnstable 5634419 MA21268598 HBS22H2408382 White Not Hispanic/Latino 10/11/24 4.5 180 6
+Barnstable 5466181 MA21141341 JBS21J2408265 White Not Hispanic/Latino 10/11/24 15 90 29
+Barnstable 3194833 MA21220820 JBS21J2408384 White Hispanic/Latino 10/11/24
+Barnstable 2903618 MA10550570 JBS21J2408375 White Not Hispanic/Latino 10/11/24
+Barnstable 2910889 MA10541945 JBS22J2408380 Other/Unknown Not Hispanic/Latino 10/11/24
+Barnstable 3151080 MA21026553 JBS21J2408279 American Indian/Alaska Native Not Hispanic/Latino 10/15/24 13 450 120
+Barnstable 5235110 MA10621566 JBS21J2408389 White Not Hispanic/Latino 10/15/24
+Barnstable 1764927 MA09130692 JBS22J2408222 Black/African American Not Hispanic/Latino 10/15/24 8.5 103 41
+Barnstable 2980480 MA21189068 JBS21J2408390 White Not Hispanic/Latino 10/15/24
+Barnstable 2789685 MA21279769 JBS21J2408385 White Not Hispanic/Latino 10/15/24
+Barnstable 1774078 MA09410454 JBS21J2408386 Black/African American Not Hispanic/Latino 10/15/24
+Barnstable 2370647 MA10001906 JBS21J2408401 White Not Hispanic/Latino 10/16/24
+Barnstable 3213337 MA21034785 JBS21J2408399 White Not Hispanic/Latino 10/16/24
+Barnstable 2349989 MA09751198 JBS21J2408397 White Not Hispanic/Latino 10/16/24
+Barnstable 2224113 MA09508709 HBS21H2408402 White Not Hispanic/Latino 10/16/24 4.5 180
+Barnstable 5453901 MA21133645 JBS21J2408396 Black/African American Not Hispanic/Latino 10/16/24
+Barnstable 5667501 MA21295847 JBS22J2408398 Black/African American Not Hispanic/Latino 10/16/24
+Barnstable 602913 MA00852218 JBS22J2408393 White Not Hispanic/Latino 10/16/24
+Barnstable 5583485 MA21229495 JBS21J2408403 White Not Hispanic/Latino 10/16/24
+Barnstable 3085752 MA10392785 JBS21J2408395 White Not Hispanic/Latino 10/16/24 75 36
+Barnstable 780265 MA00782359 JBS21J2408406 White Not Hispanic/Latino 10/17/24
+Page 3 of 16
+ADMISSIONS AND RELEASES
+LENGTH OF
+SHERIFF'S BOOKING RELEASE EARNED TIME JAIL CREDIT
+PCF SID OBTN RACE ETHNICITY SENTENCE IN
+OFFICE DATE DATE IN DAYS IN DAYS
+DAYS
+Barnstable 5221370 MA21295931 JBS21J2408408 Black/African American Not Hispanic/Latino 10/17/24
+Barnstable 3010148 MA10512018 JBS21J2408407 White Not Hispanic/Latino 10/17/24
+Barnstable 5212652 MA10652501 JBS21J2408411 White Not Hispanic/Latino 10/17/24
+Barnstable 5667509 MA21295878 JBS21J2408400 White Not Hispanic/Latino 10/17/24
+Barnstable 5489508 MA21158255 JBS21J2408410 White Not Hispanic/Latino 10/17/24
+Barnstable 3183453 MA10577107 JBS21J2408409 White Not Hispanic/Latino 10/17/24
+Barnstable 5280979 MA21002290 JBS21J2408418 White Not Hispanic/Latino 10/18/24
+Barnstable 5604307 MA21252343 JBS22J2408415 White Hispanic/Latino 10/18/24
+Barnstable 1967606 MA10656683 JBS22J2408414 White Not Hispanic/Latino 10/18/24
+Barnstable 5667753 MA21296022 JBS21J2408419 White Hispanic/Latino 10/18/24
+Barnstable 3166099 MA21057936 JBS21J2408412 American Indian/Alaska Native Not Hispanic/Latino 10/18/24 3 180 74
+Barnstable 5667750 MA21295946 JBS21J2408420 White Hispanic/Latino 10/18/24
+Barnstable 2747063 MA10070776 JBS21J2408417 White Not Hispanic/Latino 10/18/24
+Barnstable 5667661 MA21295963 JBS21J2408416 White Not Hispanic/Latino 10/18/24
+Barnstable 5578708 MA21226081 JBS21J2408413 White Not Hispanic/Latino 10/18/24
+Barnstable 5667972 JBS21J2408425 Asian/Pacific Islander Not Hispanic/Latino 10/21/24
+Barnstable 5653131 MA21284870 JBS21J2408423 White Not Hispanic/Latino 10/21/24
+Barnstable 5482368 MA21265372 JBS21J2408427 White Not Hispanic/Latino 10/21/24
+Barnstable 5434055 MA21138563 JBS21J2408046 White Not Hispanic/Latino 10/22/24 16.5 180 120
+Barnstable 2536833 MA10448000 JBS21J2408429 White Not Hispanic/Latino 10/22/24
+Barnstable 612048 MA00748674 JBS21J2408428 White Not Hispanic/Latino 10/22/24 180
+Barnstable 3200207 MA10639419 White Not Hispanic/Latino 10/23/24
+Barnstable 5615181 MA21253595 JBS21J2408432 White Not Hispanic/Latino 10/23/24
+Barnstable 5368985 MA21070821 JBS21J2407876 White Not Hispanic/Latino 10/23/24 6.5 180 132
+Barnstable 5298553 MA21069781 JBS21J2408128 Black/African American Not Hispanic/Latino 10/23/24 12.5 730 30
+Barnstable 966456 MA08902293 JBS21J2408431 White Not Hispanic/Latino 10/23/24
+Barnstable MA21296394 JBS21J2408438 White Not Hispanic/Latino 10/24/24
+Barnstable 2988971 MA10364292 JBS21J2408437 White Not Hispanic/Latino 10/24/24
+Barnstable 5662566 MA21291847 JBS21J2408440 White Not Hispanic/Latino 10/24/24
+Barnstable 5577472 MA21296439 JBS21J2408441 White Not Hispanic/Latino 10/24/24
+Barnstable 2874464 MA10194762 JBS21J2408435 White Not Hispanic/Latino 10/24/24
+Barnstable 3018864 MA10291212 JBS22J2408439 Black/African American Not Hispanic/Latino 10/24/24
+Barnstable 5343744 MA21171850 JBS21J2408436 Black/African American Not Hispanic/Latino 10/24/24 910 40
+Barnstable MA09922503 JBS21J2408444 White Not Hispanic/Latino 10/25/24
+Barnstable 2439979 MA10430683 JBS21J2408443 White Not Hispanic/Latino 10/25/24
+Barnstable 2157776 MA09438216 JBS21J2408442 White Not Hispanic/Latino 10/25/24
+Barnstable 5324996 MA21282637 JBS21J2408445 White Hispanic/Latino 10/28/24
+Barnstable 2331926 MA10627762 White Not Hispanic/Latino 10/28/24
+Barnstable 2248212 MA09922503 White Not Hispanic/Latino 10/28/24
+Barnstable 3177606 MA21064805 JBS21J2408455 White Not Hispanic/Latino 10/29/24
+Barnstable 470384 MA00810504 HBS21H2408450 Black/African American Not Hispanic/Latino 10/29/24 1155 7
+Barnstable 2974721 MA10471008 JBS21J2408453 White Not Hispanic/Latino 10/29/24
+Barnstable 5453901 MA21133645 JBS21J2408452 Black/African American Not Hispanic/Latino 10/29/24
+Barnstable 3009214 MA10244855 JBS21J2408451 10/29/24
+Barnstable 5648799 MA21281601 JBS21J2408454 White Not Hispanic/Latino 10/29/24
+Barnstable 1773027 MA10370624 JBS21J2408459 White Not Hispanic/Latino 10/30/24
+Barnstable 5321886 MA21037635 JBS21J2408457 White Not Hispanic/Latino 10/30/24
+Barnstable 3090828 MA10462391 HBS21H2408458 Black/African American Not Hispanic/Latino 10/30/24 13.5 910 2
+Barnstable 2857643 MA21037082 JBS21J2408460 White Not Hispanic/Latino 10/30/24
+Barnstable 619619 MA10212160 HBS21H2408456 White Not Hispanic/Latino 10/30/24 15 365 148
+Barnstable 1789081 MA10083083 HBS21H2408461 White Not Hispanic/Latino 10/30/24 30
+Barnstable 2246234 MA10204890 HBS21H2408469 White Not Hispanic/Latino 10/31/24 100 91
+Barnstable 5229746 MA10615642 HBS21H2408468 Other/Unknown Not Hispanic/Latino 10/31/24 2 90
+Barnstable 3186469 MA21017211 JBS21J2408467 White Not Hispanic/Latino 10/31/24
+Barnstable 2914264 MA10258521 JBS21J2408471 Black/African American Not Hispanic/Latino 10/31/24
+Barnstable 625068 MA00928573 JBS21J2408466 White Not Hispanic/Latino 10/31/24
+Barnstable 1978688 MA09301054 HBS21H2408463 Black/African American Not Hispanic/Latino 10/31/24 254.5 2048 59
+Barnstable 3099112 MA10417387 JBS21J2408470 White Not Hispanic/Latino 10/31/24
+Barnstable 3015619 MA10363040 JBS21J2408464 White Not Hispanic/Latino 10/31/24 8 120 26
+Barnstable 2474765 MA10013434 JBS22J2408477 White Not Hispanic/Latino 11/1/24
+Barnstable 2474765 MA21213847 JBS21J2408474 Black/African American Not Hispanic/Latino 11/1/24
+Barnstable 2442430 MA09994809 JBS21J2407796 White Not Hispanic/Latino 11/1/24 17 1066 128
+Barnstable 3024836 MA21062524 JBS21J2408475 White Hispanic/Latino 11/1/24
+Barnstable 2956064 MA10583363 JBS21J2408479 White Not Hispanic/Latino 11/1/24
+Barnstable 5324672 MA21040180 JBS21J2408476 White Not Hispanic/Latino 11/1/24
+Barnstable 5529814 AR4016491 White Not Hispanic/Latino 11/1/24
+Page 4 of 16
+ADMISSIONS AND RELEASES
+LENGTH OF
+SHERIFF'S BOOKING RELEASE EARNED TIME JAIL CREDIT
+PCF SID OBTN RACE ETHNICITY SENTENCE IN
+OFFICE DATE DATE IN DAYS IN DAYS
+DAYS
+Barnstable 5654993 MA21287463 JBS21J2408478 Black/African American Not Hispanic/Latino 11/1/24
+Barnstable 5668684 MA21296561 JBS22J2408473 American Indian/Alaska Native Not Hispanic/Latino 11/1/24
+Barnstable 5366230 MA21069124 JBS21J2408472 White Not Hispanic/Latino 11/1/24
+Barnstable 1831397 MA00907669 JBS21J2408488 White Not Hispanic/Latino 11/4/24
+Barnstable 3193702 MA21043506 JBS21J2408491 White Not Hispanic/Latino 11/4/24
+Barnstable 5424893 MA21297087 JBS21J2408496 White Not Hispanic/Latino 11/4/24 1.5 180 47
+Barnstable MA20021768 JBS21J2408490 White Not Hispanic/Latino 11/4/24
+Barnstable 551156 MA09911321 JBS21J2408489 White Not Hispanic/Latino 11/4/24
+Barnstable 2096992 MA09509679 JBS21J2408483 White Not Hispanic/Latino 11/4/24
+Barnstable 5669362 MA21297183 JBS22J2408492 Asian/Pacific Islander Not Hispanic/Latino 11/4/24
+Barnstable 3086218 MA10448633 JBS21J2408495 Black/African American Not Hispanic/Latino 11/4/24
+Barnstable 5618468 MA21297388 JBS21J2408501 White Not Hispanic/Latino 11/5/24
+Barnstable 5523849 MA21285498 HBS21H2408498 White Not Hispanic/Latino 11/5/24 8.5 180 30
+Barnstable 3137965 MA10514346 JBS21J2408499 White Not Hispanic/Latino 11/5/24
+Barnstable 2830773 MA10659325 JBS21J2408500 White Not Hispanic/Latino 11/5/24
+Barnstable 2806935 MA10126585 JBS21J2408502 White Hispanic/Latino 11/5/24
+Barnstable 2119299 MA09406414 JBS21J2408497 White Not Hispanic/Latino 11/5/24 8 1147 519
+Barnstable 2353605 MA10141191 JBS21J2408508 White Not Hispanic/Latino 11/6/24
+Barnstable 5099903 MA10468765 JBS21J2408505 White Not Hispanic/Latino 11/6/24
+Barnstable 644781 MA10370208 JBS21J2408507 White Not Hispanic/Latino 11/6/24
+Barnstable 5622353 MA21286056 JBS21J2408506 White Not Hispanic/Latino 11/6/24
+Barnstable 2325900 MA10030256 JBS21J2408503 Black/African American Not Hispanic/Latino 11/6/24
+Barnstable 2974721 MA10471008 White Not Hispanic/Latino 11/6/24
+Barnstable 1769903 MA09218193 JBS21J2408510 American Indian/Alaska Native Not Hispanic/Latino 11/6/24
+Barnstable 5352839 MA21150285 JBS21J2408515 Black/African American Not Hispanic/Latino 11/7/24
+Barnstable 2798404 MA10190885 JBS22J2408517 White Not Hispanic/Latino 11/7/24
+Barnstable 3177594 MA21020343 JBS21J2408187 White Not Hispanic/Latino 11/7/24 150 134
+Barnstable 2631416 MA21297486 JBS21J2408514 Other/Unknown Not Hispanic/Latino 11/7/24
+Barnstable 5346590 MA21055589 JBS21J2408518 White Hispanic/Latino 11/7/24
+Barnstable 3085752 MA10392785 JBS21J2408395 White Not Hispanic/Latino 11/7/24 75 36
+Barnstable 2114101 MA10078560 HBS21H2408521 White Not Hispanic/Latino 11/8/24 20 405 138
+Barnstable 2927278 MA10521930 JBS21J2408520 Black/African American Not Hispanic/Latino 11/8/24
+Barnstable 2107339 MA10032937 JBS21J2408524 White Not Hispanic/Latino 11/12/24
+Barnstable 3010148 MA10512018 JBS21J2408523 White Not Hispanic/Latino 11/12/24
+Barnstable 439126 MA00826643 JBS21J2408528 White Not Hispanic/Latino 11/12/24
+Barnstable 5651851 MA21297860 JBS21J2408527 White Hispanic/Latino 11/12/24
+Barnstable 3084171 MA10379452 JBS21J2408530 Unavailable Not Hispanic/Latino 11/12/24
+Barnstable 535213 MA10303887 JBS21J2408529 White Not Hispanic/Latino 11/12/24
+Barnstable 3084691 MA10551452 JBS21J2408536 White Not Hispanic/Latino 11/13/24
+Barnstable 3044157 MA10619927 JBS21J2408531 White Not Hispanic/Latino 11/13/24
+Barnstable 1080421 MA09014664 JBS21J2408532 White Not Hispanic/Latino 11/13/24
+Barnstable 1629953 MA10280350 HBS21H2408533 White Not Hispanic/Latino 11/13/24 6.5 365 62
+Barnstable 2119299 MA09406414 JBS21J2408497 White Not Hispanic/Latino 11/14/24 8 1147 519
+Barnstable 2709593 MA21069237 JBS21J2408540 White Not Hispanic/Latino 11/14/24
+Barnstable 5670365 White Not Hispanic/Latino 11/14/24
+Barnstable 2998015 MA10366523 JBS21J2408539 White Not Hispanic/Latino 11/14/24
+Barnstable 1592304 MA09613912 JBS21J2408538 White Not Hispanic/Latino 11/14/24
+Barnstable 1831397 MA00907669 JBS21J2408535 White Not Hispanic/Latino 11/14/24
+Barnstable 2238853 MA10387162 JBS22J2408493 White Not Hispanic/Latino 11/14/24 2.5 100 36
+Barnstable 3151853 MA21043306 JBS21J2408543 White Hispanic/Latino 11/15/24
+Barnstable 3019635 MA10401918 JBS21J2408545 White Not Hispanic/Latino 11/15/24
+Barnstable 2712521 MA10090683 JBS21J2408542 White Not Hispanic/Latino 11/15/24
+Barnstable 5651854 MA21290390 JBS21J2408063 Black/African American Not Hispanic/Latino 11/15/24 11.5 365 121
+Barnstable 5640502 MA21287164 White Not Hispanic/Latino 11/15/24
+Barnstable 3190369 MA21070485 JBS21J2408551 White Not Hispanic/Latino 11/18/24
+Barnstable 5556435 MA21224388 JBS21J2408323 White Not Hispanic/Latino 11/18/24 4.5 270 212
+Barnstable 5080230 MA21075519 JBS21J2408548 White Not Hispanic/Latino 11/18/24
+Barnstable 5667753 MA21296022 JBS21J2408549 White Hispanic/Latino 11/18/24
+Barnstable 2816724 MA10130409 JBS21J2408552 White Not Hispanic/Latino 11/18/24
+Barnstable 5484407 MA21268805 JBS21J2408557 White Not Hispanic/Latino 11/19/24
+Barnstable 2997662 MA21049588 JBS21J2408560 White Not Hispanic/Latino 11/19/24
+Barnstable 5488025 MA21293157 JBS21J2408556 White Not Hispanic/Latino 11/19/24
+Barnstable 5638053 MA21271282 JBS21J2408555 Black/African American Not Hispanic/Latino 11/19/24
+Barnstable 2821483 MA21128137 JBS21J2408216 White Not Hispanic/Latino 11/20/24 10.5 90 48
+Barnstable 2375152 MA10452041 JBS21J2408494 White Not Hispanic/Latino 11/20/24 6 730 278
+Barnstable 855223 MA00951117 JBS21J2408553 White Not Hispanic/Latino 11/20/24
+Page 5 of 16
+ADMISSIONS AND RELEASES
+LENGTH OF
+SHERIFF'S BOOKING RELEASE EARNED TIME JAIL CREDIT
+PCF SID OBTN RACE ETHNICITY SENTENCE IN
+OFFICE DATE DATE IN DAYS IN DAYS
+DAYS
+Barnstable 2012726 MA09613359 JBS21J2408564 White Not Hispanic/Latino 11/20/24
+Barnstable 2166810 MA10360040 JBS21J2408561 White Not Hispanic/Latino 11/20/24
+Barnstable 5670538 MA21298467 JBS21J2408563 White Hispanic/Latino 11/20/24
+Barnstable 3131356 MA10454015 JBS21J2408569 White Not Hispanic/Latino 11/21/24
+Barnstable 5537014 MA21196688 JBS21J2408566 White Not Hispanic/Latino 11/21/24
+Barnstable 5671119 MA21298504 JBS21J2408568 Other/Unknown Hispanic/Latino 11/21/24
+Barnstable 2418022 MA10560581 JBS21J2408570 White Not Hispanic/Latino 11/21/24
+Barnstable 2565347 MA09919817 White Not Hispanic/Latino 11/21/24
+Barnstable 5617484 MA21262965 JBS21J2408573 Black/African American Not Hispanic/Latino 11/22/24
+Barnstable 1058270 MA09994954 White Not Hispanic/Latino 11/22/24
+Barnstable 1009183 MA09423767 JBS21J2408574 White Not Hispanic/Latino 11/22/24
+Barnstable 2198737 MA10607407 JBS21J2408575 White Not Hispanic/Latino 11/22/24
+Barnstable 3177594 MA21020343 JBS21J2408572 White Not Hispanic/Latino 11/22/24 1.5 180 113
+Barnstable 5420605 MA21105804 JBS21J2408582 White Not Hispanic/Latino 11/25/24
+Barnstable 631824 MA00717109 JBS21J2408580 White Not Hispanic/Latino 11/25/24
+Barnstable 2811538 MA10303910 JBS21J2408577 White Not Hispanic/Latino 11/25/24
+Barnstable 5259230 MA21006781 JBS21J2408537 White Not Hispanic/Latino 11/25/24 5 90 26
+Barnstable 3145843 MA21235817 JBS21J2408584 White Not Hispanic/Latino 11/26/24
+Barnstable 3155814 MA10504296 JBS21J2408583 Black/African American Not Hispanic/Latino 11/26/24
+Barnstable 5392539 MA21086547 JBS21J2408586 Other/Unknown Not Hispanic/Latino 11/26/24
+Barnstable 3015619 MA10363040 JBS21J2408464 White Not Hispanic/Latino 11/26/24 8 120 26
+Barnstable 5149521 MA10625260 JBS21J2408587 Black/African American Not Hispanic/Latino 11/27/24
+Barnstable 3117866 MA10434617 JBS21J2408589 White Not Hispanic/Latino 11/27/24
+Barnstable 5572855 MA21221855 JBS21J2408593 Black/African American Not Hispanic/Latino 11/27/24
+Barnstable 2555323 MA10031143 JBS21J2408597 White Not Hispanic/Latino 11/29/24
+Barnstable 2678655 MA10081258 JBS21J2408595 White Not Hispanic/Latino 11/29/24
+Barnstable 2903618 MA10550570 White Not Hispanic/Latino 11/29/24
+Barnstable 2621427 MA10033572 JBS21J2408596 White Not Hispanic/Latino 11/29/24
+Barnstable 3211046 MA21299138 JBS21J2408605 Black/African American Not Hispanic/Latino 12/2/24
+Barnstable 5523383 MA21230896 JBS21J2408607 White Not Hispanic/Latino 12/2/24
+Barnstable 2905414 MA10207094 JBS21J2408606 White Not Hispanic/Latino 12/2/24
+Barnstable 2657943 MA10131427 JBS21J2408609 White Not Hispanic/Latino 12/2/24
+Barnstable 2960119 MA10429710 JBS21J2408604 White Not Hispanic/Latino 12/2/24
+Barnstable 2330289 MA10541976 JBS21J2408608 White Not Hispanic/Latino 12/2/24
+Barnstable 5434055 MA21138563 JBS21J2408611 White Not Hispanic/Latino 12/3/24
+Barnstable 3071735 MA10600730 JBS21J2408614 White Not Hispanic/Latino 12/3/24
+Barnstable 5375735 MA21195607 White Not Hispanic/Latino 12/3/24
+Barnstable 5051856 MA10469535 JBS21J2408612 White Not Hispanic/Latino 12/3/24
+Barnstable 5415937 MA21101680 JBS21J2408616 Black/African American Not Hispanic/Latino 12/4/24
+Barnstable 2582770 MA10124217 JBS21J2408519 White Not Hispanic/Latino 12/4/24 59 53
+Barnstable 5343744 MA21171850 JBS21J2408436 Black/African American Not Hispanic/Latino 12/4/24 910 40
+Barnstable 2826684 MA10204231 JBS21J2408615 White Not Hispanic/Latino 12/4/24
+Barnstable 5148178 MA21091022 JBS21J2408509 White Not Hispanic/Latino 12/5/24 4.5 270 50
+Barnstable 5317889 MA21034410 HBS22H2408618 White Not Hispanic/Latino 12/5/24 2 910 115
+Barnstable 5533878 MA21194152 JBS21J2408620 White Not Hispanic/Latino 12/6/24
+Barnstable 5282509 MA21060692 Black/African American Not Hispanic/Latino 12/6/24
+Barnstable 2271548 MA09622826 JBS21J2408624 White Not Hispanic/Latino 12/6/24
+Barnstable 3119787 MA10437098 JBS22J2408627 Black/African American Not Hispanic/Latino 12/6/24
+Barnstable 2565347 MA09919817 White Not Hispanic/Latino 12/6/24
+Barnstable 1933797 AZ16480169 White Not Hispanic/Latino 12/9/24
+Barnstable 5255918 MA10640389 JBS21J2408634 White Not Hispanic/Latino 12/9/24
+Barnstable 3098277 MA10390921 JBS21J2408629 White Not Hispanic/Latino 12/9/24
+Barnstable 3189772 MA10635935 JBS21J2408640 Black/African American Not Hispanic/Latino 12/9/24
+Barnstable 2760354 MA10280692 JBS21J2306769 Black/African American Not Hispanic/Latino 12/9/24 1090 526
+Barnstable 5599512 MA21290232 JBS21J2408639 White Not Hispanic/Latino 12/9/24
+Barnstable 5470755 MA21144859 JBS21J2408632 Black/African American Not Hispanic/Latino 12/9/24
+Barnstable 5100242 MA21299847 JBS21J2408631 White Not Hispanic/Latino 12/9/24
+Barnstable 562635 MA09015490 JBS21J2408630 Black/African American Not Hispanic/Latino 12/9/24
+Barnstable 3166099 MA21057936 JBS21J2408412 American Indian/Alaska Native Not Hispanic/Latino 12/10/24 3 180 74
+Barnstable 2686633 MA10301067 JBS21J2408637 White Not Hispanic/Latino 12/10/24
+Barnstable 294645 MA10337805 JBS21J2408516 White Not Hispanic/Latino 12/10/24 3 365 143
+Barnstable 5,590,299 MA21234336 HBS22H2408646 Black/African American Not Hispanic/Latino 12/10/24 0.5 540 165
+Barnstable 2253925 MA09808952 HBS21H2408642 White Not Hispanic/Latino 12/10/24 2.5 150 4
+Barnstable 5655001 MA21299876 JBS21J2408644 White Not Hispanic/Latino 12/10/24
+Barnstable 1018495 MA10416589 JBS21J2408643 White Not Hispanic/Latino 12/10/24
+Barnstable 5282509 MA21060692 JBS22J2408623 Black/African American Not Hispanic/Latino 12/10/24
+Page 6 of 16
+ADMISSIONS AND RELEASES
+LENGTH OF
+SHERIFF'S BOOKING RELEASE EARNED TIME JAIL CREDIT
+PCF SID OBTN RACE ETHNICITY SENTENCE IN
+OFFICE DATE DATE IN DAYS IN DAYS
+DAYS
+Barnstable 5655001 MA10137842 JBS21J2408645 White Not Hispanic/Latino 12/10/24
+Barnstable 5650164 MA21286410 JBS21J2408649 White Hispanic/Latino 12/11/24 360 49
+Barnstable 2598322 MA10367511 JBS21J2408648 White Not Hispanic/Latino 12/11/24
+Barnstable 2857002 MA10266996 Asian/Pacific Islander Not Hispanic/Latino 12/11/24
+Barnstable 2626866 MA21031071 JBS21J2408651 White Not Hispanic/Latino 12/11/24
+Barnstable 5635886 MA21270008 JBS21J2408655 White Not Hispanic/Latino 12/12/24
+Barnstable 630946 MA09419841 JBS21J2408652 White Not Hispanic/Latino 12/12/24
+Barnstable 5358271 MA21064132 JBS21J2408657 White Not Hispanic/Latino 12/12/24
+Barnstable 5351092 MA21064553 JBS21J2408653 White Not Hispanic/Latino 12/12/24
+Barnstable 2966618 MA10288100 JBS21J2408289 Black/African American Not Hispanic/Latino 12/12/24 180 163
+Barnstable 3091558 MA21198250 JBS22J2408654 White Not Hispanic/Latino 12/12/24
+Barnstable 2297494 White Not Hispanic/Latino 12/12/24
+Barnstable 5645467 MA21293604 JBS21J2408662 White Not Hispanic/Latino 12/13/24 180 94
+Barnstable 5380097 MA21300005 JBS21J2408666 White Not Hispanic/Latino 12/13/24
+Barnstable 2156942 MA10195608 JBS21J2408661 White Not Hispanic/Latino 12/13/24
+Barnstable MA21300065 JBS21J2408658 White Not Hispanic/Latino 12/13/24
+Barnstable 1013993 MA00951197 JBS21J2408660 White Not Hispanic/Latino 12/13/24
+Barnstable 2062653 MA09830745 JBS21J2408667 White Not Hispanic/Latino 12/13/24
+Barnstable 2761646 MA10146110 JBS21J2408659 White Not Hispanic/Latino 12/13/24
+Barnstable 2484589 MA09922231 JBS21J2408668 White Not Hispanic/Latino 12/13/24
+Barnstable 1040428 MA09451197 JBS21J2408665 Unavailable Not Hispanic/Latino 12/13/24
+Barnstable 5074852 MA10498660 JBS21J2408663 White Not Hispanic/Latino 12/13/24
+Barnstable 5360755 MA21065750 JBS21J2408672 White Hispanic/Latino 12/16/24
+Barnstable 2824676 MA10220627 JBS21J2408670 White Not Hispanic/Latino 12/16/24
+Barnstable 5058621 MA10469351 JBS21J2408673 White Not Hispanic/Latino 12/16/24
+Barnstable 2988971 MA10364292 JBS21J2408671 White Not Hispanic/Latino 12/16/24
+Barnstable 869822 MA08904685 JBS21J2408676 White Not Hispanic/Latino 12/17/24
+Barnstable 2791464 MA10592531 JBS21J2508681 White Not Hispanic/Latino 12/18/24 60 33
+Barnstable 3022214 MA21117549 JBS21J2408684 White Not Hispanic/Latino 12/18/24
+Barnstable 5424893 MA21297087 JBS21J2408496 White Not Hispanic/Latino 12/18/24 1.5 180 47
+Barnstable 5604307 MA21252343 JBS21J2408683 White Hispanic/Latino 12/18/24
+Barnstable 2622535 MA10018062 JBS21J2408682 White Not Hispanic/Latino 12/18/24
+Barnstable 1791258 MA09108157 JBS21J2408679 Black/African American Not Hispanic/Latino 12/18/24
+Barnstable 3177594 MA21020343 JBS21J2408572 White Not Hispanic/Latino 12/18/24 1.5 180 113
+Barnstable 353320 MA09843607 JBS21J2408688 White Not Hispanic/Latino 12/19/24 180 118
+Barnstable 5671982 MA21300553 JBS21J2408686 White Not Hispanic/Latino 12/19/24
+Barnstable 5230912 MA21246837 JBS22J2408689 White Not Hispanic/Latino 12/19/24
+Barnstable 2621866 MA10012374 JBS21J2408687 White Not Hispanic/Latino 12/19/24
+Barnstable 5489992 MA21158547 JBS21J2408693 White Not Hispanic/Latino 12/20/24
+Barnstable 2081067 MA09604989 JBS21J2408690 White Not Hispanic/Latino 12/20/24
+Barnstable 5523184 MA21184577 JBS21J2408695 White Not Hispanic/Latino 12/20/24
+Barnstable 5578708 MA21226081 JBS21J2408696 White Not Hispanic/Latino 12/20/24
+Barnstable 2821483 MA21128137 JBS21J2408691 White Not Hispanic/Latino 12/20/24 1
+Barnstable 5260962 MA21022786 HBS21H2408692 White Not Hispanic/Latino 12/20/24 5 180
+Barnstable 2712407 MA10230890 JBS21J2408697 Black/African American Not Hispanic/Latino 12/23/24
+Barnstable 5381021 MA21121517 JBS21J2408702 White Not Hispanic/Latino 12/23/24
+Barnstable 3131356 MA10454015 JBS21J2408701 White Not Hispanic/Latino 12/23/24
+Barnstable 2426966 MA10049288 JBS21J2408699 Other/Unknown Not Hispanic/Latino 12/23/24
+Barnstable 3213614 MA21062307 JBS21J2408700 White Not Hispanic/Latino 12/23/24
+Barnstable 2417104 MA09824479 White Not Hispanic/Latino 12/26/24
+Barnstable 2561248 MA10023994 JBS21J2408710 White Not Hispanic/Latino 12/26/24
+Barnstable 2826684 MA10204231 JBS21J2408708 White Not Hispanic/Latino 12/26/24
+Barnstable 3116267 MA21021436 JBS21J2408706 White Not Hispanic/Latino 12/26/24
+Barnstable 5597446 MA21239714 JBS21J2408709 White Not Hispanic/Latino 12/26/24
+Barnstable 353722 MA00735323 JBS21J2408711 White Not Hispanic/Latino 12/27/24
+Barnstable 2966618 MA10288100 JBS21J2408712 Black/African American Not Hispanic/Latino 12/27/24
+Barnstable MA21301011 HBS22H2408716 White Not Hispanic/Latino 12/27/24 30 1
+Barnstable 2341760 MA10094187 JBS22J2408715 White Not Hispanic/Latino 12/27/24
+Barnstable 2108770 MA09745839 JBS21J2408713 Black/African American Not Hispanic/Latino 12/27/24
+Barnstable 2469325 MA10189677 JBS21J2408726 White Not Hispanic/Latino 12/30/24
+Barnstable 5591002 MA21234905 JBS22J2408720 White Hispanic/Latino 12/30/24
+Barnstable 5554460 MA10380603 JBS21J2408718 White Not Hispanic/Latino 12/30/24
+Barnstable 2824618 MA10277672 JBS21J2408721 White Hispanic/Latino 12/30/24
+Barnstable 1759437 FL04541412 White Not Hispanic/Latino 12/30/24
+Barnstable 3170777 MA21090489 HBS21H2408722 White Not Hispanic/Latino 12/30/24 138 48
+Barnstable 5628933 MA21284990 JBS21J2408725 Black/African American Not Hispanic/Latino 12/30/24
+Page 7 of 16
+ADMISSIONS AND RELEASES
+LENGTH OF
+SHERIFF'S BOOKING RELEASE EARNED TIME JAIL CREDIT
+PCF SID OBTN RACE ETHNICITY SENTENCE IN
+OFFICE DATE DATE IN DAYS IN DAYS
+DAYS
+Barnstable 5650164 MA21286410 JBS21J2408649 White Hispanic/Latino 12/30/24 360 49
+Barnstable 2945138 MA10223702 JBS21J2408719 White Not Hispanic/Latino 12/30/24
+Barnstable 2343773 MA10090422 JBS23J2508729 Black/African American Hispanic/Latino 12/31/24
+Barnstable 50868719 MA10567841 Black/African American Not Hispanic/Latino 12/31/24
+Barnstable 3153294 MA10503938 Black/African American Not Hispanic/Latino 12/31/24
+Barnstable 1686630 MA10087668 JBS21J2408332 White Not Hispanic/Latino 10/1/24
+Barnstable 2305090 MA10053363 JBS21J2407629 White Not Hispanic/Latino 10/1/24 180 61
+Barnstable 470384 MA00810504 HBS21H2408282 Black/African American Not Hispanic/Latino 10/1/24 1155 7
+Barnstable 1978688 MA09301054 JBS21J2408326 Black/African American Not Hispanic/Latino 10/1/24
+Barnstable 5141727 MA10537707 White Not Hispanic/Latino 10/2/24
+Barnstable 2635107 MA10071417 JBS21J2408346 White Not Hispanic/Latino 10/3/24
+Barnstable 5435729 MA21285889 JBS21J2407822 White Hispanic/Latino 10/3/24
+Barnstable 2978632 MA10582464 JBS21J2408329 White Not Hispanic/Latino 10/3/24
+Barnstable 5171746 MA10551126 JBS21J2408058 Black/African American Not Hispanic/Latino 10/4/24
+Barnstable MA21295082 JBS21J2408358 White Not Hispanic/Latino 10/4/24
+Barnstable 3044157 MA10619927 JBS21J2407994 White Not Hispanic/Latino 10/4/24
+Barnstable 5598247 MA21240341 JBS22J2408255 White Not Hispanic/Latino 10/4/24
+Barnstable 5120661 MA10492833 JBS21J2407851 White Not Hispanic/Latino 10/7/24 8.5 180 119
+Barnstable 5293509 MA21207218 JBS21J2408281 White Not Hispanic/Latino 10/7/24
+Barnstable 2978632 MA10582464 White Not Hispanic/Latino 10/7/24
+Barnstable 1530955 MA10651802 JBS21J2408300 White Not Hispanic/Latino 10/7/24
+Barnstable 835830 MA00956192 JBS21J2306884 White Not Hispanic/Latino 10/8/24 2.5 591 128
+Barnstable 3145272 MA10618802 JBS21J2408295 White Hispanic/Latino 10/8/24
+Barnstable 3129446 MA21020153 JBS21J2408372 Asian/Pacific Islander Not Hispanic/Latino 10/8/24
+Barnstable 3111243 MA21070270 JBS21J2408286 White Not Hispanic/Latino 10/8/24
+Barnstable 2670041 MA10042919 JBS21J2408369 White Not Hispanic/Latino 10/8/24
+Barnstable 5502637 MA21168071 JBS2201805566 Black/African American Not Hispanic/Latino 10/8/24
+Barnstable 5497694 MA21231482 JBS21J2408310 White Not Hispanic/Latino 10/8/24
+Barnstable 3050770 MA10314289 JBS21J2407626 White Not Hispanic/Latino 10/9/24 22.5 374 187
+Barnstable 2401282 MA10009146 JBS21J2408371 White Not Hispanic/Latino 10/9/24
+Barnstable 1073651 MA10560748 JBS21J2408252 White Not Hispanic/Latino 10/9/24
+Barnstable 2572099 MA10028137 JBS21J2408356 White Not Hispanic/Latino 10/9/24
+Barnstable 3191043 MA21101031 JBS21J2408345 White Hispanic/Latino 10/10/24
+Barnstable 2356050 MA09711584 HBS21H2306436 White Not Hispanic/Latino 10/11/24 3.5 730
+Barnstable 2795553 MA10552447 JBS21J2408377 White Hispanic/Latino 10/11/24
+Barnstable 3189772 MA10635935 JBS21J2408257 Black/African American Not Hispanic/Latino 10/11/24
+Barnstable 2903618 MA10550570 JBS21J2408375 White Not Hispanic/Latino 10/14/24
+Barnstable 5453901 MA21133645 JBS21J2408018 Black/African American Not Hispanic/Latino 10/15/24
+Barnstable 2905414 MA10207094 JBS21J2408232 White Not Hispanic/Latino 10/15/24
+Barnstable 5078385 MA10441652 JBS21J2408303 White Not Hispanic/Latino 10/15/24
+Barnstable 3186566 MA21143554 JBS21J2408288 White Hispanic/Latino 10/15/24
+Barnstable 1764927 MA09130692 JBS22J2408222 Black/African American Not Hispanic/Latino 10/15/24 8.5 103 41
+Barnstable 5323475 MA21099899 JBS21J2407982 White Not Hispanic/Latino 10/16/24
+Barnstable 2923690 MA10296176 JBS21J2407642 Black/African American Not Hispanic/Latino 10/16/24
+Barnstable 3071322 MA10536312 JBS21J2408115 White Not Hispanic/Latino 10/16/24
+Barnstable 602913 MA00852218 JBS22J2408134 White Not Hispanic/Latino 10/16/24 60 25
+Barnstable 3114068 MA10604075 JBS21J2408229 Black/African American Not Hispanic/Latino 10/16/24
+Barnstable 2846435 MA10302690 JBS21J2408066 Black/African American Not Hispanic/Latino 10/16/24
+Barnstable 3213337 MA21034785 JBS21J2408399 White Not Hispanic/Latino 10/17/24
+Barnstable 5280331 MA21001801 JBS21J2407677 Black/African American Not Hispanic/Latino 10/17/24 4.5 180 75
+Barnstable 2375152 MA10452041 JBS21J2407729 White Not Hispanic/Latino 10/17/24
+Barnstable 2443207 MA10317621 JBS21J2408151 White Not Hispanic/Latino 10/17/24
+Barnstable 837111 MA09737325 JBS21J2408363 White Not Hispanic/Latino 10/17/24
+Barnstable 5599512 MA21290232 JBS22J2408053 White Not Hispanic/Latino 10/17/24
+Barnstable 2993975 MA10289999 JBS21J2408294 White Not Hispanic/Latino 10/18/24
+Barnstable 5583485 MA21229495 JBS21J2408403 White Not Hispanic/Latino 10/18/24
+Barnstable 3160976 MA10521614 JBS21J2407448 White Not Hispanic/Latino 10/18/24 5 298 28
+Barnstable 1957380 MA10236413 HBS22H2408144 White Not Hispanic/Latino 10/18/24 180 4
+Barnstable 5221370 MA21295931 JBS21J2408408 Black/African American Not Hispanic/Latino 10/18/24
+Barnstable 2175615 MA09620235 JBS21J2408378 Black/African American Not Hispanic/Latino 10/18/24
+Barnstable 5489508 MA21158255 JBS21J2408410 White Not Hispanic/Latino 10/18/24
+Barnstable 5667750 MA21295946 JBS21J2408420 White Hispanic/Latino 10/19/24
+Barnstable 5212652 MA10652501 JBS21J2408411 White Not Hispanic/Latino 10/21/24
+Barnstable 5666405 MA21295085 JBS21J2408355 Asian/Pacific Islander Not Hispanic/Latino 10/21/24
+Barnstable 2789685 MA21279769 JBS21J2408385 White Not Hispanic/Latino 10/21/24
+Barnstable 3009214 MA10244855 JBS21J2408247 10/21/24
+Page 8 of 16
+ADMISSIONS AND RELEASES
+LENGTH OF
+SHERIFF'S BOOKING RELEASE EARNED TIME JAIL CREDIT
+PCF SID OBTN RACE ETHNICITY SENTENCE IN
+OFFICE DATE DATE IN DAYS IN DAYS
+DAYS
+Barnstable 2601326 MA10132304 JBS21J2408335 White Not Hispanic/Latino 10/21/24
+Barnstable 2064056 MA09902287 JBS21J2408314 White Not Hispanic/Latino 10/21/24
+Barnstable 2423757 MA10307988 JBS21J2408302 White Not Hispanic/Latino 10/21/24
+Barnstable 5667972 JBS21J2408425 Asian/Pacific Islander Not Hispanic/Latino 10/22/24
+Barnstable 3192021 MA10611238 JBS21J2408168 White Hispanic/Latino 10/22/24
+Barnstable 612048 MA00748674 JBS21J2408184 White Not Hispanic/Latino 10/22/24 59 16
+Barnstable 5665301 MA21294141 JBS21J2408311 White Not Hispanic/Latino 10/22/24
+Barnstable 2891124 MA10184066 JBS21J2408199 White Not Hispanic/Latino 10/23/24
+Barnstable 3003152 MA10363573 JBS23J2408364 White Not Hispanic/Latino 10/23/24
+Barnstable 5467452 MA21215826 JBS21J2408054 White Not Hispanic/Latino 10/23/24
+Barnstable 2565347 MA09919817 JBS21J2408003 White Not Hispanic/Latino 10/23/24
+Barnstable 5600452 MA21242141 JBS21J2306574 Black/African American Not Hispanic/Latino 10/23/24
+Barnstable 5368985 MA21070821 JBS21J2407876 White Not Hispanic/Latino 10/23/24 6.5 180 132
+Barnstable 2191874 MA09723515 JBS21J2408353 Black/African American Hispanic/Latino 10/24/24
+Barnstable 2910889 MA10541945 JBS22J2408380 Other/Unknown Not Hispanic/Latino 10/24/24
+Barnstable 2349989 MA09751198 JBS21J2408397 White Not Hispanic/Latino 10/24/24
+Barnstable 5453901 MA21133645 JBS21J2408396 Black/African American Not Hispanic/Latino 10/24/24
+Barnstable 5666490 MA21295247 JBS21J2408366 White Not Hispanic/Latino 10/24/24
+Barnstable 5577472 MA21296439 JBS21J2408441 White Not Hispanic/Latino 10/25/24
+Barnstable 5515321 MA21202281 JBS21J2407917 Black/African American Not Hispanic/Latino 10/25/24
+Barnstable 2747063 MA10070776 JBS21J2408417 White Not Hispanic/Latino 10/25/24
+Barnstable 1967606 MA10656683 JBS22J2408414 White Not Hispanic/Latino 10/25/24
+Barnstable MA21296394 JBS21J2408438 White Not Hispanic/Latino 10/27/24
+Barnstable 1759208 MA09212455 JBS21J2408362 White Not Hispanic/Latino 10/28/24
+Barnstable 1936000 MA10448207 JBS21J2408331 White Not Hispanic/Latino 10/28/24
+Barnstable 2621238 MA09997966 JBS21J2407344 Black/African American Not Hispanic/Latino 10/28/24
+Barnstable MA09922503 JBS21J2408444 White Not Hispanic/Latino 10/28/24
+Barnstable 5553648 MA21240621 JBS22J2408106 White Not Hispanic/Latino 10/28/24
+Barnstable 441837 MA00847478 JBS21J2408317 White Not Hispanic/Latino 10/28/24
+Barnstable 2626086 MA10016773 JBS21J2408374 White Hispanic/Latino 10/28/24
+Barnstable 2266781 MA09994635 JBS21J2408248 White Not Hispanic/Latino 10/28/24
+Barnstable 2442394 MA09835082 White Hispanic/Latino 10/28/24
+Barnstable 545979 MA21147172 JBS22J2408136 White Not Hispanic/Latino 10/29/24
+Barnstable 2834536 MA10600140 JBS21J2408200 White Not Hispanic/Latino 10/29/24
+Barnstable 5324996 MA21282637 JBS21J2408445 White Hispanic/Latino 10/29/24
+Barnstable 2980480 MA21189068 JBS21J2408390 White Not Hispanic/Latino 10/29/24
+Barnstable 5052762 MA10408569 JBS21J2408328 White Not Hispanic/Latino 10/30/24
+Barnstable 2889526 MA10393955 JBS21J2408320 White Not Hispanic/Latino 10/30/24
+Barnstable 5453901 MA21133645 JBS21J2408452 Black/African American Not Hispanic/Latino 10/30/24
+Barnstable 3010148 MA10512018 JBS21J2408407 White Not Hispanic/Latino 10/30/24
+Barnstable 5464883 MA21258825 JBS22J2408359 White Not Hispanic/Latino 10/30/24
+Barnstable 5090266 MA21049823 JBS21J2407817 White Not Hispanic/Latino 10/30/24
+Barnstable 5645467 MA21293604 JBS21J2408276 White Not Hispanic/Latino 10/30/24
+Barnstable 5651007 MA21295584 JBS21J2408381 White Not Hispanic/Latino 10/31/24
+Barnstable 966456 MA08902293 JBS21J2408431 White Not Hispanic/Latino 10/31/24
+Barnstable 3200207 MA10639419 White Not Hispanic/Latino 10/31/24
+Barnstable 3036031 MA21292879 JBS21J2408198 White Not Hispanic/Latino 10/31/24
+Barnstable 2817928 MA10263561 JBS21J2407492 White Not Hispanic/Latino 11/1/24 10 270 148
+Barnstable 2822866 MA10390395 HBS21H2408267 White Not Hispanic/Latino 11/1/24 50
+Barnstable 2474765 MA10013434 JBS22J2408477 White Not Hispanic/Latino 11/2/24
+Barnstable 2189544 MA09836993 JBS21J2306299 White Not Hispanic/Latino 11/4/24
+Barnstable 2474765 MA21213847 JBS21J2408474 Black/African American Not Hispanic/Latino 11/4/24
+Barnstable 2964986 MA21210361 JBS21J2408333 White Not Hispanic/Latino 11/5/24
+Barnstable 5583159 MA21229325 HBS21H2407529 White Not Hispanic/Latino 11/5/24 5 365
+Barnstable 5529814 AR4016491 White Not Hispanic/Latino 11/5/24
+Barnstable MA20021768 JBS21J2408490 White Not Hispanic/Latino 11/5/24
+Barnstable 2974721 MA10471008 JBS21J2408453 White Not Hispanic/Latino 11/5/24
+Barnstable 2909964 MA10198446 JBS21J2206142 White Not Hispanic/Latino 11/5/24 7.5 910 239
+Barnstable 5568641 MA21283241 JBS21J2408150 White Not Hispanic/Latino 11/5/24 4.5 120 36
+Barnstable 2988996 MA10263775 HBS21H2408272 Other/Unknown Not Hispanic/Latino 11/5/24 5 180
+Barnstable 2225962 MA10584792 JBS21J2408367 White Not Hispanic/Latino 11/5/24
+Barnstable 2430944 MA09750903 HBS21H2407880 White Not Hispanic/Latino 11/6/24 12 180 38
+Barnstable 1831397 MA00907669 JBS21J2408488 White Not Hispanic/Latino 11/6/24
+Barnstable 2914264 MA10258521 JBS21J2408471 Black/African American Not Hispanic/Latino 11/6/24
+Barnstable 2974721 MA10471008 White Not Hispanic/Latino 11/6/24
+Barnstable 5604307 MA21252343 JBS22J2408415 White Hispanic/Latino 11/6/24
+Page 9 of 16
+ADMISSIONS AND RELEASES
+LENGTH OF
+SHERIFF'S BOOKING RELEASE EARNED TIME JAIL CREDIT
+PCF SID OBTN RACE ETHNICITY SENTENCE IN
+OFFICE DATE DATE IN DAYS IN DAYS
+DAYS
+Barnstable 2830773 MA10659325 JBS21J2408500 White Not Hispanic/Latino 11/6/24
+Barnstable 5648799 MA21281601 JBS21J2408454 White Not Hispanic/Latino 11/6/24
+Barnstable 5099903 MA10468765 JBS21J2408274 White Not Hispanic/Latino 11/6/24 7.5 60 16
+Barnstable 5662566 MA21291847 JBS21J2408440 White Not Hispanic/Latino 11/6/24
+Barnstable 5248846 MA10656885 JBS21J2408343 White Not Hispanic/Latino 11/6/24
+Barnstable 5578708 MA21226081 JBS21J2408413 White Not Hispanic/Latino 11/7/24
+Barnstable 5627306 MA21262950 JBS21J2408191 White Not Hispanic/Latino 11/7/24
+Barnstable 2953402 MA10363138 JBS21J2408043 Black/African American Not Hispanic/Latino 11/7/24
+Barnstable 2353605 MA10141191 JBS21J2408508 White Not Hispanic/Latino 11/7/24
+Barnstable 5321886 MA21037635 JBS21J2408457 White Not Hispanic/Latino 11/7/24
+Barnstable 5262810 MA10646923 JBS22J2408273 White Not Hispanic/Latino 11/7/24 6 59 14
+Barnstable 3085752 MA10392785 JBS21J2408395 White Not Hispanic/Latino 11/7/24 75 36
+Barnstable 5622353 MA21286056 JBS21J2408506 White Not Hispanic/Latino 11/7/24
+Barnstable 562635 MA09015490 JBS22J2408325 Black/African American Not Hispanic/Latino 11/8/24
+Barnstable 2246234 MA10204890 HBS21H2408469 White Not Hispanic/Latino 11/8/24 100 91
+Barnstable 3023230 MA10641986 JBS21J2408178 White Not Hispanic/Latino 11/8/24 10.5 90 24
+Barnstable 5572855 MA21221855 JBS21J2408383 White Not Hispanic/Latino 11/8/24
+Barnstable 5362177 MA21275429 HBS22H2407374 White Not Hispanic/Latino 11/8/24 10 540
+Barnstable 5414033 MA21086674 JBS21J2408169 White Not Hispanic/Latino 11/8/24
+Barnstable 1773027 MA10370624 JBS21J2408459 White Not Hispanic/Latino 11/8/24
+Barnstable 3099112 MA10417387 JBS21J2408470 White Not Hispanic/Latino 11/9/24
+Barnstable 5667501 MA21295847 JBS22J2408398 Black/African American Not Hispanic/Latino 11/11/24
+Barnstable 3078685 MA10344473 HBS22H2407643 White Not Hispanic/Latino 11/12/24 7.5 730 105
+Barnstable 5625691 MA21261686 JBS21J2306979 Black/African American Hispanic/Latino 11/12/24
+Barnstable 5651851 MA21297860 JBS21J2408527 White Hispanic/Latino 11/13/24
+Barnstable 3086218 MA10448633 JBS21J2408495 Black/African American Not Hispanic/Latino 11/13/24
+Barnstable 2439979 MA10430683 JBS21J2408443 White Not Hispanic/Latino 11/13/24
+Barnstable 5634419 MA21268598 HBS22H2408382 White Not Hispanic/Latino 11/13/24 4.5 180 6
+Barnstable 2325900 MA10030256 JBS21J2408503 Black/African American Not Hispanic/Latino 11/13/24
+Barnstable 2224113 MA09508709 HBS21H2408402 White Not Hispanic/Latino 11/13/24 4.5 180
+Barnstable 2927278 MA10521930 JBS21J2408520 Black/African American Not Hispanic/Latino 11/13/24
+Barnstable 2119299 MA09406414 JBS21J2408497 White Not Hispanic/Latino 11/14/24 8 1147 519
+Barnstable 3193702 MA21043506 JBS21J2408491 White Not Hispanic/Latino 11/14/24
+Barnstable 5017321 MA10381847 JBS21J2408277 Black/African American Not Hispanic/Latino 11/14/24
+Barnstable 2798404 MA10190885 JBS22J2408517 White Not Hispanic/Latino 11/14/24
+Barnstable 5235110 MA10621566 JBS21J2408389 White Not Hispanic/Latino 11/14/24
+Barnstable 5651854 MA21290390 JBS21J2408063 Black/African American Not Hispanic/Latino 11/15/24 11.5 365 121
+Barnstable 3194833 MA21220820 JBS21J2408384 White Hispanic/Latino 11/15/24
+Barnstable 5653131 MA21284870 JBS21J2408423 White Not Hispanic/Latino 11/15/24
+Barnstable 2103781 MA09820483 HBS21H2407700 White Not Hispanic/Latino 11/15/24 11 911 95
+Barnstable 5650164 MA21286410 JBS21J2407852 White Hispanic/Latino 11/15/24 11.5 180 70
+Barnstable White Unavailable 11/15/24
+Barnstable 5667753 MA21296022 JBS21J2408419 White Hispanic/Latino 11/16/24
+Barnstable 3084171 MA10379452 JBS21J2408530 Unavailable Not Hispanic/Latino 11/18/24
+Barnstable 5626219 MA21289566 JBS21J2408293 White Not Hispanic/Latino 11/18/24
+Barnstable 2988971 MA10364292 JBS21J2408437 White Not Hispanic/Latino 11/18/24
+Barnstable 5640502 MA21287164 White Not Hispanic/Latino 11/18/24
+Barnstable 2998015 MA10366523 JBS21J2408539 White Not Hispanic/Latino 11/18/24
+Barnstable 2107339 MA10032937 JBS21J2408524 White Not Hispanic/Latino 11/18/24
+Barnstable 2230001 MA09705127 JBS21J2408100 White Not Hispanic/Latino 11/19/24
+Barnstable 2661217 MA10216552 TBS21T2408221 White Not Hispanic/Latino 11/19/24
+Barnstable 5638053 MA21271282 JBS21J2408555 Black/African American Not Hispanic/Latino 11/19/24
+Barnstable 5045073 MA10399774 JBS21J2408339 White Not Hispanic/Latino 11/19/24
+Barnstable 2218242 MA10096420 JBS21J2408112 Black/African American Not Hispanic/Latino 11/19/24
+Barnstable 5482368 MA21265372 JBS21J2408427 White Not Hispanic/Latino 11/19/24
+Barnstable 3190369 MA21070485 JBS21J2408551 White Not Hispanic/Latino 11/19/24
+Barnstable 2114101 MA10078560 HBS21H2408521 White Not Hispanic/Latino 11/20/24 20 405 138
+Barnstable 5011536 MA10507590 JBS21J2408092 White Not Hispanic/Latino 11/20/24 16 120 56
+Barnstable 5397466 MA21090112 JBS21J2408376 White Not Hispanic/Latino 11/20/24
+Barnstable 439126 MA00826643 JBS21J2408528 White Not Hispanic/Latino 11/20/24
+Barnstable 5488025 MA21293157 JBS21J2408556 White Not Hispanic/Latino 11/20/24
+Barnstable 5540951 MA21177813 JBS21J2408069 Black/African American Not Hispanic/Latino 11/20/24
+Barnstable 2631416 MA21297486 JBS21J2408514 Other/Unknown Not Hispanic/Latino 11/20/24
+Barnstable 2649544 MA10027522 JBS21J2408219 White Not Hispanic/Latino 11/20/24 10.5 90 30
+Barnstable 5229746 MA10615642 HBS21H2408468 Other/Unknown Not Hispanic/Latino 11/20/24 2 90
+Barnstable 2096992 MA09509679 JBS21J2408483 White Not Hispanic/Latino 11/21/24
+Page 10 of 16
+ADMISSIONS AND RELEASES
+LENGTH OF
+SHERIFF'S BOOKING RELEASE EARNED TIME JAIL CREDIT
+PCF SID OBTN RACE ETHNICITY SENTENCE IN
+OFFICE DATE DATE IN DAYS IN DAYS
+DAYS
+Barnstable 2920955 MA21287667 JBS21J2407923 White Not Hispanic/Latino 11/21/24
+Barnstable 5667753 MA21296022 JBS21J2408549 White Hispanic/Latino 11/21/24
+Barnstable 3132310 MA10499170 HBS21H2407551 Black/African American Not Hispanic/Latino 11/21/24 1 270
+Barnstable 2202801 MA09717935 JBS21J2407831 White Not Hispanic/Latino 11/22/24
+Barnstable 5492776 MA21240877 HBS21H2407474 White Not Hispanic/Latino 11/22/24 540 86
+Barnstable 2166810 MA10360040 JBS21J2408561 White Not Hispanic/Latino 11/22/24
+Barnstable 2874464 MA10194762 JBS21J2408435 White Not Hispanic/Latino 11/22/24
+Barnstable 2590524 MA21273900 JBS21J2407715 White Not Hispanic/Latino 11/22/24
+Barnstable 3177594 MA21020343 JBS21J2408187 White Not Hispanic/Latino 11/22/24 150 134
+Barnstable 1058270 MA09994954 White Not Hispanic/Latino 11/22/24
+Barnstable 3219507 MA21289731 JBS21J2408135 White Hispanic/Latino 11/22/24
+Barnstable 5484407 MA21268805 JBS21J2408557 White Not Hispanic/Latino 11/24/24
+Barnstable 5660182 MA21291901 JBS21J2408357 White Not Hispanic/Latino 11/25/24
+Barnstable 353722 MA00735323 JBS21J2408316 White Not Hispanic/Latino 11/25/24
+Barnstable 1080421 MA09014664 JBS21J2408532 White Not Hispanic/Latino 11/25/24
+Barnstable 5671119 MA21298504 JBS21J2408568 Other/Unknown Hispanic/Latino 11/25/24
+Barnstable 5670365 White Not Hispanic/Latino 11/25/24
+Barnstable 486445 MA00833845 JBS21J2408189 White Not Hispanic/Latino 11/25/24
+Barnstable 2500723 MA10148188 JBS22J2407587 Black/African American Not Hispanic/Latino 11/25/24 10 600 42
+Barnstable 3044157 MA10619927 JBS21J2408531 White Not Hispanic/Latino 11/25/24
+Barnstable 2370647 MA10001906 JBS21J2408401 White Not Hispanic/Latino 11/25/24
+Barnstable 3104852 MA21206660 JBS21J2408365 White Not Hispanic/Latino 11/25/24
+Barnstable 5392539 MA21086547 JBS22J2408186 Other/Unknown Not Hispanic/Latino 11/25/24
+Barnstable 2315284 MA10528644 JBS21J2408190 White Not Hispanic/Latino 11/26/24
+Barnstable 3131356 MA10454015 JBS21J2408569 White Not Hispanic/Latino 11/26/24
+Barnstable 3015619 MA10363040 JBS21J2408464 White Not Hispanic/Latino 11/26/24 8 120 26
+Barnstable 625068 MA00928573 JBS21J2408466 White Not Hispanic/Latino 11/26/24
+Barnstable 2956064 MA10583363 JBS21J2408479 White Not Hispanic/Latino 11/26/24
+Barnstable 5667509 MA21295878 JBS21J2408400 White Not Hispanic/Latino 11/26/24
+Barnstable 5346590 MA21055589 JBS21J2408518 White Hispanic/Latino 11/26/24
+Barnstable 1789081 MA10083083 HBS21H2408461 White Not Hispanic/Latino 11/27/24 30
+Barnstable 3117866 MA10434617 JBS21J2408589 White Not Hispanic/Latino 11/27/24
+Barnstable 5120661 MA10492833 JBS21J2407851 White Not Hispanic/Latino 11/27/24 8.5 180 119
+Barnstable 2565347 MA09919817 White Not Hispanic/Latino 11/27/24
+Barnstable 5420605 MA21105804 JBS21J2408582 White Not Hispanic/Latino 11/29/24
+Barnstable 2331926 MA10627762 White Not Hispanic/Latino 11/29/24
+Barnstable 3116267 MA21021436 White Not Hispanic/Latino 12/1/24
+Barnstable 5149521 MA10625260 JBS21J2408587 Black/African American Not Hispanic/Latino 12/2/24
+Barnstable 5340578 MA21294511 JBS21J2408321 White Not Hispanic/Latino 12/2/24
+Barnstable 1763735 MA09200263 JBS21J2307216 Black/African American Not Hispanic/Latino 12/2/24
+Barnstable 2536833 MA10448000 JBS21J2408429 White Not Hispanic/Latino 12/2/24
+Barnstable 2661104 MA10067835 JBS21J2407717 White Not Hispanic/Latino 12/2/24 18.5 400 260
+Barnstable 5466181 MA21141341 JBS21J2408265 White Not Hispanic/Latino 12/2/24 15 90 29
+Barnstable 3115519 MA21000072 JBS21J2408256 White Not Hispanic/Latino 12/2/24 5.5 90 28
+Barnstable 2621427 MA10033572 JBS21J2408596 White Not Hispanic/Latino 12/2/24
+Barnstable 5368985 MA21070821 JBS21J2407876 White Not Hispanic/Latino 12/2/24 6.5 180 132
+Barnstable 3145843 MA21235817 JBS21J2408584 White Not Hispanic/Latino 12/3/24
+Barnstable 631824 MA00717109 JBS21J2408580 White Not Hispanic/Latino 12/3/24
+Barnstable 5586966 MA21231970 JBS21J2408078 Black/African American Not Hispanic/Latino 12/3/24
+Barnstable 5352839 MA21150285 JBS21J2408515 Black/African American Not Hispanic/Latino 12/3/24
+Barnstable 3024836 MA21062524 JBS21J2408475 White Hispanic/Latino 12/3/24
+Barnstable 5434055 MA21138563 JBS21J2408046 White Not Hispanic/Latino 12/3/24 16.5 180 120
+Barnstable 2198737 MA10607407 JBS21J2408575 White Not Hispanic/Latino 12/3/24
+Barnstable 5343744 MA21171850 JBS21J2408436 Black/African American Not Hispanic/Latino 12/4/24 910 40
+Barnstable 644781 MA10370208 JBS21J2408507 White Not Hispanic/Latino 12/4/24
+Barnstable 5523383 MA21230896 JBS21J2408607 White Not Hispanic/Latino 12/4/24
+Barnstable 3177606 MA21064805 JBS21J2408455 White Not Hispanic/Latino 12/4/24
+Barnstable 5280979 MA21002290 JBS21J2408418 White Not Hispanic/Latino 12/4/24
+Barnstable 5324672 MA21040180 JBS21J2408476 White Not Hispanic/Latino 12/4/24
+Barnstable 3153194 MA10503901 JBS21J2407931 White Not Hispanic/Latino 12/4/24 19.5 180 77
+Barnstable 2857643 MA21037082 JBS21J2408460 White Not Hispanic/Latino 12/4/24
+Barnstable 5618468 MA21297388 JBS21J2408501 White Not Hispanic/Latino 12/4/24
+Barnstable 5392539 MA21086547 JBS21J2408586 Other/Unknown Not Hispanic/Latino 12/5/24
+Barnstable 3077994 MA10358485 JBS21J2408299 White Not Hispanic/Latino 12/5/24
+Barnstable 3129801 MA21072663 JBS21J2407837 Black/African American Not Hispanic/Latino 12/5/24 15 205 59
+Barnstable 5617484 MA21262965 JBS21J2408573 Black/African American Not Hispanic/Latino 12/5/24
+Page 11 of 16
+ADMISSIONS AND RELEASES
+LENGTH OF
+SHERIFF'S BOOKING RELEASE EARNED TIME JAIL CREDIT
+PCF SID OBTN RACE ETHNICITY SENTENCE IN
+OFFICE DATE DATE IN DAYS IN DAYS
+DAYS
+Barnstable 2330289 MA10541976 JBS21J2408608 White Not Hispanic/Latino 12/5/24
+Barnstable 1764927 MA09130692 JBS22J2408222 Black/African American Not Hispanic/Latino 12/6/24 8.5 103 41
+Barnstable 5282509 MA21060692 Black/African American Not Hispanic/Latino 12/6/24
+Barnstable 2432300 MA09752927 JBS21J2407388 White Not Hispanic/Latino 12/9/24 20 1275 563
+Barnstable 535213 MA10303887 JBS21J2408529 White Not Hispanic/Latino 12/9/24
+Barnstable 2712521 MA10090683 JBS21J2408542 White Not Hispanic/Latino 12/9/24
+Barnstable 2582770 MA10124217 JBS21J2408519 White Not Hispanic/Latino 12/9/24 59 53
+Barnstable 5146610 MA21294781 JBS22J2408340 White Not Hispanic/Latino 12/10/24
+Barnstable 3166099 MA21057936 JBS21J2408412 American Indian/Alaska Native Not Hispanic/Latino 12/10/24 3 180 74
+Barnstable 3164038 MA10634976 JBS21J2407602 White Not Hispanic/Latino 12/10/24 13.5 318 70
+Barnstable 3183453 MA10577107 JBS21J2408409 White Not Hispanic/Latino 12/10/24
+Barnstable 2012726 MA09613359 JBS21J2408564 White Not Hispanic/Latino 12/10/24
+Barnstable 2960119 MA10429710 JBS21J2408604 White Not Hispanic/Latino 12/11/24
+Barnstable 5599512 MA21290232 JBS21J2408639 White Not Hispanic/Latino 12/12/24
+Barnstable 2678655 MA10081258 JBS21J2408595 White Not Hispanic/Latino 12/12/24
+Barnstable 5470755 MA21144859 JBS21J2408632 Black/African American Not Hispanic/Latino 12/12/24
+Barnstable 5080230 MA21075519 JBS21J2408548 White Not Hispanic/Latino 12/12/24
+Barnstable 5655001 MA10137842 JBS21J2408645 White Not Hispanic/Latino 12/13/24
+Barnstable 5415937 MA21101680 JBS21J2408616 Black/African American Not Hispanic/Latino 12/13/24
+Barnstable 3085752 MA10392785 JBS21J2408395 White Not Hispanic/Latino 12/13/24 75 36
+Barnstable 5100242 MA21299847 JBS21J2408631 White Not Hispanic/Latino 12/16/24
+Barnstable 2626866 MA21031071 JBS21J2408651 White Not Hispanic/Latino 12/16/24
+Barnstable 3018864 MA10291212 JBS22J2408439 Black/African American Not Hispanic/Latino 12/16/24
+Barnstable 2418022 MA10560581 JBS21J2408570 White Not Hispanic/Latino 12/16/24
+Barnstable 2997662 MA21049588 JBS21J2408560 White Not Hispanic/Latino 12/17/24
+Barnstable 3120394 MA10592451 JBS21J2407933 Other/Unknown Not Hispanic/Latino 12/17/24 8.5 365 256
+Barnstable 2824676 MA10220627 JBS21J2408670 White Not Hispanic/Latino 12/17/24
+Barnstable 5074852 MA10498660 JBS21J2408663 White Not Hispanic/Latino 12/17/24
+Barnstable 869822 MA08904685 JBS21J2408676 White Not Hispanic/Latino 12/18/24
+Barnstable 5377563 MA21085206 JBS21J2408322 White Not Hispanic/Latino 12/18/24
+Barnstable 3177594 MA21020343 JBS21J2408572 White Not Hispanic/Latino 12/18/24 1.5 180 113
+Barnstable 1592304 MA09613912 JBS21J2408538 White Not Hispanic/Latino 12/18/24
+Barnstable 5424893 MA21297087 JBS21J2408496 White Not Hispanic/Latino 12/18/24 1.5 180 47
+Barnstable 2565347 MA09919817 White Not Hispanic/Latino 12/18/24
+Barnstable 2297494 White Not Hispanic/Latino 12/19/24
+Barnstable 2378367 MA10054188 JBS21J2408188 White Not Hispanic/Latino 12/19/24
+Barnstable 2712674 MA10045301 JBS21J2306975 Black/African American Not Hispanic/Latino 12/19/24 27 730 121
+Barnstable 5226359 MA21000623 JBS21J2408193 White Not Hispanic/Latino 12/19/24 8.5 180 32
+Barnstable 5572855 MA21221855 JBS21J2408593 Black/African American Not Hispanic/Latino 12/19/24
+Barnstable 1774078 MA09410454 JBS21J2408386 Black/African American Not Hispanic/Latino 12/19/24
+Barnstable 2826684 MA10204231 JBS21J2408615 White Not Hispanic/Latino 12/20/24
+Barnstable 2417104 MA09824479 JBS21J2408275 White Not Hispanic/Latino 12/20/24
+Barnstable 5260962 MA21022786 HBS21H2408154 White Not Hispanic/Latino 12/20/24 16.5 270
+Barnstable 2821483 MA21128137 JBS21J2408216 White Not Hispanic/Latino 12/20/24 10.5 90 48
+Barnstable 5058621 MA10469351 JBS21J2408673 White Not Hispanic/Latino 12/20/24
+Barnstable 2810162 MA10316674 JBS21J2407544 White Not Hispanic/Latino 12/20/24 20 365 113
+Barnstable 1846923 MA10178159 JBS21J2408055 Black/African American Not Hispanic/Latino 12/20/24 16.5 180 22
+Barnstable 2081067 MA09604989 HBS21H2408009 White Not Hispanic/Latino 12/20/24 14 281 101
+Barnstable 2737466 MA10131952 JBS21J2205859 American Indian/Alaska Native Not Hispanic/Latino 12/20/24 15 1820 101
+Barnstable 2271548 MA09622826 JBS21J2408624 White Not Hispanic/Latino 12/20/24
+Barnstable 1769903 MA09218193 JBS21J2408510 American Indian/Alaska Native Not Hispanic/Latino 12/20/24
+Barnstable 3167998 MA21061178 JBS21J2408056 American Indian/Alaska Native Not Hispanic/Latino 12/20/24
+Barnstable 2686633 MA10301067 JBS21J2408637 White Not Hispanic/Latino 12/23/24
+Barnstable 780265 MA00782359 JBS21J2408406 White Not Hispanic/Latino 12/23/24
+Barnstable 1831397 MA00907669 JBS21J2408535 White Not Hispanic/Latino 12/23/24
+Barnstable 3098277 MA10390921 JBS21J2408629 White Not Hispanic/Latino 12/23/24
+Barnstable 5103412 MA10098188 JBS22J2408350 White Not Hispanic/Latino 12/23/24
+Barnstable 3131356 MA10454015 JBS21J2408701 White Not Hispanic/Latino 12/24/24
+Barnstable 1942701 MA09604994 JBS21J2306669 Black/African American Not Hispanic/Latino 12/24/24 27 761 60
+Barnstable 630946 MA09419841 JBS21J2408652 White Not Hispanic/Latino 12/24/24
+Barnstable 3009214 MA10244855 JBS21J2408451 12/24/24
+Barnstable 5523184 MA21184577 JBS21J2408695 White Not Hispanic/Latino 12/26/24
+Barnstable 2436013 MA09901485 JBS21J2407652 White Not Hispanic/Latino 12/27/24 29 270 151
+Barnstable 2966618 MA10288100 JBS21J2408289 Black/African American Not Hispanic/Latino 12/27/24 180 163
+Barnstable 3155814 MA10504296 JBS21J2408583 Black/African American Not Hispanic/Latino 12/27/24
+Barnstable 470384 MA00810504 HBS21H2408450 Black/African American Not Hispanic/Latino 12/27/24 1155 7
+Page 12 of 16
+ADMISSIONS AND RELEASES
+LENGTH OF
+SHERIFF'S BOOKING RELEASE EARNED TIME JAIL CREDIT
+PCF SID OBTN RACE ETHNICITY SENTENCE IN
+OFFICE DATE DATE IN DAYS IN DAYS
+DAYS
+Barnstable 5001465 MA21214555 HBS21H2408271 White Not Hispanic/Latino 12/27/24 25 445 171
+Barnstable 5086719 MA10567841 JBS21J2408349 Black/African American Not Hispanic/Latino 12/30/24
+Barnstable 5650164 MA21286410 JBS21J2408649 White Hispanic/Latino 12/30/24 360 49
+Barnstable 5654993 MA21287463 JBS21J2408478 Black/African American Not Hispanic/Latino 12/30/24
+Barnstable 5540135 MA21278865 JBS21J2407968 White Not Hispanic/Latino 12/30/24
+Barnstable 3206219 MA21092606 JBS21J2408081 White Not Hispanic/Latino 12/30/24
+Barnstable 2905414 MA10207094 JBS21J2408606 White Not Hispanic/Latino 12/30/24
+Barnstable 2806935 MA10126585 JBS21J2408502 White Hispanic/Latino 12/30/24
+Barnstable 5597446 MA21239714 JBS21J2408709 White Not Hispanic/Latino 12/30/24
+Barnstable 2621866 MA10012374 JBS21J2408687 White Not Hispanic/Latino 12/30/24
+Barnstable 2945138 MA10223702 JBS21J2408719 White Not Hispanic/Latino 12/31/24
+Barnstable 5136115 MA21055110 HBS21H2407653 Black/African American Hispanic/Latino 12/31/24 30 910 89
+Page 13 of 16
+PROGRAMMING
+SHERIFF'S PROGRAM PARTICIPANT
+PCF SID OBTN RACE ETHNICITY ADMIT TYPE PROGRAM NAME
+OFFICE REGISTERED DATE STATUS
+Barnstable 3153194 MA10503901 JBS21J2407931 White Not Hispanic/Latino Sentenced 10/2/24 FIRST STEPS Released
+Barnstable 2846435 MA10302690 JBS21J2408066 Black/African American Not Hispanic/Latino Pre-Trial 10/2/24 FIRST STEPS Released
+Barnstable 3071322 MA10536312 JBS21J2408115 White Not Hispanic/Latino Pre-Trial 10/2/24 FIRST STEPS Released
+Barnstable 545979 MA21147172 JBS22J2408136 White Not Hispanic/Latino Pre-Trial 10/2/24 FIRST STEPS Released
+Barnstable 3023230 MA10641986 JBS21J2408178 White Not Hispanic/Latino Sentenced 10/2/24 FIRST STEPS Released
+Barnstable 2891124 MA10184066 JBS21J2408199 White Not Hispanic/Latino Pre-Trial 10/2/24 FIRST STEPS Released
+Barnstable 5612058 MA21251426 JBS21J2407714 White Not Hispanic/Latino Pre-Trial 10/2/24 FIRST STEPS Currently Enrolled
+Barnstable 5627306 MA21262950 JBS21J2408191 White Not Hispanic/Latino Pre-Trial 10/2/24 FIRST STEPS Released
+Barnstable 5568641 MA21283241 JBS21J2408150 White Not Hispanic/Latino Sentenced 10/3/24 EDUCATION H POD Released
+Barnstable 2731749 MA10142881 JBS21J2408088 Black/African American Not Hispanic/Latino Pre-Trial 10/3/24 CBT B POD Released
+Barnstable 5592949 MA21290961 HBS21H2408087 White Not Hispanic/Latino Sentenced 10/3/24 WTTP E POD Currently Enrolled
+Barnstable 5641339 MA21290285 JBS21J2408060 Black/African American Not Hispanic/Latino Pre-Trial 10/3/24 CBT B POD Currently Enrolled
+Barnstable 2558161 MA10050190 JBS21J2407818 White Not Hispanic/Latino Sentenced 10/3/24 SHOCK M POD Participated
+Barnstable 2746915 MA10096152 HBS21H2408027 White Not Hispanic/Latino Sentenced 10/4/24 EDUCATION M POD Currently Enrolled
+Barnstable 636336 MA10239463 JBS21J2408137 White Not Hispanic/Latino Pre-Trial 10/7/24 FIRST STEPS Participated
+Barnstable 2570609 MA10095355 JBS21J2206074 White Not Hispanic/Latino Sentenced 10/7/24 SHOCK M POD Released
+Barnstable 5600452 MA21242141 JBS21J2306574 Black/African American Not Hispanic/Latino Pre-Trial 10/7/24 FIRST STEPS Released
+Barnstable 3078685 MA10344473 HBS22H2407643 White Not Hispanic/Latino Sentenced 10/8/24 EDUCATION M POD PACKETS Participated
+Barnstable 5575898 MA21224233 JBS21J2408035 Black/African American Not Hispanic/Latino Sentenced 10/8/24 EDUCATION M POD PACKETS Participated
+Barnstable 5272585 MA21016374 HBS21H2408270 Black/African American Not Hispanic/Latino Sentenced 10/8/24 EDUCATION M POD PACKETS Participated
+Barnstable 5608538 MA21102351 HBS21H2408298 White Not Hispanic/Latino Sentenced 10/8/24 EDUCATION A POD Participated
+Barnstable 5332377 MA21279558 HBS21H2408231 White Not Hispanic/Latino Sentenced 10/8/24 EDUCATION M POD PACKETS Currently Enrolled
+Barnstable 2436013 MA09901485 JBS21J2407652 White Not Hispanic/Latino Sentenced 10/9/24 SHOCK M POD Released
+Barnstable 1844734 MA09209402 JBS21J2407748 White Not Hispanic/Latino Pre-Trial 10/10/24 HARM REDUCTION J POD Released
+Barnstable 5511244 MA21194162 JBS21J2407892 White Not Hispanic/Latino Sentenced 10/10/24 HARM REDUCTION J POD Released
+Barnstable 2432300 MA09752927 JBS21J2407388 White Not Hispanic/Latino Sentenced 10/10/24 HARM REDUCTION J POD Released
+Barnstable 2610293 MA10100587 HBS22H2407637 White Not Hispanic/Latino Sentenced 10/10/24 HARM REDUCTION J POD Released
+Barnstable 3119895 MA09509651 JBS22J2407353 White Not Hispanic/Latino Sentenced 10/10/24 HARM REDUCTION J POD Currently Enrolled
+Barnstable 5368985 MA21070821 JBS21J2407876 White Not Hispanic/Latino Pre-Trial 10/10/24 HARM REDUCTION J POD Released
+Barnstable 5087706 MA21278356 JBS21J2407750 White Not Hispanic/Latino Pre-Trial 10/10/24 HARM REDUCTION J POD Currently Enrolled
+Barnstable 2626086 MA10016773 JBS21J2408374 White Hispanic/Latino Pre-Trial 10/11/24 CBT A POD Released
+Barnstable 5568641 MA21283241 JBS21J2408150 White Not Hispanic/Latino Sentenced 10/11/24 CBT H POD Released
+Barnstable 3050770 MA10314289 JBS21J2407626 White Not Hispanic/Latino Sentenced 10/11/24 SHOCK M POD Released
+Barnstable 602913 MA00852218 JBS22J2408134 White Not Hispanic/Latino Sentenced 10/11/24 CBT H POD Released
+Barnstable 1838931 MA09006035 HBS21H2408306 White Not Hispanic/Latino Sentenced 10/11/24 CBT H POD Currently Enrolled
+Barnstable 2988996 MA10263775 HBS21H2408272 Other/Unknown Not Hispanic/Latino Sentenced 10/11/24 CBT H POD Released
+Barnstable 3153992 MA21005267 JBS21J2206162 White Not Hispanic/Latino Pre-Trial 10/18/24 CBT B POD Currently Enrolled
+Barnstable 2989931 MA10297656 JBS21J2408034 White Not Hispanic/Latino Sentenced 10/21/24 CBT A POD Participated
+Barnstable 687688 MA00958580 TBS21T2407570 White Not Hispanic/Latino Pre-Trial 10/21/24 EDUCATION C POD Currently Enrolled
+Barnstable 5642434 MA21276012 JBS21J2407827 White Not Hispanic/Latino Pre-Trial 10/21/24 EDUCATION C POD Currently Enrolled
+Barnstable 1764927 MA09130692 JBS22J2408222 Black/African American Not Hispanic/Latino Sentenced 10/21/24 CBT A POD Released
+Barnstable 3009214 MA10244855 JBS21J2408247 Pre-Trial 10/21/24 EDUCATION C POD Released
+Barnstable 1765540 MA10085758 JBS21J2408029 Black/African American Not Hispanic/Latino Sentenced 10/21/24 CBT A POD Released
+Barnstable 3153992 MA21005267 JBS21J2206162 White Not Hispanic/Latino Pre-Trial 10/21/24 EDUCATION B POD Participated
+Barnstable 2081067 MA09604989 HBS21H2408009 White Not Hispanic/Latino Sentenced 10/21/24 CBT A POD Released
+Barnstable 2731749 MA10142881 JBS21J2408088 Black/African American Not Hispanic/Latino Pre-Trial 10/21/24 EDUCATION B POD Released
+Barnstable 3151080 MA21026553 JBS21J2408279 American Indian/Alaska Native Not Hispanic/Latino Sentenced 10/21/24 CBT A POD Participated
+Barnstable 5346634 MA21156171 JBS21J2408090 Black/African American Not Hispanic/Latino Pre-Trial 10/21/24 EDUCATION C POD Participated
+Barnstable 353722 MA00735323 JBS21J2408316 White Not Hispanic/Latino Pre-Trial 10/21/24 EDUCATION C POD Released
+Barnstable 5533941 MA21194164 JBS21J2407524 White Hispanic/Latino Pre-Trial 10/21/24 EDUCATION B POD Currently Enrolled
+Barnstable 5605488 MA21258358 JBS21J2407574 White Not Hispanic/Latino Sentenced 10/23/24 HARM REDUCTION M POD Currently Enrolled
+Barnstable 3016041 MA10395905 JBS21J2407596 White Not Hispanic/Latino Sentenced 10/23/24 HARM REDUCTION M POD Released
+Barnstable 2649544 MA10027522 JBS21J2408219 White Not Hispanic/Latino Sentenced 10/23/24 HARM REDUCTION M POD Released
+Barnstable 1033098 MA09009193 JBS21J2307214 Black/African American Not Hispanic/Latino Sentenced 10/23/24 HARM REDUCTION M POD Released
+Barnstable 3080101 MA10334455 JBS21J2408182 Black/African American Not Hispanic/Latino Pre-Trial 10/28/24 EDU C POD GED TUTORING/IS Participated
+Barnstable 1764927 MA09130692 JBS22J2408222 Black/African American Not Hispanic/Latino Sentenced 10/28/24 EDUCATION A POD Released
+Barnstable 1838931 MA09006035 HBS21H2408306 White Not Hispanic/Latino Sentenced 10/28/24 EDUCATION H POD Currently Enrolled
+Barnstable 2988996 MA10263775 HBS21H2408272 Other/Unknown Not Hispanic/Latino Sentenced 10/28/24 EDUCATION H POD Released
+Barnstable 3151080 MA21026553 JBS21J2408279 American Indian/Alaska Native Not Hispanic/Latino Sentenced 10/28/24 EDUCATION A POD Participated
+Barnstable 5592949 MA21290961 HBS21H2408087 White Not Hispanic/Latino Sentenced 10/29/24 EDUCATION J POD Currently Enrolled
+Barnstable 5658263 MA21288826 JBS21J2408301 Black/African American Not Hispanic/Latino Pre-Trial 10/29/24 EDU C POD GED TUTORING/IS Released
+Barnstable 5434055 MA21138563 JBS21J2408046 White Not Hispanic/Latino Sentenced 10/29/24 EDUCATION J POD Released
+Barnstable 5011536 MA10507590 JBS21J2408092 White Not Hispanic/Latino Sentenced 11/4/24 EDUCATION J POD Released
+Barnstable 5011536 MA10507590 JBS21J2408092 White Not Hispanic/Latino Sentenced 11/4/24 WTTP E POD Released
+Barnstable 2843444 MA10164519 HBS22H2408342 White Not Hispanic/Latino Sentenced 11/4/24 FIRST STEPS Released
+Barnstable 5099903 MA10468765 JBS21J2408274 White Not Hispanic/Latino Sentenced 11/4/24 FIRST STEPS Released
+Barnstable 5661970 MA21291703 JBS21J2408138 White Not Hispanic/Latino Pre-Trial 11/4/24 FIRST STEPS Released
+Barnstable 5262810 MA10646923 JBS22J2408273 White Not Hispanic/Latino Sentenced 11/4/24 FIRST STEPS Released
+Barnstable 2690206 MA21077928 HBS21H2408226 White Not Hispanic/Latino Sentenced 11/4/24 FIRST STEPS Released
+Barnstable 5001465 MA21214555 HBS21H2408271 White Not Hispanic/Latino Sentenced 11/4/24 FIRST STEPS Released
+Barnstable 2296030 MA10108137 JBS21J2408218 White Hispanic/Latino Sentenced 11/4/24 FIRST STEPS Released
+Barnstable 5605488 MA21258358 JBS21J2407574 White Not Hispanic/Latino Sentenced 11/5/24 SHOCK M POD Participated
+Barnstable 5298553 MA21069781 JBS21J2408128 Black/African American Not Hispanic/Latino Sentenced 11/5/24 EDUCATION A POD Participated
+Barnstable 1978688 MA09301054 HBS21H2408463 Black/African American Not Hispanic/Latino Sentenced 11/5/24 EDUCATION A POD Participated
+Barnstable 5582012 MA21228520 JBS2201805656 White Not Hispanic/Latino Sentenced 11/5/24 EDUCATION A POD Released
+Barnstable 5120661 MA10492833 JBS21J2407851 White Not Hispanic/Latino Sentenced 11/5/24 SHOCK M POD Released
+Barnstable 3183093 MA21067554 JBS21J2407895 White Not Hispanic/Latino Sentenced 11/5/24 EDUCATION A POD Released
+Barnstable 3090828 MA10462391 HBS21H2408458 Black/African American Not Hispanic/Latino Sentenced 11/5/24 EDUCATION A POD Participated
+Page 14 of 16
+PROGRAMMING
+SHERIFF'S PROGRAM PARTICIPANT
+PCF SID OBTN RACE ETHNICITY ADMIT TYPE PROGRAM NAME
+OFFICE REGISTERED DATE STATUS
+Barnstable 5410783 MA21228964 HBS21H2307054 White Not Hispanic/Latino Sentenced 11/5/24 SHOCK M POD Participated
+Barnstable 5099903 MA10468765 JBS21J2408505 White Not Hispanic/Latino Pre-Trial 11/8/24 FIRST STEPS Currently Enrolled
+Barnstable 3166099 MA21057936 JBS21J2408412 American Indian/Alaska Native Not Hispanic/Latino Pre-Trial 11/8/24 CBT A POD Released
+Barnstable 5466181 MA21141341 JBS21J2408265 White Not Hispanic/Latino Sentenced 11/8/24 FIRST STEPS Released
+Barnstable 3137965 MA10514346 JBS21J2408499 White Not Hispanic/Latino Pre-Trial 11/8/24 CBT A POD Currently Enrolled
+Barnstable 5634789 MA21268998 HBS21H2407965 Black/African American Not Hispanic/Latino Sentenced 11/12/24 SHOCK M POD Currently Enrolled
+Barnstable 2959247 MA10304490 JBS21J2306461 White Hispanic/Latino Sentenced 11/12/24 SHOCK M POD Released
+Barnstable 5650164 MA21286410 JBS21J2407852 White Hispanic/Latino Sentenced 11/12/24 SHOCK M POD Released
+Barnstable 3016041 MA10395905 JBS21J2407596 White Not Hispanic/Latino Sentenced 11/12/24 SHOCK M POD Released
+Barnstable 5038529 MA10616227 White Not Hispanic/Latino Sentenced 11/12/24 SHOCK M POD Participated
+Barnstable 2746915 MA10096152 HBS21H2408027 White Not Hispanic/Latino Sentenced 11/12/24 SHOCK M POD Currently Enrolled
+Barnstable 1942701 MA09604994 JBS21J2306669 Black/African American Not Hispanic/Latino Sentenced 11/12/24 SHOCK M POD Released
+Barnstable 5117796 MA10489839 JBS22J2407608 White Hispanic/Latino Sentenced 11/12/24 SHOCK M POD Currently Enrolled
+Barnstable 2442430 MA09994809 JBS21J2407796 White Not Hispanic/Latino Sentenced 11/12/24 SHOCK M POD Currently Enrolled
+Barnstable 5575898 MA21224233 JBS21J2408035 Black/African American Not Hispanic/Latino Sentenced 11/12/24 SHOCK M POD Currently Enrolled
+Barnstable 5272585 MA21016374 HBS21H2408270 Black/African American Not Hispanic/Latino Sentenced 11/12/24 SHOCK M POD Currently Enrolled
+Barnstable 838233 MA00677787 JBS2201805159 White Not Hispanic/Latino Sentenced 11/12/24 SHOCK M POD Released
+Barnstable 2649544 MA10027522 JBS21J2408219 White Not Hispanic/Latino Sentenced 11/12/24 SHOCK M POD Participated
+Barnstable 1752051 MA10021059 JBS21J2407488 Black/African American Not Hispanic/Latino Sentenced 11/12/24 SHOCK M POD Released
+Barnstable 2423129 MA10096260 HBS21H2407747 White Not Hispanic/Latino Sentenced 11/12/24 SHOCK M POD Currently Enrolled
+Barnstable 3183093 MA21067554 JBS21J2407895 White Not Hispanic/Latino Sentenced 11/12/24 SHOCK M POD Participated
+Barnstable 1033098 MA09009193 JBS21J2307214 Black/African American Not Hispanic/Latino Sentenced 11/12/24 SHOCK M POD Released
+Barnstable 3141019 MA10376624 HBS21H2307155 Black/African American Not Hispanic/Latino Sentenced 11/12/24 SHOCK M POD Released
+Barnstable 2810162 MA10316674 JBS21J2407544 White Not Hispanic/Latino Sentenced 11/12/24 SHOCK M POD Released
+Barnstable 3067171 MA10560469 HBS21H2307223 Black/African American Not Hispanic/Latino Sentenced 11/12/24 SHOCK M POD Currently Enrolled
+Barnstable 5484315 MA21154365 HBS21H2407648 White Not Hispanic/Latino Sentenced 11/12/24 SHOCK M POD Released
+Barnstable 2496006 MA09831831 JBS21J2407891 White Not Hispanic/Latino Sentenced 11/12/24 SHOCK M POD Participated
+Barnstable 1784440 MA10461427 HBS21H2407630 White Not Hispanic/Latino Sentenced 11/12/24 SHOCK M POD Released
+Barnstable 3129801 MA21072663 JBS21J2407837 Black/African American Not Hispanic/Latino Sentenced 11/12/24 SHOCK M POD Released
+Barnstable 3120394 MA10592451 JBS21J2407933 Other/Unknown Not Hispanic/Latino Sentenced 11/12/24 SHOCK M POD Participated
+Barnstable 1846923 MA10178159 JBS21J2408055 Black/African American Not Hispanic/Latino Sentenced 11/20/24 EDUCATION A POD Released
+Barnstable 2119299 MA09406414 JBS21J2408497 White Not Hispanic/Latino Sentenced 11/21/24 CBT H POD Released
+Barnstable 2468415 MA09820042 JBS22J2407588 White Not Hispanic/Latino Pre-Trial 11/21/24 EDUCATION C POD Currently Enrolled
+Barnstable 2512568 MA10004201 JBS21J2407945 White Not Hispanic/Latino Pre-Trial 11/29/24 EDUCATION C POD Participated
+Barnstable 5298553 MA21069781 JBS21J2408128 Black/African American Not Hispanic/Latino Sentenced 11/29/24 CBT A POD Participated
+Barnstable 1978688 MA09301054 HBS21H2408463 Black/African American Not Hispanic/Latino Sentenced 11/29/24 CBT A POD Participated
+Barnstable 1846923 MA10178159 JBS21J2408055 Black/African American Not Hispanic/Latino Sentenced 11/29/24 CBT A POD Released
+Barnstable 5523849 MA21285498 HBS21H2408498 White Not Hispanic/Latino Sentenced 11/29/24 CBT A POD Released
+Barnstable 5651854 MA21290390 JBS21J2408063 Black/African American Not Hispanic/Latino Sentenced 11/29/24 CBT A POD Participated
+Barnstable 5582012 MA21228520 JBS2201805656 White Not Hispanic/Latino Sentenced 11/29/24 CBT A POD Released
+Barnstable 5618468 MA21297388 JBS21J2408501 White Not Hispanic/Latino Pre-Trial 11/29/24 CBT A POD Released
+Barnstable 2735951 MA10172351 HBS21H2407687 Black/African American Not Hispanic/Latino Sentenced 11/29/24 CBT A POD Currently Enrolled
+Barnstable 1629953 MA10280350 HBS21H2408533 White Not Hispanic/Latino Sentenced 11/29/24 CBT A POD Participated
+Barnstable 5346634 MA21156171 JBS21J2408090 Black/African American Not Hispanic/Latino Pre-Trial 11/29/24 EDUCATION B POD Participated
+Barnstable 5608538 MA21102351 HBS21H2408298 White Not Hispanic/Latino Sentenced 11/29/24 CBT A POD Currently Enrolled
+Barnstable 2119299 MA09406414 JBS21J2408497 White Not Hispanic/Latino Sentenced 11/29/24 EDUCATION H POD Released
+Barnstable 2903465 MA10398268 JBS21J2407360 White Not Hispanic/Latino Pre-Trial 11/29/24 EDUCATION C POD Participated
+Barnstable 3090828 MA10462391 HBS21H2408458 Black/African American Not Hispanic/Latino Sentenced 11/29/24 CBT A POD Participated
+Barnstable 5556435 MA21224388 JBS21J2408323 White Not Hispanic/Latino Sentenced 12/4/24 EDUCATION J POD GED TUTORING Released
+Barnstable 5099903 MA10468765 JBS21J2408505 White Not Hispanic/Latino Pre-Trial 12/13/24 WTTP E POD Currently Enrolled
+Barnstable 5634789 MA21268998 HBS21H2407965 Black/African American Not Hispanic/Latino Sentenced 12/13/24 CBT A POD Participated
+Barnstable 5661970 MA21291703 JBS21J2408138 White Not Hispanic/Latino Pre-Trial 12/13/24 WTTP E POD Released
+Barnstable 5594575 MA21237501 JBS22J2408075 White Not Hispanic/Latino Sentenced 12/13/24 WTTP E POD Currently Enrolled
+Barnstable 5502483 MA21167897 JBS21J2407711 White Not Hispanic/Latino Pre-Trial 12/13/24 WTTP E POD Released
+Barnstable 2253925 MA09808952 HBS21H2408642 White Not Hispanic/Latino Sentenced 12/13/24 CBT A POD Currently Enrolled
+Barnstable 5656675 MA21287705 JBS22J2407925 White Not Hispanic/Latino Pre-Trial 12/13/24 WTTP E POD Currently Enrolled
+Barnstable 5650164 MA21286410 JBS21J2408649 White Hispanic/Latino Pre-Trial 12/13/24 EDUCATION A POD Participated
+Barnstable 470384 MA00810504 HBS21H2408450 Black/African American Not Hispanic/Latino Sentenced 12/13/24 CBT A POD Released
+Barnstable 2810162 MA10316674 JBS21J2407544 White Not Hispanic/Latino Sentenced 12/13/24 CBT A POD Released
+Barnstable 2690206 MA21077928 HBS21H2408226 White Not Hispanic/Latino Sentenced 12/13/24 EDUCATION J POD GED TUTORING Released
+Barnstable 2690206 MA21077928 HBS21H2408226 White Not Hispanic/Latino Sentenced 12/13/24 WTTP E POD Released
+Barnstable 5001465 MA21214555 HBS21H2408271 White Not Hispanic/Latino Sentenced 12/13/24 WTTP E POD Released
+Barnstable 2296030 MA10108137 JBS21J2408218 White Hispanic/Latino Sentenced 12/13/24 WTTP E POD Released
+Barnstable 2760354 MA10280692 JBS21J2306769 Black/African American Not Hispanic/Latino Sentenced 12/13/24 CBT A POD Currently Enrolled
+Barnstable 2760354 MA10280692 JBS21J2306769 Black/African American Not Hispanic/Latino Sentenced 12/13/24 EDUCATION A POD Currently Enrolled
+Barnstable 294645 MA10337805 JBS21J2408516 White Not Hispanic/Latino Sentenced 12/13/24 CBT A POD Participated
+Barnstable 5612058 MA21251426 JBS21J2407714 White Not Hispanic/Latino Pre-Trial 12/13/24 WTTP E POD Currently Enrolled
+Barnstable 5086719 MA10567841 JBS21J2408349 Black/African American Not Hispanic/Latino Pre-Trial 12/16/24 WTTP E POD Released
+Barnstable 5668684 MA21296561 JBS22J2408473 American Indian/Alaska Native Not Hispanic/Latino Pre-Trial 12/16/24 EDUCATION H POD Currently Enrolled
+Barnstable 5556435 MA21224388 JBS21J2408323 White Not Hispanic/Latino Sentenced 12/16/24 WTTP E POD Released
+Barnstable 2843444 MA10164519 HBS22H2408342 White Not Hispanic/Latino Sentenced 12/16/24 WTTP E POD Released
+Barnstable 1009183 MA09423767 JBS21J2408574 White Not Hispanic/Latino Pre-Trial 12/16/24 EDU C POD GED TUTORING/IS Released
+Barnstable 5533719 MA21211929 JBS21J2408379 Black/African American Not Hispanic/Latino Pre-Trial 12/16/24 EDUCATION H POD Currently Enrolled
+Barnstable 2821483 MA21128137 JBS21J2408216 White Not Hispanic/Latino Sentenced 12/16/24 WTTP E POD Released
+Barnstable 5608715 MA21248859 JBS21J2408304 White Not Hispanic/Latino Pre-Trial 12/16/24 WTTP E POD Currently Enrolled
+Barnstable 5525573 MA21186409 JBS21J2407410 Black/African American Not Hispanic/Latino Pre-Trial 12/17/24 EDUCATION B POD Currently Enrolled
+Barnstable 5317889 MA21034410 HBS22H2408618 White Not Hispanic/Latino Sentenced 12/19/24 EDUCATION A POD Participated
+Barnstable 5298553 MA21069781 JBS21J2408128 Black/African American Not Hispanic/Latino Sentenced 12/26/24 SHOCK M POD Currently Enrolled
+Page 15 of 16
+PROGRAMMING
+SHERIFF'S PROGRAM PARTICIPANT
+PCF SID OBTN RACE ETHNICITY ADMIT TYPE PROGRAM NAME
+OFFICE REGISTERED DATE STATUS
+Barnstable 1978688 MA09301054 HBS21H2408463 Black/African American Not Hispanic/Latino Sentenced 12/26/24 SHOCK M POD Currently Enrolled
+Barnstable 5651854 MA21290390 JBS21J2408063 Black/African American Not Hispanic/Latino Sentenced 12/26/24 SHOCK M POD Released
+Barnstable 470384 MA00810504 HBS21H2408450 Black/African American Not Hispanic/Latino Sentenced 12/26/24 SHOCK M POD Released
+Barnstable 3015619 MA10363040 JBS21J2408464 White Not Hispanic/Latino Sentenced 12/26/24 SHOCK M POD Released
+Barnstable 3090828 MA10462391 HBS21H2408458 Black/African American Not Hispanic/Latino Sentenced 12/26/24 SHOCK M POD Currently Enrolled
+Page 16 of 16
+[DELETED:  B R E JEDEDEISIFSDONREEYSe20M7J8WeHo1425352e19M9J6BnNo1e53M4J9WeNo1e50M1J0WeNo1e58M3J5BnNo1425357e24M2WeHo1e33M1J5WeHo1e53M5J4WeNo1475601e27M7J6WeNo1e56M5J3WeNo1e59M8J8WeNo1415102e24M9H2WeNo14251e52M8J0WeNo1e59M1J9BnNo1e54M5J1WeHo1e24M2J9WeNo1415903e55M5J5ArNo1e52M1J7WeNo1e56M0J2WeNo1416105eM2J8WeNo1e29M7J6WeNo1e24M5J3BnHo1e22M4WeNo1e21M9J9WeNo1e53M5J9WeNo1e51M3J1WeNo1485101e50M7J6WeNo1e32M3J4WeNo1e18M5J2WeNo1e15M8J8WeNo1e22M2J7WeNo1e32M0J5WeNo1e39M2J6WeNo1455902e81M5J3WeNo1e36M3J2ArNo1e22M6J1WeNo1e55M1H3BnNo1445351e30M9J6WeNo1425341e23M7J7WeHo1e25M5J8BnNo1e26M3J4WeHo1e56M2J6WeNo1e59M9J9BnNo1e57M4J1WeNo1e55M5J3WeNo1e59M8H2WeNo144510e51M1J5WeNo1415902e33M0J4WeHo1e28M0J5WeNo1e29M5J0OnNo1e30M3J9AeNo1413401e50M6J9WeNo1e17M2J2BnNo1485134e20M8J0WeNo1e25M9J5WeNo1e18M4J6BnNo1e27M6J1WeNo1e37M5J9WeNo1e29M8J7WeNo1e23M9H2WeNo14451e51M5J6BnNo1e51M7J8BnNo1e63M8J3WeNo1e55M5J3WeNo1e32M5J5WeNo14753e75M9J6WeNo1]
+[DELETED:  B R E JEDEDEISIFSDONREEYSe50M1J8BnNo1e38M8J7WeNo1e52M1J1WeNo1e59M8J0WeNo1e58M5J0WeNo1e33M7J9WeNo1e59M0J8WeNo1e57M3J5WeHo1e16M3J4WeNo1e53M2J9WeHo1e39M6J2AeNo143107e50M6J0WeHo1e23M6J7WeNo1e51M3J6WeNo1e58M1J3WeNo1e52J5ArNo1e51M0J3WeNo1e58M2J7WeNo1e55M3J6WeNo1415101e23M0J9WeNo1e68M4J8WeNo141e37M9WeNo1e51M5J2WeNo1e55M1J6WeNo1465101e53M1J8BnNo1415703e96M3J1WeNo1eM4J8WeNo1e21M2J7WeNo1e56M7J0WeNo1e52M9J1WeNo1e24M2J5WeNo1e34M2J9BnNo1e54M0J6BnNo14904eM3J4WeNo1e29M3J3WeNo1e26M6J2WeNo1e56M7J5WeHo1e26M2WeNo1e22M3WeNo1e36M5J5WeNo1e44M4H0BnNo1415e21M8J3WeNo1e51M5J2BnNo1e34M5J11e59M1J4WeNo1e17M4J9WeNo1e56M5J7WeNo1e38M1H8BnNo141590e23M2J0WeNo1e69M0H6WeNo1415351e11M3H1WeNo143e24M0H9WeNo14109e56M2H8OnNo1429e39M1J7WeNo1e24M1J1BnNo1e68M3J6WeNo1e18M4H3BnNo1425285e32M7J0WeNo1e39M0J4WeNo148102e25M4J7WeNo1e25M7J4BnNo1e20M9J6WeNo1417161e36M4J5WeHo1e24M3J9WeNo1e52M0J6WeNo1e54A1WeNo1]
+[DELETED:  B R E JEDEDEISIFSDONREEYSe53M3J8BnNo1e54M1J3AeNo1e50M4J2WeNo1e17M9J8WeNo1e32M6J1WeNo1e53M7J6WeNo1415104eM8J0WeNo1e56M1J9WeNo1e22M9J3WeNo1e52M3J2ArNo1e38M3J5BnNo1e58M8J1WeNo1e59M8H8WeNo1485103e35M6J9WeNo1e23M5J0WeNo1e25M5J2WeHo1e29M4J7WeNo148175e25M1J8WeNo1e53M5J5WeNo1e61M8J7WeNo1e53M6J6WeNo1e20M6J3BnNo1e21M8WeNo1e13M3J0AeNo1e59M5J5BnNo1e24M5J7WeNo1e34M3J7WeNo14101e26M6J4OnNo1e50M9J8WeHo1e32M5J5WeNo14753e21M0H1WeNo1420451e28M0J0BnNo1e29M7J4WeNo1e38M8J3WeNo1e46M3J8WeNo1e51M0J7WeHo1e31M2J0UeNo1e53M7J9WeNo1e31M2J6WeNo1e37M7J1WeNo1e11M4J2WeNo1e13M0H3WeNo1465356e29M4J7WeNo148175e23M7J0WeNo1e55WeNo1e25M3J9WeNo1e14M2J8WeNo1e17M9J5WeNo1e23M2J3WeNo1425103e33M6J3WeHo1e35M8J5WeNo1e21M3J2WeNo1e54M0J3BnNo1415351e52M4WeNo1e39M5J1WeNo1e55M8J3WeNo1445202e50M9J8WeNo1e53M2J9WeHo1e24M9J2WeNo1e57M5J7WeNo1e22M8J0WeNo1e55M7J6WeNo1e53M2J5BnNo1e23M7J6WeNo1415904e22M1J4WeNo146702e83M7J3WeNo1]
+[DELETED:  B R E JEDEDEISIFSDONREEYSe26M9J4WeNo1e20M0J1WeNo1e58M7J3WeHo1e36M5J9WeNo1e54M8J6WeNo1e59M4J8OnHo1e22M1J0WeNo1e27M7WeNo1e54M5J3BnNo1e10M4WeNo1e13M7J4WeNo1e27M7J5WeNo1e34M3J2WeNo1415101e55M4J2WeNo1e64M9J0WeNo1e28M0J7WeNo1e50M1J7WeNo145902e33M7J4WeNo1e34M6J3BnNo1e59M7J6OnNo1e39M0J4WeNo148102e51M0J7BnNo1e36M7J9WeNo1e55M5J3BnNo1e23M3J7WeNo1e25M8J5WeNo1e28M0WeNo1e27M2J6WeNo1e36M8J5BnNo1e53M6J7WeNo1e24M4J6WeNo1e23M7J9WeNo1e29M0J4WeNo1e29M6J8WeNo1e55M3J1WeNo1e35M0J4WeNo1e55M7WeNo1e56M5J2WeNo1e57M0J6BnNo1e20M7J9WeNo14595e54M0J6BnNo14904e24M1J5WeNo1e58M2J9WeNo1445205e59M0H8WeNo142901e58M2J0WeNo1e59M2BnNo1e28M6J4WeNo1e37M8J7BnNo1e27M7WeNo1e17A9WeNo1e58M9J4WeNo1e37M1J9WeNo1e32M5J0BnNo1e24M2J9BnNo14105e52M2J9WeNo1e55M9J2BnNo1e52M7J1WeNo1e55M0J0BnNo1e39M6J2AeNo143107e23M7J7WeNo1e25M5J6WeNo143351e59M6H6BnNo1405501e25M2H2WeNo142510e51M6J4WeNo1e15M9J3WeNo1e59M2J3BnNo1]
+[DELETED:  B R E JEDEDEISIFSDONREEYSe51M2J5WeNo1e54M0J9WeHo14304e22M1J8WeNo1e22M6ArNo1e26M1J1WeNo1e56M8J5WeNo1e66M1J2WeNo1e51M2J7WeNo1e52M3J3WeNo1e28M0J9BnNo14101e38M0J4WeNo1e24WeNo1e57M4J2WeNo14109e57M5J6WeNo1e22M8J1WeNo1eM5J8WeNo1e13M7J0WeNo1e23M5J7WeNo1e26M0J9WeNo1e29M1J8WeNo1e18M7J5UeNo1e52M0J3WeNo1e55M0J2WeHo1e26M7J0WeNo1e51M1J3WeNo1e21M2J1WeNo1e82M5J6WeNo1e24M1J1WeNo14603e34M9J4WeNo1e53M7J6WeNo1415104e57M3J3WeHo1e25M2J2WeNo1e18M7J9BnNo1e34M3J2WeNo1415101e30M7J8WeNo14101e52M3J6WeNo1e52M7J9WeNo1e26M4J7WeNo1e52M7J3WeNo1e27M9J0WeNo1e54M7J5WeNo1e58M1J6WeNo1e23M7J1WeNo14e52M6H2WeNo1451e27M0J7BnNo1e51M7J2WeNo1e36M5J1WeNo1e26M8J9OnNo1e34M7J0WeNo1e24M9WeNo1e28M4J0WeNo1e24M1J8WeNo1e37M6J6WeNo1e56M4J9WeNo1e32M3J1WeNo1e28M0J2BnNo1eM1H6WeNo1430e20M7J5WeNo1e20M9J3BnNo1e25M7J6WeNo1e52M5J0WeHo1e50M3J8WeNo1e28M2J1WeHo1e17F2WeNo1e37M9H2WeNo14184e53M0J5BnNo1]
+[DELETED:  B R E JEDEDEISIFSDONREEYSe54M0J9WeHo14304e28M2J9WeNo1e23M2J9BnHo1e59M1BnNo1e34M8BnNo1e10M8J2WeNo1e20M3J9WeNo14106e44M4H2BnNo1415e18M4J6BnNo1e57M7WeNo1e27M7J6WeNo1e59M9J2WeHo1e22M4J9WeNo1e56M6J8BnNo1eM2J8WeNo1e37M7J4WeNo1e57M1J5WeNo1e51M3J1WeNo1485101e59M8J1WeNo1e22M4WeNo1e15M2J0WeNo1e80M2J4WeNo1425511e32M2J5WeHo1e36M3J2ArNo1e33M0J6WeNo1e21M9J9WeNo1e57M1J6BnNo1e54M2J0WeNo1e30M9J6WeNo1425341e22M6J1WeNo1e11M8J2WeNo1e29M7J6WeNo1e33M1J5WeHo1e20M4H6WeNo14357e23M7J7WeHo1e32M5J7BnNo1e28M0J5WeNo1e51M5J8BnNo1e24M4J2WeNo1e55M2J3WeNo1e36M4J8WeHo1e17M2J2BnNo1485134e55M9J2WeNo1e20M6J2BnNo1e32M2J5WeNo1e63M8J4WeNo14602e38M5J9BnNo1e25M0J6BnNo1e37M5J9WeNo1e51M1J7BnNo1445107e22M1J9WeNo1e27M1J1WeNo1e81M5J3WeNo1e52M2J3WeNo1e25M9J4WeNo1e55M5J3WeNo1e36M4J8WeNo145282e10M3H4WeNo1410e50M1J8BnNo1e25M5J8BnNo1e58M5J0WeNo1e50M6J0WeHo1e52M1J1WeNo1e55M5J5ArNo1e25M9J5WeNo1e34M5J71]
+[DELETED:  B R E JEDEDEISIFSDONREEYSe26M4J5WeNo1e26M7J4WeNo1e27M8J2WeNo1e52J5ArNo1e31M8J8WeHo1e68M4J4WeNo14591e51M1J1WeNo1e24M6J9WeNo1e32M3J4WeNo1e52M6J4WeNo1e27M7J3WeNo1e52M1J4BnNo1e55M1J6WeNo1465101e24M5J3BnHo1e29M5J0OnNo1e29M8J7WeNo1e51M5J6BnNo1e50M7J6WeNo1e52M9J1WeNo1e51M1J7BnNo1e23M6J7WeNo1e16M3J4WeNo1eM4J8WeNo1e18M5J2WeNo1e10M7J1WeNo1e28M6J4BnNo1eM3J4WeNo1e58M1J6WeNo1e47M8J7WeNo1e26M3J4WeHo1e21M5J8WeNo1e24M2WeHo1e59M2J6WeNo1e26M0J0WeNo1e56M7J5WeHo1e20M8J0WeNo1e52M9J8WeNo1e26M5J0WeNo1e51M5J2BnNo1e38M8J7WeNo1e53M5J9WeNo1e56M3J7WeNo1e57M4J6WeNo1e57M4J1WeNo1e96M3J1WeNo1e37M9WeNo1e31M9J8WeNo1e28M1J2WeNo1410201e26M5H7WeNo145e25M4J7WeNo1e24M3J9WeNo1e25M7J4BnNo1e26M1J3WeNo1e59M5H9WeNo1453e54A1WeNo1eM8J0WeNo1e21M8J3WeNo1e24M6J2WeNo1475902e51M1J0WeNo1445103e26M5H2OnNo1451e22M2J7WeNo1e24M3H0WeNo1412103e17M9J8WeNo1e24M1J1BnNo1e21M8WeNo1e57M3J5WeHo1]
+[DELETED:  B R E JEDEDEISIFSDONREEYSe23M5J0WeNo1e59M1J4WeNo1e53M5J4WeNo1475601e56M7J0WeNo1e56M5J3WeNo1e58M1J3WeNo1e56M0J1WeNo1e22M8J3BnNo1e25M1J8WeNo1e56M5J7WeNo1e50M3J3WeNo146591e32M5J5WeNo14753e53M6J6WeNo1e55M0J5BnNo1e24M0H9WeNo14109e30M6J8WeNo1415902e55M5J3WeNo1e57M9H4WeNo14105e53M4J9WeNo1e17M4J9WeNo1e32M7J0WeNo1e51M7J8BnNo1e35M3H3WeNo1475701e51M6J9BnHo1e51M0J7WeHo1e38M3J5BnNo1e29M3J3WeNo1e59M8H2WeNo144510e20M6J3BnNo1e23M9H2WeNo14451e28M0J0BnNo1e29M4J7WeNo148175e32M6J1WeNo1e51M7J7BnNo1e24M5J7WeNo1e50M6J9WeNo1e54M0J3BnNo1415351e33M0J4WeHo1e51M0J3WeNo1e21M3H0WeNo1411919e54M0J2WeHo1415107eWeUe1e53M2J9WeHo1e31M2J0UeNo1e59M6J3WeNo1e21M2J7WeNo1e52M4WeNo1e25M3J9WeNo1e29M7J4WeNo1e21M7J0WeNo1e27M2T1WeNo1e53M2J5BnNo1e53M4J9WeNo1e22M0J2BnNo1e58M2J7WeNo1e39M5J1WeNo1e21M0H1WeNo1420451e56M0J2WeNo1416105e56M2J6WeNo1e46M3J8WeNo1e55M7J6WeNo1e51M3J9BnNo1e26M6J4OnNo1e24M2J9WeNo1415903e56M2H8OnNo1429e22M9J3WeNo1]
+[DELETED:  B R E JEDEDEISIFSDONREEYSe25M7J3WeNo1e53M2J9WeHo1e30M0H1BnNo1412e21M5J1WeNo1e56M7H4WeNo14508e20M0J1WeNo1e24M2J5WeNo1e24M0J5WeNo1e34M3J7WeNo14101e10M4WeNo1e37M1J5WeHo1e57M5J7WeNo1e52M1J7WeNo1e32M3J6WeNo1e11M4J2WeNo1e59M4J8OnHo1e55WeNo1e45M5J9WeNo1e23M8J7BnNo1410604e37M7J1WeNo1e27M6J1WeNo1e32M0J5WeNo1e59M7J6OnNo1e24M4J0WeNo1e36M5J9WeNo1e39M0J4WeNo148102e68M3J6WeNo1e24M3J9WeNo1e59M8J0WeNo1e50M9J8WeHo1e11M3H1WeNo143e36M7J9WeNo1e51M3J1WeNo1485101e27M7WeNo1e55M4J2WeNo1e26M2WeNo1e37M6WeNo1e51M0J7BnNo1e58M1J1WeNo1e15M3J6BnNo1e23M0J9WeNo1e24M5J7WeNo1415402e51M1J5WeNo1415902e39M2J6WeNo1455902e27M2J6WeNo1e55M1J6WeNo1465101e33M7J4WeNo1e64M9J0WeNo1e56M0J8BnNo1e59M5J5BnNo1e36M4J5WeHo1e55M3J6WeNo1415101e27M7J5WeNo1e54M0J6BnNo14904e61M8J7WeNo1e53M6J7WeNo1e36M5J5WeNo1e59M0J8WeNo1e52M0J6WeNo1e34M1J1WeNo1415107e23M2J0WeNo1e58M8J1WeNo1e59M7J6OnNo1e34M5J9WeNo1e31M3J7BnNo1415255e54M5J3BnNo1]
+[DELETED:  B R E JEDEDEISIFSDONREEYSe29M6J8WeNo1e17M2J2BnNo1485134e59M2BnNo1e20M7J8WeNo1420155e53M7J9WeNo1e21M3J2WeNo1e20M7J9WeNo14595e50M1J0WeNo1e39M6J2AeNo143107e38M6J2WeNo1415387e33M7J9WeNo1e26M9J4WeNo1e29M0J4WeNo1e52M2J9WeNo1e25M8J5WeNo1e55M9J2BnNo1e50M9J8WeNo1e51M2J5WeNo1e57M0J6BnNo1e32M5J5WeNo14753e52M7J1WeNo1e26M1J1WeNo1e34M2J9BnNo1e22M1J0WeNo1e22M8J0WeNo1e34M1J3OnNo1485352e26M7J0WeNo1e52M0J3WeNo1e82M5J6WeNo1e53M6J2WeNo1e34M3J2WeNo1415101e14M2J8WeNo1e53M7J6WeNo1415104e27M7WeNo1e24WeNo1e27M8J8WeNo1e24M1J5BnNo1427701e59M3J3WeNo1485103e55M5J3BnNo1e18M4J6BnNo1e24M1J5WeNo1e24M9J5WeNo1e52M6H4WeNo14152e23M7J6WeNo1415904e51M1J3WeNo1e22M4J4WeNo1420351e13M9J5BnNo1415102e27M9H9WeNo1414211e26M2J9AeNo1415101e28M6J4WeNo1e13M3J0AeNo1e38M8J6AeNo1e23M7J7WeNo1e75M9J6WeNo1e17M9J5WeNo1e37M1J9WeNo1e52M8J0WeNo1e36M5J1WeNo1e11M4J9BnNo1427716e66M1J2WeNo1e34M5J11e54M7J5WeNo1e23M5J2WeNo1429201e28M0J9BnNo14101e34M6J3BnNo1e44M4H0BnNo1415]
+[DELETED:  B R E JEDEDEISIFSDONREEYSe55M5H1WeNo1425451e59M1J9BnNo1e54M0J9WeHo14304e53M3J8BnNo1e55M5J8WeNo1e39M6J1WeNo1e24M4J6WeNo1e25M5J2WeHo1e56M4J9WeNo1e26M4J7WeNo1e28M2J9WeNo1e55M0H3BnHo1430908]
+[DELETED:  P PERESFSDONREEYAEPe34M1J1WeNoSd14FSRe25M0J6BnNoPl14FSRe32M2J5WeNoPl14FSRe59M2J6WeNoPl14FSRe30M6J8WeNoSd14FSRe24M6J9WeNoPl14FSRe58M6J4WeNoPl14FSCe56M0J1WeNoPl14FSRe51M1J0WeNoSd14EDRe29M1J8BnNoPl14CDRe59M1H7WeNoSd14WDCe59M5J0BnNoPl14CDCe21M0J8WeNoSd14SDPe25M2H7WeNoSd14EDCe66M3J7WeNoPl14FSPe29M5J4WeNoSd14SDRe52M1J4BnNoPl14FSRe35M3H3WeNoSd14ESPe58M3J5BnNoSd14ESPe55M4H0BnNoSd14ESPe58M1H8WeNoSd14EDPe57M8H1WeNoSd14ESCe23M5J2WeNoSd14SDRe14M2J8WeNoPl14HDRe54M2J2WeNoSd14HDRe20M7J8WeNoSd14HDRe23M7H7WeNoSd14HDRe35M1J3WeNoSd14HDCe55M1J6WeNoPl14HDRe56M6J0WeNoPl14HDCe26M3J4WeHoPl14CDRe51M1J0WeNoSd14CDRe30M9J6WeNoSd14SDRe63M8J4WeNoSd14CDRe11M5H6WeNoSd14CDCe26M5H2OnNoSd14CDRe32M7J2WeNoPl14CDCe21M6J4WeNoSd14CDPe68M0T0WeNoPl14EDCe54M2J7WeNoPl14EDCe17M2J2BnNoSd14CDRe34M5J7Pl14EDRe10M8J9BnNoSd14CDRe32M7J2WeNoPl14EDPe27M9H9WeNoSd14CDRe29M1J8BnNoPl14EDRe30M3J9AeNoSd14CDPe54M1J0BnNoPl14EDPe32M3J6WeNoPl14EDRe51M4J4WeHoPl14EDCe58M8J4WeNoSd14HDCe31M5J6WeNoSd14HDRe24M2J9WeNoSd14HDRe18M3J4BnNoSd14HDRe31M5J2BnNoPl14ESPe17M2J2BnNoSd14EDRe11M5H6WeNoSd14EDCe26M5H2OnNoSd14EDRe30M3J9AeNoSd14EDPe59M1H7WeNoSd14EDCe53M6J1BnNoPl14ESRe55M3J6WeNoSd14EDRe56M0J2WeNoSd14EDRe56M0J2WeNoSd14WDRe24M9H2WeNoSd14FSRe53M5J4WeNoSd14FSRe50M3J8WeNoPl14FSRe50M3J3WeNoSd14FSRe26M8H6WeNoSd14FSRe55M5H1WeNoSd14FSRe20M7J8WeHoSd14FSRe58M8J4WeNoSd14SDPe53M1J8BnNoSd14EDPe18M4H3BnNoSd14EDPe52M0J6WeNoSd14EDRe51M3J1WeNoSd14SDRe33M4J5WeNoSd14EDRe38M1H8BnNoSd14EDP]
+[DELETED:  P PERESFSDONREEYAEPe53M4H4WeNoSd14SDPe53M5J5WeNoPl14FSCe39M6J2AeNoPl14CDRe51M1J5WeNoSd14FSRe35M6J9WeNoPl14CDCe59M8H5BnNoSd14SDCe27M0J1WeHoSd14SDRe54M0J2WeHoSd14SDRe31M5J6WeNoSd14SDRe59M7WeNoSd14SDPe25M2H7WeNoSd14SDCe11M4J9BnNoSd14SDRe56M9J8WeHoSd14SDCe20M9J6WeNoSd14SDCe58M3J5BnNoSd14SDCe55M4H0BnNoSd14SDCe83M7J9WeNoSd14SDRe24M2J9WeNoSd14SDPe11M9J8BnNoSd14SDRe29M0H7WeNoSd14SDCe33M4J5WeNoSd14SDPe18M3J4BnNoSd14SDRe39M4H5BnNoSd14SDRe22M4J4WeNoSd14SDRe31M9H3BnNoSd14SDCe55M5H8WeNoSd14SDRe26M1J1WeNoSd14SDPe10M7H0WeNoSd14SDRe31M3J7BnNoSd14SDRe34M1J3OnNoSd14SDPe13M9J5BnNoSd14EDRe29M4J7WeNoSd14CDRe25M2J8WeNoPl14EDCe28M1J5WeNoPl14EDPe53M1J8BnNoSd14CDPe18M4H3BnNoSd14CDPe13M9J5BnNoSd14CDRe59M8H8WeNoSd14CDRe54M0J3BnNoSd14CDPe52M0J6WeNoSd14CDRe58M8J1WeNoPl14CDRe21M1H7BnNoSd14CDCe13M0H3WeNoSd14CDPe54M1J0BnNoPl14EDPe58M1H8WeNoSd14CDCe29M4J7WeNoSd14EDRe25M8J0WeNoPl14EDPe38M1H8BnNoSd14CDPe55M8J3WeNoSd14EGRe53M5J5WeNoPl14WDCe59M8H5BnNoSd14CDPe50M3J8WeNoPl14WDRe55M1J5WeNoSd14WDCe53M7J1WeNoPl14WDRe25M2H2WeNoSd14CDCe55M5J5WeNoPl14WDCe54M0J9WeHoPl14EDPe44M4H0BnNoSd14CDRe22M4J4WeNoSd14CDRe26M8H6WeNoSd14EGRe26M8H6WeNoSd14WDRe55M5H1WeNoSd14WDRe20M7J8WeHoSd14WDRe24M2J9BnNoSd14CDCe24M2J9BnNoSd14EDCe25M5J6WeNoSd14CDPe58M6J4WeNoPl14WDCe59M1J9BnNoPl14WDRe54M1J3AeNoPl14EDCe55M8J3WeNoSd14WDRe24M9H2WeNoSd14WDRe13M7J4WeNoPl14ESRe59M9J9BnNoPl14EDCe23M7J6WeNoSd14WDRe55M9J4WeNoPl14WDCe53M9J0BnNoPl14EDCe59M0H8WeNoSd14EDPe53M1J8BnNoSd14SDC]
+[DELETED:  P PERESFSDONREEYAEPe18M4H3BnNoSd14SDCe54M0J3BnNoSd14SDRe44M4H0BnNoSd14SDRe39M0J4WeNoSd14SDRe38M1H8BnNoSd14SDC]
+
+
+================================================================================
+
+Raw Text:
+Massachusetts Sheriffs’ Association
+Chapter 126, Section 40
+Quarterly Population Report
+Q4 2024
+Barnstable County
+Sheriff's Office
+Page 1 of 16
+
+Overview of Quarterly Population Report for the Individual Massachusetts Sheriffs' Offices
+In compliance with the Massachusetts General Laws, Part I, Title XVIII, Chapter 126, Section 40:
+Recording and reporting of data on population of jails and houses of correction
+Section 40. The sheriff shall record, without limitation, the following data for each person committed to
+a jail or house of correction: (i) probation central file number; (ii) fingerprint-based state identification
+number, if available; (iii) race and ethnicity; (iv) offense-based tracking number; (v) type of release; (vi)
+type of admission; (vii) length of sentence; (viii) jail credit from pretrial incarceration; (ix) earned time;
+(x) program participation and outcome during incarceration; (xi) case disposition; and (xii) bail amount
+or reason if no bail set.
+Aggregate data on the population of each jail and house of correction shall be assembled into a
+quarterly report with the reported data covering the entire quarterly period. The reports prepared by the
+sheriff shall contain no identifying information relating to an individual inmate or detainee.
+Each quarter the sheriff shall deliver the report from each jail and house of correction to the secretary
+of public safety and security, the house and senate chairs of the joint committee on the judiciary, the
+house and senate chairs of the joint committee on public safety and homeland security and the clerks
+of the house of representatives and the senate.
+This report was produced in partnership with the Executive Office of Public Safety & Security by
+utilizing data from the Commonwealth of Massachusetts Criminal Justice Cross-Tracking System.
+Data Definitions & Disclaimer:
+Probation Central File (PCF) Number: A number assigned for identification purposes to an individual by the
+Massachusetts Probation Service. The PCF is not supported by fingerprint-based identification.
+State Identification Number (SID): A unique ten-character alphanumerical identifier supported by fingerprint
+identification assigned to an individual by the Department of State Police through the Automated Fingerprint
+Identification System (AFIS). The SID is created upon the fingerprinting of a person by a Criminal Justice Agency.
+Offense-Based Tracking Number (OBTN): A unique identifier for a specific fingerprint/arrest/custody event that links
+the individual to fingerprints taken. An individual may have multiple OBTNs on file when they have multiple events.
+Disclaimer: The SID, PCF, and OBTN are generated during an individual’s first interaction with the criminal justice
+system. There is often a lag time before the FBI can produce these numbers and they are not immediately available
+during intake. Officers manually add this information once it is received, but some SIDs, PCFs, and OBTNs may not be
+included in this report due to when the data was extracted.
+Important Data Note:
+The statute requires three specific data points that are not owned by the Sheriffs' Offices. These three include: case
+disposition, bail amount, and reason if no bail set, which originate with the Trial Court. As such, the Sheriffs are
+unable to populate these fields. The MSA, in consultation with the Trial Court and EOPSS, are working to refine these
+metrics so that they can be retrieved from the Cross-Tracking System and reported on electronically.
+Page 2 of 16
+
+ADMISSIONS AND RELEASES
+LENGTH OF
+SHERIFF'S BOOKING RELEASE EARNED TIME JAIL CREDIT
+PCF SID OBTN RACE ETHNICITY SENTENCE IN
+OFFICE DATE DATE IN DAYS IN DAYS
+DAYS
+Barnstable 2296030 MA10108137 JBS21J2408218 White Hispanic/Latino 10/1/24 22.5 365 223
+Barnstable 1094129 MA09412449 JBS21J2408336 Black/African American Not Hispanic/Latino 10/1/24
+Barnstable 5045073 MA10399774 JBS21J2408339 White Not Hispanic/Latino 10/1/24
+Barnstable 5146610 MA21294781 JBS22J2408340 White Not Hispanic/Latino 10/1/24
+Barnstable 5575898 MA21224233 JBS21J2408035 Black/African American Not Hispanic/Latino 10/2/24 26.5 365 70
+Barnstable 2442394 MA09835082 White Hispanic/Latino 10/2/24
+Barnstable 3191043 MA21101031 JBS21J2408345 White Hispanic/Latino 10/2/24
+Barnstable 5099903 MA10468765 JBS21J2408274 White Not Hispanic/Latino 10/2/24 7.5 60 16
+Barnstable 2635107 MA10071417 JBS21J2408346 White Not Hispanic/Latino 10/2/24
+Barnstable 5248846 MA10656885 JBS21J2408343 White Not Hispanic/Latino 10/2/24
+Barnstable 5248239 MA10660398 JBS21J2408258 White Not Hispanic/Latino 10/2/24 17.5 180 23
+Barnstable 2843444 MA10164519 HBS22H2408342 White Not Hispanic/Latino 10/2/24 25 120
+Barnstable 5103412 MA10098188 JBS22J2408350 White Not Hispanic/Latino 10/3/24
+Barnstable 5086719 MA10567841 JBS21J2408349 Black/African American Not Hispanic/Latino 10/3/24
+Barnstable 5666304 MA21294935 JBS21J2408351 White Hispanic/Latino 10/3/24
+Barnstable 2649544 MA10027522 JBS21J2408219 White Not Hispanic/Latino 10/3/24 10.5 90 30
+Barnstable 5666405 MA21295085 JBS21J2408355 Asian/Pacific Islander Not Hispanic/Latino 10/4/24
+Barnstable 5660182 MA21291901 JBS21J2408357 White Not Hispanic/Latino 10/4/24
+Barnstable 5011536 MA10507590 JBS21J2408092 White Not Hispanic/Latino 10/4/24 16 120 56
+Barnstable MA21295082 JBS21J2408358 White Not Hispanic/Latino 10/4/24
+Barnstable 2572099 MA10028137 JBS21J2408356 White Not Hispanic/Latino 10/4/24
+Barnstable 2191874 MA09723515 JBS21J2408353 Black/African American Hispanic/Latino 10/4/24
+Barnstable 2978632 MA10582464 White Not Hispanic/Latino 10/4/24
+Barnstable 2670041 MA10042919 JBS21J2408369 White Not Hispanic/Latino 10/7/24
+Barnstable 5464883 MA21258825 JBS22J2408359 White Not Hispanic/Latino 10/7/24
+Barnstable 5120661 MA10492833 JBS21J2407851 White Not Hispanic/Latino 10/7/24 8.5 180 119
+Barnstable 5666490 MA21295247 JBS21J2408366 White Not Hispanic/Latino 10/7/24
+Barnstable 3003152 MA10363573 JBS23J2408364 White Not Hispanic/Latino 10/7/24
+Barnstable 1759208 MA09212455 JBS21J2408362 White Not Hispanic/Latino 10/7/24
+Barnstable 1998765 MA10310918 JBS21J2408368 White Not Hispanic/Latino 10/7/24
+Barnstable 2225962 MA10584792 JBS21J2408367 White Not Hispanic/Latino 10/7/24
+Barnstable 3104852 MA21206660 JBS21J2408365 White Not Hispanic/Latino 10/7/24
+Barnstable 3115519 MA21000072 JBS21J2408256 White Not Hispanic/Latino 10/8/24 5.5 90 28
+Barnstable 837111 MA09737325 JBS21J2408363 White Not Hispanic/Latino 10/8/24
+Barnstable 3129446 MA21020153 JBS21J2408372 Asian/Pacific Islander Not Hispanic/Latino 10/8/24
+Barnstable 2401282 MA10009146 JBS21J2408371 White Not Hispanic/Latino 10/8/24
+Barnstable 5357595 MA21154301 HBS21H2408373 Black/African American Not Hispanic/Latino 10/9/24 4.5 375 105
+Barnstable 3050770 MA10314289 JBS21J2407626 White Not Hispanic/Latino 10/9/24 22.5 374 187
+Barnstable 2795553 MA10552447 JBS21J2408377 White Hispanic/Latino 10/10/24
+Barnstable 2175615 MA09620235 JBS21J2408378 Black/African American Not Hispanic/Latino 10/10/24
+Barnstable 2626086 MA10016773 JBS21J2408374 White Hispanic/Latino 10/10/24
+Barnstable 5397466 MA21090112 JBS21J2408376 White Not Hispanic/Latino 10/10/24
+Barnstable 5533719 MA21211929 JBS21J2408379 Black/African American Not Hispanic/Latino 10/11/24
+Barnstable 5651007 MA21295584 JBS21J2408381 White Not Hispanic/Latino 10/11/24
+Barnstable 5572855 MA21221855 JBS21J2408383 White Not Hispanic/Latino 10/11/24
+Barnstable 5634419 MA21268598 HBS22H2408382 White Not Hispanic/Latino 10/11/24 4.5 180 6
+Barnstable 5466181 MA21141341 JBS21J2408265 White Not Hispanic/Latino 10/11/24 15 90 29
+Barnstable 3194833 MA21220820 JBS21J2408384 White Hispanic/Latino 10/11/24
+Barnstable 2903618 MA10550570 JBS21J2408375 White Not Hispanic/Latino 10/11/24
+Barnstable 2910889 MA10541945 JBS22J2408380 Other/Unknown Not Hispanic/Latino 10/11/24
+Barnstable 3151080 MA21026553 JBS21J2408279 American Indian/Alaska Native Not Hispanic/Latino 10/15/24 13 450 120
+Barnstable 5235110 MA10621566 JBS21J2408389 White Not Hispanic/Latino 10/15/24
+Barnstable 1764927 MA09130692 JBS22J2408222 Black/African American Not Hispanic/Latino 10/15/24 8.5 103 41
+Barnstable 2980480 MA21189068 JBS21J2408390 White Not Hispanic/Latino 10/15/24
+Barnstable 2789685 MA21279769 JBS21J2408385 White Not Hispanic/Latino 10/15/24
+Barnstable 1774078 MA09410454 JBS21J2408386 Black/African American Not Hispanic/Latino 10/15/24
+Barnstable 2370647 MA10001906 JBS21J2408401 White Not Hispanic/Latino 10/16/24
+Barnstable 3213337 MA21034785 JBS21J2408399 White Not Hispanic/Latino 10/16/24
+Barnstable 2349989 MA09751198 JBS21J2408397 White Not Hispanic/Latino 10/16/24
+Barnstable 2224113 MA09508709 HBS21H2408402 White Not Hispanic/Latino 10/16/24 4.5 180
+Barnstable 5453901 MA21133645 JBS21J2408396 Black/African American Not Hispanic/Latino 10/16/24
+Barnstable 5667501 MA21295847 JBS22J2408398 Black/African American Not Hispanic/Latino 10/16/24
+Barnstable 602913 MA00852218 JBS22J2408393 White Not Hispanic/Latino 10/16/24
+Barnstable 5583485 MA21229495 JBS21J2408403 White Not Hispanic/Latino 10/16/24
+Barnstable 3085752 MA10392785 JBS21J2408395 White Not Hispanic/Latino 10/16/24 75 36
+Barnstable 780265 MA00782359 JBS21J2408406 White Not Hispanic/Latino 10/17/24
+Page 3 of 16
+
+ADMISSIONS AND RELEASES
+LENGTH OF
+SHERIFF'S BOOKING RELEASE EARNED TIME JAIL CREDIT
+PCF SID OBTN RACE ETHNICITY SENTENCE IN
+OFFICE DATE DATE IN DAYS IN DAYS
+DAYS
+Barnstable 5221370 MA21295931 JBS21J2408408 Black/African American Not Hispanic/Latino 10/17/24
+Barnstable 3010148 MA10512018 JBS21J2408407 White Not Hispanic/Latino 10/17/24
+Barnstable 5212652 MA10652501 JBS21J2408411 White Not Hispanic/Latino 10/17/24
+Barnstable 5667509 MA21295878 JBS21J2408400 White Not Hispanic/Latino 10/17/24
+Barnstable 5489508 MA21158255 JBS21J2408410 White Not Hispanic/Latino 10/17/24
+Barnstable 3183453 MA10577107 JBS21J2408409 White Not Hispanic/Latino 10/17/24
+Barnstable 5280979 MA21002290 JBS21J2408418 White Not Hispanic/Latino 10/18/24
+Barnstable 5604307 MA21252343 JBS22J2408415 White Hispanic/Latino 10/18/24
+Barnstable 1967606 MA10656683 JBS22J2408414 White Not Hispanic/Latino 10/18/24
+Barnstable 5667753 MA21296022 JBS21J2408419 White Hispanic/Latino 10/18/24
+Barnstable 3166099 MA21057936 JBS21J2408412 American Indian/Alaska Native Not Hispanic/Latino 10/18/24 3 180 74
+Barnstable 5667750 MA21295946 JBS21J2408420 White Hispanic/Latino 10/18/24
+Barnstable 2747063 MA10070776 JBS21J2408417 White Not Hispanic/Latino 10/18/24
+Barnstable 5667661 MA21295963 JBS21J2408416 White Not Hispanic/Latino 10/18/24
+Barnstable 5578708 MA21226081 JBS21J2408413 White Not Hispanic/Latino 10/18/24
+Barnstable 5667972 JBS21J2408425 Asian/Pacific Islander Not Hispanic/Latino 10/21/24
+Barnstable 5653131 MA21284870 JBS21J2408423 White Not Hispanic/Latino 10/21/24
+Barnstable 5482368 MA21265372 JBS21J2408427 White Not Hispanic/Latino 10/21/24
+Barnstable 5434055 MA21138563 JBS21J2408046 White Not Hispanic/Latino 10/22/24 16.5 180 120
+Barnstable 2536833 MA10448000 JBS21J2408429 White Not Hispanic/Latino 10/22/24
+Barnstable 612048 MA00748674 JBS21J2408428 White Not Hispanic/Latino 10/22/24 180
+Barnstable 3200207 MA10639419 White Not Hispanic/Latino 10/23/24
+Barnstable 5615181 MA21253595 JBS21J2408432 White Not Hispanic/Latino 10/23/24
+Barnstable 5368985 MA21070821 JBS21J2407876 White Not Hispanic/Latino 10/23/24 6.5 180 132
+Barnstable 5298553 MA21069781 JBS21J2408128 Black/African American Not Hispanic/Latino 10/23/24 12.5 730 30
+Barnstable 966456 MA08902293 JBS21J2408431 White Not Hispanic/Latino 10/23/24
+Barnstable MA21296394 JBS21J2408438 White Not Hispanic/Latino 10/24/24
+Barnstable 2988971 MA10364292 JBS21J2408437 White Not Hispanic/Latino 10/24/24
+Barnstable 5662566 MA21291847 JBS21J2408440 White Not Hispanic/Latino 10/24/24
+Barnstable 5577472 MA21296439 JBS21J2408441 White Not Hispanic/Latino 10/24/24
+Barnstable 2874464 MA10194762 JBS21J2408435 White Not Hispanic/Latino 10/24/24
+Barnstable 3018864 MA10291212 JBS22J2408439 Black/African American Not Hispanic/Latino 10/24/24
+Barnstable 5343744 MA21171850 JBS21J2408436 Black/African American Not Hispanic/Latino 10/24/24 910 40
+Barnstable MA09922503 JBS21J2408444 White Not Hispanic/Latino 10/25/24
+Barnstable 2439979 MA10430683 JBS21J2408443 White Not Hispanic/Latino 10/25/24
+Barnstable 2157776 MA09438216 JBS21J2408442 White Not Hispanic/Latino 10/25/24
+Barnstable 5324996 MA21282637 JBS21J2408445 White Hispanic/Latino 10/28/24
+Barnstable 2331926 MA10627762 White Not Hispanic/Latino 10/28/24
+Barnstable 2248212 MA09922503 White Not Hispanic/Latino 10/28/24
+Barnstable 3177606 MA21064805 JBS21J2408455 White Not Hispanic/Latino 10/29/24
+Barnstable 470384 MA00810504 HBS21H2408450 Black/African American Not Hispanic/Latino 10/29/24 1155 7
+Barnstable 2974721 MA10471008 JBS21J2408453 White Not Hispanic/Latino 10/29/24
+Barnstable 5453901 MA21133645 JBS21J2408452 Black/African American Not Hispanic/Latino 10/29/24
+Barnstable 3009214 MA10244855 JBS21J2408451 10/29/24
+Barnstable 5648799 MA21281601 JBS21J2408454 White Not Hispanic/Latino 10/29/24
+Barnstable 1773027 MA10370624 JBS21J2408459 White Not Hispanic/Latino 10/30/24
+Barnstable 5321886 MA21037635 JBS21J2408457 White Not Hispanic/Latino 10/30/24
+Barnstable 3090828 MA10462391 HBS21H2408458 Black/African American Not Hispanic/Latino 10/30/24 13.5 910 2
+Barnstable 2857643 MA21037082 JBS21J2408460 White Not Hispanic/Latino 10/30/24
+Barnstable 619619 MA10212160 HBS21H2408456 White Not Hispanic/Latino 10/30/24 15 365 148
+Barnstable 1789081 MA10083083 HBS21H2408461 White Not Hispanic/Latino 10/30/24 30
+Barnstable 2246234 MA10204890 HBS21H2408469 White Not Hispanic/Latino 10/31/24 100 91
+Barnstable 5229746 MA10615642 HBS21H2408468 Other/Unknown Not Hispanic/Latino 10/31/24 2 90
+Barnstable 3186469 MA21017211 JBS21J2408467 White Not Hispanic/Latino 10/31/24
+Barnstable 2914264 MA10258521 JBS21J2408471 Black/African American Not Hispanic/Latino 10/31/24
+Barnstable 625068 MA00928573 JBS21J2408466 White Not Hispanic/Latino 10/31/24
+Barnstable 1978688 MA09301054 HBS21H2408463 Black/African American Not Hispanic/Latino 10/31/24 254.5 2048 59
+Barnstable 3099112 MA10417387 JBS21J2408470 White Not Hispanic/Latino 10/31/24
+Barnstable 3015619 MA10363040 JBS21J2408464 White Not Hispanic/Latino 10/31/24 8 120 26
+Barnstable 2474765 MA10013434 JBS22J2408477 White Not Hispanic/Latino 11/1/24
+Barnstable 2474765 MA21213847 JBS21J2408474 Black/African American Not Hispanic/Latino 11/1/24
+Barnstable 2442430 MA09994809 JBS21J2407796 White Not Hispanic/Latino 11/1/24 17 1066 128
+Barnstable 3024836 MA21062524 JBS21J2408475 White Hispanic/Latino 11/1/24
+Barnstable 2956064 MA10583363 JBS21J2408479 White Not Hispanic/Latino 11/1/24
+Barnstable 5324672 MA21040180 JBS21J2408476 White Not Hispanic/Latino 11/1/24
+Barnstable 5529814 AR4016491 White Not Hispanic/Latino 11/1/24
+Page 4 of 16
+
+ADMISSIONS AND RELEASES
+LENGTH OF
+SHERIFF'S BOOKING RELEASE EARNED TIME JAIL CREDIT
+PCF SID OBTN RACE ETHNICITY SENTENCE IN
+OFFICE DATE DATE IN DAYS IN DAYS
+DAYS
+Barnstable 5654993 MA21287463 JBS21J2408478 Black/African American Not Hispanic/Latino 11/1/24
+Barnstable 5668684 MA21296561 JBS22J2408473 American Indian/Alaska Native Not Hispanic/Latino 11/1/24
+Barnstable 5366230 MA21069124 JBS21J2408472 White Not Hispanic/Latino 11/1/24
+Barnstable 1831397 MA00907669 JBS21J2408488 White Not Hispanic/Latino 11/4/24
+Barnstable 3193702 MA21043506 JBS21J2408491 White Not Hispanic/Latino 11/4/24
+Barnstable 5424893 MA21297087 JBS21J2408496 White Not Hispanic/Latino 11/4/24 1.5 180 47
+Barnstable MA20021768 JBS21J2408490 White Not Hispanic/Latino 11/4/24
+Barnstable 551156 MA09911321 JBS21J2408489 White Not Hispanic/Latino 11/4/24
+Barnstable 2096992 MA09509679 JBS21J2408483 White Not Hispanic/Latino 11/4/24
+Barnstable 5669362 MA21297183 JBS22J2408492 Asian/Pacific Islander Not Hispanic/Latino 11/4/24
+Barnstable 3086218 MA10448633 JBS21J2408495 Black/African American Not Hispanic/Latino 11/4/24
+Barnstable 5618468 MA21297388 JBS21J2408501 White Not Hispanic/Latino 11/5/24
+Barnstable 5523849 MA21285498 HBS21H2408498 White Not Hispanic/Latino 11/5/24 8.5 180 30
+Barnstable 3137965 MA10514346 JBS21J2408499 White Not Hispanic/Latino 11/5/24
+Barnstable 2830773 MA10659325 JBS21J2408500 White Not Hispanic/Latino 11/5/24
+Barnstable 2806935 MA10126585 JBS21J2408502 White Hispanic/Latino 11/5/24
+Barnstable 2119299 MA09406414 JBS21J2408497 White Not Hispanic/Latino 11/5/24 8 1147 519
+Barnstable 2353605 MA10141191 JBS21J2408508 White Not Hispanic/Latino 11/6/24
+Barnstable 5099903 MA10468765 JBS21J2408505 White Not Hispanic/Latino 11/6/24
+Barnstable 644781 MA10370208 JBS21J2408507 White Not Hispanic/Latino 11/6/24
+Barnstable 5622353 MA21286056 JBS21J2408506 White Not Hispanic/Latino 11/6/24
+Barnstable 2325900 MA10030256 JBS21J2408503 Black/African American Not Hispanic/Latino 11/6/24
+Barnstable 2974721 MA10471008 White Not Hispanic/Latino 11/6/24
+Barnstable 1769903 MA09218193 JBS21J2408510 American Indian/Alaska Native Not Hispanic/Latino 11/6/24
+Barnstable 5352839 MA21150285 JBS21J2408515 Black/African American Not Hispanic/Latino 11/7/24
+Barnstable 2798404 MA10190885 JBS22J2408517 White Not Hispanic/Latino 11/7/24
+Barnstable 3177594 MA21020343 JBS21J2408187 White Not Hispanic/Latino 11/7/24 150 134
+Barnstable 2631416 MA21297486 JBS21J2408514 Other/Unknown Not Hispanic/Latino 11/7/24
+Barnstable 5346590 MA21055589 JBS21J2408518 White Hispanic/Latino 11/7/24
+Barnstable 3085752 MA10392785 JBS21J2408395 White Not Hispanic/Latino 11/7/24 75 36
+Barnstable 2114101 MA10078560 HBS21H2408521 White Not Hispanic/Latino 11/8/24 20 405 138
+Barnstable 2927278 MA10521930 JBS21J2408520 Black/African American Not Hispanic/Latino 11/8/24
+Barnstable 2107339 MA10032937 JBS21J2408524 White Not Hispanic/Latino 11/12/24
+Barnstable 3010148 MA10512018 JBS21J2408523 White Not Hispanic/Latino 11/12/24
+Barnstable 439126 MA00826643 JBS21J2408528 White Not Hispanic/Latino 11/12/24
+Barnstable 5651851 MA21297860 JBS21J2408527 White Hispanic/Latino 11/12/24
+Barnstable 3084171 MA10379452 JBS21J2408530 Unavailable Not Hispanic/Latino 11/12/24
+Barnstable 535213 MA10303887 JBS21J2408529 White Not Hispanic/Latino 11/12/24
+Barnstable 3084691 MA10551452 JBS21J2408536 White Not Hispanic/Latino 11/13/24
+Barnstable 3044157 MA10619927 JBS21J2408531 White Not Hispanic/Latino 11/13/24
+Barnstable 1080421 MA09014664 JBS21J2408532 White Not Hispanic/Latino 11/13/24
+Barnstable 1629953 MA10280350 HBS21H2408533 White Not Hispanic/Latino 11/13/24 6.5 365 62
+Barnstable 2119299 MA09406414 JBS21J2408497 White Not Hispanic/Latino 11/14/24 8 1147 519
+Barnstable 2709593 MA21069237 JBS21J2408540 White Not Hispanic/Latino 11/14/24
+Barnstable 5670365 White Not Hispanic/Latino 11/14/24
+Barnstable 2998015 MA10366523 JBS21J2408539 White Not Hispanic/Latino 11/14/24
+Barnstable 1592304 MA09613912 JBS21J2408538 White Not Hispanic/Latino 11/14/24
+Barnstable 1831397 MA00907669 JBS21J2408535 White Not Hispanic/Latino 11/14/24
+Barnstable 2238853 MA10387162 JBS22J2408493 White Not Hispanic/Latino 11/14/24 2.5 100 36
+Barnstable 3151853 MA21043306 JBS21J2408543 White Hispanic/Latino 11/15/24
+Barnstable 3019635 MA10401918 JBS21J2408545 White Not Hispanic/Latino 11/15/24
+Barnstable 2712521 MA10090683 JBS21J2408542 White Not Hispanic/Latino 11/15/24
+Barnstable 5651854 MA21290390 JBS21J2408063 Black/African American Not Hispanic/Latino 11/15/24 11.5 365 121
+Barnstable 5640502 MA21287164 White Not Hispanic/Latino 11/15/24
+Barnstable 3190369 MA21070485 JBS21J2408551 White Not Hispanic/Latino 11/18/24
+Barnstable 5556435 MA21224388 JBS21J2408323 White Not Hispanic/Latino 11/18/24 4.5 270 212
+Barnstable 5080230 MA21075519 JBS21J2408548 White Not Hispanic/Latino 11/18/24
+Barnstable 5667753 MA21296022 JBS21J2408549 White Hispanic/Latino 11/18/24
+Barnstable 2816724 MA10130409 JBS21J2408552 White Not Hispanic/Latino 11/18/24
+Barnstable 5484407 MA21268805 JBS21J2408557 White Not Hispanic/Latino 11/19/24
+Barnstable 2997662 MA21049588 JBS21J2408560 White Not Hispanic/Latino 11/19/24
+Barnstable 5488025 MA21293157 JBS21J2408556 White Not Hispanic/Latino 11/19/24
+Barnstable 5638053 MA21271282 JBS21J2408555 Black/African American Not Hispanic/Latino 11/19/24
+Barnstable 2821483 MA21128137 JBS21J2408216 White Not Hispanic/Latino 11/20/24 10.5 90 48
+Barnstable 2375152 MA10452041 JBS21J2408494 White Not Hispanic/Latino 11/20/24 6 730 278
+Barnstable 855223 MA00951117 JBS21J2408553 White Not Hispanic/Latino 11/20/24
+Page 5 of 16
+
+ADMISSIONS AND RELEASES
+LENGTH OF
+SHERIFF'S BOOKING RELEASE EARNED TIME JAIL CREDIT
+PCF SID OBTN RACE ETHNICITY SENTENCE IN
+OFFICE DATE DATE IN DAYS IN DAYS
+DAYS
+Barnstable 2012726 MA09613359 JBS21J2408564 White Not Hispanic/Latino 11/20/24
+Barnstable 2166810 MA10360040 JBS21J2408561 White Not Hispanic/Latino 11/20/24
+Barnstable 5670538 MA21298467 JBS21J2408563 White Hispanic/Latino 11/20/24
+Barnstable 3131356 MA10454015 JBS21J2408569 White Not Hispanic/Latino 11/21/24
+Barnstable 5537014 MA21196688 JBS21J2408566 White Not Hispanic/Latino 11/21/24
+Barnstable 5671119 MA21298504 JBS21J2408568 Other/Unknown Hispanic/Latino 11/21/24
+Barnstable 2418022 MA10560581 JBS21J2408570 White Not Hispanic/Latino 11/21/24
+Barnstable 2565347 MA09919817 White Not Hispanic/Latino 11/21/24
+Barnstable 5617484 MA21262965 JBS21J2408573 Black/African American Not Hispanic/Latino 11/22/24
+Barnstable 1058270 MA09994954 White Not Hispanic/Latino 11/22/24
+Barnstable 1009183 MA09423767 JBS21J2408574 White Not Hispanic/Latino 11/22/24
+Barnstable 2198737 MA10607407 JBS21J2408575 White Not Hispanic/Latino 11/22/24
+Barnstable 3177594 MA21020343 JBS21J2408572 White Not Hispanic/Latino 11/22/24 1.5 180 113
+Barnstable 5420605 MA21105804 JBS21J2408582 White Not Hispanic/Latino 11/25/24
+Barnstable 631824 MA00717109 JBS21J2408580 White Not Hispanic/Latino 11/25/24
+Barnstable 2811538 MA10303910 JBS21J2408577 White Not Hispanic/Latino 11/25/24
+Barnstable 5259230 MA21006781 JBS21J2408537 White Not Hispanic/Latino 11/25/24 5 90 26
+Barnstable 3145843 MA21235817 JBS21J2408584 White Not Hispanic/Latino 11/26/24
+Barnstable 3155814 MA10504296 JBS21J2408583 Black/African American Not Hispanic/Latino 11/26/24
+Barnstable 5392539 MA21086547 JBS21J2408586 Other/Unknown Not Hispanic/Latino 11/26/24
+Barnstable 3015619 MA10363040 JBS21J2408464 White Not Hispanic/Latino 11/26/24 8 120 26
+Barnstable 5149521 MA10625260 JBS21J2408587 Black/African American Not Hispanic/Latino 11/27/24
+Barnstable 3117866 MA10434617 JBS21J2408589 White Not Hispanic/Latino 11/27/24
+Barnstable 5572855 MA21221855 JBS21J2408593 Black/African American Not Hispanic/Latino 11/27/24
+Barnstable 2555323 MA10031143 JBS21J2408597 White Not Hispanic/Latino 11/29/24
+Barnstable 2678655 MA10081258 JBS21J2408595 White Not Hispanic/Latino 11/29/24
+Barnstable 2903618 MA10550570 White Not Hispanic/Latino 11/29/24
+Barnstable 2621427 MA10033572 JBS21J2408596 White Not Hispanic/Latino 11/29/24
+Barnstable 3211046 MA21299138 JBS21J2408605 Black/African American Not Hispanic/Latino 12/2/24
+Barnstable 5523383 MA21230896 JBS21J2408607 White Not Hispanic/Latino 12/2/24
+Barnstable 2905414 MA10207094 JBS21J2408606 White Not Hispanic/Latino 12/2/24
+Barnstable 2657943 MA10131427 JBS21J2408609 White Not Hispanic/Latino 12/2/24
+Barnstable 2960119 MA10429710 JBS21J2408604 White Not Hispanic/Latino 12/2/24
+Barnstable 2330289 MA10541976 JBS21J2408608 White Not Hispanic/Latino 12/2/24
+Barnstable 5434055 MA21138563 JBS21J2408611 White Not Hispanic/Latino 12/3/24
+Barnstable 3071735 MA10600730 JBS21J2408614 White Not Hispanic/Latino 12/3/24
+Barnstable 5375735 MA21195607 White Not Hispanic/Latino 12/3/24
+Barnstable 5051856 MA10469535 JBS21J2408612 White Not Hispanic/Latino 12/3/24
+Barnstable 5415937 MA21101680 JBS21J2408616 Black/African American Not Hispanic/Latino 12/4/24
+Barnstable 2582770 MA10124217 JBS21J2408519 White Not Hispanic/Latino 12/4/24 59 53
+Barnstable 5343744 MA21171850 JBS21J2408436 Black/African American Not Hispanic/Latino 12/4/24 910 40
+Barnstable 2826684 MA10204231 JBS21J2408615 White Not Hispanic/Latino 12/4/24
+Barnstable 5148178 MA21091022 JBS21J2408509 White Not Hispanic/Latino 12/5/24 4.5 270 50
+Barnstable 5317889 MA21034410 HBS22H2408618 White Not Hispanic/Latino 12/5/24 2 910 115
+Barnstable 5533878 MA21194152 JBS21J2408620 White Not Hispanic/Latino 12/6/24
+Barnstable 5282509 MA21060692 Black/African American Not Hispanic/Latino 12/6/24
+Barnstable 2271548 MA09622826 JBS21J2408624 White Not Hispanic/Latino 12/6/24
+Barnstable 3119787 MA10437098 JBS22J2408627 Black/African American Not Hispanic/Latino 12/6/24
+Barnstable 2565347 MA09919817 White Not Hispanic/Latino 12/6/24
+Barnstable 1933797 AZ16480169 White Not Hispanic/Latino 12/9/24
+Barnstable 5255918 MA10640389 JBS21J2408634 White Not Hispanic/Latino 12/9/24
+Barnstable 3098277 MA10390921 JBS21J2408629 White Not Hispanic/Latino 12/9/24
+Barnstable 3189772 MA10635935 JBS21J2408640 Black/African American Not Hispanic/Latino 12/9/24
+Barnstable 2760354 MA10280692 JBS21J2306769 Black/African American Not Hispanic/Latino 12/9/24 1090 526
+Barnstable 5599512 MA21290232 JBS21J2408639 White Not Hispanic/Latino 12/9/24
+Barnstable 5470755 MA21144859 JBS21J2408632 Black/African American Not Hispanic/Latino 12/9/24
+Barnstable 5100242 MA21299847 JBS21J2408631 White Not Hispanic/Latino 12/9/24
+Barnstable 562635 MA09015490 JBS21J2408630 Black/African American Not Hispanic/Latino 12/9/24
+Barnstable 3166099 MA21057936 JBS21J2408412 American Indian/Alaska Native Not Hispanic/Latino 12/10/24 3 180 74
+Barnstable 2686633 MA10301067 JBS21J2408637 White Not Hispanic/Latino 12/10/24
+Barnstable 294645 MA10337805 JBS21J2408516 White Not Hispanic/Latino 12/10/24 3 365 143
+Barnstable 5,590,299 MA21234336 HBS22H2408646 Black/African American Not Hispanic/Latino 12/10/24 0.5 540 165
+Barnstable 2253925 MA09808952 HBS21H2408642 White Not Hispanic/Latino 12/10/24 2.5 150 4
+Barnstable 5655001 MA21299876 JBS21J2408644 White Not Hispanic/Latino 12/10/24
+Barnstable 1018495 MA10416589 JBS21J2408643 White Not Hispanic/Latino 12/10/24
+Barnstable 5282509 MA21060692 JBS22J2408623 Black/African American Not Hispanic/Latino 12/10/24
+Page 6 of 16
+
+ADMISSIONS AND RELEASES
+LENGTH OF
+SHERIFF'S BOOKING RELEASE EARNED TIME JAIL CREDIT
+PCF SID OBTN RACE ETHNICITY SENTENCE IN
+OFFICE DATE DATE IN DAYS IN DAYS
+DAYS
+Barnstable 5655001 MA10137842 JBS21J2408645 White Not Hispanic/Latino 12/10/24
+Barnstable 5650164 MA21286410 JBS21J2408649 White Hispanic/Latino 12/11/24 360 49
+Barnstable 2598322 MA10367511 JBS21J2408648 White Not Hispanic/Latino 12/11/24
+Barnstable 2857002 MA10266996 Asian/Pacific Islander Not Hispanic/Latino 12/11/24
+Barnstable 2626866 MA21031071 JBS21J2408651 White Not Hispanic/Latino 12/11/24
+Barnstable 5635886 MA21270008 JBS21J2408655 White Not Hispanic/Latino 12/12/24
+Barnstable 630946 MA09419841 JBS21J2408652 White Not Hispanic/Latino 12/12/24
+Barnstable 5358271 MA21064132 JBS21J2408657 White Not Hispanic/Latino 12/12/24
+Barnstable 5351092 MA21064553 JBS21J2408653 White Not Hispanic/Latino 12/12/24
+Barnstable 2966618 MA10288100 JBS21J2408289 Black/African American Not Hispanic/Latino 12/12/24 180 163
+Barnstable 3091558 MA21198250 JBS22J2408654 White Not Hispanic/Latino 12/12/24
+Barnstable 2297494 White Not Hispanic/Latino 12/12/24
+Barnstable 5645467 MA21293604 JBS21J2408662 White Not Hispanic/Latino 12/13/24 180 94
+Barnstable 5380097 MA21300005 JBS21J2408666 White Not Hispanic/Latino 12/13/24
+Barnstable 2156942 MA10195608 JBS21J2408661 White Not Hispanic/Latino 12/13/24
+Barnstable MA21300065 JBS21J2408658 White Not Hispanic/Latino 12/13/24
+Barnstable 1013993 MA00951197 JBS21J2408660 White Not Hispanic/Latino 12/13/24
+Barnstable 2062653 MA09830745 JBS21J2408667 White Not Hispanic/Latino 12/13/24
+Barnstable 2761646 MA10146110 JBS21J2408659 White Not Hispanic/Latino 12/13/24
+Barnstable 2484589 MA09922231 JBS21J2408668 White Not Hispanic/Latino 12/13/24
+Barnstable 1040428 MA09451197 JBS21J2408665 Unavailable Not Hispanic/Latino 12/13/24
+Barnstable 5074852 MA10498660 JBS21J2408663 White Not Hispanic/Latino 12/13/24
+Barnstable 5360755 MA21065750 JBS21J2408672 White Hispanic/Latino 12/16/24
+Barnstable 2824676 MA10220627 JBS21J2408670 White Not Hispanic/Latino 12/16/24
+Barnstable 5058621 MA10469351 JBS21J2408673 White Not Hispanic/Latino 12/16/24
+Barnstable 2988971 MA10364292 JBS21J2408671 White Not Hispanic/Latino 12/16/24
+Barnstable 869822 MA08904685 JBS21J2408676 White Not Hispanic/Latino 12/17/24
+Barnstable 2791464 MA10592531 JBS21J2508681 White Not Hispanic/Latino 12/18/24 60 33
+Barnstable 3022214 MA21117549 JBS21J2408684 White Not Hispanic/Latino 12/18/24
+Barnstable 5424893 MA21297087 JBS21J2408496 White Not Hispanic/Latino 12/18/24 1.5 180 47
+Barnstable 5604307 MA21252343 JBS21J2408683 White Hispanic/Latino 12/18/24
+Barnstable 2622535 MA10018062 JBS21J2408682 White Not Hispanic/Latino 12/18/24
+Barnstable 1791258 MA09108157 JBS21J2408679 Black/African American Not Hispanic/Latino 12/18/24
+Barnstable 3177594 MA21020343 JBS21J2408572 White Not Hispanic/Latino 12/18/24 1.5 180 113
+Barnstable 353320 MA09843607 JBS21J2408688 White Not Hispanic/Latino 12/19/24 180 118
+Barnstable 5671982 MA21300553 JBS21J2408686 White Not Hispanic/Latino 12/19/24
+Barnstable 5230912 MA21246837 JBS22J2408689 White Not Hispanic/Latino 12/19/24
+Barnstable 2621866 MA10012374 JBS21J2408687 White Not Hispanic/Latino 12/19/24
+Barnstable 5489992 MA21158547 JBS21J2408693 White Not Hispanic/Latino 12/20/24
+Barnstable 2081067 MA09604989 JBS21J2408690 White Not Hispanic/Latino 12/20/24
+Barnstable 5523184 MA21184577 JBS21J2408695 White Not Hispanic/Latino 12/20/24
+Barnstable 5578708 MA21226081 JBS21J2408696 White Not Hispanic/Latino 12/20/24
+Barnstable 2821483 MA21128137 JBS21J2408691 White Not Hispanic/Latino 12/20/24 1
+Barnstable 5260962 MA21022786 HBS21H2408692 White Not Hispanic/Latino 12/20/24 5 180
+Barnstable 2712407 MA10230890 JBS21J2408697 Black/African American Not Hispanic/Latino 12/23/24
+Barnstable 5381021 MA21121517 JBS21J2408702 White Not Hispanic/Latino 12/23/24
+Barnstable 3131356 MA10454015 JBS21J2408701 White Not Hispanic/Latino 12/23/24
+Barnstable 2426966 MA10049288 JBS21J2408699 Other/Unknown Not Hispanic/Latino 12/23/24
+Barnstable 3213614 MA21062307 JBS21J2408700 White Not Hispanic/Latino 12/23/24
+Barnstable 2417104 MA09824479 White Not Hispanic/Latino 12/26/24
+Barnstable 2561248 MA10023994 JBS21J2408710 White Not Hispanic/Latino 12/26/24
+Barnstable 2826684 MA10204231 JBS21J2408708 White Not Hispanic/Latino 12/26/24
+Barnstable 3116267 MA21021436 JBS21J2408706 White Not Hispanic/Latino 12/26/24
+Barnstable 5597446 MA21239714 JBS21J2408709 White Not Hispanic/Latino 12/26/24
+Barnstable 353722 MA00735323 JBS21J2408711 White Not Hispanic/Latino 12/27/24
+Barnstable 2966618 MA10288100 JBS21J2408712 Black/African American Not Hispanic/Latino 12/27/24
+Barnstable MA21301011 HBS22H2408716 White Not Hispanic/Latino 12/27/24 30 1
+Barnstable 2341760 MA10094187 JBS22J2408715 White Not Hispanic/Latino 12/27/24
+Barnstable 2108770 MA09745839 JBS21J2408713 Black/African American Not Hispanic/Latino 12/27/24
+Barnstable 2469325 MA10189677 JBS21J2408726 White Not Hispanic/Latino 12/30/24
+Barnstable 5591002 MA21234905 JBS22J2408720 White Hispanic/Latino 12/30/24
+Barnstable 5554460 MA10380603 JBS21J2408718 White Not Hispanic/Latino 12/30/24
+Barnstable 2824618 MA10277672 JBS21J2408721 White Hispanic/Latino 12/30/24
+Barnstable 1759437 FL04541412 White Not Hispanic/Latino 12/30/24
+Barnstable 3170777 MA21090489 HBS21H2408722 White Not Hispanic/Latino 12/30/24 138 48
+Barnstable 5628933 MA21284990 JBS21J2408725 Black/African American Not Hispanic/Latino 12/30/24
+Page 7 of 16
+
+ADMISSIONS AND RELEASES
+LENGTH OF
+SHERIFF'S BOOKING RELEASE EARNED TIME JAIL CREDIT
+PCF SID OBTN RACE ETHNICITY SENTENCE IN
+OFFICE DATE DATE IN DAYS IN DAYS
+DAYS
+Barnstable 5650164 MA21286410 JBS21J2408649 White Hispanic/Latino 12/30/24 360 49
+Barnstable 2945138 MA10223702 JBS21J2408719 White Not Hispanic/Latino 12/30/24
+Barnstable 2343773 MA10090422 JBS23J2508729 Black/African American Hispanic/Latino 12/31/24
+Barnstable 50868719 MA10567841 Black/African American Not Hispanic/Latino 12/31/24
+Barnstable 3153294 MA10503938 Black/African American Not Hispanic/Latino 12/31/24
+Barnstable 1686630 MA10087668 JBS21J2408332 White Not Hispanic/Latino 10/1/24
+Barnstable 2305090 MA10053363 JBS21J2407629 White Not Hispanic/Latino 10/1/24 180 61
+Barnstable 470384 MA00810504 HBS21H2408282 Black/African American Not Hispanic/Latino 10/1/24 1155 7
+Barnstable 1978688 MA09301054 JBS21J2408326 Black/African American Not Hispanic/Latino 10/1/24
+Barnstable 5141727 MA10537707 White Not Hispanic/Latino 10/2/24
+Barnstable 2635107 MA10071417 JBS21J2408346 White Not Hispanic/Latino 10/3/24
+Barnstable 5435729 MA21285889 JBS21J2407822 White Hispanic/Latino 10/3/24
+Barnstable 2978632 MA10582464 JBS21J2408329 White Not Hispanic/Latino 10/3/24
+Barnstable 5171746 MA10551126 JBS21J2408058 Black/African American Not Hispanic/Latino 10/4/24
+Barnstable MA21295082 JBS21J2408358 White Not Hispanic/Latino 10/4/24
+Barnstable 3044157 MA10619927 JBS21J2407994 White Not Hispanic/Latino 10/4/24
+Barnstable 5598247 MA21240341 JBS22J2408255 White Not Hispanic/Latino 10/4/24
+Barnstable 5120661 MA10492833 JBS21J2407851 White Not Hispanic/Latino 10/7/24 8.5 180 119
+Barnstable 5293509 MA21207218 JBS21J2408281 White Not Hispanic/Latino 10/7/24
+Barnstable 2978632 MA10582464 White Not Hispanic/Latino 10/7/24
+Barnstable 1530955 MA10651802 JBS21J2408300 White Not Hispanic/Latino 10/7/24
+Barnstable 835830 MA00956192 JBS21J2306884 White Not Hispanic/Latino 10/8/24 2.5 591 128
+Barnstable 3145272 MA10618802 JBS21J2408295 White Hispanic/Latino 10/8/24
+Barnstable 3129446 MA21020153 JBS21J2408372 Asian/Pacific Islander Not Hispanic/Latino 10/8/24
+Barnstable 3111243 MA21070270 JBS21J2408286 White Not Hispanic/Latino 10/8/24
+Barnstable 2670041 MA10042919 JBS21J2408369 White Not Hispanic/Latino 10/8/24
+Barnstable 5502637 MA21168071 JBS2201805566 Black/African American Not Hispanic/Latino 10/8/24
+Barnstable 5497694 MA21231482 JBS21J2408310 White Not Hispanic/Latino 10/8/24
+Barnstable 3050770 MA10314289 JBS21J2407626 White Not Hispanic/Latino 10/9/24 22.5 374 187
+Barnstable 2401282 MA10009146 JBS21J2408371 White Not Hispanic/Latino 10/9/24
+Barnstable 1073651 MA10560748 JBS21J2408252 White Not Hispanic/Latino 10/9/24
+Barnstable 2572099 MA10028137 JBS21J2408356 White Not Hispanic/Latino 10/9/24
+Barnstable 3191043 MA21101031 JBS21J2408345 White Hispanic/Latino 10/10/24
+Barnstable 2356050 MA09711584 HBS21H2306436 White Not Hispanic/Latino 10/11/24 3.5 730
+Barnstable 2795553 MA10552447 JBS21J2408377 White Hispanic/Latino 10/11/24
+Barnstable 3189772 MA10635935 JBS21J2408257 Black/African American Not Hispanic/Latino 10/11/24
+Barnstable 2903618 MA10550570 JBS21J2408375 White Not Hispanic/Latino 10/14/24
+Barnstable 5453901 MA21133645 JBS21J2408018 Black/African American Not Hispanic/Latino 10/15/24
+Barnstable 2905414 MA10207094 JBS21J2408232 White Not Hispanic/Latino 10/15/24
+Barnstable 5078385 MA10441652 JBS21J2408303 White Not Hispanic/Latino 10/15/24
+Barnstable 3186566 MA21143554 JBS21J2408288 White Hispanic/Latino 10/15/24
+Barnstable 1764927 MA09130692 JBS22J2408222 Black/African American Not Hispanic/Latino 10/15/24 8.5 103 41
+Barnstable 5323475 MA21099899 JBS21J2407982 White Not Hispanic/Latino 10/16/24
+Barnstable 2923690 MA10296176 JBS21J2407642 Black/African American Not Hispanic/Latino 10/16/24
+Barnstable 3071322 MA10536312 JBS21J2408115 White Not Hispanic/Latino 10/16/24
+Barnstable 602913 MA00852218 JBS22J2408134 White Not Hispanic/Latino 10/16/24 60 25
+Barnstable 3114068 MA10604075 JBS21J2408229 Black/African American Not Hispanic/Latino 10/16/24
+Barnstable 2846435 MA10302690 JBS21J2408066 Black/African American Not Hispanic/Latino 10/16/24
+Barnstable 3213337 MA21034785 JBS21J2408399 White Not Hispanic/Latino 10/17/24
+Barnstable 5280331 MA21001801 JBS21J2407677 Black/African American Not Hispanic/Latino 10/17/24 4.5 180 75
+Barnstable 2375152 MA10452041 JBS21J2407729 White Not Hispanic/Latino 10/17/24
+Barnstable 2443207 MA10317621 JBS21J2408151 White Not Hispanic/Latino 10/17/24
+Barnstable 837111 MA09737325 JBS21J2408363 White Not Hispanic/Latino 10/17/24
+Barnstable 5599512 MA21290232 JBS22J2408053 White Not Hispanic/Latino 10/17/24
+Barnstable 2993975 MA10289999 JBS21J2408294 White Not Hispanic/Latino 10/18/24
+Barnstable 5583485 MA21229495 JBS21J2408403 White Not Hispanic/Latino 10/18/24
+Barnstable 3160976 MA10521614 JBS21J2407448 White Not Hispanic/Latino 10/18/24 5 298 28
+Barnstable 1957380 MA10236413 HBS22H2408144 White Not Hispanic/Latino 10/18/24 180 4
+Barnstable 5221370 MA21295931 JBS21J2408408 Black/African American Not Hispanic/Latino 10/18/24
+Barnstable 2175615 MA09620235 JBS21J2408378 Black/African American Not Hispanic/Latino 10/18/24
+Barnstable 5489508 MA21158255 JBS21J2408410 White Not Hispanic/Latino 10/18/24
+Barnstable 5667750 MA21295946 JBS21J2408420 White Hispanic/Latino 10/19/24
+Barnstable 5212652 MA10652501 JBS21J2408411 White Not Hispanic/Latino 10/21/24
+Barnstable 5666405 MA21295085 JBS21J2408355 Asian/Pacific Islander Not Hispanic/Latino 10/21/24
+Barnstable 2789685 MA21279769 JBS21J2408385 White Not Hispanic/Latino 10/21/24
+Barnstable 3009214 MA10244855 JBS21J2408247 10/21/24
+Page 8 of 16
+
+ADMISSIONS AND RELEASES
+LENGTH OF
+SHERIFF'S BOOKING RELEASE EARNED TIME JAIL CREDIT
+PCF SID OBTN RACE ETHNICITY SENTENCE IN
+OFFICE DATE DATE IN DAYS IN DAYS
+DAYS
+Barnstable 2601326 MA10132304 JBS21J2408335 White Not Hispanic/Latino 10/21/24
+Barnstable 2064056 MA09902287 JBS21J2408314 White Not Hispanic/Latino 10/21/24
+Barnstable 2423757 MA10307988 JBS21J2408302 White Not Hispanic/Latino 10/21/24
+Barnstable 5667972 JBS21J2408425 Asian/Pacific Islander Not Hispanic/Latino 10/22/24
+Barnstable 3192021 MA10611238 JBS21J2408168 White Hispanic/Latino 10/22/24
+Barnstable 612048 MA00748674 JBS21J2408184 White Not Hispanic/Latino 10/22/24 59 16
+Barnstable 5665301 MA21294141 JBS21J2408311 White Not Hispanic/Latino 10/22/24
+Barnstable 2891124 MA10184066 JBS21J2408199 White Not Hispanic/Latino 10/23/24
+Barnstable 3003152 MA10363573 JBS23J2408364 White Not Hispanic/Latino 10/23/24
+Barnstable 5467452 MA21215826 JBS21J2408054 White Not Hispanic/Latino 10/23/24
+Barnstable 2565347 MA09919817 JBS21J2408003 White Not Hispanic/Latino 10/23/24
+Barnstable 5600452 MA21242141 JBS21J2306574 Black/African American Not Hispanic/Latino 10/23/24
+Barnstable 5368985 MA21070821 JBS21J2407876 White Not Hispanic/Latino 10/23/24 6.5 180 132
+Barnstable 2191874 MA09723515 JBS21J2408353 Black/African American Hispanic/Latino 10/24/24
+Barnstable 2910889 MA10541945 JBS22J2408380 Other/Unknown Not Hispanic/Latino 10/24/24
+Barnstable 2349989 MA09751198 JBS21J2408397 White Not Hispanic/Latino 10/24/24
+Barnstable 5453901 MA21133645 JBS21J2408396 Black/African American Not Hispanic/Latino 10/24/24
+Barnstable 5666490 MA21295247 JBS21J2408366 White Not Hispanic/Latino 10/24/24
+Barnstable 5577472 MA21296439 JBS21J2408441 White Not Hispanic/Latino 10/25/24
+Barnstable 5515321 MA21202281 JBS21J2407917 Black/African American Not Hispanic/Latino 10/25/24
+Barnstable 2747063 MA10070776 JBS21J2408417 White Not Hispanic/Latino 10/25/24
+Barnstable 1967606 MA10656683 JBS22J2408414 White Not Hispanic/Latino 10/25/24
+Barnstable MA21296394 JBS21J2408438 White Not Hispanic/Latino 10/27/24
+Barnstable 1759208 MA09212455 JBS21J2408362 White Not Hispanic/Latino 10/28/24
+Barnstable 1936000 MA10448207 JBS21J2408331 White Not Hispanic/Latino 10/28/24
+Barnstable 2621238 MA09997966 JBS21J2407344 Black/African American Not Hispanic/Latino 10/28/24
+Barnstable MA09922503 JBS21J2408444 White Not Hispanic/Latino 10/28/24
+Barnstable 5553648 MA21240621 JBS22J2408106 White Not Hispanic/Latino 10/28/24
+Barnstable 441837 MA00847478 JBS21J2408317 White Not Hispanic/Latino 10/28/24
+Barnstable 2626086 MA10016773 JBS21J2408374 White Hispanic/Latino 10/28/24
+Barnstable 2266781 MA09994635 JBS21J2408248 White Not Hispanic/Latino 10/28/24
+Barnstable 2442394 MA09835082 White Hispanic/Latino 10/28/24
+Barnstable 545979 MA21147172 JBS22J2408136 White Not Hispanic/Latino 10/29/24
+Barnstable 2834536 MA10600140 JBS21J2408200 White Not Hispanic/Latino 10/29/24
+Barnstable 5324996 MA21282637 JBS21J2408445 White Hispanic/Latino 10/29/24
+Barnstable 2980480 MA21189068 JBS21J2408390 White Not Hispanic/Latino 10/29/24
+Barnstable 5052762 MA10408569 JBS21J2408328 White Not Hispanic/Latino 10/30/24
+Barnstable 2889526 MA10393955 JBS21J2408320 White Not Hispanic/Latino 10/30/24
+Barnstable 5453901 MA21133645 JBS21J2408452 Black/African American Not Hispanic/Latino 10/30/24
+Barnstable 3010148 MA10512018 JBS21J2408407 White Not Hispanic/Latino 10/30/24
+Barnstable 5464883 MA21258825 JBS22J2408359 White Not Hispanic/Latino 10/30/24
+Barnstable 5090266 MA21049823 JBS21J2407817 White Not Hispanic/Latino 10/30/24
+Barnstable 5645467 MA21293604 JBS21J2408276 White Not Hispanic/Latino 10/30/24
+Barnstable 5651007 MA21295584 JBS21J2408381 White Not Hispanic/Latino 10/31/24
+Barnstable 966456 MA08902293 JBS21J2408431 White Not Hispanic/Latino 10/31/24
+Barnstable 3200207 MA10639419 White Not Hispanic/Latino 10/31/24
+Barnstable 3036031 MA21292879 JBS21J2408198 White Not Hispanic/Latino 10/31/24
+Barnstable 2817928 MA10263561 JBS21J2407492 White Not Hispanic/Latino 11/1/24 10 270 148
+Barnstable 2822866 MA10390395 HBS21H2408267 White Not Hispanic/Latino 11/1/24 50
+Barnstable 2474765 MA10013434 JBS22J2408477 White Not Hispanic/Latino 11/2/24
+Barnstable 2189544 MA09836993 JBS21J2306299 White Not Hispanic/Latino 11/4/24
+Barnstable 2474765 MA21213847 JBS21J2408474 Black/African American Not Hispanic/Latino 11/4/24
+Barnstable 2964986 MA21210361 JBS21J2408333 White Not Hispanic/Latino 11/5/24
+Barnstable 5583159 MA21229325 HBS21H2407529 White Not Hispanic/Latino 11/5/24 5 365
+Barnstable 5529814 AR4016491 White Not Hispanic/Latino 11/5/24
+Barnstable MA20021768 JBS21J2408490 White Not Hispanic/Latino 11/5/24
+Barnstable 2974721 MA10471008 JBS21J2408453 White Not Hispanic/Latino 11/5/24
+Barnstable 2909964 MA10198446 JBS21J2206142 White Not Hispanic/Latino 11/5/24 7.5 910 239
+Barnstable 5568641 MA21283241 JBS21J2408150 White Not Hispanic/Latino 11/5/24 4.5 120 36
+Barnstable 2988996 MA10263775 HBS21H2408272 Other/Unknown Not Hispanic/Latino 11/5/24 5 180
+Barnstable 2225962 MA10584792 JBS21J2408367 White Not Hispanic/Latino 11/5/24
+Barnstable 2430944 MA09750903 HBS21H2407880 White Not Hispanic/Latino 11/6/24 12 180 38
+Barnstable 1831397 MA00907669 JBS21J2408488 White Not Hispanic/Latino 11/6/24
+Barnstable 2914264 MA10258521 JBS21J2408471 Black/African American Not Hispanic/Latino 11/6/24
+Barnstable 2974721 MA10471008 White Not Hispanic/Latino 11/6/24
+Barnstable 5604307 MA21252343 JBS22J2408415 White Hispanic/Latino 11/6/24
+Page 9 of 16
+
+ADMISSIONS AND RELEASES
+LENGTH OF
+SHERIFF'S BOOKING RELEASE EARNED TIME JAIL CREDIT
+PCF SID OBTN RACE ETHNICITY SENTENCE IN
+OFFICE DATE DATE IN DAYS IN DAYS
+DAYS
+Barnstable 2830773 MA10659325 JBS21J2408500 White Not Hispanic/Latino 11/6/24
+Barnstable 5648799 MA21281601 JBS21J2408454 White Not Hispanic/Latino 11/6/24
+Barnstable 5099903 MA10468765 JBS21J2408274 White Not Hispanic/Latino 11/6/24 7.5 60 16
+Barnstable 5662566 MA21291847 JBS21J2408440 White Not Hispanic/Latino 11/6/24
+Barnstable 5248846 MA10656885 JBS21J2408343 White Not Hispanic/Latino 11/6/24
+Barnstable 5578708 MA21226081 JBS21J2408413 White Not Hispanic/Latino 11/7/24
+Barnstable 5627306 MA21262950 JBS21J2408191 White Not Hispanic/Latino 11/7/24
+Barnstable 2953402 MA10363138 JBS21J2408043 Black/African American Not Hispanic/Latino 11/7/24
+Barnstable 2353605 MA10141191 JBS21J2408508 White Not Hispanic/Latino 11/7/24
+Barnstable 5321886 MA21037635 JBS21J2408457 White Not Hispanic/Latino 11/7/24
+Barnstable 5262810 MA10646923 JBS22J2408273 White Not Hispanic/Latino 11/7/24 6 59 14
+Barnstable 3085752 MA10392785 JBS21J2408395 White Not Hispanic/Latino 11/7/24 75 36
+Barnstable 5622353 MA21286056 JBS21J2408506 White Not Hispanic/Latino 11/7/24
+Barnstable 562635 MA09015490 JBS22J2408325 Black/African American Not Hispanic/Latino 11/8/24
+Barnstable 2246234 MA10204890 HBS21H2408469 White Not Hispanic/Latino 11/8/24 100 91
+Barnstable 3023230 MA10641986 JBS21J2408178 White Not Hispanic/Latino 11/8/24 10.5 90 24
+Barnstable 5572855 MA21221855 JBS21J2408383 White Not Hispanic/Latino 11/8/24
+Barnstable 5362177 MA21275429 HBS22H2407374 White Not Hispanic/Latino 11/8/24 10 540
+Barnstable 5414033 MA21086674 JBS21J2408169 White Not Hispanic/Latino 11/8/24
+Barnstable 1773027 MA10370624 JBS21J2408459 White Not Hispanic/Latino 11/8/24
+Barnstable 3099112 MA10417387 JBS21J2408470 White Not Hispanic/Latino 11/9/24
+Barnstable 5667501 MA21295847 JBS22J2408398 Black/African American Not Hispanic/Latino 11/11/24
+Barnstable 3078685 MA10344473 HBS22H2407643 White Not Hispanic/Latino 11/12/24 7.5 730 105
+Barnstable 5625691 MA21261686 JBS21J2306979 Black/African American Hispanic/Latino 11/12/24
+Barnstable 5651851 MA21297860 JBS21J2408527 White Hispanic/Latino 11/13/24
+Barnstable 3086218 MA10448633 JBS21J2408495 Black/African American Not Hispanic/Latino 11/13/24
+Barnstable 2439979 MA10430683 JBS21J2408443 White Not Hispanic/Latino 11/13/24
+Barnstable 5634419 MA21268598 HBS22H2408382 White Not Hispanic/Latino 11/13/24 4.5 180 6
+Barnstable 2325900 MA10030256 JBS21J2408503 Black/African American Not Hispanic/Latino 11/13/24
+Barnstable 2224113 MA09508709 HBS21H2408402 White Not Hispanic/Latino 11/13/24 4.5 180
+Barnstable 2927278 MA10521930 JBS21J2408520 Black/African American Not Hispanic/Latino 11/13/24
+Barnstable 2119299 MA09406414 JBS21J2408497 White Not Hispanic/Latino 11/14/24 8 1147 519
+Barnstable 3193702 MA21043506 JBS21J2408491 White Not Hispanic/Latino 11/14/24
+Barnstable 5017321 MA10381847 JBS21J2408277 Black/African American Not Hispanic/Latino 11/14/24
+Barnstable 2798404 MA10190885 JBS22J2408517 White Not Hispanic/Latino 11/14/24
+Barnstable 5235110 MA10621566 JBS21J2408389 White Not Hispanic/Latino 11/14/24
+Barnstable 5651854 MA21290390 JBS21J2408063 Black/African American Not Hispanic/Latino 11/15/24 11.5 365 121
+Barnstable 3194833 MA21220820 JBS21J2408384 White Hispanic/Latino 11/15/24
+Barnstable 5653131 MA21284870 JBS21J2408423 White Not Hispanic/Latino 11/15/24
+Barnstable 2103781 MA09820483 HBS21H2407700 White Not Hispanic/Latino 11/15/24 11 911 95
+Barnstable 5650164 MA21286410 JBS21J2407852 White Hispanic/Latino 11/15/24 11.5 180 70
+Barnstable White Unavailable 11/15/24
+Barnstable 5667753 MA21296022 JBS21J2408419 White Hispanic/Latino 11/16/24
+Barnstable 3084171 MA10379452 JBS21J2408530 Unavailable Not Hispanic/Latino 11/18/24
+Barnstable 5626219 MA21289566 JBS21J2408293 White Not Hispanic/Latino 11/18/24
+Barnstable 2988971 MA10364292 JBS21J2408437 White Not Hispanic/Latino 11/18/24
+Barnstable 5640502 MA21287164 White Not Hispanic/Latino 11/18/24
+Barnstable 2998015 MA10366523 JBS21J2408539 White Not Hispanic/Latino 11/18/24
+Barnstable 2107339 MA10032937 JBS21J2408524 White Not Hispanic/Latino 11/18/24
+Barnstable 2230001 MA09705127 JBS21J2408100 White Not Hispanic/Latino 11/19/24
+Barnstable 2661217 MA10216552 TBS21T2408221 White Not Hispanic/Latino 11/19/24
+Barnstable 5638053 MA21271282 JBS21J2408555 Black/African American Not Hispanic/Latino 11/19/24
+Barnstable 5045073 MA10399774 JBS21J2408339 White Not Hispanic/Latino 11/19/24
+Barnstable 2218242 MA10096420 JBS21J2408112 Black/African American Not Hispanic/Latino 11/19/24
+Barnstable 5482368 MA21265372 JBS21J2408427 White Not Hispanic/Latino 11/19/24
+Barnstable 3190369 MA21070485 JBS21J2408551 White Not Hispanic/Latino 11/19/24
+Barnstable 2114101 MA10078560 HBS21H2408521 White Not Hispanic/Latino 11/20/24 20 405 138
+Barnstable 5011536 MA10507590 JBS21J2408092 White Not Hispanic/Latino 11/20/24 16 120 56
+Barnstable 5397466 MA21090112 JBS21J2408376 White Not Hispanic/Latino 11/20/24
+Barnstable 439126 MA00826643 JBS21J2408528 White Not Hispanic/Latino 11/20/24
+Barnstable 5488025 MA21293157 JBS21J2408556 White Not Hispanic/Latino 11/20/24
+Barnstable 5540951 MA21177813 JBS21J2408069 Black/African American Not Hispanic/Latino 11/20/24
+Barnstable 2631416 MA21297486 JBS21J2408514 Other/Unknown Not Hispanic/Latino 11/20/24
+Barnstable 2649544 MA10027522 JBS21J2408219 White Not Hispanic/Latino 11/20/24 10.5 90 30
+Barnstable 5229746 MA10615642 HBS21H2408468 Other/Unknown Not Hispanic/Latino 11/20/24 2 90
+Barnstable 2096992 MA09509679 JBS21J2408483 White Not Hispanic/Latino 11/21/24
+Page 10 of 16
+
+ADMISSIONS AND RELEASES
+LENGTH OF
+SHERIFF'S BOOKING RELEASE EARNED TIME JAIL CREDIT
+PCF SID OBTN RACE ETHNICITY SENTENCE IN
+OFFICE DATE DATE IN DAYS IN DAYS
+DAYS
+Barnstable 2920955 MA21287667 JBS21J2407923 White Not Hispanic/Latino 11/21/24
+Barnstable 5667753 MA21296022 JBS21J2408549 White Hispanic/Latino 11/21/24
+Barnstable 3132310 MA10499170 HBS21H2407551 Black/African American Not Hispanic/Latino 11/21/24 1 270
+Barnstable 2202801 MA09717935 JBS21J2407831 White Not Hispanic/Latino 11/22/24
+Barnstable 5492776 MA21240877 HBS21H2407474 White Not Hispanic/Latino 11/22/24 540 86
+Barnstable 2166810 MA10360040 JBS21J2408561 White Not Hispanic/Latino 11/22/24
+Barnstable 2874464 MA10194762 JBS21J2408435 White Not Hispanic/Latino 11/22/24
+Barnstable 2590524 MA21273900 JBS21J2407715 White Not Hispanic/Latino 11/22/24
+Barnstable 3177594 MA21020343 JBS21J2408187 White Not Hispanic/Latino 11/22/24 150 134
+Barnstable 1058270 MA09994954 White Not Hispanic/Latino 11/22/24
+Barnstable 3219507 MA21289731 JBS21J2408135 White Hispanic/Latino 11/22/24
+Barnstable 5484407 MA21268805 JBS21J2408557 White Not Hispanic/Latino 11/24/24
+Barnstable 5660182 MA21291901 JBS21J2408357 White Not Hispanic/Latino 11/25/24
+Barnstable 353722 MA00735323 JBS21J2408316 White Not Hispanic/Latino 11/25/24
+Barnstable 1080421 MA09014664 JBS21J2408532 White Not Hispanic/Latino 11/25/24
+Barnstable 5671119 MA21298504 JBS21J2408568 Other/Unknown Hispanic/Latino 11/25/24
+Barnstable 5670365 White Not Hispanic/Latino 11/25/24
+Barnstable 486445 MA00833845 JBS21J2408189 White Not Hispanic/Latino 11/25/24
+Barnstable 2500723 MA10148188 JBS22J2407587 Black/African American Not Hispanic/Latino 11/25/24 10 600 42
+Barnstable 3044157 MA10619927 JBS21J2408531 White Not Hispanic/Latino 11/25/24
+Barnstable 2370647 MA10001906 JBS21J2408401 White Not Hispanic/Latino 11/25/24
+Barnstable 3104852 MA21206660 JBS21J2408365 White Not Hispanic/Latino 11/25/24
+Barnstable 5392539 MA21086547 JBS22J2408186 Other/Unknown Not Hispanic/Latino 11/25/24
+Barnstable 2315284 MA10528644 JBS21J2408190 White Not Hispanic/Latino 11/26/24
+Barnstable 3131356 MA10454015 JBS21J2408569 White Not Hispanic/Latino 11/26/24
+Barnstable 3015619 MA10363040 JBS21J2408464 White Not Hispanic/Latino 11/26/24 8 120 26
+Barnstable 625068 MA00928573 JBS21J2408466 White Not Hispanic/Latino 11/26/24
+Barnstable 2956064 MA10583363 JBS21J2408479 White Not Hispanic/Latino 11/26/24
+Barnstable 5667509 MA21295878 JBS21J2408400 White Not Hispanic/Latino 11/26/24
+Barnstable 5346590 MA21055589 JBS21J2408518 White Hispanic/Latino 11/26/24
+Barnstable 1789081 MA10083083 HBS21H2408461 White Not Hispanic/Latino 11/27/24 30
+Barnstable 3117866 MA10434617 JBS21J2408589 White Not Hispanic/Latino 11/27/24
+Barnstable 5120661 MA10492833 JBS21J2407851 White Not Hispanic/Latino 11/27/24 8.5 180 119
+Barnstable 2565347 MA09919817 White Not Hispanic/Latino 11/27/24
+Barnstable 5420605 MA21105804 JBS21J2408582 White Not Hispanic/Latino 11/29/24
+Barnstable 2331926 MA10627762 White Not Hispanic/Latino 11/29/24
+Barnstable 3116267 MA21021436 White Not Hispanic/Latino 12/1/24
+Barnstable 5149521 MA10625260 JBS21J2408587 Black/African American Not Hispanic/Latino 12/2/24
+Barnstable 5340578 MA21294511 JBS21J2408321 White Not Hispanic/Latino 12/2/24
+Barnstable 1763735 MA09200263 JBS21J2307216 Black/African American Not Hispanic/Latino 12/2/24
+Barnstable 2536833 MA10448000 JBS21J2408429 White Not Hispanic/Latino 12/2/24
+Barnstable 2661104 MA10067835 JBS21J2407717 White Not Hispanic/Latino 12/2/24 18.5 400 260
+Barnstable 5466181 MA21141341 JBS21J2408265 White Not Hispanic/Latino 12/2/24 15 90 29
+Barnstable 3115519 MA21000072 JBS21J2408256 White Not Hispanic/Latino 12/2/24 5.5 90 28
+Barnstable 2621427 MA10033572 JBS21J2408596 White Not Hispanic/Latino 12/2/24
+Barnstable 5368985 MA21070821 JBS21J2407876 White Not Hispanic/Latino 12/2/24 6.5 180 132
+Barnstable 3145843 MA21235817 JBS21J2408584 White Not Hispanic/Latino 12/3/24
+Barnstable 631824 MA00717109 JBS21J2408580 White Not Hispanic/Latino 12/3/24
+Barnstable 5586966 MA21231970 JBS21J2408078 Black/African American Not Hispanic/Latino 12/3/24
+Barnstable 5352839 MA21150285 JBS21J2408515 Black/African American Not Hispanic/Latino 12/3/24
+Barnstable 3024836 MA21062524 JBS21J2408475 White Hispanic/Latino 12/3/24
+Barnstable 5434055 MA21138563 JBS21J2408046 White Not Hispanic/Latino 12/3/24 16.5 180 120
+Barnstable 2198737 MA10607407 JBS21J2408575 White Not Hispanic/Latino 12/3/24
+Barnstable 5343744 MA21171850 JBS21J2408436 Black/African American Not Hispanic/Latino 12/4/24 910 40
+Barnstable 644781 MA10370208 JBS21J2408507 White Not Hispanic/Latino 12/4/24
+Barnstable 5523383 MA21230896 JBS21J2408607 White Not Hispanic/Latino 12/4/24
+Barnstable 3177606 MA21064805 JBS21J2408455 White Not Hispanic/Latino 12/4/24
+Barnstable 5280979 MA21002290 JBS21J2408418 White Not Hispanic/Latino 12/4/24
+Barnstable 5324672 MA21040180 JBS21J2408476 White Not Hispanic/Latino 12/4/24
+Barnstable 3153194 MA10503901 JBS21J2407931 White Not Hispanic/Latino 12/4/24 19.5 180 77
+Barnstable 2857643 MA21037082 JBS21J2408460 White Not Hispanic/Latino 12/4/24
+Barnstable 5618468 MA21297388 JBS21J2408501 White Not Hispanic/Latino 12/4/24
+Barnstable 5392539 MA21086547 JBS21J2408586 Other/Unknown Not Hispanic/Latino 12/5/24
+Barnstable 3077994 MA10358485 JBS21J2408299 White Not Hispanic/Latino 12/5/24
+Barnstable 3129801 MA21072663 JBS21J2407837 Black/African American Not Hispanic/Latino 12/5/24 15 205 59
+Barnstable 5617484 MA21262965 JBS21J2408573 Black/African American Not Hispanic/Latino 12/5/24
+Page 11 of 16
+
+ADMISSIONS AND RELEASES
+LENGTH OF
+SHERIFF'S BOOKING RELEASE EARNED TIME JAIL CREDIT
+PCF SID OBTN RACE ETHNICITY SENTENCE IN
+OFFICE DATE DATE IN DAYS IN DAYS
+DAYS
+Barnstable 2330289 MA10541976 JBS21J2408608 White Not Hispanic/Latino 12/5/24
+Barnstable 1764927 MA09130692 JBS22J2408222 Black/African American Not Hispanic/Latino 12/6/24 8.5 103 41
+Barnstable 5282509 MA21060692 Black/African American Not Hispanic/Latino 12/6/24
+Barnstable 2432300 MA09752927 JBS21J2407388 White Not Hispanic/Latino 12/9/24 20 1275 563
+Barnstable 535213 MA10303887 JBS21J2408529 White Not Hispanic/Latino 12/9/24
+Barnstable 2712521 MA10090683 JBS21J2408542 White Not Hispanic/Latino 12/9/24
+Barnstable 2582770 MA10124217 JBS21J2408519 White Not Hispanic/Latino 12/9/24 59 53
+Barnstable 5146610 MA21294781 JBS22J2408340 White Not Hispanic/Latino 12/10/24
+Barnstable 3166099 MA21057936 JBS21J2408412 American Indian/Alaska Native Not Hispanic/Latino 12/10/24 3 180 74
+Barnstable 3164038 MA10634976 JBS21J2407602 White Not Hispanic/Latino 12/10/24 13.5 318 70
+Barnstable 3183453 MA10577107 JBS21J2408409 White Not Hispanic/Latino 12/10/24
+Barnstable 2012726 MA09613359 JBS21J2408564 White Not Hispanic/Latino 12/10/24
+Barnstable 2960119 MA10429710 JBS21J2408604 White Not Hispanic/Latino 12/11/24
+Barnstable 5599512 MA21290232 JBS21J2408639 White Not Hispanic/Latino 12/12/24
+Barnstable 2678655 MA10081258 JBS21J2408595 White Not Hispanic/Latino 12/12/24
+Barnstable 5470755 MA21144859 JBS21J2408632 Black/African American Not Hispanic/Latino 12/12/24
+Barnstable 5080230 MA21075519 JBS21J2408548 White Not Hispanic/Latino 12/12/24
+Barnstable 5655001 MA10137842 JBS21J2408645 White Not Hispanic/Latino 12/13/24
+Barnstable 5415937 MA21101680 JBS21J2408616 Black/African American Not Hispanic/Latino 12/13/24
+Barnstable 3085752 MA10392785 JBS21J2408395 White Not Hispanic/Latino 12/13/24 75 36
+Barnstable 5100242 MA21299847 JBS21J2408631 White Not Hispanic/Latino 12/16/24
+Barnstable 2626866 MA21031071 JBS21J2408651 White Not Hispanic/Latino 12/16/24
+Barnstable 3018864 MA10291212 JBS22J2408439 Black/African American Not Hispanic/Latino 12/16/24
+Barnstable 2418022 MA10560581 JBS21J2408570 White Not Hispanic/Latino 12/16/24
+Barnstable 2997662 MA21049588 JBS21J2408560 White Not Hispanic/Latino 12/17/24
+Barnstable 3120394 MA10592451 JBS21J2407933 Other/Unknown Not Hispanic/Latino 12/17/24 8.5 365 256
+Barnstable 2824676 MA10220627 JBS21J2408670 White Not Hispanic/Latino 12/17/24
+Barnstable 5074852 MA10498660 JBS21J2408663 White Not Hispanic/Latino 12/17/24
+Barnstable 869822 MA08904685 JBS21J2408676 White Not Hispanic/Latino 12/18/24
+Barnstable 5377563 MA21085206 JBS21J2408322 White Not Hispanic/Latino 12/18/24
+Barnstable 3177594 MA21020343 JBS21J2408572 White Not Hispanic/Latino 12/18/24 1.5 180 113
+Barnstable 1592304 MA09613912 JBS21J2408538 White Not Hispanic/Latino 12/18/24
+Barnstable 5424893 MA21297087 JBS21J2408496 White Not Hispanic/Latino 12/18/24 1.5 180 47
+Barnstable 2565347 MA09919817 White Not Hispanic/Latino 12/18/24
+Barnstable 2297494 White Not Hispanic/Latino 12/19/24
+Barnstable 2378367 MA10054188 JBS21J2408188 White Not Hispanic/Latino 12/19/24
+Barnstable 2712674 MA10045301 JBS21J2306975 Black/African American Not Hispanic/Latino 12/19/24 27 730 121
+Barnstable 5226359 MA21000623 JBS21J2408193 White Not Hispanic/Latino 12/19/24 8.5 180 32
+Barnstable 5572855 MA21221855 JBS21J2408593 Black/African American Not Hispanic/Latino 12/19/24
+Barnstable 1774078 MA09410454 JBS21J2408386 Black/African American Not Hispanic/Latino 12/19/24
+Barnstable 2826684 MA10204231 JBS21J2408615 White Not Hispanic/Latino 12/20/24
+Barnstable 2417104 MA09824479 JBS21J2408275 White Not Hispanic/Latino 12/20/24
+Barnstable 5260962 MA21022786 HBS21H2408154 White Not Hispanic/Latino 12/20/24 16.5 270
+Barnstable 2821483 MA21128137 JBS21J2408216 White Not Hispanic/Latino 12/20/24 10.5 90 48
+Barnstable 5058621 MA10469351 JBS21J2408673 White Not Hispanic/Latino 12/20/24
+Barnstable 2810162 MA10316674 JBS21J2407544 White Not Hispanic/Latino 12/20/24 20 365 113
+Barnstable 1846923 MA10178159 JBS21J2408055 Black/African American Not Hispanic/Latino 12/20/24 16.5 180 22
+Barnstable 2081067 MA09604989 HBS21H2408009 White Not Hispanic/Latino 12/20/24 14 281 101
+Barnstable 2737466 MA10131952 JBS21J2205859 American Indian/Alaska Native Not Hispanic/Latino 12/20/24 15 1820 101
+Barnstable 2271548 MA09622826 JBS21J2408624 White Not Hispanic/Latino 12/20/24
+Barnstable 1769903 MA09218193 JBS21J2408510 American Indian/Alaska Native Not Hispanic/Latino 12/20/24
+Barnstable 3167998 MA21061178 JBS21J2408056 American Indian/Alaska Native Not Hispanic/Latino 12/20/24
+Barnstable 2686633 MA10301067 JBS21J2408637 White Not Hispanic/Latino 12/23/24
+Barnstable 780265 MA00782359 JBS21J2408406 White Not Hispanic/Latino 12/23/24
+Barnstable 1831397 MA00907669 JBS21J2408535 White Not Hispanic/Latino 12/23/24
+Barnstable 3098277 MA10390921 JBS21J2408629 White Not Hispanic/Latino 12/23/24
+Barnstable 5103412 MA10098188 JBS22J2408350 White Not Hispanic/Latino 12/23/24
+Barnstable 3131356 MA10454015 JBS21J2408701 White Not Hispanic/Latino 12/24/24
+Barnstable 1942701 MA09604994 JBS21J2306669 Black/African American Not Hispanic/Latino 12/24/24 27 761 60
+Barnstable 630946 MA09419841 JBS21J2408652 White Not Hispanic/Latino 12/24/24
+Barnstable 3009214 MA10244855 JBS21J2408451 12/24/24
+Barnstable 5523184 MA21184577 JBS21J2408695 White Not Hispanic/Latino 12/26/24
+Barnstable 2436013 MA09901485 JBS21J2407652 White Not Hispanic/Latino 12/27/24 29 270 151
+Barnstable 2966618 MA10288100 JBS21J2408289 Black/African American Not Hispanic/Latino 12/27/24 180 163
+Barnstable 3155814 MA10504296 JBS21J2408583 Black/African American Not Hispanic/Latino 12/27/24
+Barnstable 470384 MA00810504 HBS21H2408450 Black/African American Not Hispanic/Latino 12/27/24 1155 7
+Page 12 of 16
+
+ADMISSIONS AND RELEASES
+LENGTH OF
+SHERIFF'S BOOKING RELEASE EARNED TIME JAIL CREDIT
+PCF SID OBTN RACE ETHNICITY SENTENCE IN
+OFFICE DATE DATE IN DAYS IN DAYS
+DAYS
+Barnstable 5001465 MA21214555 HBS21H2408271 White Not Hispanic/Latino 12/27/24 25 445 171
+Barnstable 5086719 MA10567841 JBS21J2408349 Black/African American Not Hispanic/Latino 12/30/24
+Barnstable 5650164 MA21286410 JBS21J2408649 White Hispanic/Latino 12/30/24 360 49
+Barnstable 5654993 MA21287463 JBS21J2408478 Black/African American Not Hispanic/Latino 12/30/24
+Barnstable 5540135 MA21278865 JBS21J2407968 White Not Hispanic/Latino 12/30/24
+Barnstable 3206219 MA21092606 JBS21J2408081 White Not Hispanic/Latino 12/30/24
+Barnstable 2905414 MA10207094 JBS21J2408606 White Not Hispanic/Latino 12/30/24
+Barnstable 2806935 MA10126585 JBS21J2408502 White Hispanic/Latino 12/30/24
+Barnstable 5597446 MA21239714 JBS21J2408709 White Not Hispanic/Latino 12/30/24
+Barnstable 2621866 MA10012374 JBS21J2408687 White Not Hispanic/Latino 12/30/24
+Barnstable 2945138 MA10223702 JBS21J2408719 White Not Hispanic/Latino 12/31/24
+Barnstable 5136115 MA21055110 HBS21H2407653 Black/African American Hispanic/Latino 12/31/24 30 910 89
+Page 13 of 16
+
+PROGRAMMING
+SHERIFF'S PROGRAM PARTICIPANT
+PCF SID OBTN RACE ETHNICITY ADMIT TYPE PROGRAM NAME
+OFFICE REGISTERED DATE STATUS
+Barnstable 3153194 MA10503901 JBS21J2407931 White Not Hispanic/Latino Sentenced 10/2/24 FIRST STEPS Released
+Barnstable 2846435 MA10302690 JBS21J2408066 Black/African American Not Hispanic/Latino Pre-Trial 10/2/24 FIRST STEPS Released
+Barnstable 3071322 MA10536312 JBS21J2408115 White Not Hispanic/Latino Pre-Trial 10/2/24 FIRST STEPS Released
+Barnstable 545979 MA21147172 JBS22J2408136 White Not Hispanic/Latino Pre-Trial 10/2/24 FIRST STEPS Released
+Barnstable 3023230 MA10641986 JBS21J2408178 White Not Hispanic/Latino Sentenced 10/2/24 FIRST STEPS Released
+Barnstable 2891124 MA10184066 JBS21J2408199 White Not Hispanic/Latino Pre-Trial 10/2/24 FIRST STEPS Released
+Barnstable 5612058 MA21251426 JBS21J2407714 White Not Hispanic/Latino Pre-Trial 10/2/24 FIRST STEPS Currently Enrolled
+Barnstable 5627306 MA21262950 JBS21J2408191 White Not Hispanic/Latino Pre-Trial 10/2/24 FIRST STEPS Released
+Barnstable 5568641 MA21283241 JBS21J2408150 White Not Hispanic/Latino Sentenced 10/3/24 EDUCATION H POD Released
+Barnstable 2731749 MA10142881 JBS21J2408088 Black/African American Not Hispanic/Latino Pre-Trial 10/3/24 CBT B POD Released
+Barnstable 5592949 MA21290961 HBS21H2408087 White Not Hispanic/Latino Sentenced 10/3/24 WTTP E POD Currently Enrolled
+Barnstable 5641339 MA21290285 JBS21J2408060 Black/African American Not Hispanic/Latino Pre-Trial 10/3/24 CBT B POD Currently Enrolled
+Barnstable 2558161 MA10050190 JBS21J2407818 White Not Hispanic/Latino Sentenced 10/3/24 SHOCK M POD Participated
+Barnstable 2746915 MA10096152 HBS21H2408027 White Not Hispanic/Latino Sentenced 10/4/24 EDUCATION M POD Currently Enrolled
+Barnstable 636336 MA10239463 JBS21J2408137 White Not Hispanic/Latino Pre-Trial 10/7/24 FIRST STEPS Participated
+Barnstable 2570609 MA10095355 JBS21J2206074 White Not Hispanic/Latino Sentenced 10/7/24 SHOCK M POD Released
+Barnstable 5600452 MA21242141 JBS21J2306574 Black/African American Not Hispanic/Latino Pre-Trial 10/7/24 FIRST STEPS Released
+Barnstable 3078685 MA10344473 HBS22H2407643 White Not Hispanic/Latino Sentenced 10/8/24 EDUCATION M POD PACKETS Participated
+Barnstable 5575898 MA21224233 JBS21J2408035 Black/African American Not Hispanic/Latino Sentenced 10/8/24 EDUCATION M POD PACKETS Participated
+Barnstable 5272585 MA21016374 HBS21H2408270 Black/African American Not Hispanic/Latino Sentenced 10/8/24 EDUCATION M POD PACKETS Participated
+Barnstable 5608538 MA21102351 HBS21H2408298 White Not Hispanic/Latino Sentenced 10/8/24 EDUCATION A POD Participated
+Barnstable 5332377 MA21279558 HBS21H2408231 White Not Hispanic/Latino Sentenced 10/8/24 EDUCATION M POD PACKETS Currently Enrolled
+Barnstable 2436013 MA09901485 JBS21J2407652 White Not Hispanic/Latino Sentenced 10/9/24 SHOCK M POD Released
+Barnstable 1844734 MA09209402 JBS21J2407748 White Not Hispanic/Latino Pre-Trial 10/10/24 HARM REDUCTION J POD Released
+Barnstable 5511244 MA21194162 JBS21J2407892 White Not Hispanic/Latino Sentenced 10/10/24 HARM REDUCTION J POD Released
+Barnstable 2432300 MA09752927 JBS21J2407388 White Not Hispanic/Latino Sentenced 10/10/24 HARM REDUCTION J POD Released
+Barnstable 2610293 MA10100587 HBS22H2407637 White Not Hispanic/Latino Sentenced 10/10/24 HARM REDUCTION J POD Released
+Barnstable 3119895 MA09509651 JBS22J2407353 White Not Hispanic/Latino Sentenced 10/10/24 HARM REDUCTION J POD Currently Enrolled
+Barnstable 5368985 MA21070821 JBS21J2407876 White Not Hispanic/Latino Pre-Trial 10/10/24 HARM REDUCTION J POD Released
+Barnstable 5087706 MA21278356 JBS21J2407750 White Not Hispanic/Latino Pre-Trial 10/10/24 HARM REDUCTION J POD Currently Enrolled
+Barnstable 2626086 MA10016773 JBS21J2408374 White Hispanic/Latino Pre-Trial 10/11/24 CBT A POD Released
+Barnstable 5568641 MA21283241 JBS21J2408150 White Not Hispanic/Latino Sentenced 10/11/24 CBT H POD Released
+Barnstable 3050770 MA10314289 JBS21J2407626 White Not Hispanic/Latino Sentenced 10/11/24 SHOCK M POD Released
+Barnstable 602913 MA00852218 JBS22J2408134 White Not Hispanic/Latino Sentenced 10/11/24 CBT H POD Released
+Barnstable 1838931 MA09006035 HBS21H2408306 White Not Hispanic/Latino Sentenced 10/11/24 CBT H POD Currently Enrolled
+Barnstable 2988996 MA10263775 HBS21H2408272 Other/Unknown Not Hispanic/Latino Sentenced 10/11/24 CBT H POD Released
+Barnstable 3153992 MA21005267 JBS21J2206162 White Not Hispanic/Latino Pre-Trial 10/18/24 CBT B POD Currently Enrolled
+Barnstable 2989931 MA10297656 JBS21J2408034 White Not Hispanic/Latino Sentenced 10/21/24 CBT A POD Participated
+Barnstable 687688 MA00958580 TBS21T2407570 White Not Hispanic/Latino Pre-Trial 10/21/24 EDUCATION C POD Currently Enrolled
+Barnstable 5642434 MA21276012 JBS21J2407827 White Not Hispanic/Latino Pre-Trial 10/21/24 EDUCATION C POD Currently Enrolled
+Barnstable 1764927 MA09130692 JBS22J2408222 Black/African American Not Hispanic/Latino Sentenced 10/21/24 CBT A POD Released
+Barnstable 3009214 MA10244855 JBS21J2408247 Pre-Trial 10/21/24 EDUCATION C POD Released
+Barnstable 1765540 MA10085758 JBS21J2408029 Black/African American Not Hispanic/Latino Sentenced 10/21/24 CBT A POD Released
+Barnstable 3153992 MA21005267 JBS21J2206162 White Not Hispanic/Latino Pre-Trial 10/21/24 EDUCATION B POD Participated
+Barnstable 2081067 MA09604989 HBS21H2408009 White Not Hispanic/Latino Sentenced 10/21/24 CBT A POD Released
+Barnstable 2731749 MA10142881 JBS21J2408088 Black/African American Not Hispanic/Latino Pre-Trial 10/21/24 EDUCATION B POD Released
+Barnstable 3151080 MA21026553 JBS21J2408279 American Indian/Alaska Native Not Hispanic/Latino Sentenced 10/21/24 CBT A POD Participated
+Barnstable 5346634 MA21156171 JBS21J2408090 Black/African American Not Hispanic/Latino Pre-Trial 10/21/24 EDUCATION C POD Participated
+Barnstable 353722 MA00735323 JBS21J2408316 White Not Hispanic/Latino Pre-Trial 10/21/24 EDUCATION C POD Released
+Barnstable 5533941 MA21194164 JBS21J2407524 White Hispanic/Latino Pre-Trial 10/21/24 EDUCATION B POD Currently Enrolled
+Barnstable 5605488 MA21258358 JBS21J2407574 White Not Hispanic/Latino Sentenced 10/23/24 HARM REDUCTION M POD Currently Enrolled
+Barnstable 3016041 MA10395905 JBS21J2407596 White Not Hispanic/Latino Sentenced 10/23/24 HARM REDUCTION M POD Released
+Barnstable 2649544 MA10027522 JBS21J2408219 White Not Hispanic/Latino Sentenced 10/23/24 HARM REDUCTION M POD Released
+Barnstable 1033098 MA09009193 JBS21J2307214 Black/African American Not Hispanic/Latino Sentenced 10/23/24 HARM REDUCTION M POD Released
+Barnstable 3080101 MA10334455 JBS21J2408182 Black/African American Not Hispanic/Latino Pre-Trial 10/28/24 EDU C POD GED TUTORING/IS Participated
+Barnstable 1764927 MA09130692 JBS22J2408222 Black/African American Not Hispanic/Latino Sentenced 10/28/24 EDUCATION A POD Released
+Barnstable 1838931 MA09006035 HBS21H2408306 White Not Hispanic/Latino Sentenced 10/28/24 EDUCATION H POD Currently Enrolled
+Barnstable 2988996 MA10263775 HBS21H2408272 Other/Unknown Not Hispanic/Latino Sentenced 10/28/24 EDUCATION H POD Released
+Barnstable 3151080 MA21026553 JBS21J2408279 American Indian/Alaska Native Not Hispanic/Latino Sentenced 10/28/24 EDUCATION A POD Participated
+Barnstable 5592949 MA21290961 HBS21H2408087 White Not Hispanic/Latino Sentenced 10/29/24 EDUCATION J POD Currently Enrolled
+Barnstable 5658263 MA21288826 JBS21J2408301 Black/African American Not Hispanic/Latino Pre-Trial 10/29/24 EDU C POD GED TUTORING/IS Released
+Barnstable 5434055 MA21138563 JBS21J2408046 White Not Hispanic/Latino Sentenced 10/29/24 EDUCATION J POD Released
+Barnstable 5011536 MA10507590 JBS21J2408092 White Not Hispanic/Latino Sentenced 11/4/24 EDUCATION J POD Released
+Barnstable 5011536 MA10507590 JBS21J2408092 White Not Hispanic/Latino Sentenced 11/4/24 WTTP E POD Released
+Barnstable 2843444 MA10164519 HBS22H2408342 White Not Hispanic/Latino Sentenced 11/4/24 FIRST STEPS Released
+Barnstable 5099903 MA10468765 JBS21J2408274 White Not Hispanic/Latino Sentenced 11/4/24 FIRST STEPS Released
+Barnstable 5661970 MA21291703 JBS21J2408138 White Not Hispanic/Latino Pre-Trial 11/4/24 FIRST STEPS Released
+Barnstable 5262810 MA10646923 JBS22J2408273 White Not Hispanic/Latino Sentenced 11/4/24 FIRST STEPS Released
+Barnstable 2690206 MA21077928 HBS21H2408226 White Not Hispanic/Latino Sentenced 11/4/24 FIRST STEPS Released
+Barnstable 5001465 MA21214555 HBS21H2408271 White Not Hispanic/Latino Sentenced 11/4/24 FIRST STEPS Released
+Barnstable 2296030 MA10108137 JBS21J2408218 White Hispanic/Latino Sentenced 11/4/24 FIRST STEPS Released
+Barnstable 5605488 MA21258358 JBS21J2407574 White Not Hispanic/Latino Sentenced 11/5/24 SHOCK M POD Participated
+Barnstable 5298553 MA21069781 JBS21J2408128 Black/African American Not Hispanic/Latino Sentenced 11/5/24 EDUCATION A POD Participated
+Barnstable 1978688 MA09301054 HBS21H2408463 Black/African American Not Hispanic/Latino Sentenced 11/5/24 EDUCATION A POD Participated
+Barnstable 5582012 MA21228520 JBS2201805656 White Not Hispanic/Latino Sentenced 11/5/24 EDUCATION A POD Released
+Barnstable 5120661 MA10492833 JBS21J2407851 White Not Hispanic/Latino Sentenced 11/5/24 SHOCK M POD Released
+Barnstable 3183093 MA21067554 JBS21J2407895 White Not Hispanic/Latino Sentenced 11/5/24 EDUCATION A POD Released
+Barnstable 3090828 MA10462391 HBS21H2408458 Black/African American Not Hispanic/Latino Sentenced 11/5/24 EDUCATION A POD Participated
+Page 14 of 16
+
+PROGRAMMING
+SHERIFF'S PROGRAM PARTICIPANT
+PCF SID OBTN RACE ETHNICITY ADMIT TYPE PROGRAM NAME
+OFFICE REGISTERED DATE STATUS
+Barnstable 5410783 MA21228964 HBS21H2307054 White Not Hispanic/Latino Sentenced 11/5/24 SHOCK M POD Participated
+Barnstable 5099903 MA10468765 JBS21J2408505 White Not Hispanic/Latino Pre-Trial 11/8/24 FIRST STEPS Currently Enrolled
+Barnstable 3166099 MA21057936 JBS21J2408412 American Indian/Alaska Native Not Hispanic/Latino Pre-Trial 11/8/24 CBT A POD Released
+Barnstable 5466181 MA21141341 JBS21J2408265 White Not Hispanic/Latino Sentenced 11/8/24 FIRST STEPS Released
+Barnstable 3137965 MA10514346 JBS21J2408499 White Not Hispanic/Latino Pre-Trial 11/8/24 CBT A POD Currently Enrolled
+Barnstable 5634789 MA21268998 HBS21H2407965 Black/African American Not Hispanic/Latino Sentenced 11/12/24 SHOCK M POD Currently Enrolled
+Barnstable 2959247 MA10304490 JBS21J2306461 White Hispanic/Latino Sentenced 11/12/24 SHOCK M POD Released
+Barnstable 5650164 MA21286410 JBS21J2407852 White Hispanic/Latino Sentenced 11/12/24 SHOCK M POD Released
+Barnstable 3016041 MA10395905 JBS21J2407596 White Not Hispanic/Latino Sentenced 11/12/24 SHOCK M POD Released
+Barnstable 5038529 MA10616227 White Not Hispanic/Latino Sentenced 11/12/24 SHOCK M POD Participated
+Barnstable 2746915 MA10096152 HBS21H2408027 White Not Hispanic/Latino Sentenced 11/12/24 SHOCK M POD Currently Enrolled
+Barnstable 1942701 MA09604994 JBS21J2306669 Black/African American Not Hispanic/Latino Sentenced 11/12/24 SHOCK M POD Released
+Barnstable 5117796 MA10489839 JBS22J2407608 White Hispanic/Latino Sentenced 11/12/24 SHOCK M POD Currently Enrolled
+Barnstable 2442430 MA09994809 JBS21J2407796 White Not Hispanic/Latino Sentenced 11/12/24 SHOCK M POD Currently Enrolled
+Barnstable 5575898 MA21224233 JBS21J2408035 Black/African American Not Hispanic/Latino Sentenced 11/12/24 SHOCK M POD Currently Enrolled
+Barnstable 5272585 MA21016374 HBS21H2408270 Black/African American Not Hispanic/Latino Sentenced 11/12/24 SHOCK M POD Currently Enrolled
+Barnstable 838233 MA00677787 JBS2201805159 White Not Hispanic/Latino Sentenced 11/12/24 SHOCK M POD Released
+Barnstable 2649544 MA10027522 JBS21J2408219 White Not Hispanic/Latino Sentenced 11/12/24 SHOCK M POD Participated
+Barnstable 1752051 MA10021059 JBS21J2407488 Black/African American Not Hispanic/Latino Sentenced 11/12/24 SHOCK M POD Released
+Barnstable 2423129 MA10096260 HBS21H2407747 White Not Hispanic/Latino Sentenced 11/12/24 SHOCK M POD Currently Enrolled
+Barnstable 3183093 MA21067554 JBS21J2407895 White Not Hispanic/Latino Sentenced 11/12/24 SHOCK M POD Participated
+Barnstable 1033098 MA09009193 JBS21J2307214 Black/African American Not Hispanic/Latino Sentenced 11/12/24 SHOCK M POD Released
+Barnstable 3141019 MA10376624 HBS21H2307155 Black/African American Not Hispanic/Latino Sentenced 11/12/24 SHOCK M POD Released
+Barnstable 2810162 MA10316674 JBS21J2407544 White Not Hispanic/Latino Sentenced 11/12/24 SHOCK M POD Released
+Barnstable 3067171 MA10560469 HBS21H2307223 Black/African American Not Hispanic/Latino Sentenced 11/12/24 SHOCK M POD Currently Enrolled
+Barnstable 5484315 MA21154365 HBS21H2407648 White Not Hispanic/Latino Sentenced 11/12/24 SHOCK M POD Released
+Barnstable 2496006 MA09831831 JBS21J2407891 White Not Hispanic/Latino Sentenced 11/12/24 SHOCK M POD Participated
+Barnstable 1784440 MA10461427 HBS21H2407630 White Not Hispanic/Latino Sentenced 11/12/24 SHOCK M POD Released
+Barnstable 3129801 MA21072663 JBS21J2407837 Black/African American Not Hispanic/Latino Sentenced 11/12/24 SHOCK M POD Released
+Barnstable 3120394 MA10592451 JBS21J2407933 Other/Unknown Not Hispanic/Latino Sentenced 11/12/24 SHOCK M POD Participated
+Barnstable 1846923 MA10178159 JBS21J2408055 Black/African American Not Hispanic/Latino Sentenced 11/20/24 EDUCATION A POD Released
+Barnstable 2119299 MA09406414 JBS21J2408497 White Not Hispanic/Latino Sentenced 11/21/24 CBT H POD Released
+Barnstable 2468415 MA09820042 JBS22J2407588 White Not Hispanic/Latino Pre-Trial 11/21/24 EDUCATION C POD Currently Enrolled
+Barnstable 2512568 MA10004201 JBS21J2407945 White Not Hispanic/Latino Pre-Trial 11/29/24 EDUCATION C POD Participated
+Barnstable 5298553 MA21069781 JBS21J2408128 Black/African American Not Hispanic/Latino Sentenced 11/29/24 CBT A POD Participated
+Barnstable 1978688 MA09301054 HBS21H2408463 Black/African American Not Hispanic/Latino Sentenced 11/29/24 CBT A POD Participated
+Barnstable 1846923 MA10178159 JBS21J2408055 Black/African American Not Hispanic/Latino Sentenced 11/29/24 CBT A POD Released
+Barnstable 5523849 MA21285498 HBS21H2408498 White Not Hispanic/Latino Sentenced 11/29/24 CBT A POD Released
+Barnstable 5651854 MA21290390 JBS21J2408063 Black/African American Not Hispanic/Latino Sentenced 11/29/24 CBT A POD Participated
+Barnstable 5582012 MA21228520 JBS2201805656 White Not Hispanic/Latino Sentenced 11/29/24 CBT A POD Released
+Barnstable 5618468 MA21297388 JBS21J2408501 White Not Hispanic/Latino Pre-Trial 11/29/24 CBT A POD Released
+Barnstable 2735951 MA10172351 HBS21H2407687 Black/African American Not Hispanic/Latino Sentenced 11/29/24 CBT A POD Currently Enrolled
+Barnstable 1629953 MA10280350 HBS21H2408533 White Not Hispanic/Latino Sentenced 11/29/24 CBT A POD Participated
+Barnstable 5346634 MA21156171 JBS21J2408090 Black/African American Not Hispanic/Latino Pre-Trial 11/29/24 EDUCATION B POD Participated
+Barnstable 5608538 MA21102351 HBS21H2408298 White Not Hispanic/Latino Sentenced 11/29/24 CBT A POD Currently Enrolled
+Barnstable 2119299 MA09406414 JBS21J2408497 White Not Hispanic/Latino Sentenced 11/29/24 EDUCATION H POD Released
+Barnstable 2903465 MA10398268 JBS21J2407360 White Not Hispanic/Latino Pre-Trial 11/29/24 EDUCATION C POD Participated
+Barnstable 3090828 MA10462391 HBS21H2408458 Black/African American Not Hispanic/Latino Sentenced 11/29/24 CBT A POD Participated
+Barnstable 5556435 MA21224388 JBS21J2408323 White Not Hispanic/Latino Sentenced 12/4/24 EDUCATION J POD GED TUTORING Released
+Barnstable 5099903 MA10468765 JBS21J2408505 White Not Hispanic/Latino Pre-Trial 12/13/24 WTTP E POD Currently Enrolled
+Barnstable 5634789 MA21268998 HBS21H2407965 Black/African American Not Hispanic/Latino Sentenced 12/13/24 CBT A POD Participated
+Barnstable 5661970 MA21291703 JBS21J2408138 White Not Hispanic/Latino Pre-Trial 12/13/24 WTTP E POD Released
+Barnstable 5594575 MA21237501 JBS22J2408075 White Not Hispanic/Latino Sentenced 12/13/24 WTTP E POD Currently Enrolled
+Barnstable 5502483 MA21167897 JBS21J2407711 White Not Hispanic/Latino Pre-Trial 12/13/24 WTTP E POD Released
+Barnstable 2253925 MA09808952 HBS21H2408642 White Not Hispanic/Latino Sentenced 12/13/24 CBT A POD Currently Enrolled
+Barnstable 5656675 MA21287705 JBS22J2407925 White Not Hispanic/Latino Pre-Trial 12/13/24 WTTP E POD Currently Enrolled
+Barnstable 5650164 MA21286410 JBS21J2408649 White Hispanic/Latino Pre-Trial 12/13/24 EDUCATION A POD Participated
+Barnstable 470384 MA00810504 HBS21H2408450 Black/African American Not Hispanic/Latino Sentenced 12/13/24 CBT A POD Released
+Barnstable 2810162 MA10316674 JBS21J2407544 White Not Hispanic/Latino Sentenced 12/13/24 CBT A POD Released
+Barnstable 2690206 MA21077928 HBS21H2408226 White Not Hispanic/Latino Sentenced 12/13/24 EDUCATION J POD GED TUTORING Released
+Barnstable 2690206 MA21077928 HBS21H2408226 White Not Hispanic/Latino Sentenced 12/13/24 WTTP E POD Released
+Barnstable 5001465 MA21214555 HBS21H2408271 White Not Hispanic/Latino Sentenced 12/13/24 WTTP E POD Released
+Barnstable 2296030 MA10108137 JBS21J2408218 White Hispanic/Latino Sentenced 12/13/24 WTTP E POD Released
+Barnstable 2760354 MA10280692 JBS21J2306769 Black/African American Not Hispanic/Latino Sentenced 12/13/24 CBT A POD Currently Enrolled
+Barnstable 2760354 MA10280692 JBS21J2306769 Black/African American Not Hispanic/Latino Sentenced 12/13/24 EDUCATION A POD Currently Enrolled
+Barnstable 294645 MA10337805 JBS21J2408516 White Not Hispanic/Latino Sentenced 12/13/24 CBT A POD Participated
+Barnstable 5612058 MA21251426 JBS21J2407714 White Not Hispanic/Latino Pre-Trial 12/13/24 WTTP E POD Currently Enrolled
+Barnstable 5086719 MA10567841 JBS21J2408349 Black/African American Not Hispanic/Latino Pre-Trial 12/16/24 WTTP E POD Released
+Barnstable 5668684 MA21296561 JBS22J2408473 American Indian/Alaska Native Not Hispanic/Latino Pre-Trial 12/16/24 EDUCATION H POD Currently Enrolled
+Barnstable 5556435 MA21224388 JBS21J2408323 White Not Hispanic/Latino Sentenced 12/16/24 WTTP E POD Released
+Barnstable 2843444 MA10164519 HBS22H2408342 White Not Hispanic/Latino Sentenced 12/16/24 WTTP E POD Released
+Barnstable 1009183 MA09423767 JBS21J2408574 White Not Hispanic/Latino Pre-Trial 12/16/24 EDU C POD GED TUTORING/IS Released
+Barnstable 5533719 MA21211929 JBS21J2408379 Black/African American Not Hispanic/Latino Pre-Trial 12/16/24 EDUCATION H POD Currently Enrolled
+Barnstable 2821483 MA21128137 JBS21J2408216 White Not Hispanic/Latino Sentenced 12/16/24 WTTP E POD Released
+Barnstable 5608715 MA21248859 JBS21J2408304 White Not Hispanic/Latino Pre-Trial 12/16/24 WTTP E POD Currently Enrolled
+Barnstable 5525573 MA21186409 JBS21J2407410 Black/African American Not Hispanic/Latino Pre-Trial 12/17/24 EDUCATION B POD Currently Enrolled
+Barnstable 5317889 MA21034410 HBS22H2408618 White Not Hispanic/Latino Sentenced 12/19/24 EDUCATION A POD Participated
+Barnstable 5298553 MA21069781 JBS21J2408128 Black/African American Not Hispanic/Latino Sentenced 12/26/24 SHOCK M POD Currently Enrolled
+Page 15 of 16
+
+PROGRAMMING
+SHERIFF'S PROGRAM PARTICIPANT
+PCF SID OBTN RACE ETHNICITY ADMIT TYPE PROGRAM NAME
+OFFICE REGISTERED DATE STATUS
+Barnstable 1978688 MA09301054 HBS21H2408463 Black/African American Not Hispanic/Latino Sentenced 12/26/24 SHOCK M POD Currently Enrolled
+Barnstable 5651854 MA21290390 JBS21J2408063 Black/African American Not Hispanic/Latino Sentenced 12/26/24 SHOCK M POD Released
+Barnstable 470384 MA00810504 HBS21H2408450 Black/African American Not Hispanic/Latino Sentenced 12/26/24 SHOCK M POD Released
+Barnstable 3015619 MA10363040 JBS21J2408464 White Not Hispanic/Latino Sentenced 12/26/24 SHOCK M POD Released
+Barnstable 3090828 MA10462391 HBS21H2408458 Black/African American Not Hispanic/Latino Sentenced 12/26/24 SHOCK M POD Currently Enrolled
+Page 16 of 16
+
+[DELETED:  B R E JEDEDEISIFSDONREEYSe20M7J8WeHo1425352e19M9J6BnNo1e53M4J9WeNo1e50M1J0WeNo1e58M3J5BnNo1425357e24M2WeHo1e33M1J5WeHo1e53M5J4WeNo1475601e27M7J6WeNo1e56M5J3WeNo1e59M8J8WeNo1415102e24M9H2WeNo14251e52M8J0WeNo1e59M1J9BnNo1e54M5J1WeHo1e24M2J9WeNo1415903e55M5J5ArNo1e52M1J7WeNo1e56M0J2WeNo1416105eM2J8WeNo1e29M7J6WeNo1e24M5J3BnHo1e22M4WeNo1e21M9J9WeNo1e53M5J9WeNo1e51M3J1WeNo1485101e50M7J6WeNo1e32M3J4WeNo1e18M5J2WeNo1e15M8J8WeNo1e22M2J7WeNo1e32M0J5WeNo1e39M2J6WeNo1455902e81M5J3WeNo1e36M3J2ArNo1e22M6J1WeNo1e55M1H3BnNo1445351e30M9J6WeNo1425341e23M7J7WeHo1e25M5J8BnNo1e26M3J4WeHo1e56M2J6WeNo1e59M9J9BnNo1e57M4J1WeNo1e55M5J3WeNo1e59M8H2WeNo144510e51M1J5WeNo1415902e33M0J4WeHo1e28M0J5WeNo1e29M5J0OnNo1e30M3J9AeNo1413401e50M6J9WeNo1e17M2J2BnNo1485134e20M8J0WeNo1e25M9J5WeNo1e18M4J6BnNo1e27M6J1WeNo1e37M5J9WeNo1e29M8J7WeNo1e23M9H2WeNo14451e51M5J6BnNo1e51M7J8BnNo1e63M8J3WeNo1e55M5J3WeNo1e32M5J5WeNo14753e75M9J6WeNo1]
+[DELETED:  B R E JEDEDEISIFSDONREEYSe50M1J8BnNo1e38M8J7WeNo1e52M1J1WeNo1e59M8J0WeNo1e58M5J0WeNo1e33M7J9WeNo1e59M0J8WeNo1e57M3J5WeHo1e16M3J4WeNo1e53M2J9WeHo1e39M6J2AeNo143107e50M6J0WeHo1e23M6J7WeNo1e51M3J6WeNo1e58M1J3WeNo1e52J5ArNo1e51M0J3WeNo1e58M2J7WeNo1e55M3J6WeNo1415101e23M0J9WeNo1e68M4J8WeNo141e37M9WeNo1e51M5J2WeNo1e55M1J6WeNo1465101e53M1J8BnNo1415703e96M3J1WeNo1eM4J8WeNo1e21M2J7WeNo1e56M7J0WeNo1e52M9J1WeNo1e24M2J5WeNo1e34M2J9BnNo1e54M0J6BnNo14904eM3J4WeNo1e29M3J3WeNo1e26M6J2WeNo1e56M7J5WeHo1e26M2WeNo1e22M3WeNo1e36M5J5WeNo1e44M4H0BnNo1415e21M8J3WeNo1e51M5J2BnNo1e34M5J11e59M1J4WeNo1e17M4J9WeNo1e56M5J7WeNo1e38M1H8BnNo141590e23M2J0WeNo1e69M0H6WeNo1415351e11M3H1WeNo143e24M0H9WeNo14109e56M2H8OnNo1429e39M1J7WeNo1e24M1J1BnNo1e68M3J6WeNo1e18M4H3BnNo1425285e32M7J0WeNo1e39M0J4WeNo148102e25M4J7WeNo1e25M7J4BnNo1e20M9J6WeNo1417161e36M4J5WeHo1e24M3J9WeNo1e52M0J6WeNo1e54A1WeNo1]
+[DELETED:  B R E JEDEDEISIFSDONREEYSe53M3J8BnNo1e54M1J3AeNo1e50M4J2WeNo1e17M9J8WeNo1e32M6J1WeNo1e53M7J6WeNo1415104eM8J0WeNo1e56M1J9WeNo1e22M9J3WeNo1e52M3J2ArNo1e38M3J5BnNo1e58M8J1WeNo1e59M8H8WeNo1485103e35M6J9WeNo1e23M5J0WeNo1e25M5J2WeHo1e29M4J7WeNo148175e25M1J8WeNo1e53M5J5WeNo1e61M8J7WeNo1e53M6J6WeNo1e20M6J3BnNo1e21M8WeNo1e13M3J0AeNo1e59M5J5BnNo1e24M5J7WeNo1e34M3J7WeNo14101e26M6J4OnNo1e50M9J8WeHo1e32M5J5WeNo14753e21M0H1WeNo1420451e28M0J0BnNo1e29M7J4WeNo1e38M8J3WeNo1e46M3J8WeNo1e51M0J7WeHo1e31M2J0UeNo1e53M7J9WeNo1e31M2J6WeNo1e37M7J1WeNo1e11M4J2WeNo1e13M0H3WeNo1465356e29M4J7WeNo148175e23M7J0WeNo1e55WeNo1e25M3J9WeNo1e14M2J8WeNo1e17M9J5WeNo1e23M2J3WeNo1425103e33M6J3WeHo1e35M8J5WeNo1e21M3J2WeNo1e54M0J3BnNo1415351e52M4WeNo1e39M5J1WeNo1e55M8J3WeNo1445202e50M9J8WeNo1e53M2J9WeHo1e24M9J2WeNo1e57M5J7WeNo1e22M8J0WeNo1e55M7J6WeNo1e53M2J5BnNo1e23M7J6WeNo1415904e22M1J4WeNo146702e83M7J3WeNo1]
+[DELETED:  B R E JEDEDEISIFSDONREEYSe26M9J4WeNo1e20M0J1WeNo1e58M7J3WeHo1e36M5J9WeNo1e54M8J6WeNo1e59M4J8OnHo1e22M1J0WeNo1e27M7WeNo1e54M5J3BnNo1e10M4WeNo1e13M7J4WeNo1e27M7J5WeNo1e34M3J2WeNo1415101e55M4J2WeNo1e64M9J0WeNo1e28M0J7WeNo1e50M1J7WeNo145902e33M7J4WeNo1e34M6J3BnNo1e59M7J6OnNo1e39M0J4WeNo148102e51M0J7BnNo1e36M7J9WeNo1e55M5J3BnNo1e23M3J7WeNo1e25M8J5WeNo1e28M0WeNo1e27M2J6WeNo1e36M8J5BnNo1e53M6J7WeNo1e24M4J6WeNo1e23M7J9WeNo1e29M0J4WeNo1e29M6J8WeNo1e55M3J1WeNo1e35M0J4WeNo1e55M7WeNo1e56M5J2WeNo1e57M0J6BnNo1e20M7J9WeNo14595e54M0J6BnNo14904e24M1J5WeNo1e58M2J9WeNo1445205e59M0H8WeNo142901e58M2J0WeNo1e59M2BnNo1e28M6J4WeNo1e37M8J7BnNo1e27M7WeNo1e17A9WeNo1e58M9J4WeNo1e37M1J9WeNo1e32M5J0BnNo1e24M2J9BnNo14105e52M2J9WeNo1e55M9J2BnNo1e52M7J1WeNo1e55M0J0BnNo1e39M6J2AeNo143107e23M7J7WeNo1e25M5J6WeNo143351e59M6H6BnNo1405501e25M2H2WeNo142510e51M6J4WeNo1e15M9J3WeNo1e59M2J3BnNo1]
+[DELETED:  B R E JEDEDEISIFSDONREEYSe51M2J5WeNo1e54M0J9WeHo14304e22M1J8WeNo1e22M6ArNo1e26M1J1WeNo1e56M8J5WeNo1e66M1J2WeNo1e51M2J7WeNo1e52M3J3WeNo1e28M0J9BnNo14101e38M0J4WeNo1e24WeNo1e57M4J2WeNo14109e57M5J6WeNo1e22M8J1WeNo1eM5J8WeNo1e13M7J0WeNo1e23M5J7WeNo1e26M0J9WeNo1e29M1J8WeNo1e18M7J5UeNo1e52M0J3WeNo1e55M0J2WeHo1e26M7J0WeNo1e51M1J3WeNo1e21M2J1WeNo1e82M5J6WeNo1e24M1J1WeNo14603e34M9J4WeNo1e53M7J6WeNo1415104e57M3J3WeHo1e25M2J2WeNo1e18M7J9BnNo1e34M3J2WeNo1415101e30M7J8WeNo14101e52M3J6WeNo1e52M7J9WeNo1e26M4J7WeNo1e52M7J3WeNo1e27M9J0WeNo1e54M7J5WeNo1e58M1J6WeNo1e23M7J1WeNo14e52M6H2WeNo1451e27M0J7BnNo1e51M7J2WeNo1e36M5J1WeNo1e26M8J9OnNo1e34M7J0WeNo1e24M9WeNo1e28M4J0WeNo1e24M1J8WeNo1e37M6J6WeNo1e56M4J9WeNo1e32M3J1WeNo1e28M0J2BnNo1eM1H6WeNo1430e20M7J5WeNo1e20M9J3BnNo1e25M7J6WeNo1e52M5J0WeHo1e50M3J8WeNo1e28M2J1WeHo1e17F2WeNo1e37M9H2WeNo14184e53M0J5BnNo1]
+[DELETED:  B R E JEDEDEISIFSDONREEYSe54M0J9WeHo14304e28M2J9WeNo1e23M2J9BnHo1e59M1BnNo1e34M8BnNo1e10M8J2WeNo1e20M3J9WeNo14106e44M4H2BnNo1415e18M4J6BnNo1e57M7WeNo1e27M7J6WeNo1e59M9J2WeHo1e22M4J9WeNo1e56M6J8BnNo1eM2J8WeNo1e37M7J4WeNo1e57M1J5WeNo1e51M3J1WeNo1485101e59M8J1WeNo1e22M4WeNo1e15M2J0WeNo1e80M2J4WeNo1425511e32M2J5WeHo1e36M3J2ArNo1e33M0J6WeNo1e21M9J9WeNo1e57M1J6BnNo1e54M2J0WeNo1e30M9J6WeNo1425341e22M6J1WeNo1e11M8J2WeNo1e29M7J6WeNo1e33M1J5WeHo1e20M4H6WeNo14357e23M7J7WeHo1e32M5J7BnNo1e28M0J5WeNo1e51M5J8BnNo1e24M4J2WeNo1e55M2J3WeNo1e36M4J8WeHo1e17M2J2BnNo1485134e55M9J2WeNo1e20M6J2BnNo1e32M2J5WeNo1e63M8J4WeNo14602e38M5J9BnNo1e25M0J6BnNo1e37M5J9WeNo1e51M1J7BnNo1445107e22M1J9WeNo1e27M1J1WeNo1e81M5J3WeNo1e52M2J3WeNo1e25M9J4WeNo1e55M5J3WeNo1e36M4J8WeNo145282e10M3H4WeNo1410e50M1J8BnNo1e25M5J8BnNo1e58M5J0WeNo1e50M6J0WeHo1e52M1J1WeNo1e55M5J5ArNo1e25M9J5WeNo1e34M5J71]
+[DELETED:  B R E JEDEDEISIFSDONREEYSe26M4J5WeNo1e26M7J4WeNo1e27M8J2WeNo1e52J5ArNo1e31M8J8WeHo1e68M4J4WeNo14591e51M1J1WeNo1e24M6J9WeNo1e32M3J4WeNo1e52M6J4WeNo1e27M7J3WeNo1e52M1J4BnNo1e55M1J6WeNo1465101e24M5J3BnHo1e29M5J0OnNo1e29M8J7WeNo1e51M5J6BnNo1e50M7J6WeNo1e52M9J1WeNo1e51M1J7BnNo1e23M6J7WeNo1e16M3J4WeNo1eM4J8WeNo1e18M5J2WeNo1e10M7J1WeNo1e28M6J4BnNo1eM3J4WeNo1e58M1J6WeNo1e47M8J7WeNo1e26M3J4WeHo1e21M5J8WeNo1e24M2WeHo1e59M2J6WeNo1e26M0J0WeNo1e56M7J5WeHo1e20M8J0WeNo1e52M9J8WeNo1e26M5J0WeNo1e51M5J2BnNo1e38M8J7WeNo1e53M5J9WeNo1e56M3J7WeNo1e57M4J6WeNo1e57M4J1WeNo1e96M3J1WeNo1e37M9WeNo1e31M9J8WeNo1e28M1J2WeNo1410201e26M5H7WeNo145e25M4J7WeNo1e24M3J9WeNo1e25M7J4BnNo1e26M1J3WeNo1e59M5H9WeNo1453e54A1WeNo1eM8J0WeNo1e21M8J3WeNo1e24M6J2WeNo1475902e51M1J0WeNo1445103e26M5H2OnNo1451e22M2J7WeNo1e24M3H0WeNo1412103e17M9J8WeNo1e24M1J1BnNo1e21M8WeNo1e57M3J5WeHo1]
+[DELETED:  B R E JEDEDEISIFSDONREEYSe23M5J0WeNo1e59M1J4WeNo1e53M5J4WeNo1475601e56M7J0WeNo1e56M5J3WeNo1e58M1J3WeNo1e56M0J1WeNo1e22M8J3BnNo1e25M1J8WeNo1e56M5J7WeNo1e50M3J3WeNo146591e32M5J5WeNo14753e53M6J6WeNo1e55M0J5BnNo1e24M0H9WeNo14109e30M6J8WeNo1415902e55M5J3WeNo1e57M9H4WeNo14105e53M4J9WeNo1e17M4J9WeNo1e32M7J0WeNo1e51M7J8BnNo1e35M3H3WeNo1475701e51M6J9BnHo1e51M0J7WeHo1e38M3J5BnNo1e29M3J3WeNo1e59M8H2WeNo144510e20M6J3BnNo1e23M9H2WeNo14451e28M0J0BnNo1e29M4J7WeNo148175e32M6J1WeNo1e51M7J7BnNo1e24M5J7WeNo1e50M6J9WeNo1e54M0J3BnNo1415351e33M0J4WeHo1e51M0J3WeNo1e21M3H0WeNo1411919e54M0J2WeHo1415107eWeUe1e53M2J9WeHo1e31M2J0UeNo1e59M6J3WeNo1e21M2J7WeNo1e52M4WeNo1e25M3J9WeNo1e29M7J4WeNo1e21M7J0WeNo1e27M2T1WeNo1e53M2J5BnNo1e53M4J9WeNo1e22M0J2BnNo1e58M2J7WeNo1e39M5J1WeNo1e21M0H1WeNo1420451e56M0J2WeNo1416105e56M2J6WeNo1e46M3J8WeNo1e55M7J6WeNo1e51M3J9BnNo1e26M6J4OnNo1e24M2J9WeNo1415903e56M2H8OnNo1429e22M9J3WeNo1]
+[DELETED:  B R E JEDEDEISIFSDONREEYSe25M7J3WeNo1e53M2J9WeHo1e30M0H1BnNo1412e21M5J1WeNo1e56M7H4WeNo14508e20M0J1WeNo1e24M2J5WeNo1e24M0J5WeNo1e34M3J7WeNo14101e10M4WeNo1e37M1J5WeHo1e57M5J7WeNo1e52M1J7WeNo1e32M3J6WeNo1e11M4J2WeNo1e59M4J8OnHo1e55WeNo1e45M5J9WeNo1e23M8J7BnNo1410604e37M7J1WeNo1e27M6J1WeNo1e32M0J5WeNo1e59M7J6OnNo1e24M4J0WeNo1e36M5J9WeNo1e39M0J4WeNo148102e68M3J6WeNo1e24M3J9WeNo1e59M8J0WeNo1e50M9J8WeHo1e11M3H1WeNo143e36M7J9WeNo1e51M3J1WeNo1485101e27M7WeNo1e55M4J2WeNo1e26M2WeNo1e37M6WeNo1e51M0J7BnNo1e58M1J1WeNo1e15M3J6BnNo1e23M0J9WeNo1e24M5J7WeNo1415402e51M1J5WeNo1415902e39M2J6WeNo1455902e27M2J6WeNo1e55M1J6WeNo1465101e33M7J4WeNo1e64M9J0WeNo1e56M0J8BnNo1e59M5J5BnNo1e36M4J5WeHo1e55M3J6WeNo1415101e27M7J5WeNo1e54M0J6BnNo14904e61M8J7WeNo1e53M6J7WeNo1e36M5J5WeNo1e59M0J8WeNo1e52M0J6WeNo1e34M1J1WeNo1415107e23M2J0WeNo1e58M8J1WeNo1e59M7J6OnNo1e34M5J9WeNo1e31M3J7BnNo1415255e54M5J3BnNo1]
+[DELETED:  B R E JEDEDEISIFSDONREEYSe29M6J8WeNo1e17M2J2BnNo1485134e59M2BnNo1e20M7J8WeNo1420155e53M7J9WeNo1e21M3J2WeNo1e20M7J9WeNo14595e50M1J0WeNo1e39M6J2AeNo143107e38M6J2WeNo1415387e33M7J9WeNo1e26M9J4WeNo1e29M0J4WeNo1e52M2J9WeNo1e25M8J5WeNo1e55M9J2BnNo1e50M9J8WeNo1e51M2J5WeNo1e57M0J6BnNo1e32M5J5WeNo14753e52M7J1WeNo1e26M1J1WeNo1e34M2J9BnNo1e22M1J0WeNo1e22M8J0WeNo1e34M1J3OnNo1485352e26M7J0WeNo1e52M0J3WeNo1e82M5J6WeNo1e53M6J2WeNo1e34M3J2WeNo1415101e14M2J8WeNo1e53M7J6WeNo1415104e27M7WeNo1e24WeNo1e27M8J8WeNo1e24M1J5BnNo1427701e59M3J3WeNo1485103e55M5J3BnNo1e18M4J6BnNo1e24M1J5WeNo1e24M9J5WeNo1e52M6H4WeNo14152e23M7J6WeNo1415904e51M1J3WeNo1e22M4J4WeNo1420351e13M9J5BnNo1415102e27M9H9WeNo1414211e26M2J9AeNo1415101e28M6J4WeNo1e13M3J0AeNo1e38M8J6AeNo1e23M7J7WeNo1e75M9J6WeNo1e17M9J5WeNo1e37M1J9WeNo1e52M8J0WeNo1e36M5J1WeNo1e11M4J9BnNo1427716e66M1J2WeNo1e34M5J11e54M7J5WeNo1e23M5J2WeNo1429201e28M0J9BnNo14101e34M6J3BnNo1e44M4H0BnNo1415]
+[DELETED:  B R E JEDEDEISIFSDONREEYSe55M5H1WeNo1425451e59M1J9BnNo1e54M0J9WeHo14304e53M3J8BnNo1e55M5J8WeNo1e39M6J1WeNo1e24M4J6WeNo1e25M5J2WeHo1e56M4J9WeNo1e26M4J7WeNo1e28M2J9WeNo1e55M0H3BnHo1430908]
+[DELETED:  P PERESFSDONREEYAEPe34M1J1WeNoSd14FSRe25M0J6BnNoPl14FSRe32M2J5WeNoPl14FSRe59M2J6WeNoPl14FSRe30M6J8WeNoSd14FSRe24M6J9WeNoPl14FSRe58M6J4WeNoPl14FSCe56M0J1WeNoPl14FSRe51M1J0WeNoSd14EDRe29M1J8BnNoPl14CDRe59M1H7WeNoSd14WDCe59M5J0BnNoPl14CDCe21M0J8WeNoSd14SDPe25M2H7WeNoSd14EDCe66M3J7WeNoPl14FSPe29M5J4WeNoSd14SDRe52M1J4BnNoPl14FSRe35M3H3WeNoSd14ESPe58M3J5BnNoSd14ESPe55M4H0BnNoSd14ESPe58M1H8WeNoSd14EDPe57M8H1WeNoSd14ESCe23M5J2WeNoSd14SDRe14M2J8WeNoPl14HDRe54M2J2WeNoSd14HDRe20M7J8WeNoSd14HDRe23M7H7WeNoSd14HDRe35M1J3WeNoSd14HDCe55M1J6WeNoPl14HDRe56M6J0WeNoPl14HDCe26M3J4WeHoPl14CDRe51M1J0WeNoSd14CDRe30M9J6WeNoSd14SDRe63M8J4WeNoSd14CDRe11M5H6WeNoSd14CDCe26M5H2OnNoSd14CDRe32M7J2WeNoPl14CDCe21M6J4WeNoSd14CDPe68M0T0WeNoPl14EDCe54M2J7WeNoPl14EDCe17M2J2BnNoSd14CDRe34M5J7Pl14EDRe10M8J9BnNoSd14CDRe32M7J2WeNoPl14EDPe27M9H9WeNoSd14CDRe29M1J8BnNoPl14EDRe30M3J9AeNoSd14CDPe54M1J0BnNoPl14EDPe32M3J6WeNoPl14EDRe51M4J4WeHoPl14EDCe58M8J4WeNoSd14HDCe31M5J6WeNoSd14HDRe24M2J9WeNoSd14HDRe18M3J4BnNoSd14HDRe31M5J2BnNoPl14ESPe17M2J2BnNoSd14EDRe11M5H6WeNoSd14EDCe26M5H2OnNoSd14EDRe30M3J9AeNoSd14EDPe59M1H7WeNoSd14EDCe53M6J1BnNoPl14ESRe55M3J6WeNoSd14EDRe56M0J2WeNoSd14EDRe56M0J2WeNoSd14WDRe24M9H2WeNoSd14FSRe53M5J4WeNoSd14FSRe50M3J8WeNoPl14FSRe50M3J3WeNoSd14FSRe26M8H6WeNoSd14FSRe55M5H1WeNoSd14FSRe20M7J8WeHoSd14FSRe58M8J4WeNoSd14SDPe53M1J8BnNoSd14EDPe18M4H3BnNoSd14EDPe52M0J6WeNoSd14EDRe51M3J1WeNoSd14SDRe33M4J5WeNoSd14EDRe38M1H8BnNoSd14EDP]
+[DELETED:  P PERESFSDONREEYAEPe53M4H4WeNoSd14SDPe53M5J5WeNoPl14FSCe39M6J2AeNoPl14CDRe51M1J5WeNoSd14FSRe35M6J9WeNoPl14CDCe59M8H5BnNoSd14SDCe27M0J1WeHoSd14SDRe54M0J2WeHoSd14SDRe31M5J6WeNoSd14SDRe59M7WeNoSd14SDPe25M2H7WeNoSd14SDCe11M4J9BnNoSd14SDRe56M9J8WeHoSd14SDCe20M9J6WeNoSd14SDCe58M3J5BnNoSd14SDCe55M4H0BnNoSd14SDCe83M7J9WeNoSd14SDRe24M2J9WeNoSd14SDPe11M9J8BnNoSd14SDRe29M0H7WeNoSd14SDCe33M4J5WeNoSd14SDPe18M3J4BnNoSd14SDRe39M4H5BnNoSd14SDRe22M4J4WeNoSd14SDRe31M9H3BnNoSd14SDCe55M5H8WeNoSd14SDRe26M1J1WeNoSd14SDPe10M7H0WeNoSd14SDRe31M3J7BnNoSd14SDRe34M1J3OnNoSd14SDPe13M9J5BnNoSd14EDRe29M4J7WeNoSd14CDRe25M2J8WeNoPl14EDCe28M1J5WeNoPl14EDPe53M1J8BnNoSd14CDPe18M4H3BnNoSd14CDPe13M9J5BnNoSd14CDRe59M8H8WeNoSd14CDRe54M0J3BnNoSd14CDPe52M0J6WeNoSd14CDRe58M8J1WeNoPl14CDRe21M1H7BnNoSd14CDCe13M0H3WeNoSd14CDPe54M1J0BnNoPl14EDPe58M1H8WeNoSd14CDCe29M4J7WeNoSd14EDRe25M8J0WeNoPl14EDPe38M1H8BnNoSd14CDPe55M8J3WeNoSd14EGRe53M5J5WeNoPl14WDCe59M8H5BnNoSd14CDPe50M3J8WeNoPl14WDRe55M1J5WeNoSd14WDCe53M7J1WeNoPl14WDRe25M2H2WeNoSd14CDCe55M5J5WeNoPl14WDCe54M0J9WeHoPl14EDPe44M4H0BnNoSd14CDRe22M4J4WeNoSd14CDRe26M8H6WeNoSd14EGRe26M8H6WeNoSd14WDRe55M5H1WeNoSd14WDRe20M7J8WeHoSd14WDRe24M2J9BnNoSd14CDCe24M2J9BnNoSd14EDCe25M5J6WeNoSd14CDPe58M6J4WeNoPl14WDCe59M1J9BnNoPl14WDRe54M1J3AeNoPl14EDCe55M8J3WeNoSd14WDRe24M9H2WeNoSd14WDRe13M7J4WeNoPl14ESRe59M9J9BnNoPl14EDCe23M7J6WeNoSd14WDRe55M9J4WeNoPl14WDCe53M9J0BnNoPl14EDCe59M0H8WeNoSd14EDPe53M1J8BnNoSd14SDC]
+[DELETED:  P PERESFSDONREEYAEPe18M4H3BnNoSd14SDCe54M0J3BnNoSd14SDRe44M4H0BnNoSd14SDRe39M0J4WeNoSd14SDRe38M1H8BnNoSd14SDC]

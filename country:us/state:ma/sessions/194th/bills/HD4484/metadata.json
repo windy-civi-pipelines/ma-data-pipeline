@@ -33,6 +33,29 @@
       "_processing": {
         "log_file_created": "2025-10-26T04:18:35Z"
       }
+    },
+    {
+      "description": "Reported, referred to the committee on Joint Rules, reported, rules suspended and referred to the committee on Public Health",
+      "date": "2025-10-27",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "committee on Joint Rules, reported, rules suspended and referred to the committee on Public Health",
+          "entity_type": "organization",
+          "organization_id": null
+        },
+        {
+          "name": "the committee on Joint Rules, reported, rules suspended and referred to the committee on Public Health",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2025-10-28T01:05:49Z"
+      }
     }
   ],
   "sponsorships": [
@@ -91,6 +114,6 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2025-10-26T04:18:35Z"
+    "logs_latest_update": "2025-10-28T01:05:49Z"
   }
 }

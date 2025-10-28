@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Committee of conference appointed - (Michlewitz-Ferrante-Smola)",
+    "date": "2025-10-27",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "H4615"
+}

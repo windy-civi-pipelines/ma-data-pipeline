@@ -53,6 +53,24 @@
       "_processing": {
         "log_file_created": "2025-10-26T04:18:32Z"
       }
+    },
+    {
+      "description": "Discharged to the committee on Health Care Financing",
+      "date": "2025-10-27",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Health Care Financing",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2025-10-28T01:05:49Z"
+      }
     }
   ],
   "sponsorships": [
@@ -149,7 +167,7 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2025-10-26T04:18:32Z",
+    "logs_latest_update": "2025-10-28T01:05:49Z",
     "text_extraction_latest_update": "2025-10-26T06:41:21.741921Z"
   }
 }

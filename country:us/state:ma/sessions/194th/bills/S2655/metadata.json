@@ -777,6 +777,16 @@
       }
     },
     {
+      "description": "Reprinted, as amended, see S2670",
+      "date": "2025-10-23",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-28T01:05:49Z"
+      }
+    },
+    {
       "description": "Substituted, as amended, for H4615",
       "date": "2025-10-23",
       "organization_id": "~{\"classification\": \"upper\"}",
@@ -837,7 +847,7 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2025-10-26T04:18:38Z",
+    "logs_latest_update": "2025-10-28T01:05:49Z",
     "text_extraction_latest_update": "2025-10-26T04:37:16.698584Z"
   }
 }

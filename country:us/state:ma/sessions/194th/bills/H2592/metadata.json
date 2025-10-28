@@ -63,6 +63,16 @@
       "_processing": {
         "log_file_created": "2025-10-26T04:18:32Z"
       }
+    },
+    {
+      "description": "Hearing rescheduled to 10/31/2025 from 11:30 AM-05:00 PM in Gardner Auditorium                                                               and Virtual Hearing updated to include Virtual",
+      "date": "2025-10-27",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-28T01:05:49Z"
+      }
     }
   ],
   "sponsorships": [
@@ -119,7 +129,7 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2025-10-26T04:18:32Z",
+    "logs_latest_update": "2025-10-28T01:05:49Z",
     "text_extraction_latest_update": "2025-10-26T06:51:35.301881Z"
   }
 }

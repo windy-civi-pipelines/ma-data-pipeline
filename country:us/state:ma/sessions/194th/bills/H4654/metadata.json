@@ -10,7 +10,56 @@
   "abstracts": [],
   "other_titles": [],
   "other_identifiers": [],
-  "actions": [],
+  "actions": [
+    {
+      "description": "Referred to the committee on House Rules",
+      "date": "2025-10-27",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "committee on House Rules",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2025-10-28T01:05:49Z"
+      }
+    },
+    {
+      "description": "Committee reported ought to be adopted",
+      "date": "2025-10-27",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-28T01:05:49Z"
+      }
+    },
+    {
+      "description": "Rules suspended",
+      "date": "2025-10-27",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-28T01:05:49Z"
+      }
+    },
+    {
+      "description": "Adopted",
+      "date": "2025-10-27",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-28T01:05:49Z"
+      }
+    }
+  ],
   "sponsorships": [
     {
       "name": "Mark J. Cusack",
@@ -65,6 +114,6 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2025-10-26T04:18:37Z"
+    "logs_latest_update": "2025-10-28T01:05:49Z"
   }
 }

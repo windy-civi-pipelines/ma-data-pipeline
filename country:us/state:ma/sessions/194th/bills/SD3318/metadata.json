@@ -10,7 +10,26 @@
   "abstracts": [],
   "other_titles": [],
   "other_identifiers": [],
-  "actions": [],
+  "actions": [
+    {
+      "description": "Referred to the committee on Rules of the two branches, acting concurrently",
+      "date": "2025-10-27",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "committee on Rules of the two branches, acting concurrently",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2025-10-28T01:05:49Z"
+      }
+    }
+  ],
   "sponsorships": [
     {
       "name": "Lydia Edwards",
@@ -51,7 +70,7 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2025-10-26T04:18:35Z",
+    "logs_latest_update": "2025-10-28T01:05:49Z",
     "text_extraction_latest_update": "2025-10-26T04:36:47.119414Z"
   }
 }

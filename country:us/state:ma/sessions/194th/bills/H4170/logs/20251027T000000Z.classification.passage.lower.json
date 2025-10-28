@@ -1,0 +1,14 @@
+{
+  "action": {
+    "description": "Read second, ordered to a third reading, rules suspended, read third and passed to be engrossed",
+    "date": "2025-10-27",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "passage",
+      "reading-2",
+      "reading-3"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "H4170"
+}

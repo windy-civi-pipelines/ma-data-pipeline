@@ -145,6 +145,16 @@
       "_processing": {
         "log_file_created": "2025-10-26T04:18:34Z"
       }
+    },
+    {
+      "description": "Committee reported that the matter be placed in the Orders of the Day for the next session",
+      "date": "2025-10-27",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-28T01:05:49Z"
+      }
     }
   ],
   "sponsorships": [
@@ -257,7 +267,7 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2025-10-26T04:18:34Z",
+    "logs_latest_update": "2025-10-28T01:05:49Z",
     "text_extraction_latest_update": "2025-10-26T05:33:35.506745Z"
   }
 }

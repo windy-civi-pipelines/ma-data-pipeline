@@ -53,6 +53,16 @@
       "_processing": {
         "log_file_created": "2025-10-26T04:18:36Z"
       }
+    },
+    {
+      "description": "Accompanied a new draft, see H4653",
+      "date": "2025-10-27",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-28T01:05:49Z"
+      }
     }
   ],
   "sponsorships": [
@@ -101,7 +111,7 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2025-10-26T04:18:36Z",
+    "logs_latest_update": "2025-10-28T01:05:49Z",
     "text_extraction_latest_update": "2025-10-26T05:53:40.404383Z"
   }
 }

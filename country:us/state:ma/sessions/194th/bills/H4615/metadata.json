@@ -118,6 +118,16 @@
       }
     },
     {
+      "description": "Reprinted, as amended, see S2670",
+      "date": "2025-10-23",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-28T01:05:49Z"
+      }
+    },
+    {
       "description": "Ordered to a third reading",
       "date": "2025-10-23",
       "organization_id": "~{\"classification\": \"upper\"}",
@@ -140,7 +150,7 @@
       }
     },
     {
-      "description": "Passed to be engrossed -see   Roll Call #93 (Yeas 39 to Nays 0)",
+      "description": "Passed to be engrossed -- see   Roll Call #93 (Yeas 39 to Nays 0)",
       "date": "2025-10-23",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [
@@ -148,7 +158,37 @@
       ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2025-10-26T04:18:37Z"
+        "log_file_created": "2025-10-28T01:05:49Z"
+      }
+    },
+    {
+      "description": "Rules suspended",
+      "date": "2025-10-27",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-28T01:05:49Z"
+      }
+    },
+    {
+      "description": "House NON-concurred in the Senate amendment",
+      "date": "2025-10-27",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-28T01:05:49Z"
+      }
+    },
+    {
+      "description": "Committee of conference appointed - (Michlewitz-Ferrante-Smola)",
+      "date": "2025-10-27",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-28T01:05:49Z"
       }
     }
   ],
@@ -183,6 +223,6 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2025-10-26T04:18:37Z"
+    "logs_latest_update": "2025-10-28T01:05:49Z"
   }
 }

@@ -43,6 +43,16 @@
       "_processing": {
         "log_file_created": "2025-10-26T04:18:33Z"
       }
+    },
+    {
+      "description": "Hearing scheduled for 11/13/2025 from 01:00 PM-05:00 PM in A-2",
+      "date": "2025-10-28",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-29T00:11:03Z"
+      }
     }
   ],
   "sponsorships": [
@@ -107,6 +117,6 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2025-10-26T04:18:33Z"
+    "logs_latest_update": "2025-10-29T00:11:03Z"
   }
 }

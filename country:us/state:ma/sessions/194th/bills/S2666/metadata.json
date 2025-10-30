@@ -81,6 +81,16 @@
       "_processing": {
         "log_file_created": "2025-10-28T01:05:49Z"
       }
+    },
+    {
+      "description": "Hearing rescheduled to 11/05/2025 from 10:30 AM-01:00 PM in B-2                                               and Virtual Hearing location changed",
+      "date": "2025-10-29",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-30T00:58:03Z"
+      }
     }
   ],
   "sponsorships": [
@@ -161,7 +171,7 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2025-10-28T01:05:49Z",
+    "logs_latest_update": "2025-10-30T00:58:03Z",
     "text_extraction_latest_update": "2025-10-26T07:47:38.149612Z"
   }
 }

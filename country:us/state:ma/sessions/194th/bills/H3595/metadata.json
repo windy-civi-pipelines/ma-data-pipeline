@@ -77,6 +77,24 @@
       "_processing": {
         "log_file_created": "2025-10-26T04:18:33Z"
       }
+    },
+    {
+      "description": "Discharged to the committee on House Rules",
+      "date": "2025-10-29",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "House Rules",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2025-10-30T00:58:03Z"
+      }
     }
   ],
   "sponsorships": [
@@ -277,6 +295,6 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2025-10-26T04:18:33Z"
+    "logs_latest_update": "2025-10-30T00:58:03Z"
   }
 }

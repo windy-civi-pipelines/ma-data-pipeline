@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Committee recommended ought to pass with an amendment, substituting therefor a bill, see H4670",
+    "date": "2025-10-29",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "committee-passage-favorable"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "H627"
+}

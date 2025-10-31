@@ -53,6 +53,16 @@
       "_processing": {
         "log_file_created": "2025-10-26T04:18:32Z"
       }
+    },
+    {
+      "description": "Hearing rescheduled to 10/30/2025 from 12:30 PM-05:30 PM in A-1                                                                                                                    and Virtual Hearing updated to New End Time",
+      "date": "2025-10-30",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-31T00:10:43Z"
+      }
     }
   ],
   "sponsorships": [
@@ -101,6 +111,6 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2025-10-26T04:18:32Z"
+    "logs_latest_update": "2025-10-31T00:10:43Z"
   }
 }

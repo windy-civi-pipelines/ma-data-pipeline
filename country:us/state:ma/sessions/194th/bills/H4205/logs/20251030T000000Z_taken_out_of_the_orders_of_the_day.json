@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Taken out of the Orders of the Day",
+    "date": "2025-10-30",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "H4205"
+}

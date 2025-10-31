@@ -251,7 +251,7 @@
     {
       "description": "Emergency preamble adopted",
       "date": "2025-10-27",
-      "organization_id": "~{\"classification\": \"lower\"}",
+      "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
@@ -278,6 +278,18 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2025-10-28T01:05:49Z"
+      }
+    },
+    {
+      "description": "Enacted and laid before the Governor",
+      "date": "2025-10-30",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-31T00:10:43Z"
       }
     }
   ],
@@ -335,6 +347,6 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2025-10-28T01:05:49Z"
+    "logs_latest_update": "2025-10-31T00:10:43Z"
   }
 }

@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Committee recommended ought to pass with an amendment, substituting a new draft, see S2676",
+    "date": "2025-10-30",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "committee-passage-favorable"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "S2503"
+}

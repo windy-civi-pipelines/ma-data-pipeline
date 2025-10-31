@@ -77,6 +77,38 @@
       "_processing": {
         "log_file_created": "2025-10-26T04:18:39Z"
       }
+    },
+    {
+      "description": "Committee recommended ought to pass with an amendment, substituting a new draft, see S2675",
+      "date": "2025-10-30",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-31T00:10:43Z"
+      }
+    },
+    {
+      "description": "Order relative to subject matter adopted",
+      "date": "2025-10-30",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-31T00:10:43Z"
+      }
+    },
+    {
+      "description": "Placed in the Orders of the Day for Thursday, November 6, 2025",
+      "date": "2025-10-30",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-31T00:10:43Z"
+      }
     }
   ],
   "sponsorships": [
@@ -125,7 +157,7 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2025-10-26T04:18:39Z",
+    "logs_latest_update": "2025-10-31T00:10:43Z",
     "text_extraction_latest_update": "2025-10-26T07:32:43.417007Z"
   }
 }

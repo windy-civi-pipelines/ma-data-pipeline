@@ -53,6 +53,26 @@
       "_processing": {
         "log_file_created": "2025-10-26T04:18:36Z"
       }
+    },
+    {
+      "description": "Hearing rescheduled to 10/30/2025 from 10:30 AM-04:00 PM in A-2                                                                                                                                                                        Hearing updated to New End Time",
+      "date": "2025-10-30",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-31T00:10:43Z"
+      }
+    },
+    {
+      "description": "Hearing rescheduled to 10/30/2025 from 10:30 AM-02:00 PM in A-2                                                                                                                                                                        Hearing updated to New End Time",
+      "date": "2025-10-30",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-31T00:10:43Z"
+      }
     }
   ],
   "sponsorships": [
@@ -101,7 +121,7 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2025-10-26T04:18:36Z",
+    "logs_latest_update": "2025-10-31T00:10:43Z",
     "text_extraction_latest_update": "2025-10-26T06:32:27.568609Z"
   }
 }

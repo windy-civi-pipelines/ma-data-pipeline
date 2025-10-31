@@ -210,6 +210,18 @@
       "_processing": {
         "log_file_created": "2025-10-26T04:18:37Z"
       }
+    },
+    {
+      "description": "Signed by the Governor, Chapter 48 of the Acts of 2025",
+      "date": "2025-10-29",
+      "organization_id": "~{\"classification\": \"executive\"}",
+      "classification": [
+        "executive-signature"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-31T00:10:43Z"
+      }
     }
   ],
   "sponsorships": [
@@ -258,7 +270,7 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2025-10-26T04:18:37Z",
+    "logs_latest_update": "2025-10-31T00:10:43Z",
     "text_extraction_latest_update": "2025-10-26T07:07:54.714102Z"
   }
 }

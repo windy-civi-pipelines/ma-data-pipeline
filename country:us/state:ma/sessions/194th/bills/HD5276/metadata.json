@@ -38,6 +38,16 @@
       "_processing": {
         "log_file_created": "2025-10-31T00:10:43Z"
       }
+    },
+    {
+      "description": "Hearing scheduled for 10/31/2025 from 11:00 AM-02:00 PM in Written Testimony Only",
+      "date": "2025-10-31",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-01T00:25:26Z"
+      }
     }
   ],
   "sponsorships": [
@@ -80,6 +90,6 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2025-10-31T00:10:43Z"
+    "logs_latest_update": "2025-11-01T00:25:26Z"
   }
 }

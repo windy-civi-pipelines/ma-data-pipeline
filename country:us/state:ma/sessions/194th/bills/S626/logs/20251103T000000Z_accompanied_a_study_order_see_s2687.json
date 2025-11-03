@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Accompanied a study order, see S2687",
+    "date": "2025-11-03",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "S626"
+}

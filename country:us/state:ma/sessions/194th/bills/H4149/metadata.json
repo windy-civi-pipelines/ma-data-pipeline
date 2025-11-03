@@ -144,6 +144,64 @@
       "_processing": {
         "log_file_created": "2025-10-26T04:18:37Z"
       }
+    },
+    {
+      "description": "Taken out of the Orders of the Day",
+      "date": "2025-11-03",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-03T18:57:43Z"
+      }
+    },
+    {
+      "description": "Read third",
+      "date": "2025-11-03",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-03T18:57:43Z"
+      }
+    },
+    {
+      "description": "Amended (Crighton) by striking out all after the enacting clause and inserting in place thereof the text of S2693",
+      "date": "2025-11-03",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-03T18:57:43Z"
+      }
+    },
+    {
+      "description": "Passed to be engrossed",
+      "date": "2025-11-03",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-03T18:57:43Z"
+      }
+    },
+    {
+      "description": "Amendment #1 (Crighton) adopted",
+      "date": "2025-11-03",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-03T18:57:43Z"
+      }
     }
   ],
   "sponsorships": [
@@ -192,7 +250,7 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2025-10-26T04:18:37Z",
+    "logs_latest_update": "2025-11-03T18:57:43Z",
     "text_extraction_latest_update": "2025-10-26T06:59:31.243317Z"
   }
 }

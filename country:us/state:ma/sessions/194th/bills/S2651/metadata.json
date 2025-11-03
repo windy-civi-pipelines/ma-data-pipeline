@@ -71,6 +71,31 @@
       "_processing": {
         "log_file_created": "2025-10-26T04:18:36Z"
       }
+    },
+    {
+      "description": "Bill reported favorably by committee",
+      "date": "2025-11-03",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-03T18:57:43Z"
+      }
+    },
+    {
+      "description": "Read, rules suspended, read second and ordered to a third reading",
+      "date": "2025-11-03",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1",
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-03T18:57:43Z"
+      }
     }
   ],
   "sponsorships": [
@@ -119,6 +144,6 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2025-10-26T04:18:36Z"
+    "logs_latest_update": "2025-11-03T18:57:43Z"
   }
 }

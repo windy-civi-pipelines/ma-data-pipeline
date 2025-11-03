@@ -33,6 +33,34 @@
       "_processing": {
         "log_file_created": "2025-10-26T04:18:34Z"
       }
+    },
+    {
+      "description": "Rules suspended",
+      "date": "2025-11-03",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-03T18:57:43Z"
+      }
+    },
+    {
+      "description": "Referred to the committee on Public Service",
+      "date": "2025-11-03",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "committee on Public Service",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2025-11-03T18:57:43Z"
+      }
     }
   ],
   "sponsorships": [
@@ -75,7 +103,7 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2025-10-26T04:18:34Z",
+    "logs_latest_update": "2025-11-03T18:57:43Z",
     "text_extraction_latest_update": "2025-10-26T06:30:34.832499Z"
   }
 }

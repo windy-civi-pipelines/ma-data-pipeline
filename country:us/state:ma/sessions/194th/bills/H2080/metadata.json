@@ -63,30 +63,6 @@
       "_processing": {
         "log_file_created": "2025-10-26T04:18:37Z"
       }
-    },
-    {
-      "description": "Bill reported favorably by committee and referred to the committee on House Ways and Means",
-      "date": "2025-10-31",
-      "organization_id": "~{\"classification\": \"lower\"}",
-      "classification": [
-        "committee-passage-favorable",
-        "referral-committee"
-      ],
-      "related_entities": [
-        {
-          "name": "the committee on House Ways and Means",
-          "entity_type": "organization",
-          "organization_id": null
-        },
-        {
-          "name": "committee on House Ways and Means",
-          "entity_type": "organization",
-          "organization_id": null
-        }
-      ],
-      "_processing": {
-        "log_file_created": "2025-11-01T00:25:26Z"
-      }
     }
   ],
   "sponsorships": [
@@ -215,7 +191,7 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-01T00:25:26Z",
+    "logs_latest_update": "2025-11-03T18:57:43Z",
     "text_extraction_latest_update": "2025-11-01T08:55:28.248750Z"
   }
 }

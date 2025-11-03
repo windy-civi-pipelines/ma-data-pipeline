@@ -77,6 +77,16 @@
       "_processing": {
         "log_file_created": "2025-10-26T04:18:38Z"
       }
+    },
+    {
+      "description": "Placed in the Orders of the Day for the next sitting (under the last sentence of Rule 7A) for a second reading",
+      "date": "2025-11-03",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-03T18:57:43Z"
+      }
     }
   ],
   "sponsorships": [
@@ -133,6 +143,6 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2025-10-26T04:18:38Z"
+    "logs_latest_update": "2025-11-03T18:57:43Z"
   }
 }
